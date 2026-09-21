@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,variable
+Africa Eastern and Southern,AFE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,4195.86541780344,gdp_per_capita_ppp
+Africa Eastern and Southern,AFE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,4220.91250168849,gdp_per_capita_ppp
+Africa Eastern and Southern,AFE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,4214.39708524398,gdp_per_capita_ppp
+Africa Eastern and Southern,AFE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,4202.23641584707,gdp_per_capita_ppp
+Africa Eastern and Southern,AFE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,4206.25295270438,gdp_per_capita_ppp
+Africa Western and Central,AFW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6059.60602380843,gdp_per_capita_ppp
+Africa Western and Central,AFW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,6016.31221720046,gdp_per_capita_ppp
+Africa Western and Central,AFW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,5999.74477975389,gdp_per_capita_ppp
+Africa Western and Central,AFW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,6026.16020343528,gdp_per_capita_ppp
+Africa Western and Central,AFW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,6185.24923306943,gdp_per_capita_ppp
+Arab World,ARB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,16782.382332277,gdp_per_capita_ppp
+Arab World,ARB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,16723.8193619802,gdp_per_capita_ppp
+Arab World,ARB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,16542.576023411,gdp_per_capita_ppp
+Arab World,ARB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,16606.2469902024,gdp_per_capita_ppp
+Arab World,ARB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,16371.0585517114,gdp_per_capita_ppp
+Caribbean small states,CSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,24160.9840718485,gdp_per_capita_ppp
+Caribbean small states,CSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,24087.8015339711,gdp_per_capita_ppp
+Caribbean small states,CSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,23997.9154256351,gdp_per_capita_ppp
+Caribbean small states,CSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,24416.1391025428,gdp_per_capita_ppp
+Caribbean small states,CSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,25478.6360975466,gdp_per_capita_ppp
+Central Europe and the Baltics,CEB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,38302.2924608286,gdp_per_capita_ppp
+Central Europe and the Baltics,CEB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,36731.3989449303,gdp_per_capita_ppp
+Central Europe and the Baltics,CEB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,34898.8933468064,gdp_per_capita_ppp
+Central Europe and the Baltics,CEB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,33063.4235806357,gdp_per_capita_ppp
+Central Europe and the Baltics,CEB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,32054.2619067409,gdp_per_capita_ppp
+Early-demographic dividend,EAR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,10736.257704342,gdp_per_capita_ppp
+Early-demographic dividend,EAR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,10561.4040343593,gdp_per_capita_ppp
+Early-demographic dividend,EAR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,10252.1107558915,gdp_per_capita_ppp
+Early-demographic dividend,EAR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,9888.49532136733,gdp_per_capita_ppp
+Early-demographic dividend,EAR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,9536.09869046762,gdp_per_capita_ppp
+East Asia & Pacific,EAS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,20360.1789601769,gdp_per_capita_ppp
+East Asia & Pacific,EAS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,19592.7875603847,gdp_per_capita_ppp
+East Asia & Pacific,EAS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,18741.9275790888,gdp_per_capita_ppp
+East Asia & Pacific,EAS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,17906.8923162744,gdp_per_capita_ppp
+East Asia & Pacific,EAS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,17172.6129371519,gdp_per_capita_ppp
+East Asia & Pacific (excluding high income),EAP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,16753.9447628439,gdp_per_capita_ppp
+East Asia & Pacific (excluding high income),EAP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,15924.7426633518,gdp_per_capita_ppp
+East Asia & Pacific (excluding high income),EAP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,15060.0306649328,gdp_per_capita_ppp
+East Asia & Pacific (excluding high income),EAP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,14243.6077151602,gdp_per_capita_ppp
+East Asia & Pacific (excluding high income),EAP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,13493.1686234666,gdp_per_capita_ppp
+East Asia & Pacific (IDA & IBRD countries),TEA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,16941.7449353979,gdp_per_capita_ppp
+East Asia & Pacific (IDA & IBRD countries),TEA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,16103.5382710721,gdp_per_capita_ppp
+East Asia & Pacific (IDA & IBRD countries),TEA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,15229.5232265583,gdp_per_capita_ppp
+East Asia & Pacific (IDA & IBRD countries),TEA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,14404.4664735946,gdp_per_capita_ppp
+East Asia & Pacific (IDA & IBRD countries),TEA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,13646.0224576994,gdp_per_capita_ppp
+Euro area,EMU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,54379.98512666,gdp_per_capita_ppp
+Euro area,EMU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,53607.8350702203,gdp_per_capita_ppp
+Euro area,EMU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,52822.4107675307,gdp_per_capita_ppp
+Euro area,EMU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,51578.7517913514,gdp_per_capita_ppp
+Euro area,EMU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,50796.8784465401,gdp_per_capita_ppp
+Europe & Central Asia,ECS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,41747.7228403984,gdp_per_capita_ppp
+Europe & Central Asia,ECS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,41055.44504333,gdp_per_capita_ppp
+Europe & Central Asia,ECS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,40232.2658442438,gdp_per_capita_ppp
+Europe & Central Asia,ECS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,39180.4967897882,gdp_per_capita_ppp
+Europe & Central Asia,ECS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,38658.8920830402,gdp_per_capita_ppp
+Europe & Central Asia (excluding high income),ECA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,20780.2139282424,gdp_per_capita_ppp
+Europe & Central Asia (excluding high income),ECA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,20399.7570509537,gdp_per_capita_ppp
+Europe & Central Asia (excluding high income),ECA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,19833.9869165449,gdp_per_capita_ppp
+Europe & Central Asia (excluding high income),ECA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,18992.2222480179,gdp_per_capita_ppp
+Europe & Central Asia (excluding high income),ECA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,18691.5218428477,gdp_per_capita_ppp
+Europe & Central Asia (IDA & IBRD countries),TEC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,28513.4293915676,gdp_per_capita_ppp
+Europe & Central Asia (IDA & IBRD countries),TEC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,27855.4925748848,gdp_per_capita_ppp
+Europe & Central Asia (IDA & IBRD countries),TEC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,26985.0683124814,gdp_per_capita_ppp
+Europe & Central Asia (IDA & IBRD countries),TEC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,26097.7936953215,gdp_per_capita_ppp
+Europe & Central Asia (IDA & IBRD countries),TEC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,25818.835598776,gdp_per_capita_ppp
+European Union,EUU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,51662.3607067392,gdp_per_capita_ppp
+European Union,EUU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,50706.3680766011,gdp_per_capita_ppp
+European Union,EUU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,49704.0306433211,gdp_per_capita_ppp
+European Union,EUU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,48336.2770925391,gdp_per_capita_ppp
+European Union,EUU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,47490.6745941101,gdp_per_capita_ppp
+Fragile and conflict affected situations,FCS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6437.16415647199,gdp_per_capita_ppp
+Fragile and conflict affected situations,FCS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,6406.3832224966,gdp_per_capita_ppp
+Fragile and conflict affected situations,FCS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,6361.74018504626,gdp_per_capita_ppp
+Fragile and conflict affected situations,FCS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,6353.04340447186,gdp_per_capita_ppp
+Fragile and conflict affected situations,FCS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,6340.05087419389,gdp_per_capita_ppp
+Heavily indebted poor countries (HIPC),HPC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,3090.51002329999,gdp_per_capita_ppp
+Heavily indebted poor countries (HIPC),HPC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,3049.71446182911,gdp_per_capita_ppp
+Heavily indebted poor countries (HIPC),HPC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,3012.68215863629,gdp_per_capita_ppp
+Heavily indebted poor countries (HIPC),HPC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2953.65942785158,gdp_per_capita_ppp
+Heavily indebted poor countries (HIPC),HPC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2910.69027383449,gdp_per_capita_ppp
+High income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,54610.2148969437,gdp_per_capita_ppp
+High income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,53756.5134637637,gdp_per_capita_ppp
+High income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,52651.3288295953,gdp_per_capita_ppp
+High income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,51585.492279655,gdp_per_capita_ppp
+High income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,50977.3755991058,gdp_per_capita_ppp
+IBRD only,IBD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,15818.6727887525,gdp_per_capita_ppp
+IBRD only,IBD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,15352.2585831081,gdp_per_capita_ppp
+IBRD only,IBD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,14778.5254595762,gdp_per_capita_ppp
+IBRD only,IBD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,14202.1569184183,gdp_per_capita_ppp
+IBRD only,IBD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,13721.6723998914,gdp_per_capita_ppp
+IDA & IBRD total,IBT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,12925.5782973803,gdp_per_capita_ppp
+IDA & IBRD total,IBT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,12588.8584634301,gdp_per_capita_ppp
+IDA & IBRD total,IBT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,12162.7615968645,gdp_per_capita_ppp
+IDA & IBRD total,IBT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,11734.3731319995,gdp_per_capita_ppp
+IDA & IBRD total,IBT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,11381.8495832918,gdp_per_capita_ppp
+IDA blend,IDB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6575.14345610382,gdp_per_capita_ppp
+IDA blend,IDB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,6518.91623903896,gdp_per_capita_ppp
+IDA blend,IDB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,6404.39766656804,gdp_per_capita_ppp
+IDA blend,IDB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,6361.78259683756,gdp_per_capita_ppp
+IDA blend,IDB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,6355.24608221981,gdp_per_capita_ppp
+IDA only,IDX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,4051.22177775691,gdp_per_capita_ppp
+IDA only,IDX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,3943.11112463091,gdp_per_capita_ppp
+IDA only,IDX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,3833.41633420438,gdp_per_capita_ppp
+IDA only,IDX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,3707.16703021306,gdp_per_capita_ppp
+IDA only,IDX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,3608.63949208975,gdp_per_capita_ppp
+IDA total,IDA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,4928.16444808896,gdp_per_capita_ppp
+IDA total,IDA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,4841.57291525317,gdp_per_capita_ppp
+IDA total,IDA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,4732.64618405375,gdp_per_capita_ppp
+IDA total,IDA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,4639.18294276708,gdp_per_capita_ppp
+IDA total,IDA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,4576.23918423755,gdp_per_capita_ppp
+Late-demographic dividend,LTE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,20852.6820662767,gdp_per_capita_ppp
+Late-demographic dividend,LTE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,20046.3548203081,gdp_per_capita_ppp
+Late-demographic dividend,LTE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,19161.7250464442,gdp_per_capita_ppp
+Late-demographic dividend,LTE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,18377.1004447058,gdp_per_capita_ppp
+Late-demographic dividend,LTE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,17783.9583560237,gdp_per_capita_ppp
+Latin America & Caribbean,LCN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,18882.9520259096,gdp_per_capita_ppp
+Latin America & Caribbean,LCN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,18894.209543149,gdp_per_capita_ppp
+Latin America & Caribbean,LCN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,18745.5824358526,gdp_per_capita_ppp
+Latin America & Caribbean,LCN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,18551.8182749603,gdp_per_capita_ppp
+Latin America & Caribbean,LCN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,18763.833651436,gdp_per_capita_ppp
+Latin America & Caribbean (excluding high income),LAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,18111.5788705619,gdp_per_capita_ppp
+Latin America & Caribbean (excluding high income),LAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,18164.4680971784,gdp_per_capita_ppp
+Latin America & Caribbean (excluding high income),LAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,18061.8087308859,gdp_per_capita_ppp
+Latin America & Caribbean (excluding high income),LAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,17878.5427855339,gdp_per_capita_ppp
+Latin America & Caribbean (excluding high income),LAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,18119.0360664056,gdp_per_capita_ppp
+Latin America & the Caribbean (IDA & IBRD countries),TLA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,18790.9528914649,gdp_per_capita_ppp
+Latin America & the Caribbean (IDA & IBRD countries),TLA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,18808.4937492869,gdp_per_capita_ppp
+Latin America & the Caribbean (IDA & IBRD countries),TLA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,18654.3301005222,gdp_per_capita_ppp
+Latin America & the Caribbean (IDA & IBRD countries),TLA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,18456.8539063598,gdp_per_capita_ppp
+Latin America & the Caribbean (IDA & IBRD countries),TLA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,18671.6756767233,gdp_per_capita_ppp
+Least developed countries: UN classification,LDC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,3825.14512737437,gdp_per_capita_ppp
+Least developed countries: UN classification,LDC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,3718.46631552159,gdp_per_capita_ppp
+Least developed countries: UN classification,LDC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,3620.75951852676,gdp_per_capita_ppp
+Least developed countries: UN classification,LDC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,3522.91896139406,gdp_per_capita_ppp
+Least developed countries: UN classification,LDC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,3441.66399456899,gdp_per_capita_ppp
+Low & middle income,LMY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,12091.285538115,gdp_per_capita_ppp
+Low & middle income,LMY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,11765.0267871468,gdp_per_capita_ppp
+Low & middle income,LMY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,11355.2499906619,gdp_per_capita_ppp
+Low & middle income,LMY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,10932.0296919606,gdp_per_capita_ppp
+Low & middle income,LMY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,10563.4388345335,gdp_per_capita_ppp
+Low income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2434.3191547106,gdp_per_capita_ppp
+Low income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2432.99149398422,gdp_per_capita_ppp
+Low income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2425.21162568311,gdp_per_capita_ppp
+Low income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2422.19204116876,gdp_per_capita_ppp
+Low income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2431.47117269995,gdp_per_capita_ppp
+Lower middle income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,7843.63655442009,gdp_per_capita_ppp
+Lower middle income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,7635.97899988466,gdp_per_capita_ppp
+Lower middle income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,7334.51120461161,gdp_per_capita_ppp
+Lower middle income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,7049.04160112153,gdp_per_capita_ppp
+Lower middle income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,6755.22608255852,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,13860.9343986019,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,13842.6400835174,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,13723.8357090461,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,13645.8359003348,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,13259.9310242112,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,9605.52420146062,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,9593.49548105505,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,9541.20621317531,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,9395.45474768035,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,9021.46155425322,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,9629.48608824149,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,9616.69771490976,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,9563.29227886463,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,9416.20056639579,gdp_per_capita_ppp
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,9042.19421356406,gdp_per_capita_ppp
+Middle income,MIC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,13026.1921227651,gdp_per_capita_ppp
+Middle income,MIC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,12652.622763287,gdp_per_capita_ppp
+Middle income,MIC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,12191.1259244473,gdp_per_capita_ppp
+Middle income,MIC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,11717.3629616092,gdp_per_capita_ppp
+Middle income,MIC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,11304.3987479773,gdp_per_capita_ppp
+North America,NAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,67938.3944189517,gdp_per_capita_ppp
+North America,NAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,66672.0445786912,gdp_per_capita_ppp
+North America,NAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,65200.6650984045,gdp_per_capita_ppp
+North America,NAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,64079.9609801917,gdp_per_capita_ppp
+North America,NAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,63496.1568234086,gdp_per_capita_ppp
+Not classified,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+Not classified,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+Not classified,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+Not classified,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+Not classified,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+OECD members,OED,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,50306.6814679338,gdp_per_capita_ppp
+OECD members,OED,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,49687.0078076748,gdp_per_capita_ppp
+OECD members,OED,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,48824.2005087167,gdp_per_capita_ppp
+OECD members,OED,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,47815.3606829439,gdp_per_capita_ppp
+OECD members,OED,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,47222.4264143199,gdp_per_capita_ppp
+Other small states,OSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,23747.6947327908,gdp_per_capita_ppp
+Other small states,OSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,22985.9819466315,gdp_per_capita_ppp
+Other small states,OSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,22368.3596347617,gdp_per_capita_ppp
+Other small states,OSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,21602.2090125289,gdp_per_capita_ppp
+Other small states,OSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,21060.1163265695,gdp_per_capita_ppp
+Pacific island small states,PSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,7288.31019104527,gdp_per_capita_ppp
+Pacific island small states,PSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,7314.62180323215,gdp_per_capita_ppp
+Pacific island small states,PSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,7194.50395381984,gdp_per_capita_ppp
+Pacific island small states,PSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,6990.1887390315,gdp_per_capita_ppp
+Pacific island small states,PSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,6844.56953866979,gdp_per_capita_ppp
+Post-demographic dividend,PST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,55715.5565264182,gdp_per_capita_ppp
+Post-demographic dividend,PST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,54895.8897182902,gdp_per_capita_ppp
+Post-demographic dividend,PST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,53887.9630625978,gdp_per_capita_ppp
+Post-demographic dividend,PST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,52761.7427484299,gdp_per_capita_ppp
+Post-demographic dividend,PST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,52055.5180828139,gdp_per_capita_ppp
+Pre-demographic dividend,PRE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,4888.59916995327,gdp_per_capita_ppp
+Pre-demographic dividend,PRE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,4868.45975712931,gdp_per_capita_ppp
+Pre-demographic dividend,PRE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,4874.71149447624,gdp_per_capita_ppp
+Pre-demographic dividend,PRE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,4929.40810283355,gdp_per_capita_ppp
+Pre-demographic dividend,PRE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,4951.55666271614,gdp_per_capita_ppp
+Small states,SST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,21651.5595573883,gdp_per_capita_ppp
+Small states,SST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,21153.1071455937,gdp_per_capita_ppp
+Small states,SST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,20726.6600236013,gdp_per_capita_ppp
+Small states,SST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,20317.3656305928,gdp_per_capita_ppp
+Small states,SST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,20210.1952363993,gdp_per_capita_ppp
+South Asia,SAS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,7857.61469233314,gdp_per_capita_ppp
+South Asia,SAS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,7622.25084211992,gdp_per_capita_ppp
+South Asia,SAS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,7237.9013460911,gdp_per_capita_ppp
+South Asia,SAS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,6853.83622045557,gdp_per_capita_ppp
+South Asia,SAS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,6420.39753408396,gdp_per_capita_ppp
+South Asia (IDA & IBRD),TSA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,7857.61469233314,gdp_per_capita_ppp
+South Asia (IDA & IBRD),TSA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,7622.25084211992,gdp_per_capita_ppp
+South Asia (IDA & IBRD),TSA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,7237.9013460911,gdp_per_capita_ppp
+South Asia (IDA & IBRD),TSA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,6853.83622045557,gdp_per_capita_ppp
+South Asia (IDA & IBRD),TSA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,6420.39753408396,gdp_per_capita_ppp
+Sub-Saharan Africa,SSF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,4956.28204569314,gdp_per_capita_ppp
+Sub-Saharan Africa,SSF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,4954.56228767375,gdp_per_capita_ppp
+Sub-Saharan Africa,SSF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,4944.82716564733,gdp_per_capita_ppp
+Sub-Saharan Africa,SSF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,4948.61002148455,gdp_per_capita_ppp
+Sub-Saharan Africa,SSF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,5016.22753000527,gdp_per_capita_ppp
+Sub-Saharan Africa (excluding high income),SSA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,5237.57859289934,gdp_per_capita_ppp
+Sub-Saharan Africa (excluding high income),SSA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,5249.943568027,gdp_per_capita_ppp
+Sub-Saharan Africa (excluding high income),SSA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,5249.09498328977,gdp_per_capita_ppp
+Sub-Saharan Africa (excluding high income),SSA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,5268.83150135542,gdp_per_capita_ppp
+Sub-Saharan Africa (excluding high income),SSA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,5358.65561857327,gdp_per_capita_ppp
+Sub-Saharan Africa (IDA & IBRD countries),TSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,4956.28204569314,gdp_per_capita_ppp
+Sub-Saharan Africa (IDA & IBRD countries),TSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,4954.56228767375,gdp_per_capita_ppp
+Sub-Saharan Africa (IDA & IBRD countries),TSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,4944.82716564733,gdp_per_capita_ppp
+Sub-Saharan Africa (IDA & IBRD countries),TSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,4948.61002148455,gdp_per_capita_ppp
+Sub-Saharan Africa (IDA & IBRD countries),TSS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,5016.22753000526,gdp_per_capita_ppp
+Upper middle income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,18493.5973842627,gdp_per_capita_ppp
+Upper middle income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,17907.4583841786,gdp_per_capita_ppp
+Upper middle income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,17244.5036832036,gdp_per_capita_ppp
+Upper middle income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,16542.8508541019,gdp_per_capita_ppp
+Upper middle income,,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,15974.4208451024,gdp_per_capita_ppp
+World,WLD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,19552.0835148296,gdp_per_capita_ppp
+World,WLD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,19189.0202232249,gdp_per_capita_ppp
+World,WLD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,18714.9389431259,gdp_per_capita_ppp
+World,WLD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,18232.7269157079,gdp_per_capita_ppp
+World,WLD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,17868.0908568708,gdp_per_capita_ppp
+Afghanistan,AFG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2927.2451435353,gdp_per_capita_ppp
+Afghanistan,AFG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2902.39211285546,gdp_per_capita_ppp
+Afghanistan,AFG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2952.99891598909,gdp_per_capita_ppp
+Afghanistan,AFG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2958.7853992308,gdp_per_capita_ppp
+Afghanistan,AFG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2967.692067153,gdp_per_capita_ppp
+Albania,ALB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,16761.1925261726,gdp_per_capita_ppp
+Albania,ALB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,16170.990493278,gdp_per_capita_ppp
+Albania,ALB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,15359.4611530571,gdp_per_capita_ppp
+Albania,ALB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,14643.4892877063,gdp_per_capita_ppp
+Albania,ALB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,13876.81917653,gdp_per_capita_ppp
+Algeria,DZA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,15199.1989965639,gdp_per_capita_ppp
+Algeria,DZA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,15343.4261222434,gdp_per_capita_ppp
+Algeria,DZA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,15427.6641894713,gdp_per_capita_ppp
+Algeria,DZA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,15511.6858768094,gdp_per_capita_ppp
+Algeria,DZA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,15239.5171456469,gdp_per_capita_ppp
+American Samoa,ASM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+American Samoa,ASM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+American Samoa,ASM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+American Samoa,ASM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+American Samoa,ASM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Andorra,AND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,63215.899791913,gdp_per_capita_ppp
+Andorra,AND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,63048.5985572834,gdp_per_capita_ppp
+Andorra,AND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,63239.6577711911,gdp_per_capita_ppp
+Andorra,AND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,64402.8092369468,gdp_per_capita_ppp
+Andorra,AND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,62105.1542389675,gdp_per_capita_ppp
+Angola,AGO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,9648.01103767178,gdp_per_capita_ppp
+Angola,AGO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,10000.9443772509,gdp_per_capita_ppp
+Angola,AGO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,10414.2358842987,gdp_per_capita_ppp
+Angola,AGO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,10805.7122533667,gdp_per_capita_ppp
+Angola,AGO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,11392.9059344932,gdp_per_capita_ppp
+Antigua and Barbuda,ATG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,29651.8641526705,gdp_per_capita_ppp
+Antigua and Barbuda,ATG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,28878.6067675471,gdp_per_capita_ppp
+Antigua and Barbuda,ATG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,27199.1952402262,gdp_per_capita_ppp
+Antigua and Barbuda,ATG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,26627.71453894,gdp_per_capita_ppp
+Antigua and Barbuda,ATG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,25734.1516444171,gdp_per_capita_ppp
+Argentina,ARG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,26629.5529419501,gdp_per_capita_ppp
+Argentina,ARG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,27367.115094108,gdp_per_capita_ppp
+Argentina,ARG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,28334.904184742,gdp_per_capita_ppp
+Argentina,ARG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,27802.1057201498,gdp_per_capita_ppp
+Argentina,ARG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,28669.2061336796,gdp_per_capita_ppp
+Armenia,ARM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,16215.3607965094,gdp_per_capita_ppp
+Armenia,ARM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,15037.0452420712,gdp_per_capita_ppp
+Armenia,ARM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,14243.8749003795,gdp_per_capita_ppp
+Armenia,ARM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,13192.9940731731,gdp_per_capita_ppp
+Armenia,ARM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,13112.7600902915,gdp_per_capita_ppp
+Aruba,ABW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,39652.6320700939,gdp_per_capita_ppp
+Aruba,ABW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,39278.8297271438,gdp_per_capita_ppp
+Aruba,ABW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,38116.8310992499,gdp_per_capita_ppp
+Aruba,ABW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,36832.9040242979,gdp_per_capita_ppp
+Aruba,ABW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,36660.6310808381,gdp_per_capita_ppp
+Australia,AUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,58048.6188420831,gdp_per_capita_ppp
+Australia,AUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,57647.8455068105,gdp_per_capita_ppp
+Australia,AUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,56881.8569859104,gdp_per_capita_ppp
+Australia,AUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,56529.951824687,gdp_per_capita_ppp
+Australia,AUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,55879.9958817103,gdp_per_capita_ppp
+Austria,AUT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,64609.374295614,gdp_per_capita_ppp
+Austria,AUT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,63778.0257051746,gdp_per_capita_ppp
+Austria,AUT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,62535.8983176843,gdp_per_capita_ppp
+Austria,AUT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,61572.7121353063,gdp_per_capita_ppp
+Austria,AUT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,60951.6892510507,gdp_per_capita_ppp
+Azerbaijan,AZE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,20101.491875147,gdp_per_capita_ppp
+Azerbaijan,AZE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,19781.8509058437,gdp_per_capita_ppp
+Azerbaijan,AZE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,19659.0048562768,gdp_per_capita_ppp
+Azerbaijan,AZE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,19822.4105943941,gdp_per_capita_ppp
+Azerbaijan,AZE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,20678.7539572375,gdp_per_capita_ppp
+"Bahamas, The",BHS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,33202.4902105068,gdp_per_capita_ppp
+"Bahamas, The",BHS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,33650.2164350935,gdp_per_capita_ppp
+"Bahamas, The",BHS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,33050.0350128611,gdp_per_capita_ppp
+"Bahamas, The",BHS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,32172.3365152976,gdp_per_capita_ppp
+"Bahamas, The",BHS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,32777.5849410742,gdp_per_capita_ppp
+Bahrain,BHR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,56749.9628370612,gdp_per_capita_ppp
+Bahrain,BHR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,54893.0724411368,gdp_per_capita_ppp
+Bahrain,BHR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,53859.7749589601,gdp_per_capita_ppp
+Bahrain,BHR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,54107.0752236423,gdp_per_capita_ppp
+Bahrain,BHR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,54149.9131524721,gdp_per_capita_ppp
+Bangladesh,BGD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6838.32611608243,gdp_per_capita_ppp
+Bangladesh,BGD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,6392.59334024091,gdp_per_capita_ppp
+Bangladesh,BGD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,6005.70718781048,gdp_per_capita_ppp
+Bangladesh,BGD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,5682.53553494306,gdp_per_capita_ppp
+Bangladesh,BGD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,5352.71133299566,gdp_per_capita_ppp
+Barbados,BRB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,20737.9776890352,gdp_per_capita_ppp
+Barbados,BRB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,20727.4216338412,gdp_per_capita_ppp
+Barbados,BRB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,21035.7933581451,gdp_per_capita_ppp
+Barbados,BRB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,20930.633669268,gdp_per_capita_ppp
+Barbados,BRB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,20666.9651609374,gdp_per_capita_ppp
+Belarus,BLR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,26798.8206398076,gdp_per_capita_ppp
+Belarus,BLR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,26363.4629778536,gdp_per_capita_ppp
+Belarus,BLR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,25503.9809845207,gdp_per_capita_ppp
+Belarus,BLR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,24846.8301529359,gdp_per_capita_ppp
+Belarus,BLR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,25513.2132958317,gdp_per_capita_ppp
+Belgium,BEL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,60479.9769955466,gdp_per_capita_ppp
+Belgium,BEL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,59357.6896884394,gdp_per_capita_ppp
+Belgium,BEL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,58529.3302957534,gdp_per_capita_ppp
+Belgium,BEL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,57901.4976903148,gdp_per_capita_ppp
+Belgium,BEL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,57509.0245728702,gdp_per_capita_ppp
+Belize,BLZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,11765.9748661176,gdp_per_capita_ppp
+Belize,BLZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,11451.8979413877,gdp_per_capita_ppp
+Belize,BLZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,11572.3007931461,gdp_per_capita_ppp
+Belize,BLZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,12063.0600374093,gdp_per_capita_ppp
+Belize,BLZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,12348.7944978311,gdp_per_capita_ppp
+Benin,BEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,3281.10470051465,gdp_per_capita_ppp
+Benin,BEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,3155.4510650627,gdp_per_capita_ppp
+Benin,BEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,3041.77929984989,gdp_per_capita_ppp
+Benin,BEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2962.66381572265,gdp_per_capita_ppp
+Benin,BEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2952.00218338705,gdp_per_capita_ppp
+Bermuda,BMU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,95519.9206861686,gdp_per_capita_ppp
+Bermuda,BMU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,95639.2267310584,gdp_per_capita_ppp
+Bermuda,BMU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,96437.191438851,gdp_per_capita_ppp
+Bermuda,BMU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,93265.0675364638,gdp_per_capita_ppp
+Bermuda,BMU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,93859.8769494621,gdp_per_capita_ppp
+Bhutan,BTN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,14555.1884045845,gdp_per_capita_ppp
+Bhutan,BTN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,13854.8543977158,gdp_per_capita_ppp
+Bhutan,BTN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,13482.3425280358,gdp_per_capita_ppp
+Bhutan,BTN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,13320.9759036882,gdp_per_capita_ppp
+Bhutan,BTN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,12400.2983237391,gdp_per_capita_ppp
+Bolivia,BOL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,11930.9159145918,gdp_per_capita_ppp
+Bolivia,BOL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,11920.3135079645,gdp_per_capita_ppp
+Bolivia,BOL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,11755.2556195885,gdp_per_capita_ppp
+Bolivia,BOL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,11448.0218032246,gdp_per_capita_ppp
+Bolivia,BOL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,11144.6415727207,gdp_per_capita_ppp
+Bosnia and Herzegovina,BIH,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,17029.3678184559,gdp_per_capita_ppp
+Bosnia and Herzegovina,BIH,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,16349.0675137661,gdp_per_capita_ppp
+Bosnia and Herzegovina,BIH,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,15554.7232481788,gdp_per_capita_ppp
+Bosnia and Herzegovina,BIH,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,14873.7027917131,gdp_per_capita_ppp
+Bosnia and Herzegovina,BIH,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,14220.1489744552,gdp_per_capita_ppp
+Botswana,BWA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,18106.0105471124,gdp_per_capita_ppp
+Botswana,BWA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,17825.018569213,gdp_per_capita_ppp
+Botswana,BWA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,17352.8958451454,gdp_per_capita_ppp
+Botswana,BWA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,16905.588740873,gdp_per_capita_ppp
+Botswana,BWA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,15994.9643042101,gdp_per_capita_ppp
+Brazil,BRA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,18018.62091495,gdp_per_capita_ppp
+Brazil,BRA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,17917.7492122925,gdp_per_capita_ppp
+Brazil,BRA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,17724.4799577815,gdp_per_capita_ppp
+Brazil,BRA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,17620.9272434403,gdp_per_capita_ppp
+Brazil,BRA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,18357.0690615421,gdp_per_capita_ppp
+British Virgin Islands,VGB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+British Virgin Islands,VGB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+British Virgin Islands,VGB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+British Virgin Islands,VGB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+British Virgin Islands,VGB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Brunei Darussalam,BRN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,80228.1598170527,gdp_per_capita_ppp
+Brunei Darussalam,BRN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,78099.0507802561,gdp_per_capita_ppp
+Brunei Darussalam,BRN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,78966.8643142346,gdp_per_capita_ppp
+Brunei Darussalam,BRN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,78880.6228501768,gdp_per_capita_ppp
+Brunei Darussalam,BRN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,81910.1882959493,gdp_per_capita_ppp
+Bulgaria,BGR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,29150.0422926763,gdp_per_capita_ppp
+Bulgaria,BGR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,27691.0089237623,gdp_per_capita_ppp
+Bulgaria,BGR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,26691.8686963123,gdp_per_capita_ppp
+Bulgaria,BGR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,25636.8508634132,gdp_per_capita_ppp
+Bulgaria,BGR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,24562.750842738,gdp_per_capita_ppp
+Burkina Faso,BFA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2391.53626844484,gdp_per_capita_ppp
+Burkina Faso,BFA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2316.39432079045,gdp_per_capita_ppp
+Burkina Faso,BFA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2232.28781490944,gdp_per_capita_ppp
+Burkina Faso,BFA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2162.72578977814,gdp_per_capita_ppp
+Burkina Faso,BFA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2101.70266192027,gdp_per_capita_ppp
+Burundi,BDI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,1057.95005999167,gdp_per_capita_ppp
+Burundi,BDI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,1046.59511246023,gdp_per_capita_ppp
+Burundi,BDI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,1023.97040626757,gdp_per_capita_ppp
+Burundi,BDI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,1009.63596796379,gdp_per_capita_ppp
+Burundi,BDI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,995.319068450023,gdp_per_capita_ppp
+Cabo Verde,CPV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,9111.62993173269,gdp_per_capita_ppp
+Cabo Verde,CPV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,8531.12961646549,gdp_per_capita_ppp
+Cabo Verde,CPV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,8234.56000312459,gdp_per_capita_ppp
+Cabo Verde,CPV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,7881.30336227784,gdp_per_capita_ppp
+Cabo Verde,CPV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,7560.13649202469,gdp_per_capita_ppp
+Cambodia,KHM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6448.88455952805,gdp_per_capita_ppp
+Cambodia,KHM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,6050.59088262205,gdp_per_capita_ppp
+Cambodia,KHM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,5632.03125629342,gdp_per_capita_ppp
+Cambodia,KHM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,5283.72964943779,gdp_per_capita_ppp
+Cambodia,KHM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,4968.57276699143,gdp_per_capita_ppp
+Cameroon,CMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,4882.35560028896,gdp_per_capita_ppp
+Cameroon,CMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,4851.48003949961,gdp_per_capita_ppp
+Cameroon,CMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,4797.97544185544,gdp_per_capita_ppp
+Cameroon,CMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,4767.13186148953,gdp_per_capita_ppp
+Cameroon,CMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,4698.66677843587,gdp_per_capita_ppp
+Canada,CAN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,57583.845798092,gdp_per_capita_ppp
+Canada,CAN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,57337.4909099991,gdp_per_capita_ppp
+Canada,CAN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,56612.3285367448,gdp_per_capita_ppp
+Canada,CAN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,55606.1549191947,gdp_per_capita_ppp
+Canada,CAN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,55660.8675272614,gdp_per_capita_ppp
+Cayman Islands,CYM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,77476.8412822407,gdp_per_capita_ppp
+Cayman Islands,CYM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,76124.5501254035,gdp_per_capita_ppp
+Cayman Islands,CYM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,74599.6807673263,gdp_per_capita_ppp
+Cayman Islands,CYM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,73941.8590538337,gdp_per_capita_ppp
+Cayman Islands,CYM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,73315.3848584988,gdp_per_capita_ppp
+Central African Republic,CAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,1145.09563657752,gdp_per_capita_ppp
+Central African Republic,CAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,1125.70091748228,gdp_per_capita_ppp
+Central African Republic,CAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,1103.86609318724,gdp_per_capita_ppp
+Central African Republic,CAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,1073.94477703739,gdp_per_capita_ppp
+Central African Republic,CAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,1043.92171697157,gdp_per_capita_ppp
+Chad,TCD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2604.53153663392,gdp_per_capita_ppp
+Chad,TCD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2552.37036388576,gdp_per_capita_ppp
+Chad,TCD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2496.26213644007,gdp_per_capita_ppp
+Chad,TCD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2622.59780843796,gdp_per_capita_ppp
+Chad,TCD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2822.57929900236,gdp_per_capita_ppp
+Channel Islands,CHI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+Channel Islands,CHI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+Channel Islands,CHI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+Channel Islands,CHI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+Channel Islands,CHI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Chile,CHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,28218.5343879081,gdp_per_capita_ppp
+Chile,CHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,28492.6611456515,gdp_per_capita_ppp
+Chile,CHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,27892.9946862827,gdp_per_capita_ppp
+Chile,CHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,27958.7284996682,gdp_per_capita_ppp
+Chile,CHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,27811.3745158617,gdp_per_capita_ppp
+China,CHN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,18820.5131033646,gdp_per_capita_ppp
+China,CHN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,17806.7902349725,gdp_per_capita_ppp
+China,CHN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,16757.9736318662,gdp_per_capita_ppp
+China,CHN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,15772.7647598696,gdp_per_capita_ppp
+China,CHN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,14856.7807604461,gdp_per_capita_ppp
+Colombia,COL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,17336.7716030551,gdp_per_capita_ppp
+Colombia,COL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,17104.1313545678,gdp_per_capita_ppp
+Colombia,COL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,16986.0334182842,gdp_per_capita_ppp
+Colombia,COL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,17003.244366485,gdp_per_capita_ppp
+Colombia,COL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,16821.3801400631,gdp_per_capita_ppp
+Comoros,COM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,3451.42139338772,gdp_per_capita_ppp
+Comoros,COM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,3457.58685798732,gdp_per_capita_ppp
+Comoros,COM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,3401.85239322573,gdp_per_capita_ppp
+Comoros,COM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,3342.76677092883,gdp_per_capita_ppp
+Comoros,COM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,3302.38635129322,gdp_per_capita_ppp
+"Congo, Dem. Rep.",COD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,1394.76461472893,gdp_per_capita_ppp
+"Congo, Dem. Rep.",COD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,1431.7285269693,gdp_per_capita_ppp
+"Congo, Dem. Rep.",COD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,1395.71961761712,gdp_per_capita_ppp
+"Congo, Dem. Rep.",COD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,1388.80163211633,gdp_per_capita_ppp
+"Congo, Dem. Rep.",COD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,1433.21579814709,gdp_per_capita_ppp
+"Congo, Rep.",COG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6939.36913397466,gdp_per_capita_ppp
+"Congo, Rep.",COG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,7029.33651566257,gdp_per_capita_ppp
+"Congo, Rep.",COG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,7372.77046737599,gdp_per_capita_ppp
+"Congo, Rep.",COG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,8001.8255194505,gdp_per_capita_ppp
+"Congo, Rep.",COG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,8977.70681641417,gdp_per_capita_ppp
+Costa Rica,CRI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,23364.783127574,gdp_per_capita_ppp
+Costa Rica,CRI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,23005.3121471794,gdp_per_capita_ppp
+Costa Rica,CRI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,22622.5534502517,gdp_per_capita_ppp
+Costa Rica,CRI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,21925.6000803999,gdp_per_capita_ppp
+Costa Rica,CRI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,21254.7840932049,gdp_per_capita_ppp
+Cote d'Ivoire,CIV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,5894.87874674153,gdp_per_capita_ppp
+Cote d'Ivoire,CIV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,5670.20005356688,gdp_per_capita_ppp
+Cote d'Ivoire,CIV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,5556.11366322898,gdp_per_capita_ppp
+Cote d'Ivoire,CIV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,5320.84646239855,gdp_per_capita_ppp
+Cote d'Ivoire,CIV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,5110.86240809881,gdp_per_capita_ppp
+Croatia,HRV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,35122.8508251139,gdp_per_capita_ppp
+Croatia,HRV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,33729.9071211239,gdp_per_capita_ppp
+Croatia,HRV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,32348.9341876482,gdp_per_capita_ppp
+Croatia,HRV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,30821.1637498177,gdp_per_capita_ppp
+Croatia,HRV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,29466.6996894141,gdp_per_capita_ppp
+Cuba,CUB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+Cuba,CUB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+Cuba,CUB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+Cuba,CUB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+Cuba,CUB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Curacao,CUW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,28659.6557023251,gdp_per_capita_ppp
+Curacao,CUW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,29256.8154066419,gdp_per_capita_ppp
+Curacao,CUW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,29729.1010079753,gdp_per_capita_ppp
+Curacao,CUW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,30209.7882652792,gdp_per_capita_ppp
+Curacao,CUW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,30861.3205298178,gdp_per_capita_ppp
+Cyprus,CYP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,45454.36328125,gdp_per_capita_ppp
+Cyprus,CYP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,43510.2109375,gdp_per_capita_ppp
+Cyprus,CYP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,41418.16015625,gdp_per_capita_ppp
+Cyprus,CYP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,39501.015625,gdp_per_capita_ppp
+Cyprus,CYP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,37258.65234375,gdp_per_capita_ppp
+Czechia,CZE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,47763.6165520254,gdp_per_capita_ppp
+Czechia,CZE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,46301.082036029,gdp_per_capita_ppp
+Czechia,CZE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,45177.5226053634,gdp_per_capita_ppp
+Czechia,CZE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,43069.4659744727,gdp_per_capita_ppp
+Czechia,CZE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,42066.5759800801,gdp_per_capita_ppp
+Denmark,DNK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,67131.4657009734,gdp_per_capita_ppp
+Denmark,DNK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,66238.705427981,gdp_per_capita_ppp
+Denmark,DNK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,65352.3988081353,gdp_per_capita_ppp
+Denmark,DNK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,63823.4502019665,gdp_per_capita_ppp
+Denmark,DNK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,62405.7161942122,gdp_per_capita_ppp
+Djibouti,DJI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,5809.30455041341,gdp_per_capita_ppp
+Djibouti,DJI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,5590.50426604853,gdp_per_capita_ppp
+Djibouti,DJI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,5421.95649149613,gdp_per_capita_ppp
+Djibouti,DJI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,5226.50026106607,gdp_per_capita_ppp
+Djibouti,DJI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,4961.8681860592,gdp_per_capita_ppp
+Dominica,DMA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,17619.4335416769,gdp_per_capita_ppp
+Dominica,DMA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,16877.1244880642,gdp_per_capita_ppp
+Dominica,DMA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,16314.2295558891,gdp_per_capita_ppp
+Dominica,DMA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,17364.0773046793,gdp_per_capita_ppp
+Dominica,DMA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,16920.9126555668,gdp_per_capita_ppp
+Dominican Republic,DOM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,21451.286441995,gdp_per_capita_ppp
+Dominican Republic,DOM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,20662.848586153,gdp_per_capita_ppp
+Dominican Republic,DOM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,19501.8743054078,gdp_per_capita_ppp
+Dominican Republic,DOM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,18968.9752386179,gdp_per_capita_ppp
+Dominican Republic,DOM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,17973.1870256815,gdp_per_capita_ppp
+Ecuador,ECU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,13870.4895118068,gdp_per_capita_ppp
+Ecuador,ECU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,14083.5069982304,gdp_per_capita_ppp
+Ecuador,ECU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,14179.1537503305,gdp_per_capita_ppp
+Ecuador,ECU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,13586.5160772568,gdp_per_capita_ppp
+Ecuador,ECU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,13881.5700738105,gdp_per_capita_ppp
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,15026.5682438097,gdp_per_capita_ppp
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,14488.2094340483,gdp_per_capita_ppp
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,14018.360593453,gdp_per_capita_ppp
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,13727.3201600494,gdp_per_capita_ppp
+"Egypt, Arab Rep.",EGY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,13425.9119599775,gdp_per_capita_ppp
+El Salvador,SLV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,10543.9383291317,gdp_per_capita_ppp
+El Salvador,SLV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,10297.203612692,gdp_per_capita_ppp
+El Salvador,SLV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,10064.7934942601,gdp_per_capita_ppp
+El Salvador,SLV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,9863.76121214453,gdp_per_capita_ppp
+El Salvador,SLV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,9646.15432339854,gdp_per_capita_ppp
+Equatorial Guinea,GNQ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,18446.5916579681,gdp_per_capita_ppp
+Equatorial Guinea,GNQ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,20165.4795550607,gdp_per_capita_ppp
+Equatorial Guinea,GNQ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,22250.4389230263,gdp_per_capita_ppp
+Equatorial Guinea,GNQ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,24435.0645564801,gdp_per_capita_ppp
+Equatorial Guinea,GNQ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,27797.7942803179,gdp_per_capita_ppp
+Eritrea,ERI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+Eritrea,ERI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+Eritrea,ERI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+Eritrea,ERI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+Eritrea,ERI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Estonia,EST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,42218.962853871,gdp_per_capita_ppp
+Estonia,EST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,40853.6487755073,gdp_per_capita_ppp
+Estonia,EST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,39533.4645582199,gdp_per_capita_ppp
+Estonia,EST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,37470.0427676805,gdp_per_capita_ppp
+Estonia,EST,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,36356.4410152614,gdp_per_capita_ppp
+Eswatini,SWZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,10099.5863118406,gdp_per_capita_ppp
+Eswatini,SWZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,9578.10061089805,gdp_per_capita_ppp
+Eswatini,SWZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,9660.55161538086,gdp_per_capita_ppp
+Eswatini,SWZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,9402.50834103681,gdp_per_capita_ppp
+Eswatini,SWZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,9186.65344720515,gdp_per_capita_ppp
+Ethiopia,ETH,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2437.97046055952,gdp_per_capita_ppp
+Ethiopia,ETH,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2311.16511659606,gdp_per_capita_ppp
+Ethiopia,ETH,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2222.82824481382,gdp_per_capita_ppp
+Ethiopia,ETH,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2084.840556194,gdp_per_capita_ppp
+Ethiopia,ETH,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,1957.41454187301,gdp_per_capita_ppp
+Faroe Islands,FRO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,68134.0306302109,gdp_per_capita_ppp
+Faroe Islands,FRO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,66193.3474230922,gdp_per_capita_ppp
+Faroe Islands,FRO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,65460.6067882316,gdp_per_capita_ppp
+Faroe Islands,FRO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,64155.0271268999,gdp_per_capita_ppp
+Faroe Islands,FRO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,64008.8523742079,gdp_per_capita_ppp
+Fiji,FJI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,13056.3310937089,gdp_per_capita_ppp
+Fiji,FJI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,13100.0959551236,gdp_per_capita_ppp
+Fiji,FJI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,12597.3274662764,gdp_per_capita_ppp
+Fiji,FJI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,11951.9196317982,gdp_per_capita_ppp
+Fiji,FJI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,11674.0633525272,gdp_per_capita_ppp
+Finland,FIN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,56922.4873163103,gdp_per_capita_ppp
+Finland,FIN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,56226.337241343,gdp_per_capita_ppp
+Finland,FIN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,55637.2262781223,gdp_per_capita_ppp
+Finland,FIN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,53984.6316254715,gdp_per_capita_ppp
+Finland,FIN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,52782.4873926277,gdp_per_capita_ppp
+France,FRA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,53448.5548849943,gdp_per_capita_ppp
+France,FRA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,52560.9536243841,gdp_per_capita_ppp
+France,FRA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,51895.5662985838,gdp_per_capita_ppp
+France,FRA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,50984.075297832,gdp_per_capita_ppp
+France,FRA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,50682.8953586333,gdp_per_capita_ppp
+French Polynesia,PYF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+French Polynesia,PYF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+French Polynesia,PYF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+French Polynesia,PYF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+French Polynesia,PYF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Gabon,GAB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,19491.4067631986,gdp_per_capita_ppp
+Gabon,GAB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,19225.5982575261,gdp_per_capita_ppp
+Gabon,GAB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,19555.7078829752,gdp_per_capita_ppp
+Gabon,GAB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,19988.1755963792,gdp_per_capita_ppp
+Gabon,GAB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,20147.7116202405,gdp_per_capita_ppp
+"Gambia, The",GMB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2750.82132179634,gdp_per_capita_ppp
+"Gambia, The",GMB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2651.43281455826,gdp_per_capita_ppp
+"Gambia, The",GMB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2533.18683710276,gdp_per_capita_ppp
+"Gambia, The",GMB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2478.46055756999,gdp_per_capita_ppp
+"Gambia, The",GMB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2495.95741601525,gdp_per_capita_ppp
+Georgia,GEO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,18186.8816465807,gdp_per_capita_ppp
+Georgia,GEO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,17228.6790847503,gdp_per_capita_ppp
+Georgia,GEO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,16237.6242230275,gdp_per_capita_ppp
+Georgia,GEO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,15442.9564358054,gdp_per_capita_ppp
+Georgia,GEO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,14936.8434116647,gdp_per_capita_ppp
+Germany,DEU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,62849.3741865912,gdp_per_capita_ppp
+Germany,DEU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,62381.3478772241,gdp_per_capita_ppp
+Germany,DEU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,61866.4872205276,gdp_per_capita_ppp
+Germany,DEU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,60407.9713703755,gdp_per_capita_ppp
+Germany,DEU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,59573.7089539686,gdp_per_capita_ppp
+Ghana,GHA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6508.24652305901,gdp_per_capita_ppp
+Ghana,GHA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,6234.51208201488,gdp_per_capita_ppp
+Ghana,GHA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,5993.63085211077,gdp_per_capita_ppp
+Ghana,GHA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,5666.07795334591,gdp_per_capita_ppp
+Ghana,GHA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,5607.36635657413,gdp_per_capita_ppp
+Gibraltar,GIB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+Gibraltar,GIB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+Gibraltar,GIB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+Gibraltar,GIB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+Gibraltar,GIB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Greece,GRC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,33502.7506488997,gdp_per_capita_ppp
+Greece,GRC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,32722.3310444029,gdp_per_capita_ppp
+Greece,GRC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,31995.4108838386,gdp_per_capita_ppp
+Greece,GRC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,31468.6198471099,gdp_per_capita_ppp
+Greece,GRC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,31347.976574604,gdp_per_capita_ppp
+Greenland,GRL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,68534.9419039133,gdp_per_capita_ppp
+Greenland,GRL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,66887.6779268926,gdp_per_capita_ppp
+Greenland,GRL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,66297.1790691281,gdp_per_capita_ppp
+Greenland,GRL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,66245.7294730698,gdp_per_capita_ppp
+Greenland,GRL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,63364.0536061164,gdp_per_capita_ppp
+Grenada,GRD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,17036.9151689715,gdp_per_capita_ppp
+Grenada,GRD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,16964.852001696,gdp_per_capita_ppp
+Grenada,GRD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,16291.4894625979,gdp_per_capita_ppp
+Grenada,GRD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,15640.8274503805,gdp_per_capita_ppp
+Grenada,GRD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,15136.6966673773,gdp_per_capita_ppp
+Guam,GUM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+Guam,GUM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+Guam,GUM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+Guam,GUM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+Guam,GUM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Guatemala,GTM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,11466.3765822795,gdp_per_capita_ppp
+Guatemala,GTM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,11192.372055508,gdp_per_capita_ppp
+Guatemala,GTM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,11005.4593976653,gdp_per_capita_ppp
+Guatemala,GTM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,10872.5939962916,gdp_per_capita_ppp
+Guatemala,GTM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,10785.9584615777,gdp_per_capita_ppp
+Guinea,GIN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,3557.46233883145,gdp_per_capita_ppp
+Guinea,GIN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,3455.64512638662,gdp_per_capita_ppp
+Guinea,GIN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,3332.76576150531,gdp_per_capita_ppp
+Guinea,GIN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,3099.78874189372,gdp_per_capita_ppp
+Guinea,GIN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2869.85157178732,gdp_per_capita_ppp
+Guinea-Bissau,GNB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2442.10663731324,gdp_per_capita_ppp
+Guinea-Bissau,GNB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2373.50158144916,gdp_per_capita_ppp
+Guinea-Bissau,GNB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2342.41526571427,gdp_per_capita_ppp
+Guinea-Bissau,GNB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2293.23583589196,gdp_per_capita_ppp
+Guinea-Bissau,GNB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2230.39106612596,gdp_per_capita_ppp
+Guyana,GUY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,13402.4219472757,gdp_per_capita_ppp
+Guyana,GUY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,12980.3576003177,gdp_per_capita_ppp
+Guyana,GUY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,12801.6408529346,gdp_per_capita_ppp
+Guyana,GUY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,12420.4724727603,gdp_per_capita_ppp
+Guyana,GUY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,12040.08253302,gdp_per_capita_ppp
+Haiti,HTI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,3392.43263210456,gdp_per_capita_ppp
+Haiti,HTI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,3496.87870320748,gdp_per_capita_ppp
+Haiti,HTI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,3485.4923470131,gdp_per_capita_ppp
+Haiti,HTI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,3446.75276647872,gdp_per_capita_ppp
+Haiti,HTI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,3433.07529240973,gdp_per_capita_ppp
+Honduras,HND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6264.01884276715,gdp_per_capita_ppp
+Honduras,HND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,6219.27973775059,gdp_per_capita_ppp
+Honduras,HND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,6099.60734919414,gdp_per_capita_ppp
+Honduras,HND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,5926.49025534228,gdp_per_capita_ppp
+Honduras,HND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,5812.5348879105,gdp_per_capita_ppp
+"Hong Kong SAR, China",HKG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,65388.3336248234,gdp_per_capita_ppp
+"Hong Kong SAR, China",HKG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,66993.9679794398,gdp_per_capita_ppp
+"Hong Kong SAR, China",HKG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,65662.8359167546,gdp_per_capita_ppp
+"Hong Kong SAR, China",HKG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,63749.4095274634,gdp_per_capita_ppp
+"Hong Kong SAR, China",HKG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,62779.7484353718,gdp_per_capita_ppp
+Hungary,HUN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,37662.67681014,gdp_per_capita_ppp
+Hungary,HUN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,35798.0412754022,gdp_per_capita_ppp
+Hungary,HUN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,33828.714942571,gdp_per_capita_ppp
+Hungary,HUN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,32378.9674983075,gdp_per_capita_ppp
+Hungary,HUN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,31485.5675425634,gdp_per_capita_ppp
+Iceland,ISL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,64826.4324085557,gdp_per_capita_ppp
+Iceland,ISL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,65521.9313424781,gdp_per_capita_ppp
+Iceland,ISL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,64303.3782501037,gdp_per_capita_ppp
+Iceland,ISL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,63612.5551585223,gdp_per_capita_ppp
+Iceland,ISL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,60725.7271247657,gdp_per_capita_ppp
+India,IND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,7930.0911303899,gdp_per_capita_ppp
+India,IND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,7714.33974724531,gdp_per_capita_ppp
+India,IND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,7326.60693679859,gdp_per_capita_ppp
+India,IND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,6940.62588857522,gdp_per_capita_ppp
+India,IND,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,6488.14602910787,gdp_per_capita_ppp
+Indonesia,IDN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,12757.7850854842,gdp_per_capita_ppp
+Indonesia,IDN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,12262.2310300771,gdp_per_capita_ppp
+Indonesia,IDN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,11772.5743296107,gdp_per_capita_ppp
+Indonesia,IDN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,11319.6634287738,gdp_per_capita_ppp
+Indonesia,IDN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,10893.6621142169,gdp_per_capita_ppp
+"Iran, Islamic Rep.",IRN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,14841.0751514998,gdp_per_capita_ppp
+"Iran, Islamic Rep.",IRN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,15364.8049052614,gdp_per_capita_ppp
+"Iran, Islamic Rep.",IRN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,16167.9677224227,gdp_per_capita_ppp
+"Iran, Islamic Rep.",IRN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,15920.3718021202,gdp_per_capita_ppp
+"Iran, Islamic Rep.",IRN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,14841.9048340737,gdp_per_capita_ppp
+Iraq,IRQ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,14910.2250318887,gdp_per_capita_ppp
+Iraq,IRQ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,14456.2357053224,gdp_per_capita_ppp
+Iraq,IRQ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,14417.6306896487,gdp_per_capita_ppp
+Iraq,IRQ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,15016.0920644592,gdp_per_capita_ppp
+Iraq,IRQ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,13516.0271989204,gdp_per_capita_ppp
+Ireland,IRL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,96371.2910180182,gdp_per_capita_ppp
+Ireland,IRL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,93276.0188154012,gdp_per_capita_ppp
+Ireland,IRL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,87882.7074355024,gdp_per_capita_ppp
+Ireland,IRL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,80899.0223207227,gdp_per_capita_ppp
+Ireland,IRL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,80954.6619818255,gdp_per_capita_ppp
+Isle of Man,IMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+Isle of Man,IMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+Isle of Man,IMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+Isle of Man,IMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+Isle of Man,IMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Israel,ISR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,44580.8078825716,gdp_per_capita_ppp
+Israel,ISR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,43814.2949977965,gdp_per_capita_ppp
+Israel,ISR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,42947.0586686984,gdp_per_capita_ppp
+Israel,ISR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,41963.675796165,gdp_per_capita_ppp
+Israel,ISR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,40967.3707596637,gdp_per_capita_ppp
+Italy,ITA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,49690.6298505274,gdp_per_capita_ppp
+Italy,ITA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,49133.143527174,gdp_per_capita_ppp
+Italy,ITA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,48849.2183534756,gdp_per_capita_ppp
+Italy,ITA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,47987.8379581014,gdp_per_capita_ppp
+Italy,ITA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,47311.8255262709,gdp_per_capita_ppp
+Jamaica,JAM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,10816.3720391154,gdp_per_capita_ppp
+Jamaica,JAM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,10636.0929784551,gdp_per_capita_ppp
+Jamaica,JAM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,10391.0378224678,gdp_per_capita_ppp
+Jamaica,JAM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,10179.2536486158,gdp_per_capita_ppp
+Jamaica,JAM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,9931.89875715182,gdp_per_capita_ppp
+Japan,JPN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,44730.9102844958,gdp_per_capita_ppp
+Japan,JPN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,44848.4899421798,gdp_per_capita_ppp
+Japan,JPN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,44505.2792603684,gdp_per_capita_ppp
+Japan,JPN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,43736.1305076612,gdp_per_capita_ppp
+Japan,JPN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,43386.7100739513,gdp_per_capita_ppp
+Jordan,JOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,9288.52709103516,gdp_per_capita_ppp
+Jordan,JOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,9311.53116265584,gdp_per_capita_ppp
+Jordan,JOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,9339.81039725983,gdp_per_capita_ppp
+Jordan,JOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,9321.9045113153,gdp_per_capita_ppp
+Jordan,JOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,9581.68922567813,gdp_per_capita_ppp
+Kazakhstan,KAZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,33298.2123695035,gdp_per_capita_ppp
+Kazakhstan,KAZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,32330.2274546567,gdp_per_capita_ppp
+Kazakhstan,KAZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,31524.4416339794,gdp_per_capita_ppp
+Kazakhstan,KAZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,30758.3227260598,gdp_per_capita_ppp
+Kazakhstan,KAZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,30893.7594851041,gdp_per_capita_ppp
+Kenya,KEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,5171.71264279257,gdp_per_capita_ppp
+Kenya,KEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,5017.66784674664,gdp_per_capita_ppp
+Kenya,KEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,4846.86210851932,gdp_per_capita_ppp
+Kenya,KEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,4770.31046388086,gdp_per_capita_ppp
+Kenya,KEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,4679.62182831938,gdp_per_capita_ppp
+Kiribati,KIR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2927.48453366722,gdp_per_capita_ppp
+Kiribati,KIR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2877.60204999231,gdp_per_capita_ppp
+Kiribati,KIR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2822.669652935,gdp_per_capita_ppp
+Kiribati,KIR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2761.9336523043,gdp_per_capita_ppp
+Kiribati,KIR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2615.8414365735,gdp_per_capita_ppp
+"Korea, Dem. People's Rep.",PRK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+"Korea, Dem. People's Rep.",PRK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+"Korea, Dem. People's Rep.",PRK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+"Korea, Dem. People's Rep.",PRK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+"Korea, Dem. People's Rep.",PRK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+"Korea, Rep.",KOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,49790.8679884821,gdp_per_capita_ppp
+"Korea, Rep.",KOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,48834.4471157733,gdp_per_capita_ppp
+"Korea, Rep.",KOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,47536.7898568851,gdp_per_capita_ppp
+"Korea, Rep.",KOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,46088.2430785383,gdp_per_capita_ppp
+"Korea, Rep.",KOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,44849.106767089,gdp_per_capita_ppp
+Kosovo,XKX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,11774.1178510908,gdp_per_capita_ppp
+Kosovo,XKX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,11188.2244627966,gdp_per_capita_ppp
+Kosovo,XKX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,10856.2902074239,gdp_per_capita_ppp
+Kosovo,XKX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,10434.8888259268,gdp_per_capita_ppp
+Kosovo,XKX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,9824.99105955319,gdp_per_capita_ppp
+Kuwait,KWT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,51380.6455354631,gdp_per_capita_ppp
+Kuwait,KWT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,51623.8078622052,gdp_per_capita_ppp
+Kuwait,KWT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,52285.5871175696,gdp_per_capita_ppp
+Kuwait,KWT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,56936.620842726,gdp_per_capita_ppp
+Kuwait,KWT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,57763.5174574395,gdp_per_capita_ppp
+Kyrgyz Republic,KGZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6087.60193826927,gdp_per_capita_ppp
+Kyrgyz Republic,KGZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,5951.82876758606,gdp_per_capita_ppp
+Kyrgyz Republic,KGZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,5861.22200040503,gdp_per_capita_ppp
+Kyrgyz Republic,KGZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,5715.01041179003,gdp_per_capita_ppp
+Kyrgyz Republic,KGZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,5600.2143342846,gdp_per_capita_ppp
+Lao PDR,LAO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,8075.27502377003,gdp_per_capita_ppp
+Lao PDR,LAO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,7775.08574451883,gdp_per_capita_ppp
+Lao PDR,LAO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,7432.4596330485,gdp_per_capita_ppp
+Lao PDR,LAO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,7063.25545347926,gdp_per_capita_ppp
+Lao PDR,LAO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,6703.74124348885,gdp_per_capita_ppp
+Latvia,LVA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,35208.1934590859,gdp_per_capita_ppp
+Latvia,LVA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,34729.7062763057,gdp_per_capita_ppp
+Latvia,LVA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,33036.3915943437,gdp_per_capita_ppp
+Latvia,LVA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,31668.5148442662,gdp_per_capita_ppp
+Latvia,LVA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,30599.6133134147,gdp_per_capita_ppp
+Lebanon,LBN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,15659.5661040012,gdp_per_capita_ppp
+Lebanon,LBN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,16290.0516478592,gdp_per_capita_ppp
+Lebanon,LBN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,16128.5838196051,gdp_per_capita_ppp
+Lebanon,LBN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,15572.3611739774,gdp_per_capita_ppp
+Lebanon,LBN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,14980.020515614,gdp_per_capita_ppp
+Lesotho,LSO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2773.28639887236,gdp_per_capita_ppp
+Lesotho,LSO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2846.41828124649,gdp_per_capita_ppp
+Lesotho,LSO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2924.68096193272,gdp_per_capita_ppp
+Lesotho,LSO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,3057.26091568162,gdp_per_capita_ppp
+Lesotho,LSO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2986.95866729879,gdp_per_capita_ppp
+Liberia,LBR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,1575.76665001238,gdp_per_capita_ppp
+Liberia,LBR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,1647.97443793846,gdp_per_capita_ppp
+Liberia,LBR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,1661.30290782171,gdp_per_capita_ppp
+Liberia,LBR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,1653.31050211233,gdp_per_capita_ppp
+Liberia,LBR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,1714.09047960464,gdp_per_capita_ppp
+Libya,LBY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,14337.1962987582,gdp_per_capita_ppp
+Libya,LBY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,16385.164476127,gdp_per_capita_ppp
+Libya,LBY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,15428.1164411854,gdp_per_capita_ppp
+Libya,LBY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,11831.8257669559,gdp_per_capita_ppp
+Libya,LBY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,12195.3486990421,gdp_per_capita_ppp
+Liechtenstein,LIE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+Liechtenstein,LIE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+Liechtenstein,LIE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+Liechtenstein,LIE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+Liechtenstein,LIE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Lithuania,LTU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,43062.3228425315,gdp_per_capita_ppp
+Lithuania,LTU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,41019.7901632878,gdp_per_capita_ppp
+Lithuania,LTU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,38774.4892011822,gdp_per_capita_ppp
+Lithuania,LTU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,36618.1468417838,gdp_per_capita_ppp
+Lithuania,LTU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,35251.2986931775,gdp_per_capita_ppp
+Luxembourg,LUX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,132724.752743888,gdp_per_capita_ppp
+Luxembourg,LUX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,131733.8846493,gdp_per_capita_ppp
+Luxembourg,LUX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,132169.834045368,gdp_per_capita_ppp
+Luxembourg,LUX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,133661.649729132,gdp_per_capita_ppp
+Luxembourg,LUX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,130097.2561798,gdp_per_capita_ppp
+"Macao SAR, China",MAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,133453.896026037,gdp_per_capita_ppp
+"Macao SAR, China",MAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,139541.157248769,gdp_per_capita_ppp
+"Macao SAR, China",MAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,133322.632677744,gdp_per_capita_ppp
+"Macao SAR, China",MAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,120530.052858314,gdp_per_capita_ppp
+"Macao SAR, China",MAC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,123194.067291275,gdp_per_capita_ppp
+Madagascar,MDG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,1707.83153830039,gdp_per_capita_ppp
+Madagascar,MDG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,1678.78623269491,gdp_per_capita_ppp
+Madagascar,MDG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,1669.72764267278,gdp_per_capita_ppp
+Madagascar,MDG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,1648.91226979296,gdp_per_capita_ppp
+Madagascar,MDG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,1627.5806134224,gdp_per_capita_ppp
+Malawi,MWI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,1687.28944917892,gdp_per_capita_ppp
+Malawi,MWI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,1638.91665761076,gdp_per_capita_ppp
+Malawi,MWI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,1613.0593571462,gdp_per_capita_ppp
+Malawi,MWI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,1593.59549264808,gdp_per_capita_ppp
+Malawi,MWI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,1597.69145324855,gdp_per_capita_ppp
+Malaysia,MYS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,31300.5086554849,gdp_per_capita_ppp
+Malaysia,MYS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,30459.9655338061,gdp_per_capita_ppp
+Malaysia,MYS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,29551.5457597197,gdp_per_capita_ppp
+Malaysia,MYS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,28425.3707609412,gdp_per_capita_ppp
+Malaysia,MYS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,27699.6278860387,gdp_per_capita_ppp
+Maldives,MDV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,21855.501224579,gdp_per_capita_ppp
+Maldives,MDV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,21072.5805249694,gdp_per_capita_ppp
+Maldives,MDV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,20036.7165354949,gdp_per_capita_ppp
+Maldives,MDV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,19345.1792343541,gdp_per_capita_ppp
+Maldives,MDV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,18829.4481529112,gdp_per_capita_ppp
+Mali,MLI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2916.17167790759,gdp_per_capita_ppp
+Mali,MLI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2862.40728989634,gdp_per_capita_ppp
+Mali,MLI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2816.194239022,gdp_per_capita_ppp
+Mali,MLI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2759.11051294151,gdp_per_capita_ppp
+Mali,MLI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2686.56065074588,gdp_per_capita_ppp
+Malta,MLT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,53391.4373856091,gdp_per_capita_ppp
+Malta,MLT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,53417.0154946227,gdp_per_capita_ppp
+Malta,MLT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,51626.3473049783,gdp_per_capita_ppp
+Malta,MLT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,46965.601581458,gdp_per_capita_ppp
+Malta,MLT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,46170.1721772127,gdp_per_capita_ppp
+Marshall Islands,MHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6405.07564930525,gdp_per_capita_ppp
+Marshall Islands,MHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,5635.30750426868,gdp_per_capita_ppp
+Marshall Islands,MHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,5199.3444796298,gdp_per_capita_ppp
+Marshall Islands,MHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,4896.52195460777,gdp_per_capita_ppp
+Marshall Islands,MHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,4670.10918243675,gdp_per_capita_ppp
+Mauritania,MRT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6162.21044512087,gdp_per_capita_ppp
+Mauritania,MRT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,6153.63790295218,gdp_per_capita_ppp
+Mauritania,MRT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,6050.62180273825,gdp_per_capita_ppp
+Mauritania,MRT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,5866.28144759405,gdp_per_capita_ppp
+Mauritania,MRT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,5969.54239339806,gdp_per_capita_ppp
+Mauritius,MUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,26047.9753573284,gdp_per_capita_ppp
+Mauritius,MUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,25324.1785958124,gdp_per_capita_ppp
+Mauritius,MUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,24361.8758542058,gdp_per_capita_ppp
+Mauritius,MUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,23460.0011516323,gdp_per_capita_ppp
+Mauritius,MUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,22603.0885218714,gdp_per_capita_ppp
+Mexico,MEX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,21704.1859494071,gdp_per_capita_ppp
+Mexico,MEX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,21997.7730167472,gdp_per_capita_ppp
+Mexico,MEX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,21777.5225111982,gdp_per_capita_ppp
+Mexico,MEX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,21578.2633554092,gdp_per_capita_ppp
+Mexico,MEX,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,21408.9283201493,gdp_per_capita_ppp
+"Micronesia, Fed. Sts.",FSM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,3940.26446989917,gdp_per_capita_ppp
+"Micronesia, Fed. Sts.",FSM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,3798.59203794112,gdp_per_capita_ppp
+"Micronesia, Fed. Sts.",FSM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,3813.44207942995,gdp_per_capita_ppp
+"Micronesia, Fed. Sts.",FSM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,3746.13008308173,gdp_per_capita_ppp
+"Micronesia, Fed. Sts.",FSM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,3723.39901795888,gdp_per_capita_ppp
+Moldova,MDA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,14621.2401362286,gdp_per_capita_ppp
+Moldova,MDA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,13895.5043655692,gdp_per_capita_ppp
+Moldova,MDA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,13118.8219369605,gdp_per_capita_ppp
+Moldova,MDA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,12377.366678394,gdp_per_capita_ppp
+Moldova,MDA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,11691.0797484184,gdp_per_capita_ppp
+Monaco,MCO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+Monaco,MCO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+Monaco,MCO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+Monaco,MCO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+Monaco,MCO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Mongolia,MNG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,15790.6961126441,gdp_per_capita_ppp
+Mongolia,MNG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,15230.2408828847,gdp_per_capita_ppp
+Mongolia,MNG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,14401.5375067562,gdp_per_capita_ppp
+Mongolia,MNG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,13898.1456953585,gdp_per_capita_ppp
+Mongolia,MNG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,13974.5967260365,gdp_per_capita_ppp
+Montenegro,MNE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,24585.2179072849,gdp_per_capita_ppp
+Montenegro,MNE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,23562.2739681383,gdp_per_capita_ppp
+Montenegro,MNE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,22513.8741282681,gdp_per_capita_ppp
+Montenegro,MNE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,21834.1824200766,gdp_per_capita_ppp
+Montenegro,MNE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,21131.9286652777,gdp_per_capita_ppp
+Morocco,MAR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,8768.17578125,gdp_per_capita_ppp
+Morocco,MAR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,8611.75,gdp_per_capita_ppp
+Morocco,MAR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,8450.0087890625,gdp_per_capita_ppp
+Morocco,MAR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,8141.9404296875,gdp_per_capita_ppp
+Morocco,MAR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,8198.80859375,gdp_per_capita_ppp
+Mozambique,MOZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,1528.88988354373,gdp_per_capita_ppp
+Mozambique,MOZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,1538.83512127022,gdp_per_capita_ppp
+Mozambique,MOZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,1532.0073576114,gdp_per_capita_ppp
+Mozambique,MOZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,1537.90853271216,gdp_per_capita_ppp
+Mozambique,MOZ,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,1512.5997455554,gdp_per_capita_ppp
+Myanmar,MMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6562.98898478625,gdp_per_capita_ppp
+Myanmar,MMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,6201.26341429803,gdp_per_capita_ppp
+Myanmar,MMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,5877.87465558175,gdp_per_capita_ppp
+Myanmar,MMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,5580.98977273232,gdp_per_capita_ppp
+Myanmar,MMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,5313.88615901476,gdp_per_capita_ppp
+Namibia,NAM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,10813.3044681944,gdp_per_capita_ppp
+Namibia,NAM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,11214.38604306,gdp_per_capita_ppp
+Namibia,NAM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,11408.7253099967,gdp_per_capita_ppp
+Namibia,NAM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,11846.7880832757,gdp_per_capita_ppp
+Namibia,NAM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,12166.5658392058,gdp_per_capita_ppp
+Nauru,NRU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,11183.095616258,gdp_per_capita_ppp
+Nauru,NRU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,10401.2803984916,gdp_per_capita_ppp
+Nauru,NRU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,10631.9143863208,gdp_per_capita_ppp
+Nauru,NRU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,11529.8856976118,gdp_per_capita_ppp
+Nauru,NRU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,11270.4681981308,gdp_per_capita_ppp
+Nepal,NPL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,4607.52454717112,gdp_per_capita_ppp
+Nepal,NPL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,4371.38571771897,gdp_per_capita_ppp
+Nepal,NPL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,4071.70431755798,gdp_per_capita_ppp
+Nepal,NPL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,3743.7445783578,gdp_per_capita_ppp
+Nepal,NPL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,3745.26182249477,gdp_per_capita_ppp
+Netherlands,NLD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,67847.8542926795,gdp_per_capita_ppp
+Netherlands,NLD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,66758.2640145753,gdp_per_capita_ppp
+Netherlands,NLD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,65666.0036593237,gdp_per_capita_ppp
+Netherlands,NLD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,64267.736357935,gdp_per_capita_ppp
+Netherlands,NLD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,63081.3941350677,gdp_per_capita_ppp
+New Caledonia,NCL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+New Caledonia,NCL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+New Caledonia,NCL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+New Caledonia,NCL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+New Caledonia,NCL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+New Zealand,NZL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,47362.3199332352,gdp_per_capita_ppp
+New Zealand,NZL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,46947.937247914,gdp_per_capita_ppp
+New Zealand,NZL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,46193.2884771696,gdp_per_capita_ppp
+New Zealand,NZL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,45626.6818435018,gdp_per_capita_ppp
+New Zealand,NZL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,44963.8339159182,gdp_per_capita_ppp
+Nicaragua,NIC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6756.59375829081,gdp_per_capita_ppp
+Nicaragua,NIC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,7049.02753442352,gdp_per_capita_ppp
+Nicaragua,NIC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,7391.19683946294,gdp_per_capita_ppp
+Nicaragua,NIC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,7158.75799760378,gdp_per_capita_ppp
+Nicaragua,NIC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,6939.03286207731,gdp_per_capita_ppp
+Niger,NER,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,1612.63734693259,gdp_per_capita_ppp
+Niger,NER,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,1574.33838262666,gdp_per_capita_ppp
+Niger,NER,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,1520.0015371232,gdp_per_capita_ppp
+Niger,NER,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,1500.00858681288,gdp_per_capita_ppp
+Niger,NER,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,1471.66135329224,gdp_per_capita_ppp
+Nigeria,NGA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,8361.78664857198,gdp_per_capita_ppp
+Nigeria,NGA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,8362.62330891339,gdp_per_capita_ppp
+Nigeria,NGA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,8396.78452274331,gdp_per_capita_ppp
+Nigeria,NGA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,8534.69281513898,gdp_per_capita_ppp
+Nigeria,NGA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,8892.05798706748,gdp_per_capita_ppp
+North Macedonia,MKD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,21766.974473423,gdp_per_capita_ppp
+North Macedonia,MKD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,20806.0084013242,gdp_per_capita_ppp
+North Macedonia,MKD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,20121.1344599839,gdp_per_capita_ppp
+North Macedonia,MKD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,19825.8546858981,gdp_per_capita_ppp
+North Macedonia,MKD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,19215.1537229479,gdp_per_capita_ppp
+Northern Mariana Islands,MNP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+Northern Mariana Islands,MNP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+Northern Mariana Islands,MNP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+Northern Mariana Islands,MNP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+Northern Mariana Islands,MNP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Norway,NOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,87725.7283254613,gdp_per_capita_ppp
+Norway,NOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,87338.4708008985,gdp_per_capita_ppp
+Norway,NOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,87194.1115421374,gdp_per_capita_ppp
+Norway,NOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,85787.6174410424,gdp_per_capita_ppp
+Norway,NOR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,85550.2942614495,gdp_per_capita_ppp
+Oman,OMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,38292.3859682752,gdp_per_capita_ppp
+Oman,OMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,38673.6045360857,gdp_per_capita_ppp
+Oman,OMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,38691.1077105097,gdp_per_capita_ppp
+Oman,OMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,39860.9893909688,gdp_per_capita_ppp
+Oman,OMN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,39813.7887054675,gdp_per_capita_ppp
+Pakistan,PAK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,5295.95295138203,gdp_per_capita_ppp
+Pakistan,PAK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,5255.06350681272,gdp_per_capita_ppp
+Pakistan,PAK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,5031.56060738433,gdp_per_capita_ppp
+Pakistan,PAK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,4886.61212115378,gdp_per_capita_ppp
+Pakistan,PAK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,4645.28631071145,gdp_per_capita_ppp
+Palau,PLW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,19519.018546453,gdp_per_capita_ppp
+Palau,PLW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,19572.3446450452,gdp_per_capita_ppp
+Palau,PLW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,19821.0983603983,gdp_per_capita_ppp
+Palau,PLW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,20449.1316608307,gdp_per_capita_ppp
+Palau,PLW,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,20212.0181058882,gdp_per_capita_ppp
+Panama,PAN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,33163.726919217,gdp_per_capita_ppp
+Panama,PAN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,32681.4463581168,gdp_per_capita_ppp
+Panama,PAN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,31979.8122635605,gdp_per_capita_ppp
+Panama,PAN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,30765.2371534884,gdp_per_capita_ppp
+Panama,PAN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,29933.1555965973,gdp_per_capita_ppp
+Papua New Guinea,PNG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,4301.61139205544,gdp_per_capita_ppp
+Papua New Guinea,PNG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,4211.1454741469,gdp_per_capita_ppp
+Papua New Guinea,PNG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,4322.22282084806,gdp_per_capita_ppp
+Papua New Guinea,PNG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,4275.74858615698,gdp_per_capita_ppp
+Papua New Guinea,PNG,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,4154.52332559184,gdp_per_capita_ppp
+Paraguay,PRY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,15321.3245528947,gdp_per_capita_ppp
+Paraguay,PRY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,15592.9841390322,gdp_per_capita_ppp
+Paraguay,PRY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,15320.3366476954,gdp_per_capita_ppp
+Paraguay,PRY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,14826.6636909978,gdp_per_capita_ppp
+Paraguay,PRY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,14427.6002349811,gdp_per_capita_ppp
+Peru,PER,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,15463.5432397882,gdp_per_capita_ppp
+Peru,PER,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,15386.2601642505,gdp_per_capita_ppp
+Peru,PER,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,15069.5221084659,gdp_per_capita_ppp
+Peru,PER,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,14917.4489473588,gdp_per_capita_ppp
+Peru,PER,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,14542.7930911313,gdp_per_capita_ppp
+Philippines,PHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,9452.2939715981,gdp_per_capita_ppp
+Philippines,PHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,9016.28659637608,gdp_per_capita_ppp
+Philippines,PHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,8584.13622709699,gdp_per_capita_ppp
+Philippines,PHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,8131.82537948653,gdp_per_capita_ppp
+Philippines,PHL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,7691.76308685047,gdp_per_capita_ppp
+Poland,POL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,38181.6230334689,gdp_per_capita_ppp
+Poland,POL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,36500.4114282584,gdp_per_capita_ppp
+Poland,POL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,34354.5987616319,gdp_per_capita_ppp
+Poland,POL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,32675.3052259954,gdp_per_capita_ppp
+Poland,POL,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,31700.3682364154,gdp_per_capita_ppp
+Portugal,PRT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,40188.2868799219,gdp_per_capita_ppp
+Portugal,PRT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,39123.6151282571,gdp_per_capita_ppp
+Portugal,PRT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,37943.1150505673,gdp_per_capita_ppp
+Portugal,PRT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,36636.2978441633,gdp_per_capita_ppp
+Portugal,PRT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,35803.3575649769,gdp_per_capita_ppp
+Puerto Rico (US),PRI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,41656.3291581369,gdp_per_capita_ppp
+Puerto Rico (US),PRI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,41119.3088051648,gdp_per_capita_ppp
+Puerto Rico (US),PRI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,41479.9977732034,gdp_per_capita_ppp
+Puerto Rico (US),PRI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,41858.2626698462,gdp_per_capita_ppp
+Puerto Rico (US),PRI,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,41737.6068571153,gdp_per_capita_ppp
+Qatar,QAT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,113160.839750596,gdp_per_capita_ppp
+Qatar,QAT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,114909.792335472,gdp_per_capita_ppp
+Qatar,QAT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,115064.83603436,gdp_per_capita_ppp
+Qatar,QAT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,120054.244506415,gdp_per_capita_ppp
+Qatar,QAT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,123070.823231761,gdp_per_capita_ppp
+Romania,ROU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,36399.6255565426,gdp_per_capita_ppp
+Romania,ROU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,34829.0402990684,gdp_per_capita_ppp
+Romania,ROU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,32852.7718069627,gdp_per_capita_ppp
+Romania,ROU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,30189.2729172886,gdp_per_capita_ppp
+Romania,ROU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,29181.9991893663,gdp_per_capita_ppp
+Russian Federation,RUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,37319.3203125,gdp_per_capita_ppp
+Russian Federation,RUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,36536.6953125,gdp_per_capita_ppp
+Russian Federation,RUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,35570.390625,gdp_per_capita_ppp
+Russian Federation,RUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,35005.44921875,gdp_per_capita_ppp
+Russian Federation,RUS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,35037.15234375,gdp_per_capita_ppp
+Rwanda,RWA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2667.46458436613,gdp_per_capita_ppp
+Rwanda,RWA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2493.44001744938,gdp_per_capita_ppp
+Rwanda,RWA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2351.59686866227,gdp_per_capita_ppp
+Rwanda,RWA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2316.63731573814,gdp_per_capita_ppp
+Rwanda,RWA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2238.53941469642,gdp_per_capita_ppp
+Samoa,WSM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,7033.52113384547,gdp_per_capita_ppp
+Samoa,WSM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,6805.0451717529,gdp_per_capita_ppp
+Samoa,WSM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,6919.01572858501,gdp_per_capita_ppp
+Samoa,WSM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,6887.30523545286,gdp_per_capita_ppp
+Samoa,WSM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,6432.35979168526,gdp_per_capita_ppp
+San Marino,SMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,60171.0471344217,gdp_per_capita_ppp
+San Marino,SMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,59194.0442905609,gdp_per_capita_ppp
+San Marino,SMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,59524.5597904018,gdp_per_capita_ppp
+San Marino,SMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,60669.8186167521,gdp_per_capita_ppp
+San Marino,SMR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,59647.6594557072,gdp_per_capita_ppp
+Sao Tome and Principe,STP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,5702.08347071236,gdp_per_capita_ppp
+Sao Tome and Principe,STP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,5674.72379094011,gdp_per_capita_ppp
+Sao Tome and Principe,STP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,5521.20249597413,gdp_per_capita_ppp
+Sao Tome and Principe,STP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,5388.5091334891,gdp_per_capita_ppp
+Sao Tome and Principe,STP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,5210.2037755431,gdp_per_capita_ppp
+Saudi Arabia,SAU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,62647.7299487842,gdp_per_capita_ppp
+Saudi Arabia,SAU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,61359.4653740388,gdp_per_capita_ppp
+Saudi Arabia,SAU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,57942.5484983044,gdp_per_capita_ppp
+Saudi Arabia,SAU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,57308.4484127497,gdp_per_capita_ppp
+Saudi Arabia,SAU,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,58498.5399040699,gdp_per_capita_ppp
+Senegal,SEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,4070.61227058594,gdp_per_capita_ppp
+Senegal,SEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,3998.28635303406,gdp_per_capita_ppp
+Senegal,SEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,3871.4514678592,gdp_per_capita_ppp
+Senegal,SEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,3710.05531589724,gdp_per_capita_ppp
+Senegal,SEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,3593.79477120389,gdp_per_capita_ppp
+Serbia,SRB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,21541.2157346761,gdp_per_capita_ppp
+Serbia,SRB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,20454.310707953,gdp_per_capita_ppp
+Serbia,SRB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,19439.0723263919,gdp_per_capita_ppp
+Serbia,SRB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,18889.4599757385,gdp_per_capita_ppp
+Serbia,SRB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,18247.884779382,gdp_per_capita_ppp
+Seychelles,SYC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,34346.0708923483,gdp_per_capita_ppp
+Seychelles,SYC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,32841.4242467381,gdp_per_capita_ppp
+Seychelles,SYC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,31595.6680570505,gdp_per_capita_ppp
+Seychelles,SYC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,29905.1347389952,gdp_per_capita_ppp
+Seychelles,SYC,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,27032.2083880002,gdp_per_capita_ppp
+Sierra Leone,SLE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2852.66269917494,gdp_per_capita_ppp
+Sierra Leone,SLE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2767.38003381598,gdp_per_capita_ppp
+Sierra Leone,SLE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2753.42719846704,gdp_per_capita_ppp
+Sierra Leone,SLE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2732.26093997048,gdp_per_capita_ppp
+Sierra Leone,SLE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2628.17058146385,gdp_per_capita_ppp
+Singapore,SGP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,120114.133894235,gdp_per_capita_ppp
+Singapore,SGP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,119927.769127927,gdp_per_capita_ppp
+Singapore,SGP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,116471.820764776,gdp_per_capita_ppp
+Singapore,SGP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,111579.742684331,gdp_per_capita_ppp
+Singapore,SGP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,108953.724294287,gdp_per_capita_ppp
+Sint Maarten (Dutch part),SXM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,45996.7912346922,gdp_per_capita_ppp
+Sint Maarten (Dutch part),SXM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,42154.1020267504,gdp_per_capita_ppp
+Sint Maarten (Dutch part),SXM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,46088.3583839152,gdp_per_capita_ppp
+Sint Maarten (Dutch part),SXM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,50817.6814942681,gdp_per_capita_ppp
+Sint Maarten (Dutch part),SXM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,51375.6032503737,gdp_per_capita_ppp
+Slovak Republic,SVK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,37209.5332553073,gdp_per_capita_ppp
+Slovak Republic,SVK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,36430.7941704195,gdp_per_capita_ppp
+Slovak Republic,SVK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,35057.2223763167,gdp_per_capita_ppp
+Slovak Republic,SVK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,34130.5050676203,gdp_per_capita_ppp
+Slovak Republic,SVK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,33521.5954764975,gdp_per_capita_ppp
+Slovenia,SVN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,44569.5878416535,gdp_per_capita_ppp
+Slovenia,SVN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,43361.094447431,gdp_per_capita_ppp
+Slovenia,SVN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,41692.836279788,gdp_per_capita_ppp
+Slovenia,SVN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,39667.4579830072,gdp_per_capita_ppp
+Slovenia,SVN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,38527.4222549683,gdp_per_capita_ppp
+Solomon Islands,SLB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2661.61667922254,gdp_per_capita_ppp
+Solomon Islands,SLB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2686.11900111375,gdp_per_capita_ppp
+Solomon Islands,SLB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2703.66346303885,gdp_per_capita_ppp
+Solomon Islands,SLB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2715.23362293936,gdp_per_capita_ppp
+Solomon Islands,SLB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2664.72477884762,gdp_per_capita_ppp
+"Somalia, Fed. Rep.",SOM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,1491.29493918405,gdp_per_capita_ppp
+"Somalia, Fed. Rep.",SOM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,1504.97908203481,gdp_per_capita_ppp
+"Somalia, Fed. Rep.",SOM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,1527.66029071672,gdp_per_capita_ppp
+"Somalia, Fed. Rep.",SOM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,1384.15517410135,gdp_per_capita_ppp
+"Somalia, Fed. Rep.",SOM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,1343.92517439606,gdp_per_capita_ppp
+South Africa,ZAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,14352.6698709871,gdp_per_capita_ppp
+South Africa,ZAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,14553.5615668957,gdp_per_capita_ppp
+South Africa,ZAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,14573.5980840004,gdp_per_capita_ppp
+South Africa,ZAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,14501.2807823402,gdp_per_capita_ppp
+South Africa,ZAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,14541.6748613669,gdp_per_capita_ppp
+South Sudan,SSD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+South Sudan,SSD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+South Sudan,SSD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+South Sudan,SSD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+South Sudan,SSD,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Spain,ESP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,46896.4171141424,gdp_per_capita_ppp
+Spain,ESP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,46325.2099441141,gdp_per_capita_ppp
+Spain,ESP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,45446.2508575695,gdp_per_capita_ppp
+Spain,ESP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,44274.6676149922,gdp_per_capita_ppp
+Spain,ESP,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,43053.761430314,gdp_per_capita_ppp
+Sri Lanka,LKA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,14637.44429132,gdp_per_capita_ppp
+Sri Lanka,LKA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,14759.8248945765,gdp_per_capita_ppp
+Sri Lanka,LKA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,14572.4858214565,gdp_per_capita_ppp
+Sri Lanka,LKA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,13845.6146782368,gdp_per_capita_ppp
+Sri Lanka,LKA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,13329.7793438947,gdp_per_capita_ppp
+St. Kitts and Nevis,KNA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,31512.1943105684,gdp_per_capita_ppp
+St. Kitts and Nevis,KNA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,30576.2486749244,gdp_per_capita_ppp
+St. Kitts and Nevis,KNA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,29948.9200065682,gdp_per_capita_ppp
+St. Kitts and Nevis,KNA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,29867.0265589791,gdp_per_capita_ppp
+St. Kitts and Nevis,KNA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,28729.566447667,gdp_per_capita_ppp
+St. Lucia,LCA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,22738.2471068581,gdp_per_capita_ppp
+St. Lucia,LCA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,22981.9179294013,gdp_per_capita_ppp
+St. Lucia,LCA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,22422.5970388018,gdp_per_capita_ppp
+St. Lucia,LCA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,21775.4737658629,gdp_per_capita_ppp
+St. Lucia,LCA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,21142.9733304366,gdp_per_capita_ppp
+St. Martin (French part),MAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+St. Martin (French part),MAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+St. Martin (French part),MAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+St. Martin (French part),MAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+St. Martin (French part),MAF,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+St. Vincent and the Grenadines,VCT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,16365.3255785124,gdp_per_capita_ppp
+St. Vincent and the Grenadines,VCT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,16139.0661084965,gdp_per_capita_ppp
+St. Vincent and the Grenadines,VCT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,15533.2212821544,gdp_per_capita_ppp
+St. Vincent and the Grenadines,VCT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,15197.7482513352,gdp_per_capita_ppp
+St. Vincent and the Grenadines,VCT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,14508.8609465459,gdp_per_capita_ppp
+Sudan,SDN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,3625.52319335938,gdp_per_capita_ppp
+Sudan,SDN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,3816.65991210938,gdp_per_capita_ppp
+Sudan,SDN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,4061.01831054688,gdp_per_capita_ppp
+Sudan,SDN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,4174.56103515625,gdp_per_capita_ppp
+Sudan,SDN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,4159.1943359375,gdp_per_capita_ppp
+Suriname,SUR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,22966.7405999124,gdp_per_capita_ppp
+Suriname,SUR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,22938.5353715545,gdp_per_capita_ppp
+Suriname,SUR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,22070.5137570835,gdp_per_capita_ppp
+Suriname,SUR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,21950.4122148625,gdp_per_capita_ppp
+Suriname,SUR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,23327.5252497447,gdp_per_capita_ppp
+Sweden,SWE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,61601.6292338778,gdp_per_capita_ppp
+Sweden,SWE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,60647.449528586,gdp_per_capita_ppp
+Sweden,SWE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,60288.7998168676,gdp_per_capita_ppp
+Sweden,SWE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,59977.3886010694,gdp_per_capita_ppp
+Sweden,SWE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,59468.3538687625,gdp_per_capita_ppp
+Switzerland,CHE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,79596.7029465098,gdp_per_capita_ppp
+Switzerland,CHE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,79261.3563641288,gdp_per_capita_ppp
+Switzerland,CHE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,77626.9027376941,gdp_per_capita_ppp
+Switzerland,CHE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,77301.2124304857,gdp_per_capita_ppp
+Switzerland,CHE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,76566.0772542148,gdp_per_capita_ppp
+Syrian Arab Republic,SYR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,4825.40602053761,gdp_per_capita_ppp
+Syrian Arab Republic,SYR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,4956.09296464777,gdp_per_capita_ppp
+Syrian Arab Republic,SYR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,4977.79210063798,gdp_per_capita_ppp
+Syrian Arab Republic,SYR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,5022.1127178437,gdp_per_capita_ppp
+Syrian Arab Republic,SYR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,5302.07413721497,gdp_per_capita_ppp
+Tajikistan,TJK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,3649.88375518646,gdp_per_capita_ppp
+Tajikistan,TJK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,3479.69235966041,gdp_per_capita_ppp
+Tajikistan,TJK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,3312.71202243506,gdp_per_capita_ppp
+Tajikistan,TJK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,3169.9667820524,gdp_per_capita_ppp
+Tajikistan,TJK,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,3041.44479553257,gdp_per_capita_ppp
+Tanzania,TZA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,3484.63256835938,gdp_per_capita_ppp
+Tanzania,TZA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,3392.68872070313,gdp_per_capita_ppp
+Tanzania,TZA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,3318.28833007813,gdp_per_capita_ppp
+Tanzania,TZA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,3214.24682617188,gdp_per_capita_ppp
+Tanzania,TZA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,3111.44458007813,gdp_per_capita_ppp
+Thailand,THA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,21277.8392684764,gdp_per_capita_ppp
+Thailand,THA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,20879.9027821449,gdp_per_capita_ppp
+Thailand,THA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,20094.6778762603,gdp_per_capita_ppp
+Thailand,THA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,19370.6087810117,gdp_per_capita_ppp
+Thailand,THA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,18811.9975100064,gdp_per_capita_ppp
+Timor-Leste,TLS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,5103.14962872555,gdp_per_capita_ppp
+Timor-Leste,TLS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,4188.84115175127,gdp_per_capita_ppp
+Timor-Leste,TLS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,4290.02726532164,gdp_per_capita_ppp
+Timor-Leste,TLS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,4515.4226379882,gdp_per_capita_ppp
+Timor-Leste,TLS,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,4467.80011988177,gdp_per_capita_ppp
+Togo,TGO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2577.51616831372,gdp_per_capita_ppp
+Togo,TGO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2517.34898693009,gdp_per_capita_ppp
+Togo,TGO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2462.27744935268,gdp_per_capita_ppp
+Togo,TGO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2427.30036226403,gdp_per_capita_ppp
+Togo,TGO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2388.42609861568,gdp_per_capita_ppp
+Tonga,TON,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6858.83871210154,gdp_per_capita_ppp
+Tonga,TON,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,6885.10271620406,gdp_per_capita_ppp
+Tonga,TON,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,6862.66870605024,gdp_per_capita_ppp
+Tonga,TON,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,6639.13678737964,gdp_per_capita_ppp
+Tonga,TON,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,6194.63923003718,gdp_per_capita_ppp
+Trinidad and Tobago,TTO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,33748.7060849924,gdp_per_capita_ppp
+Trinidad and Tobago,TTO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,33710.0178540008,gdp_per_capita_ppp
+Trinidad and Tobago,TTO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,34095.9899256152,gdp_per_capita_ppp
+Trinidad and Tobago,TTO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,35914.9901970983,gdp_per_capita_ppp
+Trinidad and Tobago,TTO,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,38963.9641783011,gdp_per_capita_ppp
+Tunisia,TUN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,13243.9024233246,gdp_per_capita_ppp
+Tunisia,TUN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,13163.1952230357,gdp_per_capita_ppp
+Tunisia,TUN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,12955.4014814241,gdp_per_capita_ppp
+Tunisia,TUN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,12803.8797371543,gdp_per_capita_ppp
+Tunisia,TUN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,12802.7917211433,gdp_per_capita_ppp
+Turkiye,TUR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,28741.0535082701,gdp_per_capita_ppp
+Turkiye,TUR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,28780.3036458151,gdp_per_capita_ppp
+Turkiye,TUR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,28194.688309381,gdp_per_capita_ppp
+Turkiye,TUR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,26489.6436816046,gdp_per_capita_ppp
+Turkiye,TUR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,25984.8027306177,gdp_per_capita_ppp
+Turkmenistan,TKM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,15231.3056176565,gdp_per_capita_ppp
+Turkmenistan,TKM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,14648.135352725,gdp_per_capita_ppp
+Turkmenistan,TKM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,14107.6671199289,gdp_per_capita_ppp
+Turkmenistan,TKM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,13552.8477118745,gdp_per_capita_ppp
+Turkmenistan,TKM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,13057.8303253557,gdp_per_capita_ppp
+Turks and Caicos Islands,TCA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,30611.2130237381,gdp_per_capita_ppp
+Turks and Caicos Islands,TCA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,30286.1196112151,gdp_per_capita_ppp
+Turks and Caicos Islands,TCA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,29540.3537473151,gdp_per_capita_ppp
+Turks and Caicos Islands,TCA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,17625.7202843515,gdp_per_capita_ppp
+Turks and Caicos Islands,TCA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,17201.7720345933,gdp_per_capita_ppp
+Tuvalu,TUV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,5292.03025969421,gdp_per_capita_ppp
+Tuvalu,TUV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,4575.86900510424,gdp_per_capita_ppp
+Tuvalu,TUV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,4464.25884629937,gdp_per_capita_ppp
+Tuvalu,TUV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,4333.24899362162,gdp_per_capita_ppp
+Tuvalu,TUV,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,4088.76579910847,gdp_per_capita_ppp
+Uganda,UGA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,2689.41009144919,gdp_per_capita_ppp
+Uganda,UGA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,2613.87976413963,gdp_per_capita_ppp
+Uganda,UGA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,2543.84754394956,gdp_per_capita_ppp
+Uganda,UGA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,2554.22769062073,gdp_per_capita_ppp
+Uganda,UGA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,2520.0201028843,gdp_per_capita_ppp
+Ukraine,UKR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,17636.5546875,gdp_per_capita_ppp
+Ukraine,UKR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,16978.984375,gdp_per_capita_ppp
+Ukraine,UKR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,16310.3603515625,gdp_per_capita_ppp
+Ukraine,UKR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,15856.8125,gdp_per_capita_ppp
+Ukraine,UKR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,15403.7099609375,gdp_per_capita_ppp
+United Arab Emirates,ARE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,72822.969940695,gdp_per_capita_ppp
+United Arab Emirates,ARE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,72671.0652349751,gdp_per_capita_ppp
+United Arab Emirates,ARE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,72529.0571050174,gdp_per_capita_ppp
+United Arab Emirates,ARE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,75671.0564378596,gdp_per_capita_ppp
+United Arab Emirates,ARE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,75238.5539913477,gdp_per_capita_ppp
+United Kingdom,GBR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,52515.684446109,gdp_per_capita_ppp
+United Kingdom,GBR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,52131.6948248133,gdp_per_capita_ppp
+United Kingdom,GBR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,51586.6756125445,gdp_per_capita_ppp
+United Kingdom,GBR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,50346.8592925717,gdp_per_capita_ppp
+United Kingdom,GBR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,49652.7188154397,gdp_per_capita_ppp
+United States,USA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,69112.602688656,gdp_per_capita_ppp
+United States,USA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,67719.7656392064,gdp_per_capita_ppp
+United States,USA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,66155.5555676249,gdp_per_capita_ppp
+United States,USA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,65017.654963867,gdp_per_capita_ppp
+United States,USA,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,64359.4725899466,gdp_per_capita_ppp
+Uruguay,URY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,30010.5742615797,gdp_per_capita_ppp
+Uruguay,URY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,29757.9388543783,gdp_per_capita_ppp
+Uruguay,URY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,29762.4333171685,gdp_per_capita_ppp
+Uruguay,URY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,29332.5672615246,gdp_per_capita_ppp
+Uruguay,URY,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,28941.6294107011,gdp_per_capita_ppp
+Uzbekistan,UZB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,8755.12593984949,gdp_per_capita_ppp
+Uzbekistan,UZB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,8348.96057873127,gdp_per_capita_ppp
+Uzbekistan,UZB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,8047.05375469466,gdp_per_capita_ppp
+Uzbekistan,UZB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,7839.97820100236,gdp_per_capita_ppp
+Uzbekistan,UZB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,7529.76364274179,gdp_per_capita_ppp
+Vanuatu,VUT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,3512.07197251664,gdp_per_capita_ppp
+Vanuatu,VUT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,3482.02272525905,gdp_per_capita_ppp
+Vanuatu,VUT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,3465.91968561101,gdp_per_capita_ppp
+Vanuatu,VUT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,3397.76730446483,gdp_per_capita_ppp
+Vanuatu,VUT,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,3357.63888534014,gdp_per_capita_ppp
+"Venezuela, RB",VEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+"Venezuela, RB",VEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+"Venezuela, RB",VEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+"Venezuela, RB",VEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+"Venezuela, RB",VEN,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Viet Nam,VNM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,11628.6139147451,gdp_per_capita_ppp
+Viet Nam,VNM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,10936.8937859558,gdp_per_capita_ppp
+Viet Nam,VNM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,10290.5487142244,gdp_per_capita_ppp
+Viet Nam,VNM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,9743.1882231455,gdp_per_capita_ppp
+Viet Nam,VNM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,9248.02396069622,gdp_per_capita_ppp
+Virgin Islands (U.S.),VIR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,45632.6364715693,gdp_per_capita_ppp
+Virgin Islands (U.S.),VIR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,44205.4071324394,gdp_per_capita_ppp
+Virgin Islands (U.S.),VIR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,43277.1546523522,gdp_per_capita_ppp
+Virgin Islands (U.S.),VIR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,43502.4336941564,gdp_per_capita_ppp
+Virgin Islands (U.S.),VIR,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,42739.0835022993,gdp_per_capita_ppp
+West Bank and Gaza,PSE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,6269.89134527985,gdp_per_capita_ppp
+West Bank and Gaza,PSE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,6342.9374800852,gdp_per_capita_ppp
+West Bank and Gaza,PSE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,6426.79521615335,gdp_per_capita_ppp
+West Bank and Gaza,PSE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,6464.13352537371,gdp_per_capita_ppp
+West Bank and Gaza,PSE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,6072.65031768549,gdp_per_capita_ppp
+"Yemen, Rep.",YEM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,,gdp_per_capita_ppp
+"Yemen, Rep.",YEM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,,gdp_per_capita_ppp
+"Yemen, Rep.",YEM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,,gdp_per_capita_ppp
+"Yemen, Rep.",YEM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,,gdp_per_capita_ppp
+"Yemen, Rep.",YEM,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,,gdp_per_capita_ppp
+Zambia,ZMB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,3591.56418883108,gdp_per_capita_ppp
+Zambia,ZMB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,3646.95966481655,gdp_per_capita_ppp
+Zambia,ZMB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,3612.50597664593,gdp_per_capita_ppp
+Zambia,ZMB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,3598.17166023389,gdp_per_capita_ppp
+Zambia,ZMB,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,3576.92544834125,gdp_per_capita_ppp
+Zimbabwe,ZWE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2019,4993.84383894752,gdp_per_capita_ppp
+Zimbabwe,ZWE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2018,5415.46976371689,gdp_per_capita_ppp
+Zimbabwe,ZWE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2017,5234.3838655748,gdp_per_capita_ppp
+Zimbabwe,ZWE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2016,5070.40217016051,gdp_per_capita_ppp
+Zimbabwe,ZWE,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",2015,5102.71432347607,gdp_per_capita_ppp

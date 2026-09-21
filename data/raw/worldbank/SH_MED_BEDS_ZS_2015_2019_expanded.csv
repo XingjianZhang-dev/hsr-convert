@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,variable
+Africa Eastern and Southern,AFE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Africa Eastern and Southern,AFE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Africa Eastern and Southern,AFE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Africa Eastern and Southern,AFE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Africa Eastern and Southern,AFE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Africa Western and Central,AFW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Africa Western and Central,AFW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Africa Western and Central,AFW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Africa Western and Central,AFW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Africa Western and Central,AFW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Arab World,ARB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.30779661961946,hospital_beds_per_1000
+Arab World,ARB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.29099014015772,hospital_beds_per_1000
+Arab World,ARB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.34439612706574,hospital_beds_per_1000
+Arab World,ARB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.44217893566776,hospital_beds_per_1000
+Arab World,ARB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.46530433523141,hospital_beds_per_1000
+Caribbean small states,CSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.60466923308805,hospital_beds_per_1000
+Caribbean small states,CSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.57266074632403,hospital_beds_per_1000
+Caribbean small states,CSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.58291096748087,hospital_beds_per_1000
+Caribbean small states,CSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.64407221243361,hospital_beds_per_1000
+Caribbean small states,CSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.64190670510415,hospital_beds_per_1000
+Central Europe and the Baltics,CEB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,6.43946762011969,hospital_beds_per_1000
+Central Europe and the Baltics,CEB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,6.5501385149221,hospital_beds_per_1000
+Central Europe and the Baltics,CEB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,6.58113089462679,hospital_beds_per_1000
+Central Europe and the Baltics,CEB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,6.56675011351178,hospital_beds_per_1000
+Central Europe and the Baltics,CEB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,6.56699828752475,hospital_beds_per_1000
+Early-demographic dividend,EAR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.47493671301177,hospital_beds_per_1000
+Early-demographic dividend,EAR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.48869452099708,hospital_beds_per_1000
+Early-demographic dividend,EAR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.49134297614629,hospital_beds_per_1000
+Early-demographic dividend,EAR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.45438865985611,hospital_beds_per_1000
+Early-demographic dividend,EAR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.47408939461137,hospital_beds_per_1000
+East Asia & Pacific,EAS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.54711009993475,hospital_beds_per_1000
+East Asia & Pacific,EAS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.49575172837371,hospital_beds_per_1000
+East Asia & Pacific,EAS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.17247444442441,hospital_beds_per_1000
+East Asia & Pacific,EAS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.99121085943343,hospital_beds_per_1000
+East Asia & Pacific,EAS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.82518927658669,hospital_beds_per_1000
+East Asia & Pacific (excluding high income),EAP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.82077740554924,hospital_beds_per_1000
+East Asia & Pacific (excluding high income),EAP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.76391143746845,hospital_beds_per_1000
+East Asia & Pacific (excluding high income),EAP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.42509733546169,hospital_beds_per_1000
+East Asia & Pacific (excluding high income),EAP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.22522421045267,hospital_beds_per_1000
+East Asia & Pacific (excluding high income),EAP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.04855552822148,hospital_beds_per_1000
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.82077740554924,hospital_beds_per_1000
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.64476500013888,hospital_beds_per_1000
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.42509733546169,hospital_beds_per_1000
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.22522421045267,hospital_beds_per_1000
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.04855552822148,hospital_beds_per_1000
+Euro area,EMU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.13494081989566,hospital_beds_per_1000
+Euro area,EMU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.18771794927397,hospital_beds_per_1000
+Euro area,EMU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,5.23028796789088,hospital_beds_per_1000
+Euro area,EMU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,5.27341724620596,hospital_beds_per_1000
+Euro area,EMU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,5.32013075335677,hospital_beds_per_1000
+Europe & Central Asia,ECS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.1396210021455,hospital_beds_per_1000
+Europe & Central Asia,ECS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.21067047199227,hospital_beds_per_1000
+Europe & Central Asia,ECS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,5.24238108399576,hospital_beds_per_1000
+Europe & Central Asia,ECS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,5.29711231676657,hospital_beds_per_1000
+Europe & Central Asia,ECS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,5.37279144375761,hospital_beds_per_1000
+Europe & Central Asia (excluding high income),ECA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.49927027652523,hospital_beds_per_1000
+Europe & Central Asia (excluding high income),ECA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.55053662615104,hospital_beds_per_1000
+Europe & Central Asia (excluding high income),ECA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.52745339858385,hospital_beds_per_1000
+Europe & Central Asia (excluding high income),ECA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.55536922420542,hospital_beds_per_1000
+Europe & Central Asia (excluding high income),ECA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.64008180965362,hospital_beds_per_1000
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.597083447744,hospital_beds_per_1000
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.68803472934858,hospital_beds_per_1000
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,5.7059460403677,hospital_beds_per_1000
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,5.77218731403813,hospital_beds_per_1000
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,5.87784425235064,hospital_beds_per_1000
+European Union,EUU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.31159208712892,hospital_beds_per_1000
+European Union,EUU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.38157102041721,hospital_beds_per_1000
+European Union,EUU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,5.42314330135206,hospital_beds_per_1000
+European Union,EUU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,5.45748244567156,hospital_beds_per_1000
+European Union,EUU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,5.49504000879076,hospital_beds_per_1000
+Fragile and conflict affected situations,FCS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Fragile and conflict affected situations,FCS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Fragile and conflict affected situations,FCS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Fragile and conflict affected situations,FCS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Fragile and conflict affected situations,FCS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Heavily indebted poor countries (HIPC),HPC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Heavily indebted poor countries (HIPC),HPC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Heavily indebted poor countries (HIPC),HPC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Heavily indebted poor countries (HIPC),HPC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Heavily indebted poor countries (HIPC),HPC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+High income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.35948438295986,hospital_beds_per_1000
+High income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.42679044164032,hospital_beds_per_1000
+High income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,5.46613562119431,hospital_beds_per_1000
+High income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,5.45514547253793,hospital_beds_per_1000
+High income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,5.50361415813936,hospital_beds_per_1000
+IBRD only,IBD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.94913476686582,hospital_beds_per_1000
+IBRD only,IBD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.89857691185447,hospital_beds_per_1000
+IBRD only,IBD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.82557754321661,hospital_beds_per_1000
+IBRD only,IBD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.79189977008483,hospital_beds_per_1000
+IBRD only,IBD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.7336571239467,hospital_beds_per_1000
+IDA & IBRD total,IBT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.62671891841567,hospital_beds_per_1000
+IDA & IBRD total,IBT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.59402793440503,hospital_beds_per_1000
+IDA & IBRD total,IBT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.55577492346008,hospital_beds_per_1000
+IDA & IBRD total,IBT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.45941258929529,hospital_beds_per_1000
+IDA & IBRD total,IBT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.45276480541025,hospital_beds_per_1000
+IDA blend,IDB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+IDA blend,IDB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+IDA blend,IDB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+IDA blend,IDB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+IDA blend,IDB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+IDA only,IDX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+IDA only,IDX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+IDA only,IDX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+IDA only,IDX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+IDA only,IDX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+IDA total,IDA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+IDA total,IDA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+IDA total,IDA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+IDA total,IDA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+IDA total,IDA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Late-demographic dividend,LTE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.38863431659361,hospital_beds_per_1000
+Late-demographic dividend,LTE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.35430322522678,hospital_beds_per_1000
+Late-demographic dividend,LTE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.03238603526461,hospital_beds_per_1000
+Late-demographic dividend,LTE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.91931814075273,hospital_beds_per_1000
+Late-demographic dividend,LTE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.79905403954397,hospital_beds_per_1000
+Latin America & Caribbean,LCN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.87170833613386,hospital_beds_per_1000
+Latin America & Caribbean,LCN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.89198668367841,hospital_beds_per_1000
+Latin America & Caribbean,LCN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.94052219489326,hospital_beds_per_1000
+Latin America & Caribbean,LCN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.98159836327795,hospital_beds_per_1000
+Latin America & Caribbean,LCN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.94621315699463,hospital_beds_per_1000
+Latin America & Caribbean (excluding high income),LAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.91344971729219,hospital_beds_per_1000
+Latin America & Caribbean (excluding high income),LAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.92740037056886,hospital_beds_per_1000
+Latin America & Caribbean (excluding high income),LAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.99053621324205,hospital_beds_per_1000
+Latin America & Caribbean (excluding high income),LAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.04126908046538,hospital_beds_per_1000
+Latin America & Caribbean (excluding high income),LAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.00607852349009,hospital_beds_per_1000
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.82920760839514,hospital_beds_per_1000
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.84980449502369,hospital_beds_per_1000
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.89831559821024,hospital_beds_per_1000
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.9396180898235,hospital_beds_per_1000
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.90522168754176,hospital_beds_per_1000
+Least developed countries: UN classification,LDC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Least developed countries: UN classification,LDC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Least developed countries: UN classification,LDC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Least developed countries: UN classification,LDC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Least developed countries: UN classification,LDC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Low & middle income,LMY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.4709586185926,hospital_beds_per_1000
+Low & middle income,LMY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.4796500198918,hospital_beds_per_1000
+Low & middle income,LMY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.38695252927904,hospital_beds_per_1000
+Low & middle income,LMY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.32386709314459,hospital_beds_per_1000
+Low & middle income,LMY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.26624291651488,hospital_beds_per_1000
+Low income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Low income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Low income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Low income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Low income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Lower middle income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.40365895857105,hospital_beds_per_1000
+Lower middle income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.43019636362683,hospital_beds_per_1000
+Lower middle income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.49231101281718,hospital_beds_per_1000
+Lower middle income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.4916433401,hospital_beds_per_1000
+Lower middle income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.4931058378787,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.11454897145734,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.12998364624351,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.16318578823454,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.19018305110913,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.1763439823017,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.982568032242375,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.01410827332738,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.06274762385581,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.08234244531889,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.0658104625551,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.979973249476553,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.01165064356622,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.06089689927111,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.08073162557518,hospital_beds_per_1000
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.0640774446379,hospital_beds_per_1000
+Middle income,MIC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.5421108768799,hospital_beds_per_1000
+Middle income,MIC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.50544817606985,hospital_beds_per_1000
+Middle income,MIC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.46445897392931,hospital_beds_per_1000
+Middle income,MIC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.392959832834,hospital_beds_per_1000
+Middle income,MIC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.33598140381283,hospital_beds_per_1000
+North America,NAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.69852386216921,hospital_beds_per_1000
+North America,NAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.73769166469205,hospital_beds_per_1000
+North America,NAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.77081656550123,hospital_beds_per_1000
+North America,NAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.70597499219222,hospital_beds_per_1000
+North America,NAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.73501991383024,hospital_beds_per_1000
+Not classified,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Not classified,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Not classified,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Not classified,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Not classified,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+OECD members,OED,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.60042199302527,hospital_beds_per_1000
+OECD members,OED,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.66342310450162,hospital_beds_per_1000
+OECD members,OED,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.7037744003865,hospital_beds_per_1000
+OECD members,OED,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.69031621891009,hospital_beds_per_1000
+OECD members,OED,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.71126360021107,hospital_beds_per_1000
+Other small states,OSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.0214925692033,hospital_beds_per_1000
+Other small states,OSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.75617410645325,hospital_beds_per_1000
+Other small states,OSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.77411419375072,hospital_beds_per_1000
+Other small states,OSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.14988323323408,hospital_beds_per_1000
+Other small states,OSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.79464486733755,hospital_beds_per_1000
+Pacific island small states,PSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Pacific island small states,PSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Pacific island small states,PSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Pacific island small states,PSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Pacific island small states,PSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Post-demographic dividend,PST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.4469358805555,hospital_beds_per_1000
+Post-demographic dividend,PST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.50901986095522,hospital_beds_per_1000
+Post-demographic dividend,PST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,5.55194744720933,hospital_beds_per_1000
+Post-demographic dividend,PST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,5.51772042432914,hospital_beds_per_1000
+Post-demographic dividend,PST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,5.56105559022969,hospital_beds_per_1000
+Pre-demographic dividend,PRE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Pre-demographic dividend,PRE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Pre-demographic dividend,PRE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Pre-demographic dividend,PRE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Pre-demographic dividend,PRE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Small states,SST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.90250512616929,hospital_beds_per_1000
+Small states,SST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.70322832215026,hospital_beds_per_1000
+Small states,SST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.66574738572261,hospital_beds_per_1000
+Small states,SST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.90785256141534,hospital_beds_per_1000
+Small states,SST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.69371129569976,hospital_beds_per_1000
+South Asia,SAS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.55355777984843,hospital_beds_per_1000
+South Asia,SAS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.56855712248089,hospital_beds_per_1000
+South Asia,SAS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.58077913873102,hospital_beds_per_1000
+South Asia,SAS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.59156502023831,hospital_beds_per_1000
+South Asia,SAS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.60463686034483,hospital_beds_per_1000
+South Asia (IDA & IBRD),TSA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.55355777984843,hospital_beds_per_1000
+South Asia (IDA & IBRD),TSA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.56855712248089,hospital_beds_per_1000
+South Asia (IDA & IBRD),TSA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.58077913873102,hospital_beds_per_1000
+South Asia (IDA & IBRD),TSA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.59156502023831,hospital_beds_per_1000
+South Asia (IDA & IBRD),TSA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.60463686034483,hospital_beds_per_1000
+Sub-Saharan Africa,SSF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Sub-Saharan Africa,SSF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Sub-Saharan Africa,SSF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Sub-Saharan Africa,SSF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Sub-Saharan Africa,SSF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Sub-Saharan Africa (excluding high income),SSA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Sub-Saharan Africa (excluding high income),SSA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Sub-Saharan Africa (excluding high income),SSA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Sub-Saharan Africa (excluding high income),SSA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Sub-Saharan Africa (excluding high income),SSA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Upper middle income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.60935904470196,hospital_beds_per_1000
+Upper middle income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.45489218866443,hospital_beds_per_1000
+Upper middle income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.30922305384374,hospital_beds_per_1000
+Upper middle income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.20895635760347,hospital_beds_per_1000
+Upper middle income,,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.08046990659664,hospital_beds_per_1000
+World,WLD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.04259638537394,hospital_beds_per_1000
+World,WLD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.06657855530156,hospital_beds_per_1000
+World,WLD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.9994236135327,hospital_beds_per_1000
+World,WLD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.91747357678923,hospital_beds_per_1000
+World,WLD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.92663565672606,hospital_beds_per_1000
+Afghanistan,AFG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.38,hospital_beds_per_1000
+Afghanistan,AFG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.4,hospital_beds_per_1000
+Afghanistan,AFG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.42,hospital_beds_per_1000
+Afghanistan,AFG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.45,hospital_beds_per_1000
+Afghanistan,AFG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.44,hospital_beds_per_1000
+Albania,ALB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.84,hospital_beds_per_1000
+Albania,ALB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.83,hospital_beds_per_1000
+Albania,ALB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.82,hospital_beds_per_1000
+Albania,ALB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.82,hospital_beds_per_1000
+Albania,ALB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.84,hospital_beds_per_1000
+Algeria,DZA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Algeria,DZA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Algeria,DZA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.61,hospital_beds_per_1000
+Algeria,DZA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.6,hospital_beds_per_1000
+Algeria,DZA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.62,hospital_beds_per_1000
+American Samoa,ASM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+American Samoa,ASM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+American Samoa,ASM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+American Samoa,ASM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+American Samoa,ASM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Andorra,AND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Andorra,AND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Andorra,AND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Andorra,AND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Andorra,AND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Angola,AGO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.75,hospital_beds_per_1000
+Angola,AGO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Angola,AGO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Angola,AGO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Angola,AGO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Antigua and Barbuda,ATG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Antigua and Barbuda,ATG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Antigua and Barbuda,ATG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.26,hospital_beds_per_1000
+Antigua and Barbuda,ATG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.38,hospital_beds_per_1000
+Antigua and Barbuda,ATG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.04,hospital_beds_per_1000
+Argentina,ARG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.69,hospital_beds_per_1000
+Argentina,ARG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.69,hospital_beds_per_1000
+Argentina,ARG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.99,hospital_beds_per_1000
+Argentina,ARG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.94,hospital_beds_per_1000
+Argentina,ARG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.95,hospital_beds_per_1000
+Armenia,ARM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.06,hospital_beds_per_1000
+Armenia,ARM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.18,hospital_beds_per_1000
+Armenia,ARM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.27,hospital_beds_per_1000
+Armenia,ARM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.28,hospital_beds_per_1000
+Armenia,ARM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.29,hospital_beds_per_1000
+Aruba,ABW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Aruba,ABW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Aruba,ABW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Aruba,ABW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Aruba,ABW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Australia,AUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Australia,AUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Australia,AUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Australia,AUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.82,hospital_beds_per_1000
+Australia,AUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.79,hospital_beds_per_1000
+Austria,AUT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,7.19,hospital_beds_per_1000
+Austria,AUT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,7.27,hospital_beds_per_1000
+Austria,AUT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,7.37,hospital_beds_per_1000
+Austria,AUT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,7.42,hospital_beds_per_1000
+Austria,AUT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,7.54,hospital_beds_per_1000
+Azerbaijan,AZE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.94,hospital_beds_per_1000
+Azerbaijan,AZE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.95,hospital_beds_per_1000
+Azerbaijan,AZE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.98,hospital_beds_per_1000
+Azerbaijan,AZE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.12,hospital_beds_per_1000
+Azerbaijan,AZE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.13,hospital_beds_per_1000
+"Bahamas, The",BHS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.77,hospital_beds_per_1000
+"Bahamas, The",BHS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.78,hospital_beds_per_1000
+"Bahamas, The",BHS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.99,hospital_beds_per_1000
+"Bahamas, The",BHS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+"Bahamas, The",BHS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.84,hospital_beds_per_1000
+Bahrain,BHR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.93,hospital_beds_per_1000
+Bahrain,BHR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.81,hospital_beds_per_1000
+Bahrain,BHR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.74,hospital_beds_per_1000
+Bahrain,BHR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.81,hospital_beds_per_1000
+Bahrain,BHR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.89,hospital_beds_per_1000
+Bangladesh,BGD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.89,hospital_beds_per_1000
+Bangladesh,BGD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.88,hospital_beds_per_1000
+Bangladesh,BGD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.84,hospital_beds_per_1000
+Bangladesh,BGD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.79,hospital_beds_per_1000
+Bangladesh,BGD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.76,hospital_beds_per_1000
+Barbados,BRB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.72,hospital_beds_per_1000
+Barbados,BRB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,6.03,hospital_beds_per_1000
+Barbados,BRB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,6.09,hospital_beds_per_1000
+Barbados,BRB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,6.0,hospital_beds_per_1000
+Barbados,BRB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,6.01,hospital_beds_per_1000
+Belarus,BLR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,9.93,hospital_beds_per_1000
+Belarus,BLR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,9.93,hospital_beds_per_1000
+Belarus,BLR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,10.0,hospital_beds_per_1000
+Belarus,BLR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,10.06,hospital_beds_per_1000
+Belarus,BLR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,10.25,hospital_beds_per_1000
+Belgium,BEL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.57,hospital_beds_per_1000
+Belgium,BEL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.62,hospital_beds_per_1000
+Belgium,BEL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,5.66,hospital_beds_per_1000
+Belgium,BEL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,5.76,hospital_beds_per_1000
+Belgium,BEL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,5.83,hospital_beds_per_1000
+Belize,BLZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Belize,BLZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.04,hospital_beds_per_1000
+Belize,BLZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.04,hospital_beds_per_1000
+Belize,BLZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.95,hospital_beds_per_1000
+Belize,BLZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.97,hospital_beds_per_1000
+Benin,BEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.4,hospital_beds_per_1000
+Benin,BEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.44,hospital_beds_per_1000
+Benin,BEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.42,hospital_beds_per_1000
+Benin,BEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.42,hospital_beds_per_1000
+Benin,BEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.43,hospital_beds_per_1000
+Bermuda,BMU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Bermuda,BMU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Bermuda,BMU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Bermuda,BMU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Bermuda,BMU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Bhutan,BTN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.09,hospital_beds_per_1000
+Bhutan,BTN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.72,hospital_beds_per_1000
+Bhutan,BTN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.69,hospital_beds_per_1000
+Bhutan,BTN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.71,hospital_beds_per_1000
+Bhutan,BTN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.72,hospital_beds_per_1000
+Bolivia,BOL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.28,hospital_beds_per_1000
+Bolivia,BOL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.26,hospital_beds_per_1000
+Bolivia,BOL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.26,hospital_beds_per_1000
+Bolivia,BOL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.23,hospital_beds_per_1000
+Bolivia,BOL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.18,hospital_beds_per_1000
+Bosnia and Herzegovina,BIH,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.35,hospital_beds_per_1000
+Bosnia and Herzegovina,BIH,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.39,hospital_beds_per_1000
+Bosnia and Herzegovina,BIH,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.39,hospital_beds_per_1000
+Bosnia and Herzegovina,BIH,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.39,hospital_beds_per_1000
+Bosnia and Herzegovina,BIH,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.37,hospital_beds_per_1000
+Botswana,BWA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.47,hospital_beds_per_1000
+Botswana,BWA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.5,hospital_beds_per_1000
+Botswana,BWA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.54,hospital_beds_per_1000
+Botswana,BWA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.57,hospital_beds_per_1000
+Botswana,BWA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.61,hospital_beds_per_1000
+Brazil,BRA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.29,hospital_beds_per_1000
+Brazil,BRA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.3,hospital_beds_per_1000
+Brazil,BRA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.34,hospital_beds_per_1000
+Brazil,BRA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.36,hospital_beds_per_1000
+Brazil,BRA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.39,hospital_beds_per_1000
+British Virgin Islands,VGB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+British Virgin Islands,VGB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+British Virgin Islands,VGB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+British Virgin Islands,VGB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+British Virgin Islands,VGB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Brunei Darussalam,BRN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.66,hospital_beds_per_1000
+Brunei Darussalam,BRN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.42,hospital_beds_per_1000
+Brunei Darussalam,BRN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.34,hospital_beds_per_1000
+Brunei Darussalam,BRN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.1,hospital_beds_per_1000
+Brunei Darussalam,BRN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.06,hospital_beds_per_1000
+Bulgaria,BGR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,7.74,hospital_beds_per_1000
+Bulgaria,BGR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,7.57,hospital_beds_per_1000
+Bulgaria,BGR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,7.45,hospital_beds_per_1000
+Bulgaria,BGR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,7.27,hospital_beds_per_1000
+Bulgaria,BGR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,7.24,hospital_beds_per_1000
+Burkina Faso,BFA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Burkina Faso,BFA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Burkina Faso,BFA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Burkina Faso,BFA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Burkina Faso,BFA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Burundi,BDI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Burundi,BDI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Burundi,BDI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Burundi,BDI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Burundi,BDI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Cabo Verde,CPV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.14,hospital_beds_per_1000
+Cabo Verde,CPV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.19,hospital_beds_per_1000
+Cabo Verde,CPV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.1,hospital_beds_per_1000
+Cabo Verde,CPV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.07,hospital_beds_per_1000
+Cabo Verde,CPV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.08,hospital_beds_per_1000
+Cambodia,KHM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Cambodia,KHM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.73,hospital_beds_per_1000
+Cambodia,KHM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Cambodia,KHM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Cambodia,KHM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.83,hospital_beds_per_1000
+Cameroon,CMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Cameroon,CMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Cameroon,CMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Cameroon,CMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.65,hospital_beds_per_1000
+Cameroon,CMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Canada,CAN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.51,hospital_beds_per_1000
+Canada,CAN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.54,hospital_beds_per_1000
+Canada,CAN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.51,hospital_beds_per_1000
+Canada,CAN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.58,hospital_beds_per_1000
+Canada,CAN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.6,hospital_beds_per_1000
+Cayman Islands,CYM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Cayman Islands,CYM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Cayman Islands,CYM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Cayman Islands,CYM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Cayman Islands,CYM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Central African Republic,CAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Central African Republic,CAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Central African Republic,CAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Central African Republic,CAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Central African Republic,CAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Chad,TCD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Chad,TCD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Chad,TCD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.44,hospital_beds_per_1000
+Chad,TCD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Chad,TCD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.47,hospital_beds_per_1000
+Channel Islands,CHI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Channel Islands,CHI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Channel Islands,CHI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Channel Islands,CHI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Channel Islands,CHI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Chile,CHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.02,hospital_beds_per_1000
+Chile,CHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.05,hospital_beds_per_1000
+Chile,CHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.09,hospital_beds_per_1000
+Chile,CHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.11,hospital_beds_per_1000
+Chile,CHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.13,hospital_beds_per_1000
+China,CHN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.82,hospital_beds_per_1000
+China,CHN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.59,hospital_beds_per_1000
+China,CHN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.33,hospital_beds_per_1000
+China,CHN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.05,hospital_beds_per_1000
+China,CHN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.82,hospital_beds_per_1000
+Colombia,COL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.75,hospital_beds_per_1000
+Colombia,COL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.73,hospital_beds_per_1000
+Colombia,COL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.74,hospital_beds_per_1000
+Colombia,COL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.72,hospital_beds_per_1000
+Colombia,COL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.65,hospital_beds_per_1000
+Comoros,COM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Comoros,COM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Comoros,COM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Comoros,COM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Comoros,COM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+"Congo, Dem. Rep.",COD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+"Congo, Dem. Rep.",COD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+"Congo, Dem. Rep.",COD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+"Congo, Dem. Rep.",COD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+"Congo, Dem. Rep.",COD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+"Congo, Rep.",COG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+"Congo, Rep.",COG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+"Congo, Rep.",COG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+"Congo, Rep.",COG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+"Congo, Rep.",COG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Costa Rica,CRI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.11,hospital_beds_per_1000
+Costa Rica,CRI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.12,hospital_beds_per_1000
+Costa Rica,CRI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.15,hospital_beds_per_1000
+Costa Rica,CRI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.16,hospital_beds_per_1000
+Costa Rica,CRI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.16,hospital_beds_per_1000
+Cote d'Ivoire,CIV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Cote d'Ivoire,CIV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Cote d'Ivoire,CIV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Cote d'Ivoire,CIV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Cote d'Ivoire,CIV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Croatia,HRV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.78,hospital_beds_per_1000
+Croatia,HRV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.7,hospital_beds_per_1000
+Croatia,HRV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,5.61,hospital_beds_per_1000
+Croatia,HRV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,5.54,hospital_beds_per_1000
+Croatia,HRV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,5.6,hospital_beds_per_1000
+Cuba,CUB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.21,hospital_beds_per_1000
+Cuba,CUB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.19,hospital_beds_per_1000
+Cuba,CUB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.17,hospital_beds_per_1000
+Cuba,CUB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.15,hospital_beds_per_1000
+Cuba,CUB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.07,hospital_beds_per_1000
+Curacao,CUW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Curacao,CUW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Curacao,CUW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Curacao,CUW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Curacao,CUW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Cyprus,CYP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.13,hospital_beds_per_1000
+Cyprus,CYP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.18,hospital_beds_per_1000
+Cyprus,CYP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.26,hospital_beds_per_1000
+Cyprus,CYP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.36,hospital_beds_per_1000
+Cyprus,CYP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.37,hospital_beds_per_1000
+Czechia,CZE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,6.7,hospital_beds_per_1000
+Czechia,CZE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,6.72,hospital_beds_per_1000
+Czechia,CZE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,6.71,hospital_beds_per_1000
+Czechia,CZE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,6.73,hospital_beds_per_1000
+Czechia,CZE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,6.73,hospital_beds_per_1000
+Denmark,DNK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.59,hospital_beds_per_1000
+Denmark,DNK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.61,hospital_beds_per_1000
+Denmark,DNK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.61,hospital_beds_per_1000
+Denmark,DNK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.6,hospital_beds_per_1000
+Denmark,DNK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.53,hospital_beds_per_1000
+Djibouti,DJI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Djibouti,DJI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.4,hospital_beds_per_1000
+Djibouti,DJI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.42,hospital_beds_per_1000
+Djibouti,DJI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.44,hospital_beds_per_1000
+Djibouti,DJI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.26,hospital_beds_per_1000
+Dominica,DMA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.18,hospital_beds_per_1000
+Dominica,DMA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.23,hospital_beds_per_1000
+Dominica,DMA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.37,hospital_beds_per_1000
+Dominica,DMA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.72,hospital_beds_per_1000
+Dominica,DMA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.68,hospital_beds_per_1000
+Dominican Republic,DOM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.25,hospital_beds_per_1000
+Dominican Republic,DOM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.24,hospital_beds_per_1000
+Dominican Republic,DOM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.48,hospital_beds_per_1000
+Dominican Republic,DOM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.37,hospital_beds_per_1000
+Dominican Republic,DOM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.51,hospital_beds_per_1000
+Ecuador,ECU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.39,hospital_beds_per_1000
+Ecuador,ECU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.4,hospital_beds_per_1000
+Ecuador,ECU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.4,hospital_beds_per_1000
+Ecuador,ECU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.38,hospital_beds_per_1000
+Ecuador,ECU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.52,hospital_beds_per_1000
+"Egypt, Arab Rep.",EGY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.19,hospital_beds_per_1000
+"Egypt, Arab Rep.",EGY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.24,hospital_beds_per_1000
+"Egypt, Arab Rep.",EGY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.27,hospital_beds_per_1000
+"Egypt, Arab Rep.",EGY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.25,hospital_beds_per_1000
+"Egypt, Arab Rep.",EGY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.25,hospital_beds_per_1000
+El Salvador,SLV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.07,hospital_beds_per_1000
+El Salvador,SLV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.08,hospital_beds_per_1000
+El Salvador,SLV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.07,hospital_beds_per_1000
+El Salvador,SLV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.08,hospital_beds_per_1000
+El Salvador,SLV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.04,hospital_beds_per_1000
+Equatorial Guinea,GNQ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Equatorial Guinea,GNQ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Equatorial Guinea,GNQ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Equatorial Guinea,GNQ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Equatorial Guinea,GNQ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Eritrea,ERI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.09,hospital_beds_per_1000
+Eritrea,ERI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.16,hospital_beds_per_1000
+Eritrea,ERI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.23,hospital_beds_per_1000
+Eritrea,ERI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.23,hospital_beds_per_1000
+Eritrea,ERI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.23,hospital_beds_per_1000
+Estonia,EST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.53,hospital_beds_per_1000
+Estonia,EST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.53,hospital_beds_per_1000
+Estonia,EST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.61,hospital_beds_per_1000
+Estonia,EST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.69,hospital_beds_per_1000
+Estonia,EST,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.82,hospital_beds_per_1000
+Eswatini,SWZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Eswatini,SWZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Eswatini,SWZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Eswatini,SWZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Eswatini,SWZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Ethiopia,ETH,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Ethiopia,ETH,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Ethiopia,ETH,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Ethiopia,ETH,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.33,hospital_beds_per_1000
+Ethiopia,ETH,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Faroe Islands,FRO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Faroe Islands,FRO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Faroe Islands,FRO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Faroe Islands,FRO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Faroe Islands,FRO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Fiji,FJI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Fiji,FJI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Fiji,FJI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.89,hospital_beds_per_1000
+Fiji,FJI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.89,hospital_beds_per_1000
+Fiji,FJI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.88,hospital_beds_per_1000
+Finland,FIN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.35,hospital_beds_per_1000
+Finland,FIN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.61,hospital_beds_per_1000
+Finland,FIN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.75,hospital_beds_per_1000
+Finland,FIN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.97,hospital_beds_per_1000
+Finland,FIN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.28,hospital_beds_per_1000
+France,FRA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.96,hospital_beds_per_1000
+France,FRA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,6.04,hospital_beds_per_1000
+France,FRA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,6.12,hospital_beds_per_1000
+France,FRA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,6.21,hospital_beds_per_1000
+France,FRA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,6.28,hospital_beds_per_1000
+French Polynesia,PYF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+French Polynesia,PYF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+French Polynesia,PYF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+French Polynesia,PYF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+French Polynesia,PYF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Gabon,GAB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Gabon,GAB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Gabon,GAB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Gabon,GAB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Gabon,GAB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+"Gambia, The",GMB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.96,hospital_beds_per_1000
+"Gambia, The",GMB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+"Gambia, The",GMB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+"Gambia, The",GMB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.08,hospital_beds_per_1000
+"Gambia, The",GMB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.02,hospital_beds_per_1000
+Georgia,GEO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.61,hospital_beds_per_1000
+Georgia,GEO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.22,hospital_beds_per_1000
+Georgia,GEO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.98,hospital_beds_per_1000
+Georgia,GEO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.64,hospital_beds_per_1000
+Georgia,GEO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.38,hospital_beds_per_1000
+Germany,DEU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,7.87,hospital_beds_per_1000
+Germany,DEU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,7.94,hospital_beds_per_1000
+Germany,DEU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,7.96,hospital_beds_per_1000
+Germany,DEU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,8.02,hospital_beds_per_1000
+Germany,DEU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,8.09,hospital_beds_per_1000
+Ghana,GHA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Ghana,GHA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Ghana,GHA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Ghana,GHA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Ghana,GHA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.69,hospital_beds_per_1000
+Gibraltar,GIB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Gibraltar,GIB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Gibraltar,GIB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Gibraltar,GIB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Gibraltar,GIB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Greece,GRC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.15,hospital_beds_per_1000
+Greece,GRC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.2,hospital_beds_per_1000
+Greece,GRC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.21,hospital_beds_per_1000
+Greece,GRC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.2,hospital_beds_per_1000
+Greece,GRC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.25,hospital_beds_per_1000
+Greenland,GRL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Greenland,GRL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Greenland,GRL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Greenland,GRL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Greenland,GRL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Grenada,GRD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Grenada,GRD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.34,hospital_beds_per_1000
+Grenada,GRD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.33,hospital_beds_per_1000
+Grenada,GRD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.33,hospital_beds_per_1000
+Grenada,GRD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.52,hospital_beds_per_1000
+Guam,GUM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Guam,GUM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Guam,GUM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Guam,GUM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Guam,GUM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Guatemala,GTM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.47,hospital_beds_per_1000
+Guatemala,GTM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.44,hospital_beds_per_1000
+Guatemala,GTM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.45,hospital_beds_per_1000
+Guatemala,GTM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Guatemala,GTM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.59,hospital_beds_per_1000
+Guinea,GIN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Guinea,GIN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Guinea,GIN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Guinea,GIN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Guinea,GIN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Guinea-Bissau,GNB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Guinea-Bissau,GNB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Guinea-Bissau,GNB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Guinea-Bissau,GNB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Guinea-Bissau,GNB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Guyana,GUY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.15,hospital_beds_per_1000
+Guyana,GUY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.68,hospital_beds_per_1000
+Guyana,GUY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.73,hospital_beds_per_1000
+Guyana,GUY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.74,hospital_beds_per_1000
+Guyana,GUY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.75,hospital_beds_per_1000
+Haiti,HTI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.89,hospital_beds_per_1000
+Haiti,HTI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.29,hospital_beds_per_1000
+Haiti,HTI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Haiti,HTI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Haiti,HTI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Honduras,HND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.65,hospital_beds_per_1000
+Honduras,HND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.65,hospital_beds_per_1000
+Honduras,HND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.64,hospital_beds_per_1000
+Honduras,HND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.63,hospital_beds_per_1000
+Honduras,HND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.6,hospital_beds_per_1000
+"Hong Kong SAR, China",HKG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+"Hong Kong SAR, China",HKG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+"Hong Kong SAR, China",HKG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+"Hong Kong SAR, China",HKG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+"Hong Kong SAR, China",HKG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Hungary,HUN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,6.91,hospital_beds_per_1000
+Hungary,HUN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,6.95,hospital_beds_per_1000
+Hungary,HUN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,7.02,hospital_beds_per_1000
+Hungary,HUN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,7.0,hospital_beds_per_1000
+Hungary,HUN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,7.0,hospital_beds_per_1000
+Iceland,ISL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.8,hospital_beds_per_1000
+Iceland,ISL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.87,hospital_beds_per_1000
+Iceland,ISL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.06,hospital_beds_per_1000
+Iceland,ISL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.13,hospital_beds_per_1000
+Iceland,ISL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.12,hospital_beds_per_1000
+India,IND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.62,hospital_beds_per_1000
+India,IND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.64,hospital_beds_per_1000
+India,IND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.66,hospital_beds_per_1000
+India,IND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.68,hospital_beds_per_1000
+India,IND,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.7,hospital_beds_per_1000
+Indonesia,IDN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.16,hospital_beds_per_1000
+Indonesia,IDN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.15,hospital_beds_per_1000
+Indonesia,IDN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.02,hospital_beds_per_1000
+Indonesia,IDN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.97,hospital_beds_per_1000
+Indonesia,IDN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.95,hospital_beds_per_1000
+"Iran, Islamic Rep.",IRN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.85,hospital_beds_per_1000
+"Iran, Islamic Rep.",IRN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.93,hospital_beds_per_1000
+"Iran, Islamic Rep.",IRN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.9,hospital_beds_per_1000
+"Iran, Islamic Rep.",IRN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.88,hospital_beds_per_1000
+"Iran, Islamic Rep.",IRN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.79,hospital_beds_per_1000
+Iraq,IRQ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Iraq,IRQ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.06,hospital_beds_per_1000
+Iraq,IRQ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.06,hospital_beds_per_1000
+Iraq,IRQ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Iraq,IRQ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Ireland,IRL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.88,hospital_beds_per_1000
+Ireland,IRL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.97,hospital_beds_per_1000
+Ireland,IRL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.97,hospital_beds_per_1000
+Ireland,IRL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.95,hospital_beds_per_1000
+Ireland,IRL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.92,hospital_beds_per_1000
+Isle of Man,IMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Isle of Man,IMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Isle of Man,IMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Isle of Man,IMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Isle of Man,IMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Israel,ISR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.1,hospital_beds_per_1000
+Israel,ISR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.1,hospital_beds_per_1000
+Israel,ISR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.14,hospital_beds_per_1000
+Israel,ISR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.11,hospital_beds_per_1000
+Israel,ISR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.15,hospital_beds_per_1000
+Italy,ITA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.14,hospital_beds_per_1000
+Italy,ITA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.15,hospital_beds_per_1000
+Italy,ITA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.19,hospital_beds_per_1000
+Italy,ITA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.18,hospital_beds_per_1000
+Italy,ITA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.2,hospital_beds_per_1000
+Jamaica,JAM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.72,hospital_beds_per_1000
+Jamaica,JAM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.69,hospital_beds_per_1000
+Jamaica,JAM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.71,hospital_beds_per_1000
+Jamaica,JAM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.73,hospital_beds_per_1000
+Jamaica,JAM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.71,hospital_beds_per_1000
+Japan,JPN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,12.79,hospital_beds_per_1000
+Japan,JPN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,12.93,hospital_beds_per_1000
+Japan,JPN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,13.01,hospital_beds_per_1000
+Japan,JPN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,13.09,hospital_beds_per_1000
+Japan,JPN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,13.15,hospital_beds_per_1000
+Jordan,JOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.36,hospital_beds_per_1000
+Jordan,JOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.41,hospital_beds_per_1000
+Jordan,JOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.45,hospital_beds_per_1000
+Jordan,JOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.37,hospital_beds_per_1000
+Jordan,JOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.38,hospital_beds_per_1000
+Kazakhstan,KAZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.01,hospital_beds_per_1000
+Kazakhstan,KAZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.2,hospital_beds_per_1000
+Kazakhstan,KAZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,5.33,hospital_beds_per_1000
+Kazakhstan,KAZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,5.45,hospital_beds_per_1000
+Kazakhstan,KAZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,5.67,hospital_beds_per_1000
+Kenya,KEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.33,hospital_beds_per_1000
+Kenya,KEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Kenya,KEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Kenya,KEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Kenya,KEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Kiribati,KIR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Kiribati,KIR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Kiribati,KIR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Kiribati,KIR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.86,hospital_beds_per_1000
+Kiribati,KIR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+"Korea, Dem. People's Rep.",PRK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+"Korea, Dem. People's Rep.",PRK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,12.8,hospital_beds_per_1000
+"Korea, Dem. People's Rep.",PRK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+"Korea, Dem. People's Rep.",PRK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+"Korea, Dem. People's Rep.",PRK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+"Korea, Rep.",KOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,12.43,hospital_beds_per_1000
+"Korea, Rep.",KOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,12.43,hospital_beds_per_1000
+"Korea, Rep.",KOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,12.26,hospital_beds_per_1000
+"Korea, Rep.",KOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,11.97,hospital_beds_per_1000
+"Korea, Rep.",KOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,11.62,hospital_beds_per_1000
+Kosovo,XKX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Kosovo,XKX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Kosovo,XKX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Kosovo,XKX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Kosovo,XKX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Kuwait,KWT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.0,hospital_beds_per_1000
+Kuwait,KWT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.01,hospital_beds_per_1000
+Kuwait,KWT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.05,hospital_beds_per_1000
+Kuwait,KWT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.08,hospital_beds_per_1000
+Kuwait,KWT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.18,hospital_beds_per_1000
+Kyrgyz Republic,KGZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.09,hospital_beds_per_1000
+Kyrgyz Republic,KGZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.2,hospital_beds_per_1000
+Kyrgyz Republic,KGZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.33,hospital_beds_per_1000
+Kyrgyz Republic,KGZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.45,hospital_beds_per_1000
+Kyrgyz Republic,KGZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.48,hospital_beds_per_1000
+Lao PDR,LAO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.68,hospital_beds_per_1000
+Lao PDR,LAO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.46,hospital_beds_per_1000
+Lao PDR,LAO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.58,hospital_beds_per_1000
+Lao PDR,LAO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.21,hospital_beds_per_1000
+Lao PDR,LAO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.15,hospital_beds_per_1000
+Latvia,LVA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.42,hospital_beds_per_1000
+Latvia,LVA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.49,hospital_beds_per_1000
+Latvia,LVA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,5.57,hospital_beds_per_1000
+Latvia,LVA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,5.72,hospital_beds_per_1000
+Latvia,LVA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,5.69,hospital_beds_per_1000
+Lebanon,LBN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.73,hospital_beds_per_1000
+Lebanon,LBN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.73,hospital_beds_per_1000
+Lebanon,LBN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.73,hospital_beds_per_1000
+Lebanon,LBN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.73,hospital_beds_per_1000
+Lebanon,LBN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.37,hospital_beds_per_1000
+Lesotho,LSO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Lesotho,LSO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Lesotho,LSO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Lesotho,LSO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Lesotho,LSO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Liberia,LBR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Liberia,LBR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.64,hospital_beds_per_1000
+Liberia,LBR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Liberia,LBR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.63,hospital_beds_per_1000
+Liberia,LBR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Libya,LBY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.2,hospital_beds_per_1000
+Libya,LBY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.2,hospital_beds_per_1000
+Libya,LBY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.2,hospital_beds_per_1000
+Libya,LBY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.7,hospital_beds_per_1000
+Libya,LBY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.7,hospital_beds_per_1000
+Liechtenstein,LIE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Liechtenstein,LIE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Liechtenstein,LIE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Liechtenstein,LIE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Liechtenstein,LIE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Lithuania,LTU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,6.34,hospital_beds_per_1000
+Lithuania,LTU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,6.43,hospital_beds_per_1000
+Lithuania,LTU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,6.56,hospital_beds_per_1000
+Lithuania,LTU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,6.69,hospital_beds_per_1000
+Lithuania,LTU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,6.96,hospital_beds_per_1000
+Luxembourg,LUX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.26,hospital_beds_per_1000
+Luxembourg,LUX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.51,hospital_beds_per_1000
+Luxembourg,LUX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.66,hospital_beds_per_1000
+Luxembourg,LUX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.81,hospital_beds_per_1000
+Luxembourg,LUX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.96,hospital_beds_per_1000
+"Macao SAR, China",MAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+"Macao SAR, China",MAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+"Macao SAR, China",MAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+"Macao SAR, China",MAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+"Macao SAR, China",MAC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Madagascar,MDG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Madagascar,MDG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Madagascar,MDG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Madagascar,MDG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Madagascar,MDG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Malawi,MWI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Malawi,MWI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Malawi,MWI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Malawi,MWI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Malawi,MWI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Malaysia,MYS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.9,hospital_beds_per_1000
+Malaysia,MYS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.9,hospital_beds_per_1000
+Malaysia,MYS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.89,hospital_beds_per_1000
+Malaysia,MYS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.88,hospital_beds_per_1000
+Malaysia,MYS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.86,hospital_beds_per_1000
+Maldives,MDV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,6.36,hospital_beds_per_1000
+Maldives,MDV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.95,hospital_beds_per_1000
+Maldives,MDV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.94,hospital_beds_per_1000
+Maldives,MDV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.94,hospital_beds_per_1000
+Maldives,MDV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.95,hospital_beds_per_1000
+Mali,MLI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Mali,MLI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.25,hospital_beds_per_1000
+Mali,MLI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.22,hospital_beds_per_1000
+Mali,MLI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.23,hospital_beds_per_1000
+Mali,MLI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.25,hospital_beds_per_1000
+Malta,MLT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.1,hospital_beds_per_1000
+Malta,MLT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.31,hospital_beds_per_1000
+Malta,MLT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.49,hospital_beds_per_1000
+Malta,MLT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.67,hospital_beds_per_1000
+Malta,MLT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.59,hospital_beds_per_1000
+Marshall Islands,MHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Marshall Islands,MHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Marshall Islands,MHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Marshall Islands,MHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Marshall Islands,MHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Mauritania,MRT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Mauritania,MRT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Mauritania,MRT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Mauritania,MRT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Mauritania,MRT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Mauritius,MUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.66,hospital_beds_per_1000
+Mauritius,MUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.56,hospital_beds_per_1000
+Mauritius,MUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.52,hospital_beds_per_1000
+Mauritius,MUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.51,hospital_beds_per_1000
+Mauritius,MUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.47,hospital_beds_per_1000
+Mexico,MEX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.96,hospital_beds_per_1000
+Mexico,MEX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.98,hospital_beds_per_1000
+Mexico,MEX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.99,hospital_beds_per_1000
+Mexico,MEX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.0,hospital_beds_per_1000
+Mexico,MEX,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.0,hospital_beds_per_1000
+"Micronesia, Fed. Sts.",FSM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+"Micronesia, Fed. Sts.",FSM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+"Micronesia, Fed. Sts.",FSM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+"Micronesia, Fed. Sts.",FSM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+"Micronesia, Fed. Sts.",FSM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Moldova,MDA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.8,hospital_beds_per_1000
+Moldova,MDA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.75,hospital_beds_per_1000
+Moldova,MDA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,5.76,hospital_beds_per_1000
+Moldova,MDA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,5.81,hospital_beds_per_1000
+Moldova,MDA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,5.72,hospital_beds_per_1000
+Monaco,MCO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Monaco,MCO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Monaco,MCO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Monaco,MCO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Monaco,MCO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Mongolia,MNG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,7.94,hospital_beds_per_1000
+Mongolia,MNG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,7.86,hospital_beds_per_1000
+Mongolia,MNG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,7.7,hospital_beds_per_1000
+Mongolia,MNG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,7.55,hospital_beds_per_1000
+Mongolia,MNG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,7.3,hospital_beds_per_1000
+Montenegro,MNE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.92,hospital_beds_per_1000
+Montenegro,MNE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.95,hospital_beds_per_1000
+Montenegro,MNE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.88,hospital_beds_per_1000
+Montenegro,MNE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.92,hospital_beds_per_1000
+Montenegro,MNE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.89,hospital_beds_per_1000
+Morocco,MAR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.7,hospital_beds_per_1000
+Morocco,MAR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.71,hospital_beds_per_1000
+Morocco,MAR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.72,hospital_beds_per_1000
+Morocco,MAR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Morocco,MAR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Mozambique,MOZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.72,hospital_beds_per_1000
+Mozambique,MOZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.77,hospital_beds_per_1000
+Mozambique,MOZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.77,hospital_beds_per_1000
+Mozambique,MOZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.79,hospital_beds_per_1000
+Mozambique,MOZ,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.78,hospital_beds_per_1000
+Myanmar,MMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.05,hospital_beds_per_1000
+Myanmar,MMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.06,hospital_beds_per_1000
+Myanmar,MMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.06,hospital_beds_per_1000
+Myanmar,MMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.07,hospital_beds_per_1000
+Myanmar,MMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.07,hospital_beds_per_1000
+Namibia,NAM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Namibia,NAM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Namibia,NAM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Namibia,NAM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Namibia,NAM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Nauru,NRU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Nauru,NRU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Nauru,NRU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Nauru,NRU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Nauru,NRU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Nepal,NPL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.29,hospital_beds_per_1000
+Nepal,NPL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.29,hospital_beds_per_1000
+Nepal,NPL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.29,hospital_beds_per_1000
+Nepal,NPL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.28,hospital_beds_per_1000
+Nepal,NPL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.25,hospital_beds_per_1000
+Netherlands,NLD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.99,hospital_beds_per_1000
+Netherlands,NLD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.15,hospital_beds_per_1000
+Netherlands,NLD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.24,hospital_beds_per_1000
+Netherlands,NLD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.38,hospital_beds_per_1000
+Netherlands,NLD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.46,hospital_beds_per_1000
+New Caledonia,NCL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+New Caledonia,NCL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+New Caledonia,NCL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+New Caledonia,NCL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+New Caledonia,NCL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+New Zealand,NZL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.54,hospital_beds_per_1000
+New Zealand,NZL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.59,hospital_beds_per_1000
+New Zealand,NZL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.7,hospital_beds_per_1000
+New Zealand,NZL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.72,hospital_beds_per_1000
+New Zealand,NZL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.7,hospital_beds_per_1000
+Nicaragua,NIC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.98,hospital_beds_per_1000
+Nicaragua,NIC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.95,hospital_beds_per_1000
+Nicaragua,NIC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.92,hospital_beds_per_1000
+Nicaragua,NIC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.91,hospital_beds_per_1000
+Nicaragua,NIC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.92,hospital_beds_per_1000
+Niger,NER,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.29,hospital_beds_per_1000
+Niger,NER,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.24,hospital_beds_per_1000
+Niger,NER,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.18,hospital_beds_per_1000
+Niger,NER,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.3,hospital_beds_per_1000
+Niger,NER,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.26,hospital_beds_per_1000
+Nigeria,NGA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Nigeria,NGA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Nigeria,NGA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Nigeria,NGA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Nigeria,NGA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+North Macedonia,MKD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.67,hospital_beds_per_1000
+North Macedonia,MKD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.56,hospital_beds_per_1000
+North Macedonia,MKD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.57,hospital_beds_per_1000
+North Macedonia,MKD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.62,hospital_beds_per_1000
+North Macedonia,MKD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.59,hospital_beds_per_1000
+Northern Mariana Islands,MNP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Northern Mariana Islands,MNP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Northern Mariana Islands,MNP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Northern Mariana Islands,MNP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Northern Mariana Islands,MNP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Norway,NOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.48,hospital_beds_per_1000
+Norway,NOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.52,hospital_beds_per_1000
+Norway,NOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.6,hospital_beds_per_1000
+Norway,NOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.68,hospital_beds_per_1000
+Norway,NOR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.76,hospital_beds_per_1000
+Oman,OMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.1,hospital_beds_per_1000
+Oman,OMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.09,hospital_beds_per_1000
+Oman,OMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.11,hospital_beds_per_1000
+Oman,OMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.15,hospital_beds_per_1000
+Oman,OMN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.19,hospital_beds_per_1000
+Pakistan,PAK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.5,hospital_beds_per_1000
+Pakistan,PAK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.5,hospital_beds_per_1000
+Pakistan,PAK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.5,hospital_beds_per_1000
+Pakistan,PAK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.49,hospital_beds_per_1000
+Pakistan,PAK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.46,hospital_beds_per_1000
+Palau,PLW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Palau,PLW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Palau,PLW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Palau,PLW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Palau,PLW,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Panama,PAN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.94,hospital_beds_per_1000
+Panama,PAN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.96,hospital_beds_per_1000
+Panama,PAN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.15,hospital_beds_per_1000
+Panama,PAN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.06,hospital_beds_per_1000
+Panama,PAN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.09,hospital_beds_per_1000
+Papua New Guinea,PNG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.17,hospital_beds_per_1000
+Papua New Guinea,PNG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Papua New Guinea,PNG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Papua New Guinea,PNG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Papua New Guinea,PNG,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Paraguay,PRY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.91,hospital_beds_per_1000
+Paraguay,PRY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.9,hospital_beds_per_1000
+Paraguay,PRY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.89,hospital_beds_per_1000
+Paraguay,PRY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.89,hospital_beds_per_1000
+Paraguay,PRY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.85,hospital_beds_per_1000
+Peru,PER,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.6,hospital_beds_per_1000
+Peru,PER,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.61,hospital_beds_per_1000
+Peru,PER,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.63,hospital_beds_per_1000
+Peru,PER,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.64,hospital_beds_per_1000
+Peru,PER,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.6,hospital_beds_per_1000
+Philippines,PHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.98,hospital_beds_per_1000
+Philippines,PHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.94,hospital_beds_per_1000
+Philippines,PHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.98,hospital_beds_per_1000
+Philippines,PHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.03,hospital_beds_per_1000
+Philippines,PHL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.93,hospital_beds_per_1000
+Poland,POL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,6.13,hospital_beds_per_1000
+Poland,POL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,6.49,hospital_beds_per_1000
+Poland,POL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,6.58,hospital_beds_per_1000
+Poland,POL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,6.59,hospital_beds_per_1000
+Poland,POL,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,6.59,hospital_beds_per_1000
+Portugal,PRT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.49,hospital_beds_per_1000
+Portugal,PRT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.43,hospital_beds_per_1000
+Portugal,PRT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.38,hospital_beds_per_1000
+Portugal,PRT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.39,hospital_beds_per_1000
+Portugal,PRT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.36,hospital_beds_per_1000
+Puerto Rico (US),PRI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Puerto Rico (US),PRI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Puerto Rico (US),PRI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Puerto Rico (US),PRI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Puerto Rico (US),PRI,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Qatar,QAT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.12,hospital_beds_per_1000
+Qatar,QAT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.03,hospital_beds_per_1000
+Qatar,QAT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.94,hospital_beds_per_1000
+Qatar,QAT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.01,hospital_beds_per_1000
+Qatar,QAT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.01,hospital_beds_per_1000
+Romania,ROU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,7.01,hospital_beds_per_1000
+Romania,ROU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,6.92,hospital_beds_per_1000
+Romania,ROU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,6.86,hospital_beds_per_1000
+Romania,ROU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,6.81,hospital_beds_per_1000
+Romania,ROU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,6.77,hospital_beds_per_1000
+Russian Federation,RUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,7.03,hospital_beds_per_1000
+Russian Federation,RUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,7.14,hospital_beds_per_1000
+Russian Federation,RUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,7.21,hospital_beds_per_1000
+Russian Federation,RUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,7.37,hospital_beds_per_1000
+Russian Federation,RUS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,7.55,hospital_beds_per_1000
+Rwanda,RWA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.73,hospital_beds_per_1000
+Rwanda,RWA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.73,hospital_beds_per_1000
+Rwanda,RWA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.72,hospital_beds_per_1000
+Rwanda,RWA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.73,hospital_beds_per_1000
+Rwanda,RWA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.74,hospital_beds_per_1000
+Samoa,WSM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Samoa,WSM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Samoa,WSM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Samoa,WSM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Samoa,WSM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+San Marino,SMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+San Marino,SMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+San Marino,SMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+San Marino,SMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+San Marino,SMR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Sao Tome and Principe,STP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.91,hospital_beds_per_1000
+Sao Tome and Principe,STP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Sao Tome and Principe,STP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Sao Tome and Principe,STP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Sao Tome and Principe,STP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Saudi Arabia,SAU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.53,hospital_beds_per_1000
+Saudi Arabia,SAU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.48,hospital_beds_per_1000
+Saudi Arabia,SAU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.37,hospital_beds_per_1000
+Saudi Arabia,SAU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.31,hospital_beds_per_1000
+Saudi Arabia,SAU,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.32,hospital_beds_per_1000
+Senegal,SEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.71,hospital_beds_per_1000
+Senegal,SEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Senegal,SEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Senegal,SEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.72,hospital_beds_per_1000
+Senegal,SEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.68,hospital_beds_per_1000
+Serbia,SRB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.67,hospital_beds_per_1000
+Serbia,SRB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.61,hospital_beds_per_1000
+Serbia,SRB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,5.57,hospital_beds_per_1000
+Serbia,SRB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,5.54,hospital_beds_per_1000
+Serbia,SRB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,5.52,hospital_beds_per_1000
+Seychelles,SYC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.88,hospital_beds_per_1000
+Seychelles,SYC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.9,hospital_beds_per_1000
+Seychelles,SYC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.69,hospital_beds_per_1000
+Seychelles,SYC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.75,hospital_beds_per_1000
+Seychelles,SYC,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.82,hospital_beds_per_1000
+Sierra Leone,SLE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Sierra Leone,SLE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Sierra Leone,SLE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Sierra Leone,SLE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Sierra Leone,SLE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Singapore,SGP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.69,hospital_beds_per_1000
+Singapore,SGP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.58,hospital_beds_per_1000
+Singapore,SGP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.49,hospital_beds_per_1000
+Singapore,SGP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.5,hospital_beds_per_1000
+Singapore,SGP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.4,hospital_beds_per_1000
+Sint Maarten (Dutch part),SXM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Sint Maarten (Dutch part),SXM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Sint Maarten (Dutch part),SXM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Sint Maarten (Dutch part),SXM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Sint Maarten (Dutch part),SXM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Slovak Republic,SVK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,5.76,hospital_beds_per_1000
+Slovak Republic,SVK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.7,hospital_beds_per_1000
+Slovak Republic,SVK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,5.82,hospital_beds_per_1000
+Slovak Republic,SVK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,5.79,hospital_beds_per_1000
+Slovak Republic,SVK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,5.75,hospital_beds_per_1000
+Slovenia,SVN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.44,hospital_beds_per_1000
+Slovenia,SVN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.44,hospital_beds_per_1000
+Slovenia,SVN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.51,hospital_beds_per_1000
+Slovenia,SVN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.5,hospital_beds_per_1000
+Slovenia,SVN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.52,hospital_beds_per_1000
+Solomon Islands,SLB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Solomon Islands,SLB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Solomon Islands,SLB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Solomon Islands,SLB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Solomon Islands,SLB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+"Somalia, Fed. Rep.",SOM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.87,hospital_beds_per_1000
+"Somalia, Fed. Rep.",SOM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.87,hospital_beds_per_1000
+"Somalia, Fed. Rep.",SOM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.87,hospital_beds_per_1000
+"Somalia, Fed. Rep.",SOM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.87,hospital_beds_per_1000
+"Somalia, Fed. Rep.",SOM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.87,hospital_beds_per_1000
+South Africa,ZAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+South Africa,ZAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+South Africa,ZAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+South Africa,ZAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+South Africa,ZAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+South Sudan,SSD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+South Sudan,SSD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+South Sudan,SSD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+South Sudan,SSD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+South Sudan,SSD,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Spain,ESP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.93,hospital_beds_per_1000
+Spain,ESP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.95,hospital_beds_per_1000
+Spain,ESP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.96,hospital_beds_per_1000
+Spain,ESP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.95,hospital_beds_per_1000
+Spain,ESP,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.96,hospital_beds_per_1000
+Sri Lanka,LKA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.86,hospital_beds_per_1000
+Sri Lanka,LKA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.81,hospital_beds_per_1000
+Sri Lanka,LKA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.77,hospital_beds_per_1000
+Sri Lanka,LKA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.72,hospital_beds_per_1000
+Sri Lanka,LKA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.71,hospital_beds_per_1000
+St. Kitts and Nevis,KNA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.39,hospital_beds_per_1000
+St. Kitts and Nevis,KNA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,5.08,hospital_beds_per_1000
+St. Kitts and Nevis,KNA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,5.08,hospital_beds_per_1000
+St. Kitts and Nevis,KNA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,5.07,hospital_beds_per_1000
+St. Kitts and Nevis,KNA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,5.07,hospital_beds_per_1000
+St. Lucia,LCA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+St. Lucia,LCA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+St. Lucia,LCA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.32,hospital_beds_per_1000
+St. Lucia,LCA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+St. Lucia,LCA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.43,hospital_beds_per_1000
+St. Martin (French part),MAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+St. Martin (French part),MAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+St. Martin (French part),MAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+St. Martin (French part),MAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+St. Martin (French part),MAF,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+St. Vincent and the Grenadines,VCT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.99,hospital_beds_per_1000
+St. Vincent and the Grenadines,VCT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+St. Vincent and the Grenadines,VCT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+St. Vincent and the Grenadines,VCT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.46,hospital_beds_per_1000
+St. Vincent and the Grenadines,VCT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.43,hospital_beds_per_1000
+Sudan,SDN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.66,hospital_beds_per_1000
+Sudan,SDN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.66,hospital_beds_per_1000
+Sudan,SDN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.74,hospital_beds_per_1000
+Sudan,SDN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.67,hospital_beds_per_1000
+Sudan,SDN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.67,hospital_beds_per_1000
+Suriname,SUR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.69,hospital_beds_per_1000
+Suriname,SUR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.85,hospital_beds_per_1000
+Suriname,SUR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.83,hospital_beds_per_1000
+Suriname,SUR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.8,hospital_beds_per_1000
+Suriname,SUR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.9,hospital_beds_per_1000
+Sweden,SWE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.07,hospital_beds_per_1000
+Sweden,SWE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.13,hospital_beds_per_1000
+Sweden,SWE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.21,hospital_beds_per_1000
+Sweden,SWE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.34,hospital_beds_per_1000
+Sweden,SWE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.44,hospital_beds_per_1000
+Switzerland,CHE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.59,hospital_beds_per_1000
+Switzerland,CHE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.63,hospital_beds_per_1000
+Switzerland,CHE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.65,hospital_beds_per_1000
+Switzerland,CHE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.69,hospital_beds_per_1000
+Switzerland,CHE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.73,hospital_beds_per_1000
+Syrian Arab Republic,SYR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.26,hospital_beds_per_1000
+Syrian Arab Republic,SYR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.26,hospital_beds_per_1000
+Syrian Arab Republic,SYR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.4,hospital_beds_per_1000
+Syrian Arab Republic,SYR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.46,hospital_beds_per_1000
+Syrian Arab Republic,SYR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.47,hospital_beds_per_1000
+Tajikistan,TJK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.26,hospital_beds_per_1000
+Tajikistan,TJK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.34,hospital_beds_per_1000
+Tajikistan,TJK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.41,hospital_beds_per_1000
+Tajikistan,TJK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.49,hospital_beds_per_1000
+Tajikistan,TJK,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.52,hospital_beds_per_1000
+Tanzania,TZA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.62,hospital_beds_per_1000
+Tanzania,TZA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.44,hospital_beds_per_1000
+Tanzania,TZA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Tanzania,TZA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.46,hospital_beds_per_1000
+Tanzania,TZA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Thailand,THA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.21,hospital_beds_per_1000
+Thailand,THA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.1,hospital_beds_per_1000
+Thailand,THA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.12,hospital_beds_per_1000
+Thailand,THA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.0,hospital_beds_per_1000
+Thailand,THA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.13,hospital_beds_per_1000
+Timor-Leste,TLS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.41,hospital_beds_per_1000
+Timor-Leste,TLS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.42,hospital_beds_per_1000
+Timor-Leste,TLS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.42,hospital_beds_per_1000
+Timor-Leste,TLS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Timor-Leste,TLS,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.39,hospital_beds_per_1000
+Togo,TGO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.56,hospital_beds_per_1000
+Togo,TGO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.63,hospital_beds_per_1000
+Togo,TGO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.64,hospital_beds_per_1000
+Togo,TGO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.65,hospital_beds_per_1000
+Togo,TGO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.64,hospital_beds_per_1000
+Tonga,TON,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Tonga,TON,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Tonga,TON,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Tonga,TON,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Tonga,TON,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Trinidad and Tobago,TTO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.95,hospital_beds_per_1000
+Trinidad and Tobago,TTO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.44,hospital_beds_per_1000
+Trinidad and Tobago,TTO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.47,hospital_beds_per_1000
+Trinidad and Tobago,TTO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.46,hospital_beds_per_1000
+Trinidad and Tobago,TTO,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.43,hospital_beds_per_1000
+Tunisia,TUN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.82,hospital_beds_per_1000
+Tunisia,TUN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.82,hospital_beds_per_1000
+Tunisia,TUN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.81,hospital_beds_per_1000
+Tunisia,TUN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.79,hospital_beds_per_1000
+Tunisia,TUN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.8,hospital_beds_per_1000
+Turkiye,TUR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.78,hospital_beds_per_1000
+Turkiye,TUR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.75,hospital_beds_per_1000
+Turkiye,TUR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.72,hospital_beds_per_1000
+Turkiye,TUR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.67,hospital_beds_per_1000
+Turkiye,TUR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.62,hospital_beds_per_1000
+Turkmenistan,TKM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,3.73,hospital_beds_per_1000
+Turkmenistan,TKM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,3.82,hospital_beds_per_1000
+Turkmenistan,TKM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,3.86,hospital_beds_per_1000
+Turkmenistan,TKM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,3.88,hospital_beds_per_1000
+Turkmenistan,TKM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,3.94,hospital_beds_per_1000
+Turks and Caicos Islands,TCA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Turks and Caicos Islands,TCA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Turks and Caicos Islands,TCA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Turks and Caicos Islands,TCA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Turks and Caicos Islands,TCA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Tuvalu,TUV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Tuvalu,TUV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Tuvalu,TUV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Tuvalu,TUV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Tuvalu,TUV,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Uganda,UGA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Uganda,UGA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Uganda,UGA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Uganda,UGA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Uganda,UGA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Ukraine,UKR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,6.56,hospital_beds_per_1000
+Ukraine,UKR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,6.68,hospital_beds_per_1000
+Ukraine,UKR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,6.8,hospital_beds_per_1000
+Ukraine,UKR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,6.91,hospital_beds_per_1000
+Ukraine,UKR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,7.27,hospital_beds_per_1000
+United Arab Emirates,ARE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.83,hospital_beds_per_1000
+United Arab Emirates,ARE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.6,hospital_beds_per_1000
+United Arab Emirates,ARE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.46,hospital_beds_per_1000
+United Arab Emirates,ARE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.39,hospital_beds_per_1000
+United Arab Emirates,ARE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.43,hospital_beds_per_1000
+United Kingdom,GBR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.44,hospital_beds_per_1000
+United Kingdom,GBR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.48,hospital_beds_per_1000
+United Kingdom,GBR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.53,hospital_beds_per_1000
+United Kingdom,GBR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.56,hospital_beds_per_1000
+United Kingdom,GBR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.6,hospital_beds_per_1000
+United States,USA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.72,hospital_beds_per_1000
+United States,USA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.76,hospital_beds_per_1000
+United States,USA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.8,hospital_beds_per_1000
+United States,USA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.72,hospital_beds_per_1000
+United States,USA,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.75,hospital_beds_per_1000
+Uruguay,URY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,2.5,hospital_beds_per_1000
+Uruguay,URY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,2.52,hospital_beds_per_1000
+Uruguay,URY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.47,hospital_beds_per_1000
+Uruguay,URY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.51,hospital_beds_per_1000
+Uruguay,URY,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.48,hospital_beds_per_1000
+Uzbekistan,UZB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,4.65,hospital_beds_per_1000
+Uzbekistan,UZB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,4.74,hospital_beds_per_1000
+Uzbekistan,UZB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,4.26,hospital_beds_per_1000
+Uzbekistan,UZB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,4.22,hospital_beds_per_1000
+Uzbekistan,UZB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,4.22,hospital_beds_per_1000
+Vanuatu,VUT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Vanuatu,VUT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Vanuatu,VUT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Vanuatu,VUT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Vanuatu,VUT,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+"Venezuela, RB",VEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.93,hospital_beds_per_1000
+"Venezuela, RB",VEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.09,hospital_beds_per_1000
+"Venezuela, RB",VEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.91,hospital_beds_per_1000
+"Venezuela, RB",VEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.88,hospital_beds_per_1000
+"Venezuela, RB",VEN,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.75,hospital_beds_per_1000
+Viet Nam,VNM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Viet Nam,VNM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Viet Nam,VNM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,2.52,hospital_beds_per_1000
+Viet Nam,VNM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,2.47,hospital_beds_per_1000
+Viet Nam,VNM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,2.51,hospital_beds_per_1000
+Virgin Islands (U.S.),VIR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Virgin Islands (U.S.),VIR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Virgin Islands (U.S.),VIR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Virgin Islands (U.S.),VIR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Virgin Islands (U.S.),VIR,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+West Bank and Gaza,PSE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,1.29,hospital_beds_per_1000
+West Bank and Gaza,PSE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,1.33,hospital_beds_per_1000
+West Bank and Gaza,PSE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,1.32,hospital_beds_per_1000
+West Bank and Gaza,PSE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,1.28,hospital_beds_per_1000
+West Bank and Gaza,PSE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,1.28,hospital_beds_per_1000
+"Yemen, Rep.",YEM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+"Yemen, Rep.",YEM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+"Yemen, Rep.",YEM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+"Yemen, Rep.",YEM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+"Yemen, Rep.",YEM,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Zambia,ZMB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Zambia,ZMB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Zambia,ZMB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Zambia,ZMB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Zambia,ZMB,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000
+Zimbabwe,ZWE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,,hospital_beds_per_1000
+Zimbabwe,ZWE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,,hospital_beds_per_1000
+Zimbabwe,ZWE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,,hospital_beds_per_1000
+Zimbabwe,ZWE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,,hospital_beds_per_1000
+Zimbabwe,ZWE,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,,hospital_beds_per_1000

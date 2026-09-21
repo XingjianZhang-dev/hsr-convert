@@ -1,0 +1,17 @@
+variable,label,source,source_code,conceptual_dimension,direction,years_used,actionable,counterfactual_allowed,use_as_feature
+physicians_per_1000,"Physicians per 1,000 people",World Bank,SH.MED.PHYS.ZS,service_capacity,beneficial,"2015,2016,2017,2018,2019",True,True,True
+nurses_midwives_per_1000,"Nurses and midwives per 1,000 people",World Bank,SH.MED.NUMW.P3,service_capacity,beneficial,"2015,2016,2017,2018,2019",True,True,True
+hospital_beds_per_1000,"Hospital beds per 1,000 people",World Bank,SH.MED.BEDS.ZS,service_capacity,beneficial,"2015,2016,2017,2018,2019",True,True,True
+current_health_expenditure_per_capita_ppp,"Current health expenditure per capita, PPP",World Bank,SH.XPD.CHEX.PP.CD,health_financing,beneficial,"2015,2016,2017,2018,2019",True,True,True
+domestic_gov_health_expenditure_gdp,Domestic general government health expenditure as percent of GDP,World Bank,SH.XPD.GHED.GD.ZS,health_financing,beneficial,"2015,2016,2017,2018,2019",True,True,True
+out_of_pocket_expenditure_share,Out-of-pocket expenditure as percent of current health expenditure,World Bank,SH.XPD.OOPC.CH.ZS,equity_financial_protection,cost,"2015,2016,2017,2018,2019",True,True,True
+uhc_service_coverage_index,UHC service coverage index,World Bank,SH_UHC_SCI,service_coverage,beneficial,"2015,2016,2017,2018,2019",True,True,True
+measles_immunization_coverage,"Immunization, measles percent of children ages 12-23 months",World Bank,SH.IMM.MEAS,service_coverage,beneficial,"2015,2016,2017,2018,2019",True,True,True
+dpt_immunization_coverage,"Immunization, DPT percent of children ages 12-23 months",World Bank,SH.IMM.IDPT,service_coverage,beneficial,"2015,2016,2017,2018,2019",True,True,True
+age65_share,"Population ages 65 and above, percent of total",World Bank,SP.POP.65UP.TO.ZS,population_vulnerability,cost,"2015,2016,2017,2018,2019",False,False,True
+population_density,"Population density, people per sq. km of land area",World Bank,EN.POP.DNST,population_vulnerability,cost,"2015,2016,2017,2018,2019",False,False,True
+life_expectancy,"Life expectancy at birth, total",World Bank,SP.DYN.LE00.IN,baseline_health_status,beneficial,"2015,2016,2017,2018,2019",False,False,True
+under5_mortality,"Mortality rate, under-5, per 1,000 live births",World Bank,SH.DYN.MORT,baseline_health_status,cost,"2015,2016,2017,2018,2019",False,False,True
+adult_mortality_female,"Adult mortality rate, female, per 1,000 female adults",World Bank,SP.DYN.AMRT.FE,baseline_health_status,cost,"2015,2016,2017,2018,2019",False,False,True
+adult_mortality_male,"Adult mortality rate, male, per 1,000 male adults",World Bank,SP.DYN.AMRT.MA,baseline_health_status,cost,"2015,2016,2017,2018,2019",False,False,True
+gdp_per_capita_ppp,"GDP per capita, PPP, constant international dollars",World Bank,NY.GDP.PCAP.PP.KD,context_control,beneficial,"2015,2016,2017,2018,2019",False,False,False

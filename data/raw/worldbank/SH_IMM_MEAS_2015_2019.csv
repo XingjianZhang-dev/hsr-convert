@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,unit,obs_status,decimal
+Africa Eastern and Southern,AFE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,75.10350492525,,,0
+Africa Eastern and Southern,AFE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,74.3573875840774,,,0
+Africa Eastern and Southern,AFE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,73.868486258846,,,0
+Africa Eastern and Southern,AFE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,73.3576264307316,,,0
+Africa Eastern and Southern,AFE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,74.9218948103417,,,0
+Africa Western and Central,AFW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,65.3255201996163,,,0
+Africa Western and Central,AFW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,64.6016606406063,,,0
+Africa Western and Central,AFW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,64.1301869591889,,,0
+Africa Western and Central,AFW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,61.341725898591,,,0
+Africa Western and Central,AFW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,58.4023582703789,,,0
+Arab World,ARB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,83.9627132609503,,,0
+Arab World,ARB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,83.7870732517208,,,0
+Arab World,ARB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,85.1220209691553,,,0
+Arab World,ARB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,85.9158857943735,,,0
+Arab World,ARB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,83.7727683149625,,,0
+Caribbean small states,CSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,91.2079013543919,,,0
+Caribbean small states,CSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,90.403846995173,,,0
+Caribbean small states,CSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.8147974052834,,,0
+Caribbean small states,CSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,90.1188718124839,,,0
+Caribbean small states,CSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,91.5983141871466,,,0
+Central Europe and the Baltics,CEB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,93.203141695959,,,0
+Central Europe and the Baltics,CEB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.4512489051053,,,0
+Central Europe and the Baltics,CEB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,93.3658840818354,,,0
+Central Europe and the Baltics,CEB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.787892067317,,,0
+Central Europe and the Baltics,CEB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,94.1052227641202,,,0
+Early-demographic dividend,EAR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,87.7415637933133,,,0
+Early-demographic dividend,EAR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,87.65730025284,,,0
+Early-demographic dividend,EAR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,86.2922114070966,,,0
+Early-demographic dividend,EAR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,86.2092097108434,,,0
+Early-demographic dividend,EAR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,85.4995335914528,,,0
+East Asia & Pacific,EAS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,94.3457238736786,,,0
+East Asia & Pacific,EAS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,95.0338226459755,,,0
+East Asia & Pacific,EAS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.8274097141981,,,0
+East Asia & Pacific,EAS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,94.8224202778642,,,0
+East Asia & Pacific,EAS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,94.4121886800083,,,0
+East Asia & Pacific (excluding high income),EAP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,94.2532161814464,,,0
+East Asia & Pacific (excluding high income),EAP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.9474289376599,,,0
+East Asia & Pacific (excluding high income),EAP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.7379868392023,,,0
+East Asia & Pacific (excluding high income),EAP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,94.7412349116105,,,0
+East Asia & Pacific (excluding high income),EAP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,94.304504967774,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,94.1953087630551,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.9124258017639,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.6891711416049,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,94.693412384298,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,94.2639691618626,,,0
+Euro area,EMU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0986795947401,,,0
+Euro area,EMU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.6385396952266,,,0
+Euro area,EMU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.2279617516726,,,0
+Euro area,EMU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.351477610191,,,0
+Euro area,EMU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.2101888448113,,,0
+Europe & Central Asia,ECS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.4449505156826,,,0
+Europe & Central Asia,ECS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,95.0272637408286,,,0
+Europe & Central Asia,ECS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.9121874372641,,,0
+Europe & Central Asia,ECS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.0551830775807,,,0
+Europe & Central Asia,ECS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.5829187951126,,,0
+Europe & Central Asia (excluding high income),ECA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.9737330052569,,,0
+Europe & Central Asia (excluding high income),ECA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.8954353761726,,,0
+Europe & Central Asia (excluding high income),ECA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.8128197545557,,,0
+Europe & Central Asia (excluding high income),ECA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,90.3645667717708,,,0
+Europe & Central Asia (excluding high income),ECA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,91.7178474422499,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.1071031241091,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,95.4548818529929,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,95.4010554715549,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,92.742575370838,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.5953179291194,,,0
+European Union,EUU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,94.7320106520789,,,0
+European Union,EUU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.4541273020339,,,0
+European Union,EUU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.1606921421786,,,0
+European Union,EUU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.5767869729698,,,0
+European Union,EUU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.4801328627488,,,0
+Fragile and conflict affected situations,FCS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,66.7655985681529,,,0
+Fragile and conflict affected situations,FCS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,66.0983860956143,,,0
+Fragile and conflict affected situations,FCS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,66.703088830733,,,0
+Fragile and conflict affected situations,FCS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,64.297901058421,,,0
+Fragile and conflict affected situations,FCS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,62.8739555606113,,,0
+Heavily indebted poor countries (HIPC),HPC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,72.706017226617,,,0
+Heavily indebted poor countries (HIPC),HPC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,72.9072555939217,,,0
+Heavily indebted poor countries (HIPC),HPC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,73.4603693025124,,,0
+Heavily indebted poor countries (HIPC),HPC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,72.4460298111706,,,0
+Heavily indebted poor countries (HIPC),HPC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,73.2606655717777,,,0
+High income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,93.8246863499143,,,0
+High income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.5063927080207,,,0
+High income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.0903301256678,,,0
+High income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,94.1640919818211,,,0
+High income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,94.2207265517352,,,0
+IBRD only,IBD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,92.9746951025609,,,0
+IBRD only,IBD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0741063619717,,,0
+IBRD only,IBD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,91.4232254239474,,,0
+IBRD only,IBD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,91.5007154093047,,,0
+IBRD only,IBD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,91.0881018426943,,,0
+IDA & IBRD total,IBT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,85.5314229562118,,,0
+IDA & IBRD total,IBT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,85.6484760957512,,,0
+IDA & IBRD total,IBT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,84.4923028001761,,,0
+IDA & IBRD total,IBT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,84.1771919614558,,,0
+IDA & IBRD total,IBT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,83.8029547006563,,,0
+IDA blend,IDB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,71.8663273602455,,,0
+IDA blend,IDB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,70.5373400333993,,,0
+IDA blend,IDB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,68.3567952287616,,,0
+IDA blend,IDB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,66.9790105290022,,,0
+IDA blend,IDB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,64.6366674136691,,,0
+IDA only,IDX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,76.0928295826324,,,0
+IDA only,IDX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,76.2908147927123,,,0
+IDA only,IDX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,76.6348835245465,,,0
+IDA only,IDX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,75.7289248563196,,,0
+IDA only,IDX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,76.2222684547781,,,0
+IDA total,IDA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,74.6081829059567,,,0
+IDA total,IDA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,74.2505017570489,,,0
+IDA total,IDA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,73.6692678316284,,,0
+IDA total,IDA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,72.5638421420929,,,0
+IDA total,IDA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,72.0126400788556,,,0
+Late-demographic dividend,LTE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.2392763430672,,,0
+Late-demographic dividend,LTE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,97.4787803086646,,,0
+Late-demographic dividend,LTE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.9912519041206,,,0
+Late-demographic dividend,LTE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.8313881398251,,,0
+Late-demographic dividend,LTE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.8751476929774,,,0
+Latin America & Caribbean,LCN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,86.2499782210536,,,0
+Latin America & Caribbean,LCN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,91.1820987863132,,,0
+Latin America & Caribbean,LCN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,86.1649782031168,,,0
+Latin America & Caribbean,LCN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,92.6830804362452,,,0
+Latin America & Caribbean,LCN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.2499457681001,,,0
+Latin America & Caribbean (excluding high income),LAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,85.4159142694917,,,0
+Latin America & Caribbean (excluding high income),LAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,92.0108231322313,,,0
+Latin America & Caribbean (excluding high income),LAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,85.1357296397856,,,0
+Latin America & Caribbean (excluding high income),LAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,92.9276874399134,,,0
+Latin America & Caribbean (excluding high income),LAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.2424240221761,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,86.1058372872692,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,91.0937142697213,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,86.0124090840766,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,92.6097687925777,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.1809287459698,,,0
+Least developed countries: UN classification,LDC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,74.303432005065,,,0
+Least developed countries: UN classification,LDC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,74.4026087618109,,,0
+Least developed countries: UN classification,LDC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,74.2169728911149,,,0
+Least developed countries: UN classification,LDC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,73.5514579966294,,,0
+Least developed countries: UN classification,LDC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,74.3079336585395,,,0
+Low & middle income,LMY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,86.1995233576445,,,0
+Low & middle income,LMY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,86.4139227125396,,,0
+Low & middle income,LMY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,84.9271825668532,,,0
+Low & middle income,LMY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,84.664372859522,,,0
+Low & middle income,LMY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,84.2509566977173,,,0
+Low income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,72.4301201129635,,,0
+Low income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,72.624310469056,,,0
+Low income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,72.0999699959385,,,0
+Low income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,71.3897098959894,,,0
+Low income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,71.9694367000244,,,0
+Lower middle income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,85.994867818121,,,0
+Lower middle income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,85.025544949895,,,0
+Lower middle income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,83.1194015696946,,,0
+Lower middle income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,81.9164156433829,,,0
+Lower middle income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,80.9084685539869,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,83.0835683647808,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,83.1037974417694,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,82.6716595501779,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,83.0476400765259,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,81.6000956071714,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,82.2281507657586,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,82.1532813691499,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,81.7651892575799,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,82.1176680001682,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,80.6062445495914,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,82.0801992253981,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,82.0048629286358,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,81.6145432483024,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,81.9737188464499,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,80.4527998436728,,,0
+Middle income,MIC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,88.6574355487596,,,0
+Middle income,MIC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,88.7734460685195,,,0
+Middle income,MIC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,87.0736497500774,,,0
+Middle income,MIC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,86.8433533076095,,,0
+Middle income,MIC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,86.2288587139344,,,0
+North America,NAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,90.0,,,0
+North America,NAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,91.8212218455464,,,0
+North America,NAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.9112068305927,,,0
+North America,NAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,91.7344327584353,,,0
+North America,NAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,91.7336467494948,,,0
+Not classified,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Not classified,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Not classified,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Not classified,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Not classified,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+OECD members,OED,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,90.7379225442951,,,0
+OECD members,OED,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.4295096037073,,,0
+OECD members,OED,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,91.1923159919147,,,0
+OECD members,OED,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,94.2689433073871,,,0
+OECD members,OED,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,94.448587818676,,,0
+Other small states,OSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,83.8815597444917,,,0
+Other small states,OSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,85.4210444256049,,,0
+Other small states,OSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,85.5169174482869,,,0
+Other small states,OSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,84.2549605917303,,,0
+Other small states,OSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,85.1387597500497,,,0
+Pacific island small states,PSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,87.4003809340888,,,0
+Pacific island small states,PSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,85.0220404978222,,,0
+Pacific island small states,PSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,86.5294015144315,,,0
+Pacific island small states,PSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,86.2477532663595,,,0
+Pacific island small states,PSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,83.76673378147,,,0
+Post-demographic dividend,PST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,92.9769991777811,,,0
+Post-demographic dividend,PST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.6335170953469,,,0
+Post-demographic dividend,PST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,92.9637062978174,,,0
+Post-demographic dividend,PST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,91.2008134174183,,,0
+Post-demographic dividend,PST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,91.7444097420336,,,0
+Pre-demographic dividend,PRE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,71.1110778274737,,,0
+Pre-demographic dividend,PRE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,70.7321351179627,,,0
+Pre-demographic dividend,PRE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,69.2658588890498,,,0
+Pre-demographic dividend,PRE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,67.6789348890568,,,0
+Pre-demographic dividend,PRE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,66.9799944167005,,,0
+Small states,SST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,86.0249050408567,,,0
+Small states,SST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,86.3616946690294,,,0
+Small states,SST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,86.7883971148688,,,0
+Small states,SST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,85.8341484547567,,,0
+Small states,SST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,86.2208055657376,,,0
+South Asia,SAS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.2155709584117,,,0
+South Asia,SAS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.4797310634395,,,0
+South Asia,SAS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.8821463746617,,,0
+South Asia,SAS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,89.0241443121865,,,0
+South Asia,SAS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,88.1945047033721,,,0
+South Asia (IDA & IBRD),TSA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.2155709584117,,,0
+South Asia (IDA & IBRD),TSA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.4797310634395,,,0
+South Asia (IDA & IBRD),TSA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.8821463746617,,,0
+South Asia (IDA & IBRD),TSA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,89.0241443121865,,,0
+South Asia (IDA & IBRD),TSA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,88.1945047033721,,,0
+Sub-Saharan Africa,SSF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,71.0593846139011,,,0
+Sub-Saharan Africa,SSF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,70.2744708583412,,,0
+Sub-Saharan Africa,SSF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,69.7586398716598,,,0
+Sub-Saharan Africa,SSF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,68.2637307731822,,,0
+Sub-Saharan Africa,SSF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,67.9114004160667,,,0
+Sub-Saharan Africa (excluding high income),SSA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,72.6801998533272,,,0
+Sub-Saharan Africa (excluding high income),SSA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,71.9978671276895,,,0
+Sub-Saharan Africa (excluding high income),SSA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,70.8793770638166,,,0
+Sub-Saharan Africa (excluding high income),SSA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,69.4169500654508,,,0
+Sub-Saharan Africa (excluding high income),SSA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,69.1191644785112,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,71.0593846139011,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,70.2744708583412,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,69.7586398716598,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,68.2637307731822,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,67.9114004160667,,,0
+Upper middle income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,92.9602145439423,,,0
+Upper middle income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.585088042362,,,0
+Upper middle income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,93.2411403908456,,,0
+Upper middle income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,94.4144415225504,,,0
+Upper middle income,,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,94.326034197577,,,0
+World,WLD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,86.232004785671,,,0
+World,WLD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,86.4149162729794,,,0
+World,WLD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,85.3269880084551,,,0
+World,WLD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,85.0482052177225,,,0
+World,WLD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,84.7020079697608,,,0
+Afghanistan,AFG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,57.0,,,0
+Afghanistan,AFG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,66.0,,,0
+Afghanistan,AFG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,64.0,,,0
+Afghanistan,AFG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,64.0,,,0
+Afghanistan,AFG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,62.0,,,0
+Albania,ALB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0,,,0
+Albania,ALB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.0,,,0
+Albania,ALB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+Albania,ALB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,96.0,,,0
+Albania,ALB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.0,,,0
+Algeria,DZA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,80.0,,,0
+Algeria,DZA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,80.0,,,0
+Algeria,DZA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,88.0,,,0
+Algeria,DZA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,94.0,,,0
+Algeria,DZA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,95.0,,,0
+American Samoa,ASM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+American Samoa,ASM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+American Samoa,ASM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+American Samoa,ASM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+American Samoa,ASM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Andorra,AND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Andorra,AND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Andorra,AND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Andorra,AND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Andorra,AND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Angola,AGO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,59.0,,,0
+Angola,AGO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,56.0,,,0
+Angola,AGO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,47.0,,,0
+Angola,AGO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,49.0,,,0
+Angola,AGO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,52.0,,,0
+Antigua and Barbuda,ATG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Antigua and Barbuda,ATG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,96.0,,,0
+Antigua and Barbuda,ATG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Antigua and Barbuda,ATG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,88.0,,,0
+Antigua and Barbuda,ATG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,91.0,,,0
+Argentina,ARG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,86.0,,,0
+Argentina,ARG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.0,,,0
+Argentina,ARG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+Argentina,ARG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,90.0,,,0
+Argentina,ARG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,89.0,,,0
+Armenia,ARM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0,,,0
+Armenia,ARM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,95.0,,,0
+Armenia,ARM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+Armenia,ARM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Armenia,ARM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.0,,,0
+Aruba,ABW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Aruba,ABW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Aruba,ABW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Aruba,ABW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Aruba,ABW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Australia,AUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,94.0,,,0
+Australia,AUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.0,,,0
+Australia,AUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.0,,,0
+Australia,AUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+Australia,AUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,95.0,,,0
+Austria,AUT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0,,,0
+Austria,AUT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.0,,,0
+Austria,AUT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+Austria,AUT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+Austria,AUT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Azerbaijan,AZE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,78.0,,,0
+Azerbaijan,AZE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,77.0,,,0
+Azerbaijan,AZE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,80.0,,,0
+Azerbaijan,AZE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,81.0,,,0
+Azerbaijan,AZE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,84.0,,,0
+"Bahamas, The",BHS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,83.0,,,0
+"Bahamas, The",BHS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,89.0,,,0
+"Bahamas, The",BHS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+"Bahamas, The",BHS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,89.0,,,0
+"Bahamas, The",BHS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,94.0,,,0
+Bahrain,BHR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Bahrain,BHR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Bahrain,BHR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Bahrain,BHR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Bahrain,BHR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Bangladesh,BGD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Bangladesh,BGD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,97.0,,,0
+Bangladesh,BGD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,97.0,,,0
+Bangladesh,BGD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Bangladesh,BGD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.0,,,0
+Barbados,BRB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,92.0,,,0
+Barbados,BRB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,85.0,,,0
+Barbados,BRB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,92.0,,,0
+Barbados,BRB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,92.0,,,0
+Barbados,BRB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Belarus,BLR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,98.0,,,0
+Belarus,BLR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,98.0,,,0
+Belarus,BLR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,97.0,,,0
+Belarus,BLR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,98.0,,,0
+Belarus,BLR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Belgium,BEL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Belgium,BEL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,96.0,,,0
+Belgium,BEL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+Belgium,BEL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,96.0,,,0
+Belgium,BEL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Belize,BLZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Belize,BLZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,97.0,,,0
+Belize,BLZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+Belize,BLZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+Belize,BLZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Benin,BEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,58.0,,,0
+Benin,BEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,61.0,,,0
+Benin,BEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,65.0,,,0
+Benin,BEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,68.0,,,0
+Benin,BEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,67.0,,,0
+Bermuda,BMU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Bermuda,BMU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Bermuda,BMU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Bermuda,BMU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Bermuda,BMU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Bhutan,BTN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Bhutan,BTN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,97.0,,,0
+Bhutan,BTN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,97.0,,,0
+Bhutan,BTN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Bhutan,BTN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.0,,,0
+Bolivia,BOL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,79.0,,,0
+Bolivia,BOL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,89.0,,,0
+Bolivia,BOL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,83.0,,,0
+Bolivia,BOL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,94.0,,,0
+Bolivia,BOL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,95.0,,,0
+Bosnia and Herzegovina,BIH,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,79.0,,,0
+Bosnia and Herzegovina,BIH,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,68.0,,,0
+Bosnia and Herzegovina,BIH,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,69.0,,,0
+Bosnia and Herzegovina,BIH,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,68.0,,,0
+Bosnia and Herzegovina,BIH,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,83.0,,,0
+Botswana,BWA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Botswana,BWA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,97.0,,,0
+Botswana,BWA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,97.0,,,0
+Botswana,BWA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Botswana,BWA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.0,,,0
+Brazil,BRA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,91.0,,,0
+Brazil,BRA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,92.0,,,0
+Brazil,BRA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,87.0,,,0
+Brazil,BRA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+Brazil,BRA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+British Virgin Islands,VGB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+British Virgin Islands,VGB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+British Virgin Islands,VGB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+British Virgin Islands,VGB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+British Virgin Islands,VGB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Brunei Darussalam,BRN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Brunei Darussalam,BRN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Brunei Darussalam,BRN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,97.0,,,0
+Brunei Darussalam,BRN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,98.0,,,0
+Brunei Darussalam,BRN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Bulgaria,BGR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0,,,0
+Bulgaria,BGR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+Bulgaria,BGR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.0,,,0
+Bulgaria,BGR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,92.0,,,0
+Bulgaria,BGR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,92.0,,,0
+Burkina Faso,BFA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,88.0,,,0
+Burkina Faso,BFA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,88.0,,,0
+Burkina Faso,BFA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,88.0,,,0
+Burkina Faso,BFA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,88.0,,,0
+Burkina Faso,BFA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,88.0,,,0
+Burundi,BDI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,92.0,,,0
+Burundi,BDI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,88.0,,,0
+Burundi,BDI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+Burundi,BDI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.0,,,0
+Burundi,BDI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.0,,,0
+Cabo Verde,CPV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,98.0,,,0
+Cabo Verde,CPV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Cabo Verde,CPV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+Cabo Verde,CPV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.0,,,0
+Cabo Verde,CPV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,92.0,,,0
+Cambodia,KHM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,87.0,,,0
+Cambodia,KHM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,86.0,,,0
+Cambodia,KHM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,85.0,,,0
+Cambodia,KHM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,85.0,,,0
+Cambodia,KHM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,85.0,,,0
+Cameroon,CMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,61.0,,,0
+Cameroon,CMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,61.0,,,0
+Cameroon,CMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,67.0,,,0
+Cameroon,CMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,72.0,,,0
+Cameroon,CMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,71.0,,,0
+Canada,CAN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,90.0,,,0
+Canada,CAN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,90.0,,,0
+Canada,CAN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+Canada,CAN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,89.0,,,0
+Canada,CAN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,89.0,,,0
+Cayman Islands,CYM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Cayman Islands,CYM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Cayman Islands,CYM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Cayman Islands,CYM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Cayman Islands,CYM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Central African Republic,CAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,37.0,,,0
+Central African Republic,CAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,39.0,,,0
+Central African Republic,CAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,41.0,,,0
+Central African Republic,CAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,45.0,,,0
+Central African Republic,CAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,46.0,,,0
+Chad,TCD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,40.0,,,0
+Chad,TCD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,41.0,,,0
+Chad,TCD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,37.0,,,0
+Chad,TCD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,37.0,,,0
+Chad,TCD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,46.0,,,0
+Channel Islands,CHI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Channel Islands,CHI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Channel Islands,CHI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Channel Islands,CHI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Channel Islands,CHI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Chile,CHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0,,,0
+Chile,CHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+Chile,CHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,93.0,,,0
+Chile,CHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.0,,,0
+Chile,CHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+China,CHN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+China,CHN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+China,CHN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+China,CHN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+China,CHN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Colombia,COL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0,,,0
+Colombia,COL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,95.0,,,0
+Colombia,COL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,93.0,,,0
+Colombia,COL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.0,,,0
+Colombia,COL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,94.0,,,0
+Comoros,COM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,76.0,,,0
+Comoros,COM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,74.0,,,0
+Comoros,COM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,75.0,,,0
+Comoros,COM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,77.0,,,0
+Comoros,COM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,81.0,,,0
+"Congo, Dem. Rep.",COD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,65.0,,,0
+"Congo, Dem. Rep.",COD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,64.0,,,0
+"Congo, Dem. Rep.",COD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,65.0,,,0
+"Congo, Dem. Rep.",COD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,63.0,,,0
+"Congo, Dem. Rep.",COD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,65.0,,,0
+"Congo, Rep.",COG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,73.0,,,0
+"Congo, Rep.",COG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,75.0,,,0
+"Congo, Rep.",COG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,70.0,,,0
+"Congo, Rep.",COG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,67.0,,,0
+"Congo, Rep.",COG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,80.0,,,0
+Costa Rica,CRI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0,,,0
+Costa Rica,CRI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.0,,,0
+Costa Rica,CRI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+Costa Rica,CRI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.0,,,0
+Costa Rica,CRI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.0,,,0
+Cote d'Ivoire,CIV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,71.0,,,0
+Cote d'Ivoire,CIV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,74.0,,,0
+Cote d'Ivoire,CIV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,70.0,,,0
+Cote d'Ivoire,CIV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,73.0,,,0
+Cote d'Ivoire,CIV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,67.0,,,0
+Croatia,HRV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,93.0,,,0
+Croatia,HRV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+Croatia,HRV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,89.0,,,0
+Croatia,HRV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,90.0,,,0
+Croatia,HRV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.0,,,0
+Cuba,CUB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Cuba,CUB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Cuba,CUB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Cuba,CUB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Cuba,CUB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Curacao,CUW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Curacao,CUW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Curacao,CUW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Curacao,CUW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Curacao,CUW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Cyprus,CYP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,86.0,,,0
+Cyprus,CYP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,90.0,,,0
+Cyprus,CYP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+Cyprus,CYP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,90.0,,,0
+Cyprus,CYP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,90.0,,,0
+Czechia,CZE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,92.0,,,0
+Czechia,CZE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,96.0,,,0
+Czechia,CZE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,97.0,,,0
+Czechia,CZE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,98.0,,,0
+Czechia,CZE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Denmark,DNK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Denmark,DNK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,95.0,,,0
+Denmark,DNK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,97.0,,,0
+Denmark,DNK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,94.0,,,0
+Denmark,DNK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,91.0,,,0
+Djibouti,DJI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,83.0,,,0
+Djibouti,DJI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,86.0,,,0
+Djibouti,DJI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,81.0,,,0
+Djibouti,DJI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,75.0,,,0
+Djibouti,DJI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,74.0,,,0
+Dominica,DMA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,92.0,,,0
+Dominica,DMA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,84.0,,,0
+Dominica,DMA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,77.0,,,0
+Dominica,DMA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,96.0,,,0
+Dominica,DMA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Dominican Republic,DOM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,90.0,,,0
+Dominican Republic,DOM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,85.0,,,0
+Dominican Republic,DOM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,80.0,,,0
+Dominican Republic,DOM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,79.0,,,0
+Dominican Republic,DOM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,84.0,,,0
+Ecuador,ECU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,83.0,,,0
+Ecuador,ECU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,83.0,,,0
+Ecuador,ECU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,81.0,,,0
+Ecuador,ECU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,86.0,,,0
+Ecuador,ECU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,84.0,,,0
+"Egypt, Arab Rep.",EGY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0,,,0
+"Egypt, Arab Rep.",EGY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.0,,,0
+"Egypt, Arab Rep.",EGY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.0,,,0
+"Egypt, Arab Rep.",EGY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+"Egypt, Arab Rep.",EGY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,92.0,,,0
+El Salvador,SLV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+El Salvador,SLV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,87.0,,,0
+El Salvador,SLV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,89.0,,,0
+El Salvador,SLV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,98.0,,,0
+El Salvador,SLV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.0,,,0
+Equatorial Guinea,GNQ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,51.0,,,0
+Equatorial Guinea,GNQ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,52.0,,,0
+Equatorial Guinea,GNQ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,52.0,,,0
+Equatorial Guinea,GNQ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,53.0,,,0
+Equatorial Guinea,GNQ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,50.0,,,0
+Eritrea,ERI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,93.0,,,0
+Eritrea,ERI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+Eritrea,ERI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,93.0,,,0
+Eritrea,ERI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+Eritrea,ERI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.0,,,0
+Estonia,EST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,88.0,,,0
+Estonia,EST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,87.0,,,0
+Estonia,EST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,93.0,,,0
+Estonia,EST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.0,,,0
+Estonia,EST,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.0,,,0
+Eswatini,SWZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,81.0,,,0
+Eswatini,SWZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,85.0,,,0
+Eswatini,SWZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,89.0,,,0
+Eswatini,SWZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,89.0,,,0
+Eswatini,SWZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,89.0,,,0
+Ethiopia,ETH,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,56.0,,,0
+Ethiopia,ETH,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,54.0,,,0
+Ethiopia,ETH,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,59.0,,,0
+Ethiopia,ETH,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,57.0,,,0
+Ethiopia,ETH,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,56.0,,,0
+Faroe Islands,FRO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Faroe Islands,FRO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Faroe Islands,FRO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Faroe Islands,FRO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Faroe Islands,FRO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Fiji,FJI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,94.0,,,0
+Fiji,FJI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,95.0,,,0
+Fiji,FJI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Fiji,FJI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Fiji,FJI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+Finland,FIN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Finland,FIN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,96.0,,,0
+Finland,FIN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.0,,,0
+Finland,FIN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+Finland,FIN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,95.0,,,0
+France,FRA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,92.0,,,0
+France,FRA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,91.0,,,0
+France,FRA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+France,FRA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,90.0,,,0
+France,FRA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,91.0,,,0
+French Polynesia,PYF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+French Polynesia,PYF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+French Polynesia,PYF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+French Polynesia,PYF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+French Polynesia,PYF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Gabon,GAB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,62.0,,,0
+Gabon,GAB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,59.0,,,0
+Gabon,GAB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,63.0,,,0
+Gabon,GAB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,64.0,,,0
+Gabon,GAB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,68.0,,,0
+"Gambia, The",GMB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,85.0,,,0
+"Gambia, The",GMB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,91.0,,,0
+"Gambia, The",GMB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+"Gambia, The",GMB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+"Gambia, The",GMB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.0,,,0
+Georgia,GEO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Georgia,GEO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,98.0,,,0
+Georgia,GEO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,95.0,,,0
+Georgia,GEO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.0,,,0
+Georgia,GEO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Germany,DEU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Germany,DEU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,97.0,,,0
+Germany,DEU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,97.0,,,0
+Germany,DEU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Germany,DEU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.0,,,0
+Ghana,GHA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,92.0,,,0
+Ghana,GHA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,92.0,,,0
+Ghana,GHA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,95.0,,,0
+Ghana,GHA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,89.0,,,0
+Ghana,GHA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,89.0,,,0
+Gibraltar,GIB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Gibraltar,GIB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Gibraltar,GIB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Gibraltar,GIB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Gibraltar,GIB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Greece,GRC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Greece,GRC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,97.0,,,0
+Greece,GRC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,97.0,,,0
+Greece,GRC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Greece,GRC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.0,,,0
+Greenland,GRL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Greenland,GRL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Greenland,GRL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Greenland,GRL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Greenland,GRL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Grenada,GRD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,94.0,,,0
+Grenada,GRD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,84.0,,,0
+Grenada,GRD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,85.0,,,0
+Grenada,GRD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+Grenada,GRD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Guam,GUM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Guam,GUM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Guam,GUM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Guam,GUM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Guam,GUM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Guatemala,GTM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,90.0,,,0
+Guatemala,GTM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,89.0,,,0
+Guatemala,GTM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.0,,,0
+Guatemala,GTM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,89.0,,,0
+Guatemala,GTM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,79.0,,,0
+Guinea,GIN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,50.0,,,0
+Guinea,GIN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,49.0,,,0
+Guinea,GIN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,48.0,,,0
+Guinea,GIN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,48.0,,,0
+Guinea,GIN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,47.0,,,0
+Guinea-Bissau,GNB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,79.0,,,0
+Guinea-Bissau,GNB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,79.0,,,0
+Guinea-Bissau,GNB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,66.0,,,0
+Guinea-Bissau,GNB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,80.0,,,0
+Guinea-Bissau,GNB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,80.0,,,0
+Guyana,GUY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,98.0,,,0
+Guyana,GUY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,98.0,,,0
+Guyana,GUY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Guyana,GUY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Guyana,GUY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Haiti,HTI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,74.0,,,0
+Haiti,HTI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,70.0,,,0
+Haiti,HTI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,65.0,,,0
+Haiti,HTI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,67.0,,,0
+Haiti,HTI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,69.0,,,0
+Honduras,HND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,89.0,,,0
+Honduras,HND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,91.0,,,0
+Honduras,HND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,98.0,,,0
+Honduras,HND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,98.0,,,0
+Honduras,HND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+"Hong Kong SAR, China",HKG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+"Hong Kong SAR, China",HKG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+"Hong Kong SAR, China",HKG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+"Hong Kong SAR, China",HKG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+"Hong Kong SAR, China",HKG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Hungary,HUN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Hungary,HUN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Hungary,HUN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Hungary,HUN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Hungary,HUN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Iceland,ISL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,93.0,,,0
+Iceland,ISL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+Iceland,ISL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,92.0,,,0
+Iceland,ISL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,91.0,,,0
+Iceland,ISL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.0,,,0
+India,IND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0,,,0
+India,IND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+India,IND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+India,IND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,88.0,,,0
+India,IND,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,87.0,,,0
+Indonesia,IDN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,88.0,,,0
+Indonesia,IDN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,89.0,,,0
+Indonesia,IDN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+Indonesia,IDN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,88.0,,,0
+Indonesia,IDN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,87.0,,,0
+"Iran, Islamic Rep.",IRN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+"Iran, Islamic Rep.",IRN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+"Iran, Islamic Rep.",IRN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+"Iran, Islamic Rep.",IRN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+"Iran, Islamic Rep.",IRN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Iraq,IRQ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,86.0,,,0
+Iraq,IRQ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,85.0,,,0
+Iraq,IRQ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,81.0,,,0
+Iraq,IRQ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,79.0,,,0
+Iraq,IRQ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,71.0,,,0
+Ireland,IRL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,91.0,,,0
+Ireland,IRL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,92.0,,,0
+Ireland,IRL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,92.0,,,0
+Ireland,IRL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,92.0,,,0
+Ireland,IRL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.0,,,0
+Isle of Man,IMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Isle of Man,IMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Isle of Man,IMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Isle of Man,IMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Isle of Man,IMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Israel,ISR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Israel,ISR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,98.0,,,0
+Israel,ISR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,98.0,,,0
+Israel,ISR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Israel,ISR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+Italy,ITA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,94.0,,,0
+Italy,ITA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+Italy,ITA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,92.0,,,0
+Italy,ITA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,87.0,,,0
+Italy,ITA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,85.0,,,0
+Jamaica,JAM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,94.0,,,0
+Jamaica,JAM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,89.0,,,0
+Jamaica,JAM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,95.0,,,0
+Jamaica,JAM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+Jamaica,JAM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,91.0,,,0
+Japan,JPN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Japan,JPN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,97.0,,,0
+Japan,JPN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,97.0,,,0
+Japan,JPN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,96.0,,,0
+Japan,JPN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Jordan,JOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,87.0,,,0
+Jordan,JOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,92.0,,,0
+Jordan,JOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,93.0,,,0
+Jordan,JOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,96.0,,,0
+Jordan,JOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,94.0,,,0
+Kazakhstan,KAZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Kazakhstan,KAZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Kazakhstan,KAZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Kazakhstan,KAZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Kazakhstan,KAZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Kenya,KEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,92.0,,,0
+Kenya,KEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,92.0,,,0
+Kenya,KEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,84.0,,,0
+Kenya,KEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.0,,,0
+Kenya,KEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Kiribati,KIR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,94.0,,,0
+Kiribati,KIR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,84.0,,,0
+Kiribati,KIR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,81.0,,,0
+Kiribati,KIR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,80.0,,,0
+Kiribati,KIR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,84.0,,,0
+"Korea, Dem. People's Rep.",PRK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+"Korea, Dem. People's Rep.",PRK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,98.0,,,0
+"Korea, Dem. People's Rep.",PRK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+"Korea, Dem. People's Rep.",PRK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+"Korea, Dem. People's Rep.",PRK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+"Korea, Rep.",KOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,98.0,,,0
+"Korea, Rep.",KOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,98.0,,,0
+"Korea, Rep.",KOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,97.0,,,0
+"Korea, Rep.",KOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,98.0,,,0
+"Korea, Rep.",KOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+Kosovo,XKX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Kosovo,XKX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Kosovo,XKX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Kosovo,XKX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Kosovo,XKX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Kuwait,KWT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Kuwait,KWT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,98.0,,,0
+Kuwait,KWT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Kuwait,KWT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Kuwait,KWT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.0,,,0
+Kyrgyz Republic,KGZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Kyrgyz Republic,KGZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,96.0,,,0
+Kyrgyz Republic,KGZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,95.0,,,0
+Kyrgyz Republic,KGZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Kyrgyz Republic,KGZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Lao PDR,LAO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,70.0,,,0
+Lao PDR,LAO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,75.0,,,0
+Lao PDR,LAO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,78.0,,,0
+Lao PDR,LAO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,76.0,,,0
+Lao PDR,LAO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,78.0,,,0
+Latvia,LVA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Latvia,LVA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,98.0,,,0
+Latvia,LVA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+Latvia,LVA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.0,,,0
+Latvia,LVA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Lebanon,LBN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,82.0,,,0
+Lebanon,LBN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,82.0,,,0
+Lebanon,LBN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,82.0,,,0
+Lebanon,LBN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,82.0,,,0
+Lebanon,LBN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,82.0,,,0
+Lesotho,LSO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,90.0,,,0
+Lesotho,LSO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,89.0,,,0
+Lesotho,LSO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,89.0,,,0
+Lesotho,LSO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,90.0,,,0
+Lesotho,LSO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.0,,,0
+Liberia,LBR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,68.0,,,0
+Liberia,LBR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,74.0,,,0
+Liberia,LBR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,75.0,,,0
+Liberia,LBR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,70.0,,,0
+Liberia,LBR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,64.0,,,0
+Libya,LBY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,73.0,,,0
+Libya,LBY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,73.0,,,0
+Libya,LBY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,95.0,,,0
+Libya,LBY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Libya,LBY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+Liechtenstein,LIE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Liechtenstein,LIE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Liechtenstein,LIE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Liechtenstein,LIE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Liechtenstein,LIE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Lithuania,LTU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,93.0,,,0
+Lithuania,LTU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,92.0,,,0
+Lithuania,LTU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.0,,,0
+Lithuania,LTU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,94.0,,,0
+Lithuania,LTU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,94.0,,,0
+Luxembourg,LUX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Luxembourg,LUX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Luxembourg,LUX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Luxembourg,LUX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Luxembourg,LUX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+"Macao SAR, China",MAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+"Macao SAR, China",MAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+"Macao SAR, China",MAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+"Macao SAR, China",MAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+"Macao SAR, China",MAC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Madagascar,MDG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,60.0,,,0
+Madagascar,MDG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,68.0,,,0
+Madagascar,MDG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,55.0,,,0
+Madagascar,MDG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,62.0,,,0
+Madagascar,MDG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,60.0,,,0
+Malawi,MWI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,92.0,,,0
+Malawi,MWI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,87.0,,,0
+Malawi,MWI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,83.0,,,0
+Malawi,MWI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,81.0,,,0
+Malawi,MWI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,87.0,,,0
+Malaysia,MYS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Malaysia,MYS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,98.0,,,0
+Malaysia,MYS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+Malaysia,MYS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,96.0,,,0
+Malaysia,MYS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.0,,,0
+Maldives,MDV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Maldives,MDV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Maldives,MDV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Maldives,MDV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Maldives,MDV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Mali,MLI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,71.0,,,0
+Mali,MLI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,71.0,,,0
+Mali,MLI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,70.0,,,0
+Mali,MLI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,70.0,,,0
+Mali,MLI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,67.0,,,0
+Malta,MLT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Malta,MLT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,96.0,,,0
+Malta,MLT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,91.0,,,0
+Malta,MLT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.0,,,0
+Malta,MLT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,89.0,,,0
+Marshall Islands,MHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,85.0,,,0
+Marshall Islands,MHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,83.0,,,0
+Marshall Islands,MHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,83.0,,,0
+Marshall Islands,MHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,75.0,,,0
+Marshall Islands,MHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,75.0,,,0
+Mauritania,MRT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,75.0,,,0
+Mauritania,MRT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,78.0,,,0
+Mauritania,MRT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,75.0,,,0
+Mauritania,MRT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,73.0,,,0
+Mauritania,MRT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,70.0,,,0
+Mauritius,MUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Mauritius,MUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Mauritius,MUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,89.0,,,0
+Mauritius,MUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,92.0,,,0
+Mauritius,MUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Mexico,MEX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,73.0,,,0
+Mexico,MEX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,97.0,,,0
+Mexico,MEX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,76.0,,,0
+Mexico,MEX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Mexico,MEX,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+"Micronesia, Fed. Sts.",FSM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,78.0,,,0
+"Micronesia, Fed. Sts.",FSM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,73.0,,,0
+"Micronesia, Fed. Sts.",FSM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,76.0,,,0
+"Micronesia, Fed. Sts.",FSM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,70.0,,,0
+"Micronesia, Fed. Sts.",FSM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,74.0,,,0
+Moldova,MDA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Moldova,MDA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+Moldova,MDA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,93.0,,,0
+Moldova,MDA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,88.0,,,0
+Moldova,MDA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,89.0,,,0
+Monaco,MCO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,88.0,,,0
+Monaco,MCO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,88.0,,,0
+Monaco,MCO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,88.0,,,0
+Monaco,MCO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,89.0,,,0
+Monaco,MCO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,89.0,,,0
+Mongolia,MNG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,98.0,,,0
+Mongolia,MNG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Mongolia,MNG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Mongolia,MNG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Mongolia,MNG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+Montenegro,MNE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,37.0,,,0
+Montenegro,MNE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,42.0,,,0
+Montenegro,MNE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,58.0,,,0
+Montenegro,MNE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,47.0,,,0
+Montenegro,MNE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,64.0,,,0
+Morocco,MAR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Morocco,MAR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Morocco,MAR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Morocco,MAR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Morocco,MAR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Mozambique,MOZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,83.0,,,0
+Mozambique,MOZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,83.0,,,0
+Mozambique,MOZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,83.0,,,0
+Mozambique,MOZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,83.0,,,0
+Mozambique,MOZ,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,83.0,,,0
+Myanmar,MMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,84.0,,,0
+Myanmar,MMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+Myanmar,MMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,83.0,,,0
+Myanmar,MMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,91.0,,,0
+Myanmar,MMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,84.0,,,0
+Namibia,NAM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,80.0,,,0
+Namibia,NAM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,82.0,,,0
+Namibia,NAM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,80.0,,,0
+Namibia,NAM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,75.0,,,0
+Namibia,NAM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,85.0,,,0
+Nauru,NRU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0,,,0
+Nauru,NRU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Nauru,NRU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,95.0,,,0
+Nauru,NRU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,98.0,,,0
+Nauru,NRU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+Nepal,NPL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,92.0,,,0
+Nepal,NPL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,91.0,,,0
+Nepal,NPL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+Nepal,NPL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,83.0,,,0
+Nepal,NPL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,85.0,,,0
+Netherlands,NLD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,94.0,,,0
+Netherlands,NLD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+Netherlands,NLD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,93.0,,,0
+Netherlands,NLD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,94.0,,,0
+Netherlands,NLD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,95.0,,,0
+New Caledonia,NCL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+New Caledonia,NCL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+New Caledonia,NCL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+New Caledonia,NCL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+New Caledonia,NCL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+New Zealand,NZL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,92.0,,,0
+New Zealand,NZL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,92.0,,,0
+New Zealand,NZL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,93.0,,,0
+New Zealand,NZL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,92.0,,,0
+New Zealand,NZL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.0,,,0
+Nicaragua,NIC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Nicaragua,NIC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Nicaragua,NIC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Nicaragua,NIC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Nicaragua,NIC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Niger,NER,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,79.0,,,0
+Niger,NER,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,77.0,,,0
+Niger,NER,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,82.0,,,0
+Niger,NER,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,76.0,,,0
+Niger,NER,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,85.0,,,0
+Nigeria,NGA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,58.0,,,0
+Nigeria,NGA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,56.0,,,0
+Nigeria,NGA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,54.0,,,0
+Nigeria,NGA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,48.0,,,0
+Nigeria,NGA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,42.0,,,0
+North Macedonia,MKD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,75.0,,,0
+North Macedonia,MKD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,75.0,,,0
+North Macedonia,MKD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,83.0,,,0
+North Macedonia,MKD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,82.0,,,0
+North Macedonia,MKD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,89.0,,,0
+Northern Mariana Islands,MNP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Northern Mariana Islands,MNP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Northern Mariana Islands,MNP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Northern Mariana Islands,MNP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Northern Mariana Islands,MNP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Norway,NOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Norway,NOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,96.0,,,0
+Norway,NOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+Norway,NOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,96.0,,,0
+Norway,NOR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,95.0,,,0
+Oman,OMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Oman,OMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Oman,OMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Oman,OMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Oman,OMN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Pakistan,PAK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,81.0,,,0
+Pakistan,PAK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,79.0,,,0
+Pakistan,PAK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,76.0,,,0
+Pakistan,PAK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,75.0,,,0
+Pakistan,PAK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,75.0,,,0
+Palau,PLW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Palau,PLW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,90.0,,,0
+Palau,PLW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,93.0,,,0
+Palau,PLW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,96.0,,,0
+Palau,PLW,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,95.0,,,0
+Panama,PAN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Panama,PAN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,98.0,,,0
+Panama,PAN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,98.0,,,0
+Panama,PAN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+Panama,PAN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.0,,,0
+Papua New Guinea,PNG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,37.0,,,0
+Papua New Guinea,PNG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,37.0,,,0
+Papua New Guinea,PNG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,41.0,,,0
+Papua New Guinea,PNG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,46.0,,,0
+Papua New Guinea,PNG,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,57.0,,,0
+Paraguay,PRY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,87.0,,,0
+Paraguay,PRY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+Paraguay,PRY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,92.0,,,0
+Paraguay,PRY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,85.0,,,0
+Paraguay,PRY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,78.0,,,0
+Peru,PER,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,85.0,,,0
+Peru,PER,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,86.0,,,0
+Peru,PER,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,88.0,,,0
+Peru,PER,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,89.0,,,0
+Peru,PER,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,92.0,,,0
+Philippines,PHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,83.0,,,0
+Philippines,PHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,82.0,,,0
+Philippines,PHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,81.0,,,0
+Philippines,PHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,80.0,,,0
+Philippines,PHL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,80.0,,,0
+Poland,POL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,93.0,,,0
+Poland,POL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+Poland,POL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,94.0,,,0
+Poland,POL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,96.0,,,0
+Poland,POL,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Portugal,PRT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Portugal,PRT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Portugal,PRT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,98.0,,,0
+Portugal,PRT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,98.0,,,0
+Portugal,PRT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+Puerto Rico (US),PRI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Puerto Rico (US),PRI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Puerto Rico (US),PRI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Puerto Rico (US),PRI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Puerto Rico (US),PRI,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Qatar,QAT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Qatar,QAT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Qatar,QAT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Qatar,QAT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Qatar,QAT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Romania,ROU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,90.0,,,0
+Romania,ROU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,90.0,,,0
+Romania,ROU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,87.0,,,0
+Romania,ROU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,86.0,,,0
+Romania,ROU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,86.0,,,0
+Russian Federation,RUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,98.0,,,0
+Russian Federation,RUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,98.0,,,0
+Russian Federation,RUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,98.0,,,0
+Russian Federation,RUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,98.0,,,0
+Russian Federation,RUS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+Rwanda,RWA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Rwanda,RWA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Rwanda,RWA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,97.0,,,0
+Rwanda,RWA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+Rwanda,RWA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Samoa,WSM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Samoa,WSM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,40.0,,,0
+Samoa,WSM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,67.0,,,0
+Samoa,WSM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,75.0,,,0
+Samoa,WSM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,75.0,,,0
+San Marino,SMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,86.0,,,0
+San Marino,SMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,89.0,,,0
+San Marino,SMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,86.0,,,0
+San Marino,SMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,82.0,,,0
+San Marino,SMR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,84.0,,,0
+Sao Tome and Principe,STP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0,,,0
+Sao Tome and Principe,STP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,95.0,,,0
+Sao Tome and Principe,STP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+Sao Tome and Principe,STP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.0,,,0
+Sao Tome and Principe,STP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.0,,,0
+Saudi Arabia,SAU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0,,,0
+Saudi Arabia,SAU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,98.0,,,0
+Saudi Arabia,SAU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+Saudi Arabia,SAU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,98.0,,,0
+Saudi Arabia,SAU,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+Senegal,SEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,86.0,,,0
+Senegal,SEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,86.0,,,0
+Senegal,SEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+Senegal,SEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,93.0,,,0
+Senegal,SEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,80.0,,,0
+Serbia,SRB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,87.0,,,0
+Serbia,SRB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+Serbia,SRB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,86.0,,,0
+Serbia,SRB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,82.0,,,0
+Serbia,SRB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,87.0,,,0
+Seychelles,SYC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Seychelles,SYC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,96.0,,,0
+Seychelles,SYC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Seychelles,SYC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Seychelles,SYC,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+Sierra Leone,SLE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,93.0,,,0
+Sierra Leone,SLE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,87.0,,,0
+Sierra Leone,SLE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,80.0,,,0
+Sierra Leone,SLE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,85.0,,,0
+Sierra Leone,SLE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,78.0,,,0
+Singapore,SGP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Singapore,SGP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,97.0,,,0
+Singapore,SGP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,95.0,,,0
+Singapore,SGP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+Singapore,SGP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,95.0,,,0
+Sint Maarten (Dutch part),SXM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Sint Maarten (Dutch part),SXM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Sint Maarten (Dutch part),SXM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Sint Maarten (Dutch part),SXM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Sint Maarten (Dutch part),SXM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Slovak Republic,SVK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Slovak Republic,SVK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,96.0,,,0
+Slovak Republic,SVK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+Slovak Republic,SVK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+Slovak Republic,SVK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,95.0,,,0
+Slovenia,SVN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,94.0,,,0
+Slovenia,SVN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+Slovenia,SVN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,93.0,,,0
+Slovenia,SVN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,92.0,,,0
+Slovenia,SVN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,94.0,,,0
+Solomon Islands,SLB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,81.0,,,0
+Solomon Islands,SLB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,93.0,,,0
+Solomon Islands,SLB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,84.0,,,0
+Solomon Islands,SLB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,82.0,,,0
+Solomon Islands,SLB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,75.0,,,0
+"Somalia, Fed. Rep.",SOM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,52.0,,,0
+"Somalia, Fed. Rep.",SOM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,53.0,,,0
+"Somalia, Fed. Rep.",SOM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,52.0,,,0
+"Somalia, Fed. Rep.",SOM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,51.0,,,0
+"Somalia, Fed. Rep.",SOM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,50.0,,,0
+South Africa,ZAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,83.0,,,0
+South Africa,ZAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,81.0,,,0
+South Africa,ZAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,81.0,,,0
+South Africa,ZAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,84.0,,,0
+South Africa,ZAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,86.0,,,0
+South Sudan,SSD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,65.0,,,0
+South Sudan,SSD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,61.0,,,0
+South Sudan,SSD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,56.0,,,0
+South Sudan,SSD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,51.0,,,0
+South Sudan,SSD,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,52.0,,,0
+Spain,ESP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,98.0,,,0
+Spain,ESP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,98.0,,,0
+Spain,ESP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,98.0,,,0
+Spain,ESP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Spain,ESP,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Sri Lanka,LKA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Sri Lanka,LKA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Sri Lanka,LKA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Sri Lanka,LKA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Sri Lanka,LKA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+St. Kitts and Nevis,KNA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+St. Kitts and Nevis,KNA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,96.0,,,0
+St. Kitts and Nevis,KNA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,93.0,,,0
+St. Kitts and Nevis,KNA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,98.0,,,0
+St. Kitts and Nevis,KNA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,95.0,,,0
+St. Lucia,LCA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+St. Lucia,LCA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,86.0,,,0
+St. Lucia,LCA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,87.0,,,0
+St. Lucia,LCA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+St. Lucia,LCA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.0,,,0
+St. Martin (French part),MAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+St. Martin (French part),MAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+St. Martin (French part),MAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+St. Martin (French part),MAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+St. Martin (French part),MAF,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+St. Vincent and the Grenadines,VCT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+St. Vincent and the Grenadines,VCT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+St. Vincent and the Grenadines,VCT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+St. Vincent and the Grenadines,VCT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+St. Vincent and the Grenadines,VCT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Sudan,SDN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,90.0,,,0
+Sudan,SDN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,88.0,,,0
+Sudan,SDN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+Sudan,SDN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,87.0,,,0
+Sudan,SDN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,87.0,,,0
+Suriname,SUR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,64.0,,,0
+Suriname,SUR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,77.0,,,0
+Suriname,SUR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,76.0,,,0
+Suriname,SUR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,76.0,,,0
+Suriname,SUR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,76.0,,,0
+Sweden,SWE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Sweden,SWE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,97.0,,,0
+Sweden,SWE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,97.0,,,0
+Sweden,SWE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Sweden,SWE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+Switzerland,CHE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0,,,0
+Switzerland,CHE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,95.0,,,0
+Switzerland,CHE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,95.0,,,0
+Switzerland,CHE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,94.0,,,0
+Switzerland,CHE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,94.0,,,0
+Syrian Arab Republic,SYR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,76.0,,,0
+Syrian Arab Republic,SYR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,74.0,,,0
+Syrian Arab Republic,SYR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,78.0,,,0
+Syrian Arab Republic,SYR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,73.0,,,0
+Syrian Arab Republic,SYR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,64.0,,,0
+Tajikistan,TJK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,98.0,,,0
+Tajikistan,TJK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,98.0,,,0
+Tajikistan,TJK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,98.0,,,0
+Tajikistan,TJK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Tajikistan,TJK,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.0,,,0
+Tanzania,TZA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,89.0,,,0
+Tanzania,TZA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,88.0,,,0
+Tanzania,TZA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+Tanzania,TZA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,83.0,,,0
+Tanzania,TZA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,95.0,,,0
+Thailand,THA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Thailand,THA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,96.0,,,0
+Thailand,THA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Thailand,THA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Thailand,THA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Timor-Leste,TLS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,75.0,,,0
+Timor-Leste,TLS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,77.0,,,0
+Timor-Leste,TLS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,77.0,,,0
+Timor-Leste,TLS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,73.0,,,0
+Timor-Leste,TLS,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,70.0,,,0
+Togo,TGO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,78.0,,,0
+Togo,TGO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,73.0,,,0
+Togo,TGO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,78.0,,,0
+Togo,TGO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,73.0,,,0
+Togo,TGO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,75.0,,,0
+Tonga,TON,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Tonga,TON,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Tonga,TON,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Tonga,TON,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,98.0,,,0
+Tonga,TON,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Trinidad and Tobago,TTO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Trinidad and Tobago,TTO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,90.0,,,0
+Trinidad and Tobago,TTO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,93.0,,,0
+Trinidad and Tobago,TTO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,86.0,,,0
+Trinidad and Tobago,TTO,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,89.0,,,0
+Tunisia,TUN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,98.0,,,0
+Tunisia,TUN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,96.0,,,0
+Tunisia,TUN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,98.0,,,0
+Tunisia,TUN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,96.0,,,0
+Tunisia,TUN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,98.0,,,0
+Turkiye,TUR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,97.0,,,0
+Turkiye,TUR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,96.0,,,0
+Turkiye,TUR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+Turkiye,TUR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,98.0,,,0
+Turkiye,TUR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.0,,,0
+Turkmenistan,TKM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+Turkmenistan,TKM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+Turkmenistan,TKM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Turkmenistan,TKM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Turkmenistan,TKM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Turks and Caicos Islands,TCA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Turks and Caicos Islands,TCA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Turks and Caicos Islands,TCA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Turks and Caicos Islands,TCA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Turks and Caicos Islands,TCA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+Tuvalu,TUV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Tuvalu,TUV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,88.0,,,0
+Tuvalu,TUV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,95.0,,,0
+Tuvalu,TUV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,96.0,,,0
+Tuvalu,TUV,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,94.0,,,0
+Uganda,UGA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,87.0,,,0
+Uganda,UGA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,86.0,,,0
+Uganda,UGA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,83.0,,,0
+Uganda,UGA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,79.0,,,0
+Uganda,UGA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,79.0,,,0
+Ukraine,UKR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,93.0,,,0
+Ukraine,UKR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,91.0,,,0
+Ukraine,UKR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,86.0,,,0
+Ukraine,UKR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,42.0,,,0
+Ukraine,UKR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,56.0,,,0
+United Arab Emirates,ARE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+United Arab Emirates,ARE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+United Arab Emirates,ARE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+United Arab Emirates,ARE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+United Arab Emirates,ARE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+United Kingdom,GBR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,91.0,,,0
+United Kingdom,GBR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,92.0,,,0
+United Kingdom,GBR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,92.0,,,0
+United Kingdom,GBR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,92.0,,,0
+United Kingdom,GBR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,93.0,,,0
+United States,USA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,90.0,,,0
+United States,USA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,92.0,,,0
+United States,USA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,91.0,,,0
+United States,USA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,92.0,,,0
+United States,USA,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,92.0,,,0
+Uruguay,URY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,96.0,,,0
+Uruguay,URY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,97.0,,,0
+Uruguay,URY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+Uruguay,URY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+Uruguay,URY,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,96.0,,,0
+Uzbekistan,UZB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,98.0,,,0
+Uzbekistan,UZB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,96.0,,,0
+Uzbekistan,UZB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+Uzbekistan,UZB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Uzbekistan,UZB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+Vanuatu,VUT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,80.0,,,0
+Vanuatu,VUT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,75.0,,,0
+Vanuatu,VUT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,80.0,,,0
+Vanuatu,VUT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,84.0,,,0
+Vanuatu,VUT,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,76.0,,,0
+"Venezuela, RB",VEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,93.0,,,0
+"Venezuela, RB",VEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,74.0,,,0
+"Venezuela, RB",VEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+"Venezuela, RB",VEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,88.0,,,0
+"Venezuela, RB",VEN,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,92.0,,,0
+Viet Nam,VNM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,95.0,,,0
+Viet Nam,VNM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,97.0,,,0
+Viet Nam,VNM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,97.0,,,0
+Viet Nam,VNM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+Viet Nam,VNM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,97.0,,,0
+Virgin Islands (U.S.),VIR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,,,,0
+Virgin Islands (U.S.),VIR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,,,,0
+Virgin Islands (U.S.),VIR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,,,,0
+Virgin Islands (U.S.),VIR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,,,,0
+Virgin Islands (U.S.),VIR,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,,,,0
+West Bank and Gaza,PSE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,99.0,,,0
+West Bank and Gaza,PSE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,99.0,,,0
+West Bank and Gaza,PSE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,99.0,,,0
+West Bank and Gaza,PSE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,99.0,,,0
+West Bank and Gaza,PSE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,99.0,,,0
+"Yemen, Rep.",YEM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,54.0,,,0
+"Yemen, Rep.",YEM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,53.0,,,0
+"Yemen, Rep.",YEM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,56.0,,,0
+"Yemen, Rep.",YEM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,62.0,,,0
+"Yemen, Rep.",YEM,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,61.0,,,0
+Zambia,ZMB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,93.0,,,0
+Zambia,ZMB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,94.0,,,0
+Zambia,ZMB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,96.0,,,0
+Zambia,ZMB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,97.0,,,0
+Zambia,ZMB,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,90.0,,,0
+Zimbabwe,ZWE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,85.0,,,0
+Zimbabwe,ZWE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,88.0,,,0
+Zimbabwe,ZWE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,90.0,,,0
+Zimbabwe,ZWE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,95.0,,,0
+Zimbabwe,ZWE,SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,86.0,,,0

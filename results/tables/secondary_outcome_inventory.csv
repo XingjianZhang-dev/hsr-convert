@@ -1,0 +1,2 @@
+status,source,outcome,years,higher_is,n_countries,coverage_count,missing_count_from_scoring_sample,missing_rate_from_scoring_sample,overlap_with_owid_excess_mortality_sample,note
+skipped_no_legitimate_country_level_file,,,,,0,0,193,1.0,0,No CSV with `iso3` and numeric country-level secondary outcome was found.

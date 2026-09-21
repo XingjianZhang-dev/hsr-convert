@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,variable
+Africa Eastern and Southern,AFE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Africa Eastern and Southern,AFE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Africa Eastern and Southern,AFE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Africa Eastern and Southern,AFE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Africa Eastern and Southern,AFE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Africa Western and Central,AFW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Africa Western and Central,AFW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Africa Western and Central,AFW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Africa Western and Central,AFW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Africa Western and Central,AFW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Arab World,ARB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Arab World,ARB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Arab World,ARB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Arab World,ARB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Arab World,ARB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Caribbean small states,CSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Caribbean small states,CSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Caribbean small states,CSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Caribbean small states,CSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Caribbean small states,CSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Central Europe and the Baltics,CEB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Central Europe and the Baltics,CEB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Central Europe and the Baltics,CEB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Central Europe and the Baltics,CEB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Central Europe and the Baltics,CEB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Early-demographic dividend,EAR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Early-demographic dividend,EAR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Early-demographic dividend,EAR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Early-demographic dividend,EAR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Early-demographic dividend,EAR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+East Asia & Pacific,EAS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,132.0,tuberculosis_incidence
+East Asia & Pacific,EAS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,135.0,tuberculosis_incidence
+East Asia & Pacific,EAS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,137.0,tuberculosis_incidence
+East Asia & Pacific,EAS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,138.0,tuberculosis_incidence
+East Asia & Pacific,EAS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,140.0,tuberculosis_incidence
+East Asia & Pacific (excluding high income),EAP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,143.0,tuberculosis_incidence
+East Asia & Pacific (excluding high income),EAP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,146.0,tuberculosis_incidence
+East Asia & Pacific (excluding high income),EAP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,148.0,tuberculosis_incidence
+East Asia & Pacific (excluding high income),EAP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,150.0,tuberculosis_incidence
+East Asia & Pacific (excluding high income),EAP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,152.0,tuberculosis_incidence
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Euro area,EMU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Euro area,EMU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Euro area,EMU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Euro area,EMU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Euro area,EMU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Europe & Central Asia,ECS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,27.0,tuberculosis_incidence
+Europe & Central Asia,ECS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,29.0,tuberculosis_incidence
+Europe & Central Asia,ECS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,31.0,tuberculosis_incidence
+Europe & Central Asia,ECS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,34.0,tuberculosis_incidence
+Europe & Central Asia,ECS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,36.0,tuberculosis_incidence
+Europe & Central Asia (excluding high income),ECA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,49.0,tuberculosis_incidence
+Europe & Central Asia (excluding high income),ECA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,52.0,tuberculosis_incidence
+Europe & Central Asia (excluding high income),ECA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,56.0,tuberculosis_incidence
+Europe & Central Asia (excluding high income),ECA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,60.0,tuberculosis_incidence
+Europe & Central Asia (excluding high income),ECA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,65.0,tuberculosis_incidence
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+European Union,EUU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+European Union,EUU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+European Union,EUU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+European Union,EUU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+European Union,EUU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Fragile and conflict affected situations,FCS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Fragile and conflict affected situations,FCS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Fragile and conflict affected situations,FCS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Fragile and conflict affected situations,FCS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Fragile and conflict affected situations,FCS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Heavily indebted poor countries (HIPC),HPC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Heavily indebted poor countries (HIPC),HPC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Heavily indebted poor countries (HIPC),HPC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Heavily indebted poor countries (HIPC),HPC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Heavily indebted poor countries (HIPC),HPC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+High income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,16.0,tuberculosis_incidence
+High income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,17.0,tuberculosis_incidence
+High income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,18.0,tuberculosis_incidence
+High income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,19.0,tuberculosis_incidence
+High income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,20.0,tuberculosis_incidence
+IBRD only,IBD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+IBRD only,IBD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+IBRD only,IBD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+IBRD only,IBD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+IBRD only,IBD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+IDA & IBRD total,IBT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+IDA & IBRD total,IBT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+IDA & IBRD total,IBT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+IDA & IBRD total,IBT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+IDA & IBRD total,IBT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+IDA blend,IDB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+IDA blend,IDB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+IDA blend,IDB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+IDA blend,IDB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+IDA blend,IDB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+IDA only,IDX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+IDA only,IDX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+IDA only,IDX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+IDA only,IDX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+IDA only,IDX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+IDA total,IDA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+IDA total,IDA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+IDA total,IDA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+IDA total,IDA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+IDA total,IDA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Late-demographic dividend,LTE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Late-demographic dividend,LTE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Late-demographic dividend,LTE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Late-demographic dividend,LTE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Late-demographic dividend,LTE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Latin America & Caribbean,LCN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,46.0,tuberculosis_incidence
+Latin America & Caribbean,LCN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,46.0,tuberculosis_incidence
+Latin America & Caribbean,LCN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,46.0,tuberculosis_incidence
+Latin America & Caribbean,LCN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,45.0,tuberculosis_incidence
+Latin America & Caribbean,LCN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,45.0,tuberculosis_incidence
+Latin America & Caribbean (excluding high income),LAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,48.0,tuberculosis_incidence
+Latin America & Caribbean (excluding high income),LAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,48.0,tuberculosis_incidence
+Latin America & Caribbean (excluding high income),LAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,47.0,tuberculosis_incidence
+Latin America & Caribbean (excluding high income),LAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,47.0,tuberculosis_incidence
+Latin America & Caribbean (excluding high income),LAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,47.0,tuberculosis_incidence
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Least developed countries: UN classification,LDC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Least developed countries: UN classification,LDC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Least developed countries: UN classification,LDC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Least developed countries: UN classification,LDC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Least developed countries: UN classification,LDC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Low & middle income,LMY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,160.0,tuberculosis_incidence
+Low & middle income,LMY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,164.0,tuberculosis_incidence
+Low & middle income,LMY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,168.0,tuberculosis_incidence
+Low & middle income,LMY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,173.0,tuberculosis_incidence
+Low & middle income,LMY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,179.0,tuberculosis_incidence
+Low income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,214.0,tuberculosis_incidence
+Low income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,218.0,tuberculosis_incidence
+Low income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,222.0,tuberculosis_incidence
+Low income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,226.0,tuberculosis_incidence
+Low income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,229.0,tuberculosis_incidence
+Lower middle income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,214.0,tuberculosis_incidence
+Lower middle income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,219.0,tuberculosis_incidence
+Lower middle income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,226.0,tuberculosis_incidence
+Lower middle income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,233.0,tuberculosis_incidence
+Lower middle income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,241.0,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,111.0,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,112.0,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,113.0,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,114.0,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,115.0,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,120.0,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,122.0,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,123.0,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,124.0,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,125.0,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Middle income,MIC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,155.0,tuberculosis_incidence
+Middle income,MIC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,159.0,tuberculosis_incidence
+Middle income,MIC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,163.0,tuberculosis_incidence
+Middle income,MIC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,168.0,tuberculosis_incidence
+Middle income,MIC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,174.0,tuberculosis_incidence
+North America,NAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,3.2,tuberculosis_incidence
+North America,NAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,3.2,tuberculosis_incidence
+North America,NAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,3.3,tuberculosis_incidence
+North America,NAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,3.4,tuberculosis_incidence
+North America,NAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,3.5,tuberculosis_incidence
+Not classified,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Not classified,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Not classified,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Not classified,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Not classified,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+OECD members,OED,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+OECD members,OED,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+OECD members,OED,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+OECD members,OED,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+OECD members,OED,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Other small states,OSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Other small states,OSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Other small states,OSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Other small states,OSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Other small states,OSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Pacific island small states,PSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Pacific island small states,PSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Pacific island small states,PSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Pacific island small states,PSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Pacific island small states,PSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Post-demographic dividend,PST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Post-demographic dividend,PST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Post-demographic dividend,PST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Post-demographic dividend,PST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Post-demographic dividend,PST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Pre-demographic dividend,PRE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Pre-demographic dividend,PRE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Pre-demographic dividend,PRE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Pre-demographic dividend,PRE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Pre-demographic dividend,PRE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Small states,SST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Small states,SST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Small states,SST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Small states,SST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Small states,SST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+South Asia,SAS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,203.0,tuberculosis_incidence
+South Asia,SAS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,208.0,tuberculosis_incidence
+South Asia,SAS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,216.0,tuberculosis_incidence
+South Asia,SAS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,223.0,tuberculosis_incidence
+South Asia,SAS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,233.0,tuberculosis_incidence
+South Asia (IDA & IBRD),TSA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+South Asia (IDA & IBRD),TSA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+South Asia (IDA & IBRD),TSA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+South Asia (IDA & IBRD),TSA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+South Asia (IDA & IBRD),TSA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Sub-Saharan Africa,SSF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,236.0,tuberculosis_incidence
+Sub-Saharan Africa,SSF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,246.0,tuberculosis_incidence
+Sub-Saharan Africa,SSF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,256.0,tuberculosis_incidence
+Sub-Saharan Africa,SSF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,267.0,tuberculosis_incidence
+Sub-Saharan Africa,SSF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,285.0,tuberculosis_incidence
+Sub-Saharan Africa (excluding high income),SSA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,245.0,tuberculosis_incidence
+Sub-Saharan Africa (excluding high income),SSA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,254.0,tuberculosis_incidence
+Sub-Saharan Africa (excluding high income),SSA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,265.0,tuberculosis_incidence
+Sub-Saharan Africa (excluding high income),SSA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,276.0,tuberculosis_incidence
+Sub-Saharan Africa (excluding high income),SSA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,295.0,tuberculosis_incidence
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Upper middle income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,93.0,tuberculosis_incidence
+Upper middle income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,96.0,tuberculosis_incidence
+Upper middle income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,99.0,tuberculosis_incidence
+Upper middle income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,101.0,tuberculosis_incidence
+Upper middle income,,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,107.0,tuberculosis_incidence
+World,WLD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,134.0,tuberculosis_incidence
+World,WLD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,137.0,tuberculosis_incidence
+World,WLD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,141.0,tuberculosis_incidence
+World,WLD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,145.0,tuberculosis_incidence
+World,WLD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,150.0,tuberculosis_incidence
+Afghanistan,AFG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,213.0,tuberculosis_incidence
+Afghanistan,AFG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,212.0,tuberculosis_incidence
+Afghanistan,AFG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,209.0,tuberculosis_incidence
+Afghanistan,AFG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,204.0,tuberculosis_incidence
+Afghanistan,AFG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,200.0,tuberculosis_incidence
+Albania,ALB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,16.0,tuberculosis_incidence
+Albania,ALB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,17.0,tuberculosis_incidence
+Albania,ALB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,20.0,tuberculosis_incidence
+Albania,ALB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,16.0,tuberculosis_incidence
+Albania,ALB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,16.0,tuberculosis_incidence
+Algeria,DZA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,65.0,tuberculosis_incidence
+Algeria,DZA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,74.0,tuberculosis_incidence
+Algeria,DZA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,75.0,tuberculosis_incidence
+Algeria,DZA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,76.0,tuberculosis_incidence
+Algeria,DZA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,81.0,tuberculosis_incidence
+American Samoa,ASM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,2.0,tuberculosis_incidence
+American Samoa,ASM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,0.0,tuberculosis_incidence
+American Samoa,ASM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,9.7,tuberculosis_incidence
+American Samoa,ASM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,5.6,tuberculosis_incidence
+American Samoa,ASM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,7.6,tuberculosis_incidence
+Andorra,AND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,6.5,tuberculosis_incidence
+Andorra,AND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,2.7,tuberculosis_incidence
+Andorra,AND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,1.4,tuberculosis_incidence
+Andorra,AND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,5.5,tuberculosis_incidence
+Andorra,AND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,5.5,tuberculosis_incidence
+Angola,AGO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,390.0,tuberculosis_incidence
+Angola,AGO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,403.0,tuberculosis_incidence
+Angola,AGO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,418.0,tuberculosis_incidence
+Angola,AGO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,433.0,tuberculosis_incidence
+Angola,AGO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,445.0,tuberculosis_incidence
+Antigua and Barbuda,ATG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,0.0,tuberculosis_incidence
+Antigua and Barbuda,ATG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,5.5,tuberculosis_incidence
+Antigua and Barbuda,ATG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,1.1,tuberculosis_incidence
+Antigua and Barbuda,ATG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,3.3,tuberculosis_incidence
+Antigua and Barbuda,ATG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,3.8,tuberculosis_incidence
+Argentina,ARG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,33.0,tuberculosis_incidence
+Argentina,ARG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,30.0,tuberculosis_incidence
+Argentina,ARG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,29.0,tuberculosis_incidence
+Argentina,ARG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,30.0,tuberculosis_incidence
+Argentina,ARG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,28.0,tuberculosis_incidence
+Armenia,ARM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,31.0,tuberculosis_incidence
+Armenia,ARM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,37.0,tuberculosis_incidence
+Armenia,ARM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,43.0,tuberculosis_incidence
+Armenia,ARM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,54.0,tuberculosis_incidence
+Armenia,ARM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,63.0,tuberculosis_incidence
+Aruba,ABW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,1.9,tuberculosis_incidence
+Aruba,ABW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,4.7,tuberculosis_incidence
+Aruba,ABW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,7.6,tuberculosis_incidence
+Aruba,ABW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,7.6,tuberculosis_incidence
+Aruba,ABW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,5.8,tuberculosis_incidence
+Australia,AUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,6.8,tuberculosis_incidence
+Australia,AUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,6.5,tuberculosis_incidence
+Australia,AUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,6.6,tuberculosis_incidence
+Australia,AUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,6.5,tuberculosis_incidence
+Australia,AUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,6.0,tuberculosis_incidence
+Austria,AUT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,6.2,tuberculosis_incidence
+Austria,AUT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,6.3,tuberculosis_incidence
+Austria,AUT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,7.6,tuberculosis_incidence
+Austria,AUT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,8.4,tuberculosis_incidence
+Austria,AUT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,7.8,tuberculosis_incidence
+Azerbaijan,AZE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,73.0,tuberculosis_incidence
+Azerbaijan,AZE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,78.0,tuberculosis_incidence
+Azerbaijan,AZE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,84.0,tuberculosis_incidence
+Azerbaijan,AZE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,86.0,tuberculosis_incidence
+Azerbaijan,AZE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,95.0,tuberculosis_incidence
+"Bahamas, The",BHS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,17.0,tuberculosis_incidence
+"Bahamas, The",BHS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,15.0,tuberculosis_incidence
+"Bahamas, The",BHS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,17.0,tuberculosis_incidence
+"Bahamas, The",BHS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,30.0,tuberculosis_incidence
+"Bahamas, The",BHS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,21.0,tuberculosis_incidence
+Bahrain,BHR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,16.0,tuberculosis_incidence
+Bahrain,BHR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,14.0,tuberculosis_incidence
+Bahrain,BHR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,14.0,tuberculosis_incidence
+Bahrain,BHR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,15.0,tuberculosis_incidence
+Bahrain,BHR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,18.0,tuberculosis_incidence
+Bangladesh,BGD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,221.0,tuberculosis_incidence
+Bangladesh,BGD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,221.0,tuberculosis_incidence
+Bangladesh,BGD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,221.0,tuberculosis_incidence
+Bangladesh,BGD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,221.0,tuberculosis_incidence
+Bangladesh,BGD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,221.0,tuberculosis_incidence
+Barbados,BRB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,0.0,tuberculosis_incidence
+Barbados,BRB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,0.36,tuberculosis_incidence
+Barbados,BRB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,0.0,tuberculosis_incidence
+Barbados,BRB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,1.1,tuberculosis_incidence
+Barbados,BRB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,0.0,tuberculosis_incidence
+Belarus,BLR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,29.0,tuberculosis_incidence
+Belarus,BLR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,31.0,tuberculosis_incidence
+Belarus,BLR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,38.0,tuberculosis_incidence
+Belarus,BLR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,45.0,tuberculosis_incidence
+Belarus,BLR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,54.0,tuberculosis_incidence
+Belgium,BEL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,8.9,tuberculosis_incidence
+Belgium,BEL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,9.1,tuberculosis_incidence
+Belgium,BEL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,9.2,tuberculosis_incidence
+Belgium,BEL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,10.0,tuberculosis_incidence
+Belgium,BEL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,9.5,tuberculosis_incidence
+Belize,BLZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,35.0,tuberculosis_incidence
+Belize,BLZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,39.0,tuberculosis_incidence
+Belize,BLZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,47.0,tuberculosis_incidence
+Belize,BLZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,49.0,tuberculosis_incidence
+Belize,BLZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,33.0,tuberculosis_incidence
+Benin,BEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,51.0,tuberculosis_incidence
+Benin,BEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,53.0,tuberculosis_incidence
+Benin,BEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,56.0,tuberculosis_incidence
+Benin,BEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,59.0,tuberculosis_incidence
+Benin,BEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,62.0,tuberculosis_incidence
+Bermuda,BMU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,3.1,tuberculosis_incidence
+Bermuda,BMU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,3.1,tuberculosis_incidence
+Bermuda,BMU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,3.1,tuberculosis_incidence
+Bermuda,BMU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,3.2,tuberculosis_incidence
+Bermuda,BMU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,0.0,tuberculosis_incidence
+Bhutan,BTN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,226.0,tuberculosis_incidence
+Bhutan,BTN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,213.0,tuberculosis_incidence
+Bhutan,BTN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,216.0,tuberculosis_incidence
+Bhutan,BTN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,298.0,tuberculosis_incidence
+Bhutan,BTN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,264.0,tuberculosis_incidence
+Bolivia,BOL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,95.0,tuberculosis_incidence
+Bolivia,BOL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,98.0,tuberculosis_incidence
+Bolivia,BOL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,104.0,tuberculosis_incidence
+Bolivia,BOL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,113.0,tuberculosis_incidence
+Bolivia,BOL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,123.0,tuberculosis_incidence
+Bosnia and Herzegovina,BIH,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,25.0,tuberculosis_incidence
+Bosnia and Herzegovina,BIH,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,28.0,tuberculosis_incidence
+Bosnia and Herzegovina,BIH,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,32.0,tuberculosis_incidence
+Bosnia and Herzegovina,BIH,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,38.0,tuberculosis_incidence
+Bosnia and Herzegovina,BIH,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,46.0,tuberculosis_incidence
+Botswana,BWA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,306.0,tuberculosis_incidence
+Botswana,BWA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,339.0,tuberculosis_incidence
+Botswana,BWA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,372.0,tuberculosis_incidence
+Botswana,BWA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,405.0,tuberculosis_incidence
+Botswana,BWA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,437.0,tuberculosis_incidence
+Brazil,BRA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,45.0,tuberculosis_incidence
+Brazil,BRA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,45.0,tuberculosis_incidence
+Brazil,BRA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,43.0,tuberculosis_incidence
+Brazil,BRA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,41.0,tuberculosis_incidence
+Brazil,BRA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,41.0,tuberculosis_incidence
+British Virgin Islands,VGB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,2.3,tuberculosis_incidence
+British Virgin Islands,VGB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,2.9,tuberculosis_incidence
+British Virgin Islands,VGB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,1.4,tuberculosis_incidence
+British Virgin Islands,VGB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,0.0,tuberculosis_incidence
+British Virgin Islands,VGB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,0.0,tuberculosis_incidence
+Brunei Darussalam,BRN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,71.0,tuberculosis_incidence
+Brunei Darussalam,BRN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,75.0,tuberculosis_incidence
+Brunei Darussalam,BRN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,71.0,tuberculosis_incidence
+Brunei Darussalam,BRN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,75.0,tuberculosis_incidence
+Brunei Darussalam,BRN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,69.0,tuberculosis_incidence
+Bulgaria,BGR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,25.0,tuberculosis_incidence
+Bulgaria,BGR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,25.0,tuberculosis_incidence
+Bulgaria,BGR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,28.0,tuberculosis_incidence
+Bulgaria,BGR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,31.0,tuberculosis_incidence
+Bulgaria,BGR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,33.0,tuberculosis_incidence
+Burkina Faso,BFA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,63.0,tuberculosis_incidence
+Burkina Faso,BFA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,64.0,tuberculosis_incidence
+Burkina Faso,BFA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,66.0,tuberculosis_incidence
+Burkina Faso,BFA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,67.0,tuberculosis_incidence
+Burkina Faso,BFA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,68.0,tuberculosis_incidence
+Burundi,BDI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,102.0,tuberculosis_incidence
+Burundi,BDI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,106.0,tuberculosis_incidence
+Burundi,BDI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,112.0,tuberculosis_incidence
+Burundi,BDI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,118.0,tuberculosis_incidence
+Burundi,BDI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,124.0,tuberculosis_incidence
+Cabo Verde,CPV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,57.0,tuberculosis_incidence
+Cabo Verde,CPV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,56.0,tuberculosis_incidence
+Cabo Verde,CPV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,70.0,tuberculosis_incidence
+Cabo Verde,CPV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,70.0,tuberculosis_incidence
+Cabo Verde,CPV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,78.0,tuberculosis_incidence
+Cambodia,KHM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,293.0,tuberculosis_incidence
+Cambodia,KHM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,303.0,tuberculosis_incidence
+Cambodia,KHM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,313.0,tuberculosis_incidence
+Cambodia,KHM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,326.0,tuberculosis_incidence
+Cambodia,KHM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,339.0,tuberculosis_incidence
+Cameroon,CMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,168.0,tuberculosis_incidence
+Cameroon,CMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,177.0,tuberculosis_incidence
+Cameroon,CMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,189.0,tuberculosis_incidence
+Cameroon,CMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,202.0,tuberculosis_incidence
+Cameroon,CMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,214.0,tuberculosis_incidence
+Canada,CAN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,5.6,tuberculosis_incidence
+Canada,CAN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,5.3,tuberculosis_incidence
+Canada,CAN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,5.4,tuberculosis_incidence
+Canada,CAN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,5.3,tuberculosis_incidence
+Canada,CAN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,5.1,tuberculosis_incidence
+Cayman Islands,CYM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,5.9,tuberculosis_incidence
+Cayman Islands,CYM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,4.5,tuberculosis_incidence
+Cayman Islands,CYM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,6.2,tuberculosis_incidence
+Cayman Islands,CYM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,4.8,tuberculosis_incidence
+Cayman Islands,CYM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,11.0,tuberculosis_incidence
+Central African Republic,CAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,464.0,tuberculosis_incidence
+Central African Republic,CAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,473.0,tuberculosis_incidence
+Central African Republic,CAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,483.0,tuberculosis_incidence
+Central African Republic,CAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,493.0,tuberculosis_incidence
+Central African Republic,CAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,503.0,tuberculosis_incidence
+Chad,TCD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,135.0,tuberculosis_incidence
+Chad,TCD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,139.0,tuberculosis_incidence
+Chad,TCD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,145.0,tuberculosis_incidence
+Chad,TCD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,152.0,tuberculosis_incidence
+Chad,TCD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,157.0,tuberculosis_incidence
+Channel Islands,CHI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Channel Islands,CHI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Channel Islands,CHI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Channel Islands,CHI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Channel Islands,CHI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Chile,CHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,19.0,tuberculosis_incidence
+Chile,CHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,19.0,tuberculosis_incidence
+Chile,CHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,18.0,tuberculosis_incidence
+Chile,CHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,17.0,tuberculosis_incidence
+Chile,CHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,18.0,tuberculosis_incidence
+China,CHN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,58.0,tuberculosis_incidence
+China,CHN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,61.0,tuberculosis_incidence
+China,CHN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,62.0,tuberculosis_incidence
+China,CHN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,63.0,tuberculosis_incidence
+China,CHN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,65.0,tuberculosis_incidence
+Colombia,COL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,36.0,tuberculosis_incidence
+Colombia,COL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,34.0,tuberculosis_incidence
+Colombia,COL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,34.0,tuberculosis_incidence
+Colombia,COL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,34.0,tuberculosis_incidence
+Colombia,COL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,33.0,tuberculosis_incidence
+Comoros,COM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,37.0,tuberculosis_incidence
+Comoros,COM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,39.0,tuberculosis_incidence
+Comoros,COM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,40.0,tuberculosis_incidence
+Comoros,COM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,41.0,tuberculosis_incidence
+Comoros,COM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,42.0,tuberculosis_incidence
+"Congo, Dem. Rep.",COD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,417.0,tuberculosis_incidence
+"Congo, Dem. Rep.",COD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,426.0,tuberculosis_incidence
+"Congo, Dem. Rep.",COD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,434.0,tuberculosis_incidence
+"Congo, Dem. Rep.",COD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,443.0,tuberculosis_incidence
+"Congo, Dem. Rep.",COD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,452.0,tuberculosis_incidence
+"Congo, Rep.",COG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,304.0,tuberculosis_incidence
+"Congo, Rep.",COG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,311.0,tuberculosis_incidence
+"Congo, Rep.",COG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,321.0,tuberculosis_incidence
+"Congo, Rep.",COG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,334.0,tuberculosis_incidence
+"Congo, Rep.",COG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,348.0,tuberculosis_incidence
+Costa Rica,CRI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,9.9,tuberculosis_incidence
+Costa Rica,CRI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,10.0,tuberculosis_incidence
+Costa Rica,CRI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,9.6,tuberculosis_incidence
+Costa Rica,CRI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,9.6,tuberculosis_incidence
+Costa Rica,CRI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,12.0,tuberculosis_incidence
+Cote d'Ivoire,CIV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,126.0,tuberculosis_incidence
+Cote d'Ivoire,CIV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,133.0,tuberculosis_incidence
+Cote d'Ivoire,CIV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,142.0,tuberculosis_incidence
+Cote d'Ivoire,CIV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,153.0,tuberculosis_incidence
+Cote d'Ivoire,CIV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,162.0,tuberculosis_incidence
+Croatia,HRV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,9.3,tuberculosis_incidence
+Croatia,HRV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,11.0,tuberculosis_incidence
+Croatia,HRV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,11.0,tuberculosis_incidence
+Croatia,HRV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,14.0,tuberculosis_incidence
+Croatia,HRV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,15.0,tuberculosis_incidence
+Cuba,CUB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,6.8,tuberculosis_incidence
+Cuba,CUB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,7.6,tuberculosis_incidence
+Cuba,CUB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,7.6,tuberculosis_incidence
+Cuba,CUB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,7.3,tuberculosis_incidence
+Cuba,CUB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,7.5,tuberculosis_incidence
+Curacao,CUW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,3.8,tuberculosis_incidence
+Curacao,CUW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,4.1,tuberculosis_incidence
+Curacao,CUW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,5.3,tuberculosis_incidence
+Curacao,CUW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,2.4,tuberculosis_incidence
+Curacao,CUW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,4.8,tuberculosis_incidence
+Cyprus,CYP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,6.4,tuberculosis_incidence
+Cyprus,CYP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,5.0,tuberculosis_incidence
+Cyprus,CYP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,5.2,tuberculosis_incidence
+Cyprus,CYP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,5.9,tuberculosis_incidence
+Cyprus,CYP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,6.7,tuberculosis_incidence
+Czechia,CZE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,5.2,tuberculosis_incidence
+Czechia,CZE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,5.0,tuberculosis_incidence
+Czechia,CZE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,5.7,tuberculosis_incidence
+Czechia,CZE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,5.9,tuberculosis_incidence
+Czechia,CZE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,6.0,tuberculosis_incidence
+Denmark,DNK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,5.4,tuberculosis_incidence
+Denmark,DNK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,5.7,tuberculosis_incidence
+Denmark,DNK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,5.4,tuberculosis_incidence
+Denmark,DNK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,6.3,tuberculosis_incidence
+Denmark,DNK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,7.0,tuberculosis_incidence
+Djibouti,DJI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,389.0,tuberculosis_incidence
+Djibouti,DJI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,433.0,tuberculosis_incidence
+Djibouti,DJI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,454.0,tuberculosis_incidence
+Djibouti,DJI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,600.0,tuberculosis_incidence
+Djibouti,DJI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,691.0,tuberculosis_incidence
+Dominica,DMA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,15.0,tuberculosis_incidence
+Dominica,DMA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,5.9,tuberculosis_incidence
+Dominica,DMA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,1.5,tuberculosis_incidence
+Dominica,DMA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,7.2,tuberculosis_incidence
+Dominica,DMA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,9.9,tuberculosis_incidence
+Dominican Republic,DOM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,45.0,tuberculosis_incidence
+Dominican Republic,DOM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,49.0,tuberculosis_incidence
+Dominican Republic,DOM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,50.0,tuberculosis_incidence
+Dominican Republic,DOM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,55.0,tuberculosis_incidence
+Dominican Republic,DOM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,59.0,tuberculosis_incidence
+Ecuador,ECU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,46.0,tuberculosis_incidence
+Ecuador,ECU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,45.0,tuberculosis_incidence
+Ecuador,ECU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,44.0,tuberculosis_incidence
+Ecuador,ECU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,42.0,tuberculosis_incidence
+Ecuador,ECU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,42.0,tuberculosis_incidence
+"Egypt, Arab Rep.",EGY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,11.0,tuberculosis_incidence
+"Egypt, Arab Rep.",EGY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,12.0,tuberculosis_incidence
+"Egypt, Arab Rep.",EGY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,12.0,tuberculosis_incidence
+"Egypt, Arab Rep.",EGY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,13.0,tuberculosis_incidence
+"Egypt, Arab Rep.",EGY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,13.0,tuberculosis_incidence
+El Salvador,SLV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,63.0,tuberculosis_incidence
+El Salvador,SLV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,76.0,tuberculosis_incidence
+El Salvador,SLV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,77.0,tuberculosis_incidence
+El Salvador,SLV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,65.0,tuberculosis_incidence
+El Salvador,SLV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,53.0,tuberculosis_incidence
+Equatorial Guinea,GNQ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,220.0,tuberculosis_incidence
+Equatorial Guinea,GNQ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,225.0,tuberculosis_incidence
+Equatorial Guinea,GNQ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,229.0,tuberculosis_incidence
+Equatorial Guinea,GNQ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,234.0,tuberculosis_incidence
+Equatorial Guinea,GNQ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,239.0,tuberculosis_incidence
+Eritrea,ERI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,127.0,tuberculosis_incidence
+Eritrea,ERI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,132.0,tuberculosis_incidence
+Eritrea,ERI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,147.0,tuberculosis_incidence
+Eritrea,ERI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,163.0,tuberculosis_incidence
+Eritrea,ERI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,156.0,tuberculosis_incidence
+Estonia,EST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,14.0,tuberculosis_incidence
+Estonia,EST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,14.0,tuberculosis_incidence
+Estonia,EST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,17.0,tuberculosis_incidence
+Estonia,EST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,19.0,tuberculosis_incidence
+Estonia,EST,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,21.0,tuberculosis_incidence
+Eswatini,SWZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,363.0,tuberculosis_incidence
+Eswatini,SWZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,441.0,tuberculosis_incidence
+Eswatini,SWZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,502.0,tuberculosis_incidence
+Eswatini,SWZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,537.0,tuberculosis_incidence
+Eswatini,SWZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,648.0,tuberculosis_incidence
+Ethiopia,ETH,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,163.0,tuberculosis_incidence
+Ethiopia,ETH,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,170.0,tuberculosis_incidence
+Ethiopia,ETH,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,179.0,tuberculosis_incidence
+Ethiopia,ETH,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,189.0,tuberculosis_incidence
+Ethiopia,ETH,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,200.0,tuberculosis_incidence
+Faroe Islands,FRO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Faroe Islands,FRO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Faroe Islands,FRO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Faroe Islands,FRO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Faroe Islands,FRO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Fiji,FJI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,89.0,tuberculosis_incidence
+Fiji,FJI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,73.0,tuberculosis_incidence
+Fiji,FJI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,68.0,tuberculosis_incidence
+Fiji,FJI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,59.0,tuberculosis_incidence
+Fiji,FJI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,69.0,tuberculosis_incidence
+Finland,FIN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,4.8,tuberculosis_incidence
+Finland,FIN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,4.9,tuberculosis_incidence
+Finland,FIN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,5.0,tuberculosis_incidence
+Finland,FIN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,4.8,tuberculosis_incidence
+Finland,FIN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,5.7,tuberculosis_incidence
+France,FRA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,9.0,tuberculosis_incidence
+France,FRA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,8.8,tuberculosis_incidence
+France,FRA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,9.0,tuberculosis_incidence
+France,FRA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,8.7,tuberculosis_incidence
+France,FRA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,8.4,tuberculosis_incidence
+French Polynesia,PYF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,27.0,tuberculosis_incidence
+French Polynesia,PYF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,30.0,tuberculosis_incidence
+French Polynesia,PYF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,29.0,tuberculosis_incidence
+French Polynesia,PYF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,31.0,tuberculosis_incidence
+French Polynesia,PYF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,27.0,tuberculosis_incidence
+Gabon,GAB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,427.0,tuberculosis_incidence
+Gabon,GAB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,440.0,tuberculosis_incidence
+Gabon,GAB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,456.0,tuberculosis_incidence
+Gabon,GAB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,475.0,tuberculosis_incidence
+Gabon,GAB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,488.0,tuberculosis_incidence
+"Gambia, The",GMB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,158.0,tuberculosis_incidence
+"Gambia, The",GMB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,162.0,tuberculosis_incidence
+"Gambia, The",GMB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,166.0,tuberculosis_incidence
+"Gambia, The",GMB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,170.0,tuberculosis_incidence
+"Gambia, The",GMB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,173.0,tuberculosis_incidence
+Georgia,GEO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,78.0,tuberculosis_incidence
+Georgia,GEO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,86.0,tuberculosis_incidence
+Georgia,GEO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,95.0,tuberculosis_incidence
+Georgia,GEO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,104.0,tuberculosis_incidence
+Georgia,GEO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,115.0,tuberculosis_incidence
+Germany,DEU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,6.1,tuberculosis_incidence
+Germany,DEU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,6.9,tuberculosis_incidence
+Germany,DEU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,7.1,tuberculosis_incidence
+Germany,DEU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,7.6,tuberculosis_incidence
+Germany,DEU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,7.6,tuberculosis_incidence
+Ghana,GHA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,144.0,tuberculosis_incidence
+Ghana,GHA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,148.0,tuberculosis_incidence
+Ghana,GHA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,152.0,tuberculosis_incidence
+Ghana,GHA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,156.0,tuberculosis_incidence
+Ghana,GHA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,160.0,tuberculosis_incidence
+Gibraltar,GIB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Gibraltar,GIB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Gibraltar,GIB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Gibraltar,GIB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Gibraltar,GIB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Greece,GRC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,5.1,tuberculosis_incidence
+Greece,GRC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,4.8,tuberculosis_incidence
+Greece,GRC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,5.2,tuberculosis_incidence
+Greece,GRC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,4.9,tuberculosis_incidence
+Greece,GRC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,5.3,tuberculosis_incidence
+Greenland,GRL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,142.0,tuberculosis_incidence
+Greenland,GRL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,111.0,tuberculosis_incidence
+Greenland,GRL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,130.0,tuberculosis_incidence
+Greenland,GRL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,134.0,tuberculosis_incidence
+Greenland,GRL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,189.0,tuberculosis_incidence
+Grenada,GRD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,2.6,tuberculosis_incidence
+Grenada,GRD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,1.7,tuberculosis_incidence
+Grenada,GRD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,2.6,tuberculosis_incidence
+Grenada,GRD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,5.2,tuberculosis_incidence
+Grenada,GRD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,4.4,tuberculosis_incidence
+Guam,GUM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,76.0,tuberculosis_incidence
+Guam,GUM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,68.0,tuberculosis_incidence
+Guam,GUM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,80.0,tuberculosis_incidence
+Guam,GUM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,72.0,tuberculosis_incidence
+Guam,GUM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,74.0,tuberculosis_incidence
+Guatemala,GTM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,24.0,tuberculosis_incidence
+Guatemala,GTM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,24.0,tuberculosis_incidence
+Guatemala,GTM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,23.0,tuberculosis_incidence
+Guatemala,GTM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,22.0,tuberculosis_incidence
+Guatemala,GTM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,23.0,tuberculosis_incidence
+Guinea,GIN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,178.0,tuberculosis_incidence
+Guinea,GIN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,178.0,tuberculosis_incidence
+Guinea,GIN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,178.0,tuberculosis_incidence
+Guinea,GIN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,177.0,tuberculosis_incidence
+Guinea,GIN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,177.0,tuberculosis_incidence
+Guinea-Bissau,GNB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,189.0,tuberculosis_incidence
+Guinea-Bissau,GNB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,194.0,tuberculosis_incidence
+Guinea-Bissau,GNB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,198.0,tuberculosis_incidence
+Guinea-Bissau,GNB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,203.0,tuberculosis_incidence
+Guinea-Bissau,GNB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,209.0,tuberculosis_incidence
+Guyana,GUY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,80.0,tuberculosis_incidence
+Guyana,GUY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,85.0,tuberculosis_incidence
+Guyana,GUY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,90.0,tuberculosis_incidence
+Guyana,GUY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,101.0,tuberculosis_incidence
+Guyana,GUY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,102.0,tuberculosis_incidence
+Haiti,HTI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,239.0,tuberculosis_incidence
+Haiti,HTI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,256.0,tuberculosis_incidence
+Haiti,HTI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,276.0,tuberculosis_incidence
+Haiti,HTI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,297.0,tuberculosis_incidence
+Haiti,HTI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,318.0,tuberculosis_incidence
+Honduras,HND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,38.0,tuberculosis_incidence
+Honduras,HND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,45.0,tuberculosis_incidence
+Honduras,HND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,46.0,tuberculosis_incidence
+Honduras,HND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,48.0,tuberculosis_incidence
+Honduras,HND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,49.0,tuberculosis_incidence
+"Hong Kong SAR, China",HKG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,84.0,tuberculosis_incidence
+"Hong Kong SAR, China",HKG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,89.0,tuberculosis_incidence
+"Hong Kong SAR, China",HKG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,90.0,tuberculosis_incidence
+"Hong Kong SAR, China",HKG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,94.0,tuberculosis_incidence
+"Hong Kong SAR, China",HKG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,98.0,tuberculosis_incidence
+Hungary,HUN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,7.0,tuberculosis_incidence
+Hungary,HUN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,8.0,tuberculosis_incidence
+Hungary,HUN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,8.6,tuberculosis_incidence
+Hungary,HUN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,9.8,tuberculosis_incidence
+Hungary,HUN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,11.0,tuberculosis_incidence
+Iceland,ISL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,3.6,tuberculosis_incidence
+Iceland,ISL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,2.3,tuberculosis_incidence
+Iceland,ISL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,3.8,tuberculosis_incidence
+Iceland,ISL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,1.8,tuberculosis_incidence
+Iceland,ISL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,2.1,tuberculosis_incidence
+India,IND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,202.0,tuberculosis_incidence
+India,IND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,208.0,tuberculosis_incidence
+India,IND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,217.0,tuberculosis_incidence
+India,IND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,225.0,tuberculosis_incidence
+India,IND,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,237.0,tuberculosis_incidence
+Indonesia,IDN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,312.0,tuberculosis_incidence
+Indonesia,IDN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,316.0,tuberculosis_incidence
+Indonesia,IDN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,319.0,tuberculosis_incidence
+Indonesia,IDN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,322.0,tuberculosis_incidence
+Indonesia,IDN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,325.0,tuberculosis_incidence
+"Iran, Islamic Rep.",IRN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,14.0,tuberculosis_incidence
+"Iran, Islamic Rep.",IRN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,15.0,tuberculosis_incidence
+"Iran, Islamic Rep.",IRN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,16.0,tuberculosis_incidence
+"Iran, Islamic Rep.",IRN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,17.0,tuberculosis_incidence
+"Iran, Islamic Rep.",IRN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,20.0,tuberculosis_incidence
+Iraq,IRQ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,24.0,tuberculosis_incidence
+Iraq,IRQ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,27.0,tuberculosis_incidence
+Iraq,IRQ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,29.0,tuberculosis_incidence
+Iraq,IRQ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,29.0,tuberculosis_incidence
+Iraq,IRQ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,33.0,tuberculosis_incidence
+Ireland,IRL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,6.2,tuberculosis_incidence
+Ireland,IRL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,7.4,tuberculosis_incidence
+Ireland,IRL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,7.7,tuberculosis_incidence
+Ireland,IRL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,7.6,tuberculosis_incidence
+Ireland,IRL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,7.7,tuberculosis_incidence
+Isle of Man,IMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Isle of Man,IMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Isle of Man,IMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Isle of Man,IMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Isle of Man,IMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Israel,ISR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,2.9,tuberculosis_incidence
+Israel,ISR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,4.1,tuberculosis_incidence
+Israel,ISR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,3.4,tuberculosis_incidence
+Israel,ISR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,3.7,tuberculosis_incidence
+Israel,ISR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,4.3,tuberculosis_incidence
+Italy,ITA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,6.2,tuberculosis_incidence
+Italy,ITA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,7.4,tuberculosis_incidence
+Italy,ITA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,7.5,tuberculosis_incidence
+Italy,ITA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,7.5,tuberculosis_incidence
+Italy,ITA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,6.9,tuberculosis_incidence
+Jamaica,JAM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,3.5,tuberculosis_incidence
+Jamaica,JAM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,3.9,tuberculosis_incidence
+Jamaica,JAM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,5.9,tuberculosis_incidence
+Jamaica,JAM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,5.1,tuberculosis_incidence
+Jamaica,JAM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,5.2,tuberculosis_incidence
+Japan,JPN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,14.0,tuberculosis_incidence
+Japan,JPN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,15.0,tuberculosis_incidence
+Japan,JPN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,16.0,tuberculosis_incidence
+Japan,JPN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,17.0,tuberculosis_incidence
+Japan,JPN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,17.0,tuberculosis_incidence
+Jordan,JOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,6.3,tuberculosis_incidence
+Jordan,JOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,5.6,tuberculosis_incidence
+Jordan,JOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,7.5,tuberculosis_incidence
+Jordan,JOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,6.1,tuberculosis_incidence
+Jordan,JOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,6.5,tuberculosis_incidence
+Kazakhstan,KAZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,66.0,tuberculosis_incidence
+Kazakhstan,KAZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,68.0,tuberculosis_incidence
+Kazakhstan,KAZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,67.0,tuberculosis_incidence
+Kazakhstan,KAZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,68.0,tuberculosis_incidence
+Kazakhstan,KAZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,78.0,tuberculosis_incidence
+Kenya,KEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,267.0,tuberculosis_incidence
+Kenya,KEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,292.0,tuberculosis_incidence
+Kenya,KEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,319.0,tuberculosis_incidence
+Kenya,KEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,348.0,tuberculosis_incidence
+Kenya,KEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,380.0,tuberculosis_incidence
+Kiribati,KIR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,715.0,tuberculosis_incidence
+Kiribati,KIR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,582.0,tuberculosis_incidence
+Kiribati,KIR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,718.0,tuberculosis_incidence
+Kiribati,KIR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,1010.0,tuberculosis_incidence
+Kiribati,KIR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,1010.0,tuberculosis_incidence
+"Korea, Dem. People's Rep.",PRK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+"Korea, Dem. People's Rep.",PRK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+"Korea, Dem. People's Rep.",PRK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+"Korea, Dem. People's Rep.",PRK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+"Korea, Dem. People's Rep.",PRK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+"Korea, Rep.",KOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,58.0,tuberculosis_incidence
+"Korea, Rep.",KOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,64.0,tuberculosis_incidence
+"Korea, Rep.",KOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,70.0,tuberculosis_incidence
+"Korea, Rep.",KOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,76.0,tuberculosis_incidence
+"Korea, Rep.",KOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,79.0,tuberculosis_incidence
+Kosovo,XKX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Kosovo,XKX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Kosovo,XKX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Kosovo,XKX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Kosovo,XKX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Kuwait,KWT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,23.0,tuberculosis_incidence
+Kuwait,KWT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,25.0,tuberculosis_incidence
+Kuwait,KWT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,31.0,tuberculosis_incidence
+Kuwait,KWT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,27.0,tuberculosis_incidence
+Kuwait,KWT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,26.0,tuberculosis_incidence
+Kyrgyz Republic,KGZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,136.0,tuberculosis_incidence
+Kyrgyz Republic,KGZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,144.0,tuberculosis_incidence
+Kyrgyz Republic,KGZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,156.0,tuberculosis_incidence
+Kyrgyz Republic,KGZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,170.0,tuberculosis_incidence
+Kyrgyz Republic,KGZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,178.0,tuberculosis_incidence
+Lao PDR,LAO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,155.0,tuberculosis_incidence
+Lao PDR,LAO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,162.0,tuberculosis_incidence
+Lao PDR,LAO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,168.0,tuberculosis_incidence
+Lao PDR,LAO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,175.0,tuberculosis_incidence
+Lao PDR,LAO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,182.0,tuberculosis_incidence
+Latvia,LVA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,28.0,tuberculosis_incidence
+Latvia,LVA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,33.0,tuberculosis_incidence
+Latvia,LVA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,38.0,tuberculosis_incidence
+Latvia,LVA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,47.0,tuberculosis_incidence
+Latvia,LVA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,53.0,tuberculosis_incidence
+Lebanon,LBN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,18.0,tuberculosis_incidence
+Lebanon,LBN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,15.0,tuberculosis_incidence
+Lebanon,LBN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,14.0,tuberculosis_incidence
+Lebanon,LBN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,14.0,tuberculosis_incidence
+Lebanon,LBN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,15.0,tuberculosis_incidence
+Lesotho,LSO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,654.0,tuberculosis_incidence
+Lesotho,LSO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,659.0,tuberculosis_incidence
+Lesotho,LSO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,681.0,tuberculosis_incidence
+Lesotho,LSO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,721.0,tuberculosis_incidence
+Lesotho,LSO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,780.0,tuberculosis_incidence
+Liberia,LBR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,249.0,tuberculosis_incidence
+Liberia,LBR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,257.0,tuberculosis_incidence
+Liberia,LBR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,268.0,tuberculosis_incidence
+Liberia,LBR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,279.0,tuberculosis_incidence
+Liberia,LBR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,289.0,tuberculosis_incidence
+Libya,LBY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,40.0,tuberculosis_incidence
+Libya,LBY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,37.0,tuberculosis_incidence
+Libya,LBY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,34.0,tuberculosis_incidence
+Libya,LBY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,32.0,tuberculosis_incidence
+Libya,LBY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,32.0,tuberculosis_incidence
+Liechtenstein,LIE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Liechtenstein,LIE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Liechtenstein,LIE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Liechtenstein,LIE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Liechtenstein,LIE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+Lithuania,LTU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,50.0,tuberculosis_incidence
+Lithuania,LTU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,54.0,tuberculosis_incidence
+Lithuania,LTU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,65.0,tuberculosis_incidence
+Lithuania,LTU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,70.0,tuberculosis_incidence
+Lithuania,LTU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,73.0,tuberculosis_incidence
+Luxembourg,LUX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,9.0,tuberculosis_incidence
+Luxembourg,LUX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,8.1,tuberculosis_incidence
+Luxembourg,LUX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,6.3,tuberculosis_incidence
+Luxembourg,LUX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,5.9,tuberculosis_incidence
+Luxembourg,LUX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,6.3,tuberculosis_incidence
+"Macao SAR, China",MAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,84.0,tuberculosis_incidence
+"Macao SAR, China",MAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,77.0,tuberculosis_incidence
+"Macao SAR, China",MAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,92.0,tuberculosis_incidence
+"Macao SAR, China",MAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,89.0,tuberculosis_incidence
+"Macao SAR, China",MAC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,96.0,tuberculosis_incidence
+Madagascar,MDG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,214.0,tuberculosis_incidence
+Madagascar,MDG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,214.0,tuberculosis_incidence
+Madagascar,MDG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,215.0,tuberculosis_incidence
+Madagascar,MDG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,217.0,tuberculosis_incidence
+Madagascar,MDG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,219.0,tuberculosis_incidence
+Malawi,MWI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,146.0,tuberculosis_incidence
+Malawi,MWI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,153.0,tuberculosis_incidence
+Malawi,MWI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,162.0,tuberculosis_incidence
+Malawi,MWI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,176.0,tuberculosis_incidence
+Malawi,MWI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,197.0,tuberculosis_incidence
+Malaysia,MYS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,100.0,tuberculosis_incidence
+Malaysia,MYS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,100.0,tuberculosis_incidence
+Malaysia,MYS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,103.0,tuberculosis_incidence
+Malaysia,MYS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,106.0,tuberculosis_incidence
+Malaysia,MYS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,104.0,tuberculosis_incidence
+Maldives,MDV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,48.0,tuberculosis_incidence
+Maldives,MDV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,43.0,tuberculosis_incidence
+Maldives,MDV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,42.0,tuberculosis_incidence
+Maldives,MDV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,57.0,tuberculosis_incidence
+Maldives,MDV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,57.0,tuberculosis_incidence
+Mali,MLI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,57.0,tuberculosis_incidence
+Mali,MLI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,59.0,tuberculosis_incidence
+Mali,MLI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,60.0,tuberculosis_incidence
+Mali,MLI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,61.0,tuberculosis_incidence
+Mali,MLI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,63.0,tuberculosis_incidence
+Malta,MLT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,19.0,tuberculosis_incidence
+Malta,MLT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,11.0,tuberculosis_incidence
+Malta,MLT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,9.0,tuberculosis_incidence
+Malta,MLT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,11.0,tuberculosis_incidence
+Malta,MLT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,7.2,tuberculosis_incidence
+Marshall Islands,MHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,877.0,tuberculosis_incidence
+Marshall Islands,MHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,1610.0,tuberculosis_incidence
+Marshall Islands,MHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,745.0,tuberculosis_incidence
+Marshall Islands,MHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,649.0,tuberculosis_incidence
+Marshall Islands,MHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,498.0,tuberculosis_incidence
+Mauritania,MRT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,89.0,tuberculosis_incidence
+Mauritania,MRT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,94.0,tuberculosis_incidence
+Mauritania,MRT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,98.0,tuberculosis_incidence
+Mauritania,MRT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,102.0,tuberculosis_incidence
+Mauritania,MRT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,107.0,tuberculosis_incidence
+Mauritius,MUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,14.0,tuberculosis_incidence
+Mauritius,MUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,16.0,tuberculosis_incidence
+Mauritius,MUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,14.0,tuberculosis_incidence
+Mauritius,MUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,15.0,tuberculosis_incidence
+Mauritius,MUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,16.0,tuberculosis_incidence
+Mexico,MEX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,26.0,tuberculosis_incidence
+Mexico,MEX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,26.0,tuberculosis_incidence
+Mexico,MEX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,25.0,tuberculosis_incidence
+Mexico,MEX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,25.0,tuberculosis_incidence
+Mexico,MEX,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,25.0,tuberculosis_incidence
+"Micronesia, Fed. Sts.",FSM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,180.0,tuberculosis_incidence
+"Micronesia, Fed. Sts.",FSM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,187.0,tuberculosis_incidence
+"Micronesia, Fed. Sts.",FSM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,262.0,tuberculosis_incidence
+"Micronesia, Fed. Sts.",FSM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,293.0,tuberculosis_incidence
+"Micronesia, Fed. Sts.",FSM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,214.0,tuberculosis_incidence
+Moldova,MDA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,91.0,tuberculosis_incidence
+Moldova,MDA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,97.0,tuberculosis_incidence
+Moldova,MDA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,106.0,tuberculosis_incidence
+Moldova,MDA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,111.0,tuberculosis_incidence
+Moldova,MDA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,111.0,tuberculosis_incidence
+Monaco,MCO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,0.0,tuberculosis_incidence
+Monaco,MCO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,2.6,tuberculosis_incidence
+Monaco,MCO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,0.0,tuberculosis_incidence
+Monaco,MCO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,5.4,tuberculosis_incidence
+Monaco,MCO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,0.0,tuberculosis_incidence
+Mongolia,MNG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,428.0,tuberculosis_incidence
+Mongolia,MNG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,428.0,tuberculosis_incidence
+Mongolia,MNG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,428.0,tuberculosis_incidence
+Mongolia,MNG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,428.0,tuberculosis_incidence
+Mongolia,MNG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,428.0,tuberculosis_incidence
+Montenegro,MNE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,18.0,tuberculosis_incidence
+Montenegro,MNE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,19.0,tuberculosis_incidence
+Montenegro,MNE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,17.0,tuberculosis_incidence
+Montenegro,MNE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,20.0,tuberculosis_incidence
+Montenegro,MNE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,19.0,tuberculosis_incidence
+Morocco,MAR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,96.0,tuberculosis_incidence
+Morocco,MAR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,97.0,tuberculosis_incidence
+Morocco,MAR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,98.0,tuberculosis_incidence
+Morocco,MAR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,101.0,tuberculosis_incidence
+Morocco,MAR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,100.0,tuberculosis_incidence
+Mozambique,MOZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,361.0,tuberculosis_incidence
+Mozambique,MOZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,361.0,tuberculosis_incidence
+Mozambique,MOZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,361.0,tuberculosis_incidence
+Mozambique,MOZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,361.0,tuberculosis_incidence
+Mozambique,MOZ,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,361.0,tuberculosis_incidence
+Myanmar,MMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,322.0,tuberculosis_incidence
+Myanmar,MMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,338.0,tuberculosis_incidence
+Myanmar,MMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,355.0,tuberculosis_incidence
+Myanmar,MMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,372.0,tuberculosis_incidence
+Myanmar,MMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,391.0,tuberculosis_incidence
+Namibia,NAM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,486.0,tuberculosis_incidence
+Namibia,NAM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,524.0,tuberculosis_incidence
+Namibia,NAM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,565.0,tuberculosis_incidence
+Namibia,NAM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,604.0,tuberculosis_incidence
+Namibia,NAM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,639.0,tuberculosis_incidence
+Nauru,NRU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,147.0,tuberculosis_incidence
+Nauru,NRU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,44.0,tuberculosis_incidence
+Nauru,NRU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,80.0,tuberculosis_incidence
+Nauru,NRU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,90.0,tuberculosis_incidence
+Nauru,NRU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,91.0,tuberculosis_incidence
+Nepal,NPL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,238.0,tuberculosis_incidence
+Nepal,NPL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,245.0,tuberculosis_incidence
+Nepal,NPL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,253.0,tuberculosis_incidence
+Nepal,NPL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,260.0,tuberculosis_incidence
+Nepal,NPL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,268.0,tuberculosis_incidence
+Netherlands,NLD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,4.9,tuberculosis_incidence
+Netherlands,NLD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,5.2,tuberculosis_incidence
+Netherlands,NLD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,5.2,tuberculosis_incidence
+Netherlands,NLD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,5.9,tuberculosis_incidence
+Netherlands,NLD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,5.7,tuberculosis_incidence
+New Caledonia,NCL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,13.0,tuberculosis_incidence
+New Caledonia,NCL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,20.0,tuberculosis_incidence
+New Caledonia,NCL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,19.0,tuberculosis_incidence
+New Caledonia,NCL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,21.0,tuberculosis_incidence
+New Caledonia,NCL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,32.0,tuberculosis_incidence
+New Zealand,NZL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,7.4,tuberculosis_incidence
+New Zealand,NZL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,7.2,tuberculosis_incidence
+New Zealand,NZL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,7.3,tuberculosis_incidence
+New Zealand,NZL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,7.4,tuberculosis_incidence
+New Zealand,NZL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,7.5,tuberculosis_incidence
+Nicaragua,NIC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,49.0,tuberculosis_incidence
+Nicaragua,NIC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,46.0,tuberculosis_incidence
+Nicaragua,NIC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,51.0,tuberculosis_incidence
+Nicaragua,NIC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,54.0,tuberculosis_incidence
+Nicaragua,NIC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,59.0,tuberculosis_incidence
+Niger,NER,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,82.0,tuberculosis_incidence
+Niger,NER,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,84.0,tuberculosis_incidence
+Niger,NER,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,88.0,tuberculosis_incidence
+Niger,NER,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,93.0,tuberculosis_incidence
+Niger,NER,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,98.0,tuberculosis_incidence
+Nigeria,NGA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,219.0,tuberculosis_incidence
+Nigeria,NGA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,219.0,tuberculosis_incidence
+Nigeria,NGA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,219.0,tuberculosis_incidence
+Nigeria,NGA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,219.0,tuberculosis_incidence
+Nigeria,NGA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,219.0,tuberculosis_incidence
+North Macedonia,MKD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,14.0,tuberculosis_incidence
+North Macedonia,MKD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,15.0,tuberculosis_incidence
+North Macedonia,MKD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,15.0,tuberculosis_incidence
+North Macedonia,MKD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,18.0,tuberculosis_incidence
+North Macedonia,MKD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,20.0,tuberculosis_incidence
+Northern Mariana Islands,MNP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,164.0,tuberculosis_incidence
+Northern Mariana Islands,MNP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,149.0,tuberculosis_incidence
+Northern Mariana Islands,MNP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,128.0,tuberculosis_incidence
+Northern Mariana Islands,MNP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,87.0,tuberculosis_incidence
+Northern Mariana Islands,MNP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,88.0,tuberculosis_incidence
+Norway,NOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,3.3,tuberculosis_incidence
+Norway,NOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,4.1,tuberculosis_incidence
+Norway,NOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,5.2,tuberculosis_incidence
+Norway,NOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,6.1,tuberculosis_incidence
+Norway,NOR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,6.4,tuberculosis_incidence
+Oman,OMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,11.0,tuberculosis_incidence
+Oman,OMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,7.7,tuberculosis_incidence
+Oman,OMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,8.7,tuberculosis_incidence
+Oman,OMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,12.0,tuberculosis_incidence
+Oman,OMN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,12.0,tuberculosis_incidence
+Pakistan,PAK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,263.0,tuberculosis_incidence
+Pakistan,PAK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,265.0,tuberculosis_incidence
+Pakistan,PAK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,267.0,tuberculosis_incidence
+Pakistan,PAK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,268.0,tuberculosis_incidence
+Pakistan,PAK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,270.0,tuberculosis_incidence
+Palau,PLW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,34.0,tuberculosis_incidence
+Palau,PLW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,95.0,tuberculosis_incidence
+Palau,PLW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,112.0,tuberculosis_incidence
+Palau,PLW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,129.0,tuberculosis_incidence
+Palau,PLW,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,79.0,tuberculosis_incidence
+Panama,PAN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,39.0,tuberculosis_incidence
+Panama,PAN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,54.0,tuberculosis_incidence
+Panama,PAN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,61.0,tuberculosis_incidence
+Panama,PAN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,61.0,tuberculosis_incidence
+Panama,PAN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,58.0,tuberculosis_incidence
+Papua New Guinea,PNG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,614.0,tuberculosis_incidence
+Papua New Guinea,PNG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,611.0,tuberculosis_incidence
+Papua New Guinea,PNG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,616.0,tuberculosis_incidence
+Papua New Guinea,PNG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,626.0,tuberculosis_incidence
+Papua New Guinea,PNG,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,629.0,tuberculosis_incidence
+Paraguay,PRY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,60.0,tuberculosis_incidence
+Paraguay,PRY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,56.0,tuberculosis_incidence
+Paraguay,PRY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,57.0,tuberculosis_incidence
+Paraguay,PRY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,55.0,tuberculosis_incidence
+Paraguay,PRY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,55.0,tuberculosis_incidence
+Peru,PER,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,131.0,tuberculosis_incidence
+Peru,PER,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,132.0,tuberculosis_incidence
+Peru,PER,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,128.0,tuberculosis_incidence
+Peru,PER,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,129.0,tuberculosis_incidence
+Peru,PER,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,131.0,tuberculosis_incidence
+Philippines,PHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,554.0,tuberculosis_incidence
+Philippines,PHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,554.0,tuberculosis_incidence
+Philippines,PHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,554.0,tuberculosis_incidence
+Philippines,PHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,554.0,tuberculosis_incidence
+Philippines,PHL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,550.0,tuberculosis_incidence
+Poland,POL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,16.0,tuberculosis_incidence
+Poland,POL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,17.0,tuberculosis_incidence
+Poland,POL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,18.0,tuberculosis_incidence
+Poland,POL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,20.0,tuberculosis_incidence
+Poland,POL,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,21.0,tuberculosis_incidence
+Portugal,PRT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,19.0,tuberculosis_incidence
+Portugal,PRT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,20.0,tuberculosis_incidence
+Portugal,PRT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,19.0,tuberculosis_incidence
+Portugal,PRT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,20.0,tuberculosis_incidence
+Portugal,PRT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,23.0,tuberculosis_incidence
+Puerto Rico (US),PRI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,1.4,tuberculosis_incidence
+Puerto Rico (US),PRI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,1.0,tuberculosis_incidence
+Puerto Rico (US),PRI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,1.5,tuberculosis_incidence
+Puerto Rico (US),PRI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,2.5,tuberculosis_incidence
+Puerto Rico (US),PRI,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,2.0,tuberculosis_incidence
+Qatar,QAT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,42.0,tuberculosis_incidence
+Qatar,QAT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,38.0,tuberculosis_incidence
+Qatar,QAT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,31.0,tuberculosis_incidence
+Qatar,QAT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,27.0,tuberculosis_incidence
+Qatar,QAT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,31.0,tuberculosis_incidence
+Romania,ROU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,73.0,tuberculosis_incidence
+Romania,ROU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,76.0,tuberculosis_incidence
+Romania,ROU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,81.0,tuberculosis_incidence
+Romania,ROU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,84.0,tuberculosis_incidence
+Romania,ROU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,94.0,tuberculosis_incidence
+Russian Federation,RUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,50.0,tuberculosis_incidence
+Russian Federation,RUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,54.0,tuberculosis_incidence
+Russian Federation,RUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,59.0,tuberculosis_incidence
+Russian Federation,RUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,63.0,tuberculosis_incidence
+Russian Federation,RUS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,67.0,tuberculosis_incidence
+Rwanda,RWA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,63.0,tuberculosis_incidence
+Rwanda,RWA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,64.0,tuberculosis_incidence
+Rwanda,RWA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,65.0,tuberculosis_incidence
+Rwanda,RWA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,65.0,tuberculosis_incidence
+Rwanda,RWA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,66.0,tuberculosis_incidence
+Samoa,WSM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,8.6,tuberculosis_incidence
+Samoa,WSM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,5.3,tuberculosis_incidence
+Samoa,WSM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,15.0,tuberculosis_incidence
+Samoa,WSM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,6.4,tuberculosis_incidence
+Samoa,WSM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,9.4,tuberculosis_incidence
+San Marino,SMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,0.0,tuberculosis_incidence
+San Marino,SMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,0.0,tuberculosis_incidence
+San Marino,SMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,0.0,tuberculosis_incidence
+San Marino,SMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,0.0,tuberculosis_incidence
+San Marino,SMR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,0.0,tuberculosis_incidence
+Sao Tome and Principe,STP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,108.0,tuberculosis_incidence
+Sao Tome and Principe,STP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,123.0,tuberculosis_incidence
+Sao Tome and Principe,STP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,122.0,tuberculosis_incidence
+Sao Tome and Principe,STP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,175.0,tuberculosis_incidence
+Sao Tome and Principe,STP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,175.0,tuberculosis_incidence
+Saudi Arabia,SAU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,11.0,tuberculosis_incidence
+Saudi Arabia,SAU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,11.0,tuberculosis_incidence
+Saudi Arabia,SAU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,10.0,tuberculosis_incidence
+Saudi Arabia,SAU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,10.0,tuberculosis_incidence
+Saudi Arabia,SAU,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,12.0,tuberculosis_incidence
+Senegal,SEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,143.0,tuberculosis_incidence
+Senegal,SEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,147.0,tuberculosis_incidence
+Senegal,SEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,152.0,tuberculosis_incidence
+Senegal,SEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,159.0,tuberculosis_incidence
+Senegal,SEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,165.0,tuberculosis_incidence
+Serbia,SRB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,21.0,tuberculosis_incidence
+Serbia,SRB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,26.0,tuberculosis_incidence
+Serbia,SRB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,29.0,tuberculosis_incidence
+Serbia,SRB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,29.0,tuberculosis_incidence
+Serbia,SRB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,33.0,tuberculosis_incidence
+Seychelles,SYC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,12.0,tuberculosis_incidence
+Seychelles,SYC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,13.0,tuberculosis_incidence
+Seychelles,SYC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,14.0,tuberculosis_incidence
+Seychelles,SYC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,11.0,tuberculosis_incidence
+Seychelles,SYC,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,7.5,tuberculosis_incidence
+Sierra Leone,SLE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,412.0,tuberculosis_incidence
+Sierra Leone,SLE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,420.0,tuberculosis_incidence
+Sierra Leone,SLE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,429.0,tuberculosis_incidence
+Sierra Leone,SLE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,437.0,tuberculosis_incidence
+Sierra Leone,SLE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,446.0,tuberculosis_incidence
+Singapore,SGP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,42.0,tuberculosis_incidence
+Singapore,SGP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,47.0,tuberculosis_incidence
+Singapore,SGP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,48.0,tuberculosis_incidence
+Singapore,SGP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,51.0,tuberculosis_incidence
+Singapore,SGP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,46.0,tuberculosis_incidence
+Sint Maarten (Dutch part),SXM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,17.0,tuberculosis_incidence
+Sint Maarten (Dutch part),SXM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,5.0,tuberculosis_incidence
+Sint Maarten (Dutch part),SXM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,13.0,tuberculosis_incidence
+Sint Maarten (Dutch part),SXM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,0.0,tuberculosis_incidence
+Sint Maarten (Dutch part),SXM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,5.3,tuberculosis_incidence
+Slovak Republic,SVK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,4.8,tuberculosis_incidence
+Slovak Republic,SVK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,6.1,tuberculosis_incidence
+Slovak Republic,SVK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,5.0,tuberculosis_incidence
+Slovak Republic,SVK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,6.3,tuberculosis_incidence
+Slovak Republic,SVK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,7.0,tuberculosis_incidence
+Slovenia,SVN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,5.5,tuberculosis_incidence
+Slovenia,SVN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,5.6,tuberculosis_incidence
+Slovenia,SVN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,6.5,tuberculosis_incidence
+Slovenia,SVN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,7.0,tuberculosis_incidence
+Slovenia,SVN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,7.8,tuberculosis_incidence
+Solomon Islands,SLB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,111.0,tuberculosis_incidence
+Solomon Islands,SLB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,124.0,tuberculosis_incidence
+Solomon Islands,SLB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,124.0,tuberculosis_incidence
+Solomon Islands,SLB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,141.0,tuberculosis_incidence
+Solomon Islands,SLB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,155.0,tuberculosis_incidence
+"Somalia, Fed. Rep.",SOM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,175.0,tuberculosis_incidence
+"Somalia, Fed. Rep.",SOM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,179.0,tuberculosis_incidence
+"Somalia, Fed. Rep.",SOM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,182.0,tuberculosis_incidence
+"Somalia, Fed. Rep.",SOM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,184.0,tuberculosis_incidence
+"Somalia, Fed. Rep.",SOM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,187.0,tuberculosis_incidence
+South Africa,ZAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,615.0,tuberculosis_incidence
+South Africa,ZAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,677.0,tuberculosis_incidence
+South Africa,ZAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,738.0,tuberculosis_incidence
+South Africa,ZAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,805.0,tuberculosis_incidence
+South Africa,ZAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,988.0,tuberculosis_incidence
+South Sudan,SSD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,353.0,tuberculosis_incidence
+South Sudan,SSD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,361.0,tuberculosis_incidence
+South Sudan,SSD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,368.0,tuberculosis_incidence
+South Sudan,SSD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,376.0,tuberculosis_incidence
+South Sudan,SSD,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,383.0,tuberculosis_incidence
+Spain,ESP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,10.0,tuberculosis_incidence
+Spain,ESP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,11.0,tuberculosis_incidence
+Spain,ESP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,11.0,tuberculosis_incidence
+Spain,ESP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,12.0,tuberculosis_incidence
+Spain,ESP,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,10.0,tuberculosis_incidence
+Sri Lanka,LKA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,57.0,tuberculosis_incidence
+Sri Lanka,LKA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,58.0,tuberculosis_incidence
+Sri Lanka,LKA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,61.0,tuberculosis_incidence
+Sri Lanka,LKA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,66.0,tuberculosis_incidence
+Sri Lanka,LKA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,70.0,tuberculosis_incidence
+St. Kitts and Nevis,KNA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,4.3,tuberculosis_incidence
+St. Kitts and Nevis,KNA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,0.0,tuberculosis_incidence
+St. Kitts and Nevis,KNA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,2.1,tuberculosis_incidence
+St. Kitts and Nevis,KNA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,0.0,tuberculosis_incidence
+St. Kitts and Nevis,KNA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,4.2,tuberculosis_incidence
+St. Lucia,LCA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,3.4,tuberculosis_incidence
+St. Lucia,LCA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,2.8,tuberculosis_incidence
+St. Lucia,LCA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,6.2,tuberculosis_incidence
+St. Lucia,LCA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,1.7,tuberculosis_incidence
+St. Lucia,LCA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,8.0,tuberculosis_incidence
+St. Martin (French part),MAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+St. Martin (French part),MAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+St. Martin (French part),MAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+St. Martin (French part),MAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+St. Martin (French part),MAF,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+St. Vincent and the Grenadines,VCT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,3.8,tuberculosis_incidence
+St. Vincent and the Grenadines,VCT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,5.7,tuberculosis_incidence
+St. Vincent and the Grenadines,VCT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,1.9,tuberculosis_incidence
+St. Vincent and the Grenadines,VCT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,5.6,tuberculosis_incidence
+St. Vincent and the Grenadines,VCT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,6.5,tuberculosis_incidence
+Sudan,SDN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,67.0,tuberculosis_incidence
+Sudan,SDN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,71.0,tuberculosis_incidence
+Sudan,SDN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,77.0,tuberculosis_incidence
+Sudan,SDN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,82.0,tuberculosis_incidence
+Sudan,SDN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,88.0,tuberculosis_incidence
+Suriname,SUR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,31.0,tuberculosis_incidence
+Suriname,SUR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,41.0,tuberculosis_incidence
+Suriname,SUR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,31.0,tuberculosis_incidence
+Suriname,SUR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,27.0,tuberculosis_incidence
+Suriname,SUR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,35.0,tuberculosis_incidence
+Sweden,SWE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,5.4,tuberculosis_incidence
+Sweden,SWE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,5.5,tuberculosis_incidence
+Sweden,SWE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,5.7,tuberculosis_incidence
+Sweden,SWE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,8.3,tuberculosis_incidence
+Sweden,SWE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,9.4,tuberculosis_incidence
+Switzerland,CHE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,5.4,tuberculosis_incidence
+Switzerland,CHE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,6.4,tuberculosis_incidence
+Switzerland,CHE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,7.3,tuberculosis_incidence
+Switzerland,CHE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,8.0,tuberculosis_incidence
+Switzerland,CHE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,7.6,tuberculosis_incidence
+Syrian Arab Republic,SYR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,21.0,tuberculosis_incidence
+Syrian Arab Republic,SYR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,22.0,tuberculosis_incidence
+Syrian Arab Republic,SYR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,24.0,tuberculosis_incidence
+Syrian Arab Republic,SYR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,27.0,tuberculosis_incidence
+Syrian Arab Republic,SYR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,26.0,tuberculosis_incidence
+Tajikistan,TJK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,80.0,tuberculosis_incidence
+Tajikistan,TJK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,86.0,tuberculosis_incidence
+Tajikistan,TJK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,94.0,tuberculosis_incidence
+Tajikistan,TJK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,102.0,tuberculosis_incidence
+Tajikistan,TJK,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,111.0,tuberculosis_incidence
+Tanzania,TZA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,237.0,tuberculosis_incidence
+Tanzania,TZA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,253.0,tuberculosis_incidence
+Tanzania,TZA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,269.0,tuberculosis_incidence
+Tanzania,TZA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,287.0,tuberculosis_incidence
+Tanzania,TZA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,306.0,tuberculosis_incidence
+Thailand,THA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,150.0,tuberculosis_incidence
+Thailand,THA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,153.0,tuberculosis_incidence
+Thailand,THA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,156.0,tuberculosis_incidence
+Thailand,THA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,160.0,tuberculosis_incidence
+Thailand,THA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,163.0,tuberculosis_incidence
+Timor-Leste,TLS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,373.0,tuberculosis_incidence
+Timor-Leste,TLS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,374.0,tuberculosis_incidence
+Timor-Leste,TLS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,384.0,tuberculosis_incidence
+Timor-Leste,TLS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,403.0,tuberculosis_incidence
+Timor-Leste,TLS,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,437.0,tuberculosis_incidence
+Togo,TGO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,49.0,tuberculosis_incidence
+Togo,TGO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,51.0,tuberculosis_incidence
+Togo,TGO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,54.0,tuberculosis_incidence
+Togo,TGO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,58.0,tuberculosis_incidence
+Togo,TGO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,62.0,tuberculosis_incidence
+Tonga,TON,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,9.5,tuberculosis_incidence
+Tonga,TON,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,8.5,tuberculosis_incidence
+Tonga,TON,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,10.0,tuberculosis_incidence
+Tonga,TON,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,7.6,tuberculosis_incidence
+Tonga,TON,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,13.0,tuberculosis_incidence
+Trinidad and Tobago,TTO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,19.0,tuberculosis_incidence
+Trinidad and Tobago,TTO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,23.0,tuberculosis_incidence
+Trinidad and Tobago,TTO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,18.0,tuberculosis_incidence
+Trinidad and Tobago,TTO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,20.0,tuberculosis_incidence
+Trinidad and Tobago,TTO,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,18.0,tuberculosis_incidence
+Tunisia,TUN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,42.0,tuberculosis_incidence
+Tunisia,TUN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,43.0,tuberculosis_incidence
+Tunisia,TUN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,43.0,tuberculosis_incidence
+Tunisia,TUN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,49.0,tuberculosis_incidence
+Tunisia,TUN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,50.0,tuberculosis_incidence
+Turkiye,TUR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,17.0,tuberculosis_incidence
+Turkiye,TUR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,18.0,tuberculosis_incidence
+Turkiye,TUR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,19.0,tuberculosis_incidence
+Turkiye,TUR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,20.0,tuberculosis_incidence
+Turkiye,TUR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,21.0,tuberculosis_incidence
+Turkmenistan,TKM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,42.0,tuberculosis_incidence
+Turkmenistan,TKM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,44.0,tuberculosis_incidence
+Turkmenistan,TKM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,42.0,tuberculosis_incidence
+Turkmenistan,TKM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,46.0,tuberculosis_incidence
+Turkmenistan,TKM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,50.0,tuberculosis_incidence
+Turks and Caicos Islands,TCA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,9.3,tuberculosis_incidence
+Turks and Caicos Islands,TCA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,4.8,tuberculosis_incidence
+Turks and Caicos Islands,TCA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,10.0,tuberculosis_incidence
+Turks and Caicos Islands,TCA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,5.2,tuberculosis_incidence
+Turks and Caicos Islands,TCA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,5.5,tuberculosis_incidence
+Tuvalu,TUV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,284.0,tuberculosis_incidence
+Tuvalu,TUV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,251.0,tuberculosis_incidence
+Tuvalu,TUV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,212.0,tuberculosis_incidence
+Tuvalu,TUV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,183.0,tuberculosis_incidence
+Tuvalu,TUV,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,182.0,tuberculosis_incidence
+Uganda,UGA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,200.0,tuberculosis_incidence
+Uganda,UGA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,200.0,tuberculosis_incidence
+Uganda,UGA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,201.0,tuberculosis_incidence
+Uganda,UGA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,201.0,tuberculosis_incidence
+Uganda,UGA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,202.0,tuberculosis_incidence
+Ukraine,UKR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,76.0,tuberculosis_incidence
+Ukraine,UKR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,82.0,tuberculosis_incidence
+Ukraine,UKR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,90.0,tuberculosis_incidence
+Ukraine,UKR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,99.0,tuberculosis_incidence
+Ukraine,UKR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,108.0,tuberculosis_incidence
+United Arab Emirates,ARE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,1.2,tuberculosis_incidence
+United Arab Emirates,ARE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,1.2,tuberculosis_incidence
+United Arab Emirates,ARE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,1.0,tuberculosis_incidence
+United Arab Emirates,ARE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,1.0,tuberculosis_incidence
+United Arab Emirates,ARE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,1.0,tuberculosis_incidence
+United Kingdom,GBR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,8.1,tuberculosis_incidence
+United Kingdom,GBR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,8.0,tuberculosis_incidence
+United Kingdom,GBR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,8.9,tuberculosis_incidence
+United Kingdom,GBR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,9.9,tuberculosis_incidence
+United Kingdom,GBR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,10.0,tuberculosis_incidence
+United States,USA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,2.9,tuberculosis_incidence
+United States,USA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,3.0,tuberculosis_incidence
+United States,USA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,3.0,tuberculosis_incidence
+United States,USA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,3.1,tuberculosis_incidence
+United States,USA,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,3.3,tuberculosis_incidence
+Uruguay,URY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,38.0,tuberculosis_incidence
+Uruguay,URY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,36.0,tuberculosis_incidence
+Uruguay,URY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,34.0,tuberculosis_incidence
+Uruguay,URY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,32.0,tuberculosis_incidence
+Uruguay,URY,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,33.0,tuberculosis_incidence
+Uzbekistan,UZB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,67.0,tuberculosis_incidence
+Uzbekistan,UZB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,70.0,tuberculosis_incidence
+Uzbekistan,UZB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,73.0,tuberculosis_incidence
+Uzbekistan,UZB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,76.0,tuberculosis_incidence
+Uzbekistan,UZB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,79.0,tuberculosis_incidence
+Vanuatu,VUT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,56.0,tuberculosis_incidence
+Vanuatu,VUT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,61.0,tuberculosis_incidence
+Vanuatu,VUT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,67.0,tuberculosis_incidence
+Vanuatu,VUT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,75.0,tuberculosis_incidence
+Vanuatu,VUT,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,82.0,tuberculosis_incidence
+"Venezuela, RB",VEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,48.0,tuberculosis_incidence
+"Venezuela, RB",VEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,50.0,tuberculosis_incidence
+"Venezuela, RB",VEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,47.0,tuberculosis_incidence
+"Venezuela, RB",VEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,36.0,tuberculosis_incidence
+"Venezuela, RB",VEN,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,31.0,tuberculosis_incidence
+Viet Nam,VNM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,176.0,tuberculosis_incidence
+Viet Nam,VNM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,182.0,tuberculosis_incidence
+Viet Nam,VNM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,188.0,tuberculosis_incidence
+Viet Nam,VNM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,193.0,tuberculosis_incidence
+Viet Nam,VNM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,199.0,tuberculosis_incidence
+Virgin Islands (U.S.),VIR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,,tuberculosis_incidence
+Virgin Islands (U.S.),VIR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,,tuberculosis_incidence
+Virgin Islands (U.S.),VIR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,,tuberculosis_incidence
+Virgin Islands (U.S.),VIR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,,tuberculosis_incidence
+Virgin Islands (U.S.),VIR,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,,tuberculosis_incidence
+West Bank and Gaza,PSE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,0.62,tuberculosis_incidence
+West Bank and Gaza,PSE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,0.91,tuberculosis_incidence
+West Bank and Gaza,PSE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,0.91,tuberculosis_incidence
+West Bank and Gaza,PSE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,1.2,tuberculosis_incidence
+West Bank and Gaza,PSE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,1.4,tuberculosis_incidence
+"Yemen, Rep.",YEM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,39.0,tuberculosis_incidence
+"Yemen, Rep.",YEM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,39.0,tuberculosis_incidence
+"Yemen, Rep.",YEM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,40.0,tuberculosis_incidence
+"Yemen, Rep.",YEM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,40.0,tuberculosis_incidence
+"Yemen, Rep.",YEM,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,33.0,tuberculosis_incidence
+Zambia,ZMB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,333.0,tuberculosis_incidence
+Zambia,ZMB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,346.0,tuberculosis_incidence
+Zambia,ZMB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,361.0,tuberculosis_incidence
+Zambia,ZMB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,376.0,tuberculosis_incidence
+Zambia,ZMB,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,391.0,tuberculosis_incidence
+Zimbabwe,ZWE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,199.0,tuberculosis_incidence
+Zimbabwe,ZWE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,210.0,tuberculosis_incidence
+Zimbabwe,ZWE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,221.0,tuberculosis_incidence
+Zimbabwe,ZWE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,233.0,tuberculosis_incidence
+Zimbabwe,ZWE,SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,242.0,tuberculosis_incidence

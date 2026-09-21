@@ -1,0 +1,379 @@
+feature_window:
+  start_year: 2015
+  end_year: 2019
+  min_years_for_mean: 3
+  min_country_coverage_rate: 0.45
+
+baseline_blocks:
+  # The baseline scoring frame uses World Bank preparedness proxies only (26 indicators, 6/7/4/9).
+  # GHS 2019 is integrated by the Stage 4 GHS-enhanced variant, not merged into the baseline blocks.
+  include_ghs_2019: false
+
+blocks:
+  capacity:
+    label: Capacity
+    score_label: capacity_score
+  preparedness:
+    label: Preparedness proxies
+    score_label: preparedness_score
+    note: GHS 2019 is preferred when a legitimate local file is available; World Bank immunization and infectious-disease-control proxies are used otherwise.
+  vulnerability:
+    label: Vulnerability protection
+    score_label: vulnerability_score
+    note: Indicators are oriented so higher score means lower vulnerability burden.
+  equity_access:
+    label: Equity, access, and financial protection
+    score_label: equity_access_score
+  context_control:
+    label: Context controls
+    score_label: context_control
+
+indicators:
+  - variable: physicians_per_1000
+    label: Physicians per 1,000 people
+    source: World Bank
+    source_code: SH.MED.PHYS.ZS
+    block: capacity
+    conceptual_dimension: service_capacity
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: nurses_midwives_per_1000
+    label: Nurses and midwives per 1,000 people
+    source: World Bank
+    source_code: SH.MED.NUMW.P3
+    block: capacity
+    conceptual_dimension: service_capacity
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: hospital_beds_per_1000
+    label: Hospital beds per 1,000 people
+    source: World Bank
+    source_code: SH.MED.BEDS.ZS
+    block: capacity
+    conceptual_dimension: service_capacity
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: current_health_expenditure_per_capita_ppp
+    label: Current health expenditure per capita, PPP
+    source: World Bank
+    source_code: SH.XPD.CHEX.PP.CD
+    block: capacity
+    conceptual_dimension: health_financing
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: current_health_expenditure_gdp
+    label: Current health expenditure as percent of GDP
+    source: World Bank
+    source_code: SH.XPD.CHEX.GD.ZS
+    block: capacity
+    conceptual_dimension: health_financing
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: domestic_gov_health_expenditure_gdp
+    label: Domestic general government health expenditure as percent of GDP
+    source: World Bank
+    source_code: SH.XPD.GHED.GD.ZS
+    block: capacity
+    conceptual_dimension: health_financing
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: measles_immunization_coverage
+    label: Immunization, measles percent of children ages 12-23 months
+    source: World Bank
+    source_code: SH.IMM.MEAS
+    block: preparedness
+    conceptual_dimension: preparedness_proxy
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: dpt_immunization_coverage
+    label: Immunization, DPT percent of children ages 12-23 months
+    source: World Bank
+    source_code: SH.IMM.IDPT
+    block: preparedness
+    conceptual_dimension: preparedness_proxy
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: tuberculosis_incidence
+    label: Incidence of tuberculosis per 100,000 people
+    source: World Bank
+    source_code: SH.TBS.INCD
+    block: preparedness
+    conceptual_dimension: infectious_disease_control_proxy
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: hiv_prevalence
+    label: HIV prevalence percent of population ages 15-49
+    source: World Bank
+    source_code: SH.DYN.AIDS.ZS
+    block: preparedness
+    conceptual_dimension: infectious_disease_control_proxy
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: age65_share
+    label: Population ages 65 and above, percent of total
+    source: World Bank
+    source_code: SP.POP.65UP.TO.ZS
+    block: vulnerability
+    conceptual_dimension: demographic_vulnerability
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: population_density
+    label: Population density, people per sq. km of land area
+    source: World Bank
+    source_code: EN.POP.DNST
+    block: vulnerability
+    conceptual_dimension: demographic_vulnerability
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: urban_population_share
+    label: Urban population percent of total
+    source: World Bank
+    source_code: SP.URB.TOTL.IN.ZS
+    block: vulnerability
+    conceptual_dimension: demographic_vulnerability
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: ncd_mortality_risk
+    label: Mortality from CVD, cancer, diabetes or CRD between ages 30 and 70
+    source: World Bank
+    source_code: SH.DYN.NCOM.ZS
+    block: vulnerability
+    conceptual_dimension: ncd_burden_proxy
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: air_pollution_pm25
+    label: PM2.5 air pollution mean annual exposure
+    source: World Bank
+    source_code: EN.ATM.PM25.MC.M3
+    block: vulnerability
+    conceptual_dimension: environmental_vulnerability
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: life_expectancy
+    label: Life expectancy at birth, total
+    source: World Bank
+    source_code: SP.DYN.LE00.IN
+    block: vulnerability
+    conceptual_dimension: baseline_health_status
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: under5_mortality
+    label: Mortality rate, under-5, per 1,000 live births
+    source: World Bank
+    source_code: SH.DYN.MORT
+    block: vulnerability
+    conceptual_dimension: baseline_health_status
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: adult_mortality_female
+    label: Adult mortality rate, female, per 1,000 female adults
+    source: World Bank
+    source_code: SP.DYN.AMRT.FE
+    block: vulnerability
+    conceptual_dimension: baseline_health_status
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: adult_mortality_male
+    label: Adult mortality rate, male, per 1,000 male adults
+    source: World Bank
+    source_code: SP.DYN.AMRT.MA
+    block: vulnerability
+    conceptual_dimension: baseline_health_status
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: uhc_service_coverage_index
+    label: UHC service coverage index
+    source: World Bank
+    source_code: SH_UHC_SCI
+    block: equity_access
+    conceptual_dimension: service_coverage
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: domestic_gov_health_expenditure_share
+    label: Domestic general government health expenditure as percent of current health expenditure
+    source: World Bank
+    source_code: SH.XPD.GHED.CH.ZS
+    block: equity_access
+    conceptual_dimension: financial_protection
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: out_of_pocket_expenditure_share
+    label: Out-of-pocket expenditure as percent of current health expenditure
+    source: World Bank
+    source_code: SH.XPD.OOPC.CH.ZS
+    block: equity_access
+    conceptual_dimension: financial_protection
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: out_of_pocket_expenditure_per_capita_ppp
+    label: Out-of-pocket expenditure per capita, PPP
+    source: World Bank
+    source_code: SH.XPD.OOPC.PP.CD
+    block: equity_access
+    conceptual_dimension: financial_protection
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: basic_sanitation_access
+    label: People using at least basic sanitation services
+    source: World Bank
+    source_code: SH.STA.BASS.ZS
+    block: equity_access
+    conceptual_dimension: basic_service_access
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: basic_drinking_water_access
+    label: People using at least basic drinking water services
+    source: World Bank
+    source_code: SH.H2O.BASW.ZS
+    block: equity_access
+    conceptual_dimension: basic_service_access
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: basic_handwashing_access
+    label: People with basic handwashing facilities including soap and water
+    source: World Bank
+    source_code: SH.STA.HYGN.ZS
+    block: equity_access
+    conceptual_dimension: basic_service_access
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: diabetes_prevalence
+    label: Diabetes prevalence percent of population ages 20 to 79
+    source: World Bank
+    source_code: SH.STA.DIAB.ZS
+    block: vulnerability
+    conceptual_dimension: ncd_burden_proxy
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+    expected_sparse: true
+
+  - variable: gdp_per_capita_ppp
+    label: GDP per capita, PPP, constant international dollars
+    source: World Bank
+    source_code: NY.GDP.PCAP.PP.KD
+    block: context_control
+    conceptual_dimension: context_control
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: false
+
+  - variable: population_total
+    label: Population, total
+    source: World Bank
+    source_code: SP.POP.TOTL
+    block: context_control
+    conceptual_dimension: context_control
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: false

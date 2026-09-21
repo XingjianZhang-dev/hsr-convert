@@ -1,0 +1,7 @@
+outcomes:
+  - variable: cumulative_excess_deaths_per_million_2020_2022
+    label: Cumulative excess deaths per million, latest available observation through 2022
+    source: Our World in Data
+    url: https://ourworldindata.org/grapher/cumulative-excess-deaths-per-million-covid.csv
+    validation_only: true
+    years_used: [2020, 2021, 2022]

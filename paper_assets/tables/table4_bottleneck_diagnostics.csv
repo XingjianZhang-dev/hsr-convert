@@ -1,0 +1,20 @@
+conversion_profile,weakest_bottleneck_block,n,median_bottleneck_gap,median_efficiency,coverage_count,missing_count,missing_rate,asset_source_files
+adaptive over-performers,capacity,9,-0.171877737825098,0.6781550515502107,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+adaptive over-performers,equity_access,2,-0.14342162804489267,0.5431774840981407,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+adaptive over-performers,preparedness,4,-0.3116956318224572,0.5501815084059355,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+adaptive over-performers,vulnerability,5,-0.0824700058968906,1.4192387944136184,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+capacity under-realizers,capacity,6,-0.18100583479600318,-0.5199437101008353,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+capacity under-realizers,equity_access,6,-0.041417061050676704,-0.030719375732467552,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+capacity under-realizers,preparedness,6,-0.0196266169794551,-0.2033495040697061,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+capacity under-realizers,vulnerability,5,-0.0242963286802404,-0.6262960857776176,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+effective converters,capacity,2,-0.051090529119329,0.22623147624231135,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+effective converters,equity_access,6,-0.01889996958461875,0.46568460874228734,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+effective converters,preparedness,5,-0.0219206035709841,1.0124193151295544,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+effective converters,vulnerability,7,-0.0260410173511489,0.615078253921651,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+structurally vulnerable systems,capacity,9,-0.1158627041471676,-0.4489517211649329,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+structurally vulnerable systems,equity_access,1,-0.1375611672618328,-1.0962818877303866,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+structurally vulnerable systems,preparedness,6,-0.10396945810215365,-1.0539657138896539,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+uncertain / data-limited systems,capacity,12,-0.1898762660803886,0.235593172533973,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+uncertain / data-limited systems,equity_access,9,-0.117141591236595,-1.0003330580650351,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+uncertain / data-limited systems,preparedness,3,-0.3110299373955023,-0.1155108656131252,106,0,0.0,results/tables/conversion_bottleneck_scores.csv
+uncertain / data-limited systems,vulnerability,3,-0.1116958594509928,-0.1113311654121229,106,0,0.0,results/tables/conversion_bottleneck_scores.csv

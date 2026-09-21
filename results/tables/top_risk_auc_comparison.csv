@@ -1,0 +1,10 @@
+model_or_benchmark,n,missing_count,missing_rate,top_risk_quartile_auc
+UHC service coverage index,108,0,0.0,0.6925011431184271
+Health expenditure per capita,108,0,0.0,0.5665294924554184
+"Physicians per 1,000",105,3,0.02777777777777779,0.36660175267770206
+Equal-weight block composite,108,0,0.0,0.6003657978966621
+PCA block composite,108,0,0.0,0.6822130772748056
+Ridge regression predictor,108,0,0.0,0.7055326931870141
+Random forest predictor,108,0,0.0,0.9286694101508915
+single CRITIC-MARCOS pipeline,108,0,0.0,0.7160493827160493
+entropy-TOPSIS pipeline,108,0,0.0,0.520347508001829

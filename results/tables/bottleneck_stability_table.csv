@@ -1,0 +1,425 @@
+iso3,country,bottleneck_block,bottleneck_probability,n_simulations,coverage_count,missing_count,missing_rate
+NOR,Norway,capacity,0.0,1000,106,0,0.0
+NOR,Norway,preparedness,0.0,1000,106,0,0.0
+NOR,Norway,vulnerability,0.196,1000,106,0,0.0
+NOR,Norway,equity_access,0.804,1000,106,0,0.0
+DEU,Germany,capacity,0.0,1000,106,0,0.0
+DEU,Germany,preparedness,0.0,1000,106,0,0.0
+DEU,Germany,vulnerability,0.999,1000,106,0,0.0
+DEU,Germany,equity_access,0.001,1000,106,0,0.0
+SWE,Sweden,capacity,0.003,1000,106,0,0.0
+SWE,Sweden,preparedness,0.0,1000,106,0,0.0
+SWE,Sweden,vulnerability,0.565,1000,106,0,0.0
+SWE,Sweden,equity_access,0.432,1000,106,0,0.0
+JPN,Japan,capacity,0.0,1000,106,0,0.0
+JPN,Japan,preparedness,0.0,1000,106,0,0.0
+JPN,Japan,vulnerability,1.0,1000,106,0,0.0
+JPN,Japan,equity_access,0.0,1000,106,0,0.0
+FRA,France,capacity,0.0,1000,106,0,0.0
+FRA,France,preparedness,0.0,1000,106,0,0.0
+FRA,France,vulnerability,0.976,1000,106,0,0.0
+FRA,France,equity_access,0.024,1000,106,0,0.0
+AUS,Australia,capacity,0.036,1000,106,0,0.0
+AUS,Australia,preparedness,0.0,1000,106,0,0.0
+AUS,Australia,vulnerability,0.124,1000,106,0,0.0
+AUS,Australia,equity_access,0.84,1000,106,0,0.0
+DNK,Denmark,capacity,0.0,1000,106,0,0.0
+DNK,Denmark,preparedness,0.0,1000,106,0,0.0
+DNK,Denmark,vulnerability,0.977,1000,106,0,0.0
+DNK,Denmark,equity_access,0.023,1000,106,0,0.0
+BEL,Belgium,capacity,0.0,1000,106,0,0.0
+BEL,Belgium,preparedness,0.0,1000,106,0,0.0
+BEL,Belgium,vulnerability,0.969,1000,106,0,0.0
+BEL,Belgium,equity_access,0.031,1000,106,0,0.0
+AUT,Austria,capacity,0.0,1000,106,0,0.0
+AUT,Austria,preparedness,0.0,1000,106,0,0.0
+AUT,Austria,vulnerability,0.153,1000,106,0,0.0
+AUT,Austria,equity_access,0.847,1000,106,0,0.0
+ISL,Iceland,capacity,0.861,1000,106,0,0.0
+ISL,Iceland,preparedness,0.0,1000,106,0,0.0
+ISL,Iceland,vulnerability,0.048,1000,106,0,0.0
+ISL,Iceland,equity_access,0.091,1000,106,0,0.0
+FIN,Finland,capacity,0.304,1000,106,0,0.0
+FIN,Finland,preparedness,0.0,1000,106,0,0.0
+FIN,Finland,vulnerability,0.323,1000,106,0,0.0
+FIN,Finland,equity_access,0.373,1000,106,0,0.0
+LUX,Luxembourg,capacity,0.993,1000,106,0,0.0
+LUX,Luxembourg,preparedness,0.0,1000,106,0,0.0
+LUX,Luxembourg,vulnerability,0.007,1000,106,0,0.0
+LUX,Luxembourg,equity_access,0.0,1000,106,0,0.0
+CZE,Czechia,capacity,0.21,1000,106,0,0.0
+CZE,Czechia,preparedness,0.0,1000,106,0,0.0
+CZE,Czechia,vulnerability,0.79,1000,106,0,0.0
+CZE,Czechia,equity_access,0.0,1000,106,0,0.0
+USA,United States,capacity,0.0,1000,106,0,0.0
+USA,United States,preparedness,0.0,1000,106,0,0.0
+USA,United States,vulnerability,0.387,1000,106,0,0.0
+USA,United States,equity_access,0.613,1000,106,0,0.0
+SVN,Slovenia,capacity,0.998,1000,106,0,0.0
+SVN,Slovenia,preparedness,0.0,1000,106,0,0.0
+SVN,Slovenia,vulnerability,0.002,1000,106,0,0.0
+SVN,Slovenia,equity_access,0.0,1000,106,0,0.0
+NZL,New Zealand,capacity,0.998,1000,106,0,0.0
+NZL,New Zealand,preparedness,0.0,1000,106,0,0.0
+NZL,New Zealand,vulnerability,0.002,1000,106,0,0.0
+NZL,New Zealand,equity_access,0.0,1000,106,0,0.0
+CHE,Switzerland,capacity,0.0,1000,106,0,0.0
+CHE,Switzerland,preparedness,0.0,1000,106,0,0.0
+CHE,Switzerland,vulnerability,0.002,1000,106,0,0.0
+CHE,Switzerland,equity_access,0.998,1000,106,0,0.0
+IRL,Ireland,capacity,0.945,1000,106,0,0.0
+IRL,Ireland,preparedness,0.0,1000,106,0,0.0
+IRL,Ireland,vulnerability,0.0,1000,106,0,0.0
+IRL,Ireland,equity_access,0.055,1000,106,0,0.0
+CAN,Canada,capacity,0.643,1000,106,0,0.0
+CAN,Canada,preparedness,0.0,1000,106,0,0.0
+CAN,Canada,vulnerability,0.063,1000,106,0,0.0
+CAN,Canada,equity_access,0.294,1000,106,0,0.0
+NLD,Netherlands,capacity,0.0,1000,106,0,0.0
+NLD,Netherlands,preparedness,0.0,1000,106,0,0.0
+NLD,Netherlands,vulnerability,1.0,1000,106,0,0.0
+NLD,Netherlands,equity_access,0.0,1000,106,0,0.0
+MDV,Maldives,capacity,1.0,1000,106,0,0.0
+MDV,Maldives,preparedness,0.0,1000,106,0,0.0
+MDV,Maldives,vulnerability,0.0,1000,106,0,0.0
+MDV,Maldives,equity_access,0.0,1000,106,0,0.0
+GBR,United Kingdom,capacity,0.608,1000,106,0,0.0
+GBR,United Kingdom,preparedness,0.0,1000,106,0,0.0
+GBR,United Kingdom,vulnerability,0.392,1000,106,0,0.0
+GBR,United Kingdom,equity_access,0.0,1000,106,0,0.0
+ESP,Spain,capacity,0.998,1000,106,0,0.0
+ESP,Spain,preparedness,0.0,1000,106,0,0.0
+ESP,Spain,vulnerability,0.0,1000,106,0,0.0
+ESP,Spain,equity_access,0.002,1000,106,0,0.0
+SVK,Slovak Republic,capacity,0.999,1000,106,0,0.0
+SVK,Slovak Republic,preparedness,0.0,1000,106,0,0.0
+SVK,Slovak Republic,vulnerability,0.001,1000,106,0,0.0
+SVK,Slovak Republic,equity_access,0.0,1000,106,0,0.0
+PRT,Portugal,capacity,0.727,1000,106,0,0.0
+PRT,Portugal,preparedness,0.0,1000,106,0,0.0
+PRT,Portugal,vulnerability,0.001,1000,106,0,0.0
+PRT,Portugal,equity_access,0.272,1000,106,0,0.0
+HRV,Croatia,capacity,1.0,1000,106,0,0.0
+HRV,Croatia,preparedness,0.0,1000,106,0,0.0
+HRV,Croatia,vulnerability,0.0,1000,106,0,0.0
+HRV,Croatia,equity_access,0.0,1000,106,0,0.0
+AND,Andorra,capacity,1.0,1000,106,0,0.0
+AND,Andorra,preparedness,0.0,1000,106,0,0.0
+AND,Andorra,vulnerability,0.0,1000,106,0,0.0
+AND,Andorra,equity_access,0.0,1000,106,0,0.0
+ITA,Italy,capacity,0.995,1000,106,0,0.0
+ITA,Italy,preparedness,0.0,1000,106,0,0.0
+ITA,Italy,vulnerability,0.002,1000,106,0,0.0
+ITA,Italy,equity_access,0.003,1000,106,0,0.0
+URY,Uruguay,capacity,0.989,1000,106,0,0.0
+URY,Uruguay,preparedness,0.0,1000,106,0,0.0
+URY,Uruguay,vulnerability,0.011,1000,106,0,0.0
+URY,Uruguay,equity_access,0.0,1000,106,0,0.0
+BLR,Belarus,capacity,0.116,1000,106,0,0.0
+BLR,Belarus,preparedness,0.0,1000,106,0,0.0
+BLR,Belarus,vulnerability,0.884,1000,106,0,0.0
+BLR,Belarus,equity_access,0.0,1000,106,0,0.0
+QAT,Qatar,capacity,1.0,1000,106,0,0.0
+QAT,Qatar,preparedness,0.0,1000,106,0,0.0
+QAT,Qatar,vulnerability,0.0,1000,106,0,0.0
+QAT,Qatar,equity_access,0.0,1000,106,0,0.0
+ISR,Israel,capacity,1.0,1000,106,0,0.0
+ISR,Israel,preparedness,0.0,1000,106,0,0.0
+ISR,Israel,vulnerability,0.0,1000,106,0,0.0
+ISR,Israel,equity_access,0.0,1000,106,0,0.0
+MLT,Malta,capacity,0.072,1000,106,0,0.0
+MLT,Malta,preparedness,0.0,1000,106,0,0.0
+MLT,Malta,vulnerability,0.75,1000,106,0,0.0
+MLT,Malta,equity_access,0.178,1000,106,0,0.0
+HUN,Hungary,capacity,0.849,1000,106,0,0.0
+HUN,Hungary,preparedness,0.0,1000,106,0,0.0
+HUN,Hungary,vulnerability,0.151,1000,106,0,0.0
+HUN,Hungary,equity_access,0.0,1000,106,0,0.0
+ARG,Argentina,capacity,0.91,1000,106,0,0.0
+ARG,Argentina,preparedness,0.0,1000,106,0,0.0
+ARG,Argentina,vulnerability,0.09,1000,106,0,0.0
+ARG,Argentina,equity_access,0.0,1000,106,0,0.0
+ARE,United Arab Emirates,capacity,1.0,1000,106,0,0.0
+ARE,United Arab Emirates,preparedness,0.0,1000,106,0,0.0
+ARE,United Arab Emirates,vulnerability,0.0,1000,106,0,0.0
+ARE,United Arab Emirates,equity_access,0.0,1000,106,0,0.0
+KWT,Kuwait,capacity,1.0,1000,106,0,0.0
+KWT,Kuwait,preparedness,0.0,1000,106,0,0.0
+KWT,Kuwait,vulnerability,0.0,1000,106,0,0.0
+KWT,Kuwait,equity_access,0.0,1000,106,0,0.0
+POL,Poland,capacity,1.0,1000,106,0,0.0
+POL,Poland,preparedness,0.0,1000,106,0,0.0
+POL,Poland,vulnerability,0.0,1000,106,0,0.0
+POL,Poland,equity_access,0.0,1000,106,0,0.0
+GRC,Greece,capacity,0.995,1000,106,0,0.0
+GRC,Greece,preparedness,0.0,1000,106,0,0.0
+GRC,Greece,vulnerability,0.0,1000,106,0,0.0
+GRC,Greece,equity_access,0.005,1000,106,0,0.0
+OMN,Oman,capacity,1.0,1000,106,0,0.0
+OMN,Oman,preparedness,0.0,1000,106,0,0.0
+OMN,Oman,vulnerability,0.0,1000,106,0,0.0
+OMN,Oman,equity_access,0.0,1000,106,0,0.0
+CRI,Costa Rica,capacity,1.0,1000,106,0,0.0
+CRI,Costa Rica,preparedness,0.0,1000,106,0,0.0
+CRI,Costa Rica,vulnerability,0.0,1000,106,0,0.0
+CRI,Costa Rica,equity_access,0.0,1000,106,0,0.0
+BRN,Brunei Darussalam,capacity,1.0,1000,106,0,0.0
+BRN,Brunei Darussalam,preparedness,0.0,1000,106,0,0.0
+BRN,Brunei Darussalam,vulnerability,0.0,1000,106,0,0.0
+BRN,Brunei Darussalam,equity_access,0.0,1000,106,0,0.0
+EST,Estonia,capacity,1.0,1000,106,0,0.0
+EST,Estonia,preparedness,0.0,1000,106,0,0.0
+EST,Estonia,vulnerability,0.0,1000,106,0,0.0
+EST,Estonia,equity_access,0.0,1000,106,0,0.0
+KOR,"Korea, Rep.",capacity,0.984,1000,106,0,0.0
+KOR,"Korea, Rep.",preparedness,0.0,1000,106,0,0.0
+KOR,"Korea, Rep.",vulnerability,0.001,1000,106,0,0.0
+KOR,"Korea, Rep.",equity_access,0.015,1000,106,0,0.0
+LTU,Lithuania,capacity,0.316,1000,106,0,0.0
+LTU,Lithuania,preparedness,0.0,1000,106,0,0.0
+LTU,Lithuania,vulnerability,0.63,1000,106,0,0.0
+LTU,Lithuania,equity_access,0.054,1000,106,0,0.0
+ATG,Antigua and Barbuda,capacity,1.0,1000,106,0,0.0
+ATG,Antigua and Barbuda,preparedness,0.0,1000,106,0,0.0
+ATG,Antigua and Barbuda,vulnerability,0.0,1000,106,0,0.0
+ATG,Antigua and Barbuda,equity_access,0.0,1000,106,0,0.0
+COL,Colombia,capacity,1.0,1000,106,0,0.0
+COL,Colombia,preparedness,0.0,1000,106,0,0.0
+COL,Colombia,vulnerability,0.0,1000,106,0,0.0
+COL,Colombia,equity_access,0.0,1000,106,0,0.0
+KAZ,Kazakhstan,capacity,1.0,1000,106,0,0.0
+KAZ,Kazakhstan,preparedness,0.0,1000,106,0,0.0
+KAZ,Kazakhstan,vulnerability,0.0,1000,106,0,0.0
+KAZ,Kazakhstan,equity_access,0.0,1000,106,0,0.0
+ROU,Romania,capacity,0.999,1000,106,0,0.0
+ROU,Romania,preparedness,0.0,1000,106,0,0.0
+ROU,Romania,vulnerability,0.001,1000,106,0,0.0
+ROU,Romania,equity_access,0.0,1000,106,0,0.0
+SMR,San Marino,capacity,0.987,1000,106,0,0.0
+SMR,San Marino,preparedness,0.0,1000,106,0,0.0
+SMR,San Marino,vulnerability,0.013,1000,106,0,0.0
+SMR,San Marino,equity_access,0.0,1000,106,0,0.0
+SYC,Seychelles,capacity,1.0,1000,106,0,0.0
+SYC,Seychelles,preparedness,0.0,1000,106,0,0.0
+SYC,Seychelles,vulnerability,0.0,1000,106,0,0.0
+SYC,Seychelles,equity_access,0.0,1000,106,0,0.0
+RUS,Russian Federation,capacity,0.417,1000,106,0,0.0
+RUS,Russian Federation,preparedness,0.0,1000,106,0,0.0
+RUS,Russian Federation,vulnerability,0.583,1000,106,0,0.0
+RUS,Russian Federation,equity_access,0.0,1000,106,0,0.0
+CHL,Chile,capacity,1.0,1000,106,0,0.0
+CHL,Chile,preparedness,0.0,1000,106,0,0.0
+CHL,Chile,vulnerability,0.0,1000,106,0,0.0
+CHL,Chile,equity_access,0.0,1000,106,0,0.0
+TUR,Turkiye,capacity,1.0,1000,106,0,0.0
+TUR,Turkiye,preparedness,0.0,1000,106,0,0.0
+TUR,Turkiye,vulnerability,0.0,1000,106,0,0.0
+TUR,Turkiye,equity_access,0.0,1000,106,0,0.0
+BRA,Brazil,capacity,1.0,1000,106,0,0.0
+BRA,Brazil,preparedness,0.0,1000,106,0,0.0
+BRA,Brazil,vulnerability,0.0,1000,106,0,0.0
+BRA,Brazil,equity_access,0.0,1000,106,0,0.0
+SRB,Serbia,capacity,0.966,1000,106,0,0.0
+SRB,Serbia,preparedness,0.0,1000,106,0,0.0
+SRB,Serbia,vulnerability,0.028,1000,106,0,0.0
+SRB,Serbia,equity_access,0.006,1000,106,0,0.0
+MKD,North Macedonia,capacity,1.0,1000,106,0,0.0
+MKD,North Macedonia,preparedness,0.0,1000,106,0,0.0
+MKD,North Macedonia,vulnerability,0.0,1000,106,0,0.0
+MKD,North Macedonia,equity_access,0.0,1000,106,0,0.0
+CYP,Cyprus,capacity,1.0,1000,106,0,0.0
+CYP,Cyprus,preparedness,0.0,1000,106,0,0.0
+CYP,Cyprus,vulnerability,0.0,1000,106,0,0.0
+CYP,Cyprus,equity_access,0.0,1000,106,0,0.0
+BGR,Bulgaria,capacity,0.414,1000,106,0,0.0
+BGR,Bulgaria,preparedness,0.0,1000,106,0,0.0
+BGR,Bulgaria,vulnerability,0.54,1000,106,0,0.0
+BGR,Bulgaria,equity_access,0.046,1000,106,0,0.0
+SGP,Singapore,capacity,1.0,1000,106,0,0.0
+SGP,Singapore,preparedness,0.0,1000,106,0,0.0
+SGP,Singapore,vulnerability,0.0,1000,106,0,0.0
+SGP,Singapore,equity_access,0.0,1000,106,0,0.0
+LVA,Latvia,capacity,1.0,1000,106,0,0.0
+LVA,Latvia,preparedness,0.0,1000,106,0,0.0
+LVA,Latvia,vulnerability,0.0,1000,106,0,0.0
+LVA,Latvia,equity_access,0.0,1000,106,0,0.0
+JOR,Jordan,capacity,1.0,1000,106,0,0.0
+JOR,Jordan,preparedness,0.0,1000,106,0,0.0
+JOR,Jordan,vulnerability,0.0,1000,106,0,0.0
+JOR,Jordan,equity_access,0.0,1000,106,0,0.0
+NIC,Nicaragua,capacity,1.0,1000,106,0,0.0
+NIC,Nicaragua,preparedness,0.0,1000,106,0,0.0
+NIC,Nicaragua,vulnerability,0.0,1000,106,0,0.0
+NIC,Nicaragua,equity_access,0.0,1000,106,0,0.0
+TUN,Tunisia,capacity,1.0,1000,106,0,0.0
+TUN,Tunisia,preparedness,0.0,1000,106,0,0.0
+TUN,Tunisia,vulnerability,0.0,1000,106,0,0.0
+TUN,Tunisia,equity_access,0.0,1000,106,0,0.0
+IRN,"Iran, Islamic Rep.",capacity,1.0,1000,106,0,0.0
+IRN,"Iran, Islamic Rep.",preparedness,0.0,1000,106,0,0.0
+IRN,"Iran, Islamic Rep.",vulnerability,0.0,1000,106,0,0.0
+IRN,"Iran, Islamic Rep.",equity_access,0.0,1000,106,0,0.0
+VCT,St. Vincent and the Grenadines,capacity,1.0,1000,106,0,0.0
+VCT,St. Vincent and the Grenadines,preparedness,0.0,1000,106,0,0.0
+VCT,St. Vincent and the Grenadines,vulnerability,0.0,1000,106,0,0.0
+VCT,St. Vincent and the Grenadines,equity_access,0.0,1000,106,0,0.0
+ALB,Albania,capacity,1.0,1000,106,0,0.0
+ALB,Albania,preparedness,0.0,1000,106,0,0.0
+ALB,Albania,vulnerability,0.0,1000,106,0,0.0
+ALB,Albania,equity_access,0.0,1000,106,0,0.0
+UZB,Uzbekistan,capacity,1.0,1000,106,0,0.0
+UZB,Uzbekistan,preparedness,0.0,1000,106,0,0.0
+UZB,Uzbekistan,vulnerability,0.0,1000,106,0,0.0
+UZB,Uzbekistan,equity_access,0.0,1000,106,0,0.0
+KNA,St. Kitts and Nevis,capacity,1.0,1000,106,0,0.0
+KNA,St. Kitts and Nevis,preparedness,0.0,1000,106,0,0.0
+KNA,St. Kitts and Nevis,vulnerability,0.0,1000,106,0,0.0
+KNA,St. Kitts and Nevis,equity_access,0.0,1000,106,0,0.0
+ECU,Ecuador,capacity,1.0,1000,106,0,0.0
+ECU,Ecuador,preparedness,0.0,1000,106,0,0.0
+ECU,Ecuador,vulnerability,0.0,1000,106,0,0.0
+ECU,Ecuador,equity_access,0.0,1000,106,0,0.0
+BIH,Bosnia and Herzegovina,capacity,1.0,1000,106,0,0.0
+BIH,Bosnia and Herzegovina,preparedness,0.0,1000,106,0,0.0
+BIH,Bosnia and Herzegovina,vulnerability,0.0,1000,106,0,0.0
+BIH,Bosnia and Herzegovina,equity_access,0.0,1000,106,0,0.0
+PSE,West Bank and Gaza,capacity,1.0,1000,106,0,0.0
+PSE,West Bank and Gaza,preparedness,0.0,1000,106,0,0.0
+PSE,West Bank and Gaza,vulnerability,0.0,1000,106,0,0.0
+PSE,West Bank and Gaza,equity_access,0.0,1000,106,0,0.0
+BRB,Barbados,capacity,1.0,1000,106,0,0.0
+BRB,Barbados,preparedness,0.0,1000,106,0,0.0
+BRB,Barbados,vulnerability,0.0,1000,106,0,0.0
+BRB,Barbados,equity_access,0.0,1000,106,0,0.0
+THA,Thailand,capacity,1.0,1000,106,0,0.0
+THA,Thailand,preparedness,0.0,1000,106,0,0.0
+THA,Thailand,vulnerability,0.0,1000,106,0,0.0
+THA,Thailand,equity_access,0.0,1000,106,0,0.0
+MDA,Moldova,capacity,0.986,1000,106,0,0.0
+MDA,Moldova,preparedness,0.0,1000,106,0,0.0
+MDA,Moldova,vulnerability,0.014,1000,106,0,0.0
+MDA,Moldova,equity_access,0.0,1000,106,0,0.0
+PAN,Panama,capacity,1.0,1000,106,0,0.0
+PAN,Panama,preparedness,0.0,1000,106,0,0.0
+PAN,Panama,vulnerability,0.0,1000,106,0,0.0
+PAN,Panama,equity_access,0.0,1000,106,0,0.0
+GEO,Georgia,capacity,0.97,1000,106,0,0.0
+GEO,Georgia,preparedness,0.0,1000,106,0,0.0
+GEO,Georgia,vulnerability,0.0,1000,106,0,0.0
+GEO,Georgia,equity_access,0.03,1000,106,0,0.0
+KGZ,Kyrgyz Republic,capacity,1.0,1000,106,0,0.0
+KGZ,Kyrgyz Republic,preparedness,0.0,1000,106,0,0.0
+KGZ,Kyrgyz Republic,vulnerability,0.0,1000,106,0,0.0
+KGZ,Kyrgyz Republic,equity_access,0.0,1000,106,0,0.0
+DZA,Algeria,capacity,1.0,1000,106,0,0.0
+DZA,Algeria,preparedness,0.0,1000,106,0,0.0
+DZA,Algeria,vulnerability,0.0,1000,106,0,0.0
+DZA,Algeria,equity_access,0.0,1000,106,0,0.0
+SLV,El Salvador,capacity,1.0,1000,106,0,0.0
+SLV,El Salvador,preparedness,0.0,1000,106,0,0.0
+SLV,El Salvador,vulnerability,0.0,1000,106,0,0.0
+SLV,El Salvador,equity_access,0.0,1000,106,0,0.0
+MNE,Montenegro,capacity,1.0,1000,106,0,0.0
+MNE,Montenegro,preparedness,0.0,1000,106,0,0.0
+MNE,Montenegro,vulnerability,0.0,1000,106,0,0.0
+MNE,Montenegro,equity_access,0.0,1000,106,0,0.0
+BLZ,Belize,capacity,1.0,1000,106,0,0.0
+BLZ,Belize,preparedness,0.0,1000,106,0,0.0
+BLZ,Belize,vulnerability,0.0,1000,106,0,0.0
+BLZ,Belize,equity_access,0.0,1000,106,0,0.0
+MYS,Malaysia,capacity,1.0,1000,106,0,0.0
+MYS,Malaysia,preparedness,0.0,1000,106,0,0.0
+MYS,Malaysia,vulnerability,0.0,1000,106,0,0.0
+MYS,Malaysia,equity_access,0.0,1000,106,0,0.0
+TJK,Tajikistan,capacity,1.0,1000,106,0,0.0
+TJK,Tajikistan,preparedness,0.0,1000,106,0,0.0
+TJK,Tajikistan,vulnerability,0.0,1000,106,0,0.0
+TJK,Tajikistan,equity_access,0.0,1000,106,0,0.0
+MUS,Mauritius,capacity,1.0,1000,106,0,0.0
+MUS,Mauritius,preparedness,0.0,1000,106,0,0.0
+MUS,Mauritius,vulnerability,0.0,1000,106,0,0.0
+MUS,Mauritius,equity_access,0.0,1000,106,0,0.0
+ARM,Armenia,capacity,0.837,1000,106,0,0.0
+ARM,Armenia,preparedness,0.0,1000,106,0,0.0
+ARM,Armenia,vulnerability,0.0,1000,106,0,0.0
+ARM,Armenia,equity_access,0.163,1000,106,0,0.0
+MEX,Mexico,capacity,1.0,1000,106,0,0.0
+MEX,Mexico,preparedness,0.0,1000,106,0,0.0
+MEX,Mexico,vulnerability,0.0,1000,106,0,0.0
+MEX,Mexico,equity_access,0.0,1000,106,0,0.0
+BHS,"Bahamas, The",capacity,1.0,1000,106,0,0.0
+BHS,"Bahamas, The",preparedness,0.0,1000,106,0,0.0
+BHS,"Bahamas, The",vulnerability,0.0,1000,106,0,0.0
+BHS,"Bahamas, The",equity_access,0.0,1000,106,0,0.0
+BTN,Bhutan,capacity,1.0,1000,106,0,0.0
+BTN,Bhutan,preparedness,0.0,1000,106,0,0.0
+BTN,Bhutan,vulnerability,0.0,1000,106,0,0.0
+BTN,Bhutan,equity_access,0.0,1000,106,0,0.0
+JAM,Jamaica,capacity,1.0,1000,106,0,0.0
+JAM,Jamaica,preparedness,0.0,1000,106,0,0.0
+JAM,Jamaica,vulnerability,0.0,1000,106,0,0.0
+JAM,Jamaica,equity_access,0.0,1000,106,0,0.0
+LBN,Lebanon,capacity,1.0,1000,106,0,0.0
+LBN,Lebanon,preparedness,0.0,1000,106,0,0.0
+LBN,Lebanon,vulnerability,0.0,1000,106,0,0.0
+LBN,Lebanon,equity_access,0.0,1000,106,0,0.0
+PRY,Paraguay,capacity,1.0,1000,106,0,0.0
+PRY,Paraguay,preparedness,0.0,1000,106,0,0.0
+PRY,Paraguay,vulnerability,0.0,1000,106,0,0.0
+PRY,Paraguay,equity_access,0.0,1000,106,0,0.0
+FJI,Fiji,capacity,1.0,1000,106,0,0.0
+FJI,Fiji,preparedness,0.0,1000,106,0,0.0
+FJI,Fiji,vulnerability,0.0,1000,106,0,0.0
+FJI,Fiji,equity_access,0.0,1000,106,0,0.0
+PER,Peru,capacity,1.0,1000,106,0,0.0
+PER,Peru,preparedness,0.0,1000,106,0,0.0
+PER,Peru,vulnerability,0.0,1000,106,0,0.0
+PER,Peru,equity_access,0.0,1000,106,0,0.0
+CPV,Cabo Verde,capacity,1.0,1000,106,0,0.0
+CPV,Cabo Verde,preparedness,0.0,1000,106,0,0.0
+CPV,Cabo Verde,vulnerability,0.0,1000,106,0,0.0
+CPV,Cabo Verde,equity_access,0.0,1000,106,0,0.0
+MNG,Mongolia,capacity,1.0,1000,106,0,0.0
+MNG,Mongolia,preparedness,0.0,1000,106,0,0.0
+MNG,Mongolia,vulnerability,0.0,1000,106,0,0.0
+MNG,Mongolia,equity_access,0.0,1000,106,0,0.0
+SUR,Suriname,capacity,1.0,1000,106,0,0.0
+SUR,Suriname,preparedness,0.0,1000,106,0,0.0
+SUR,Suriname,vulnerability,0.0,1000,106,0,0.0
+SUR,Suriname,equity_access,0.0,1000,106,0,0.0
+EGY,"Egypt, Arab Rep.",capacity,1.0,1000,106,0,0.0
+EGY,"Egypt, Arab Rep.",preparedness,0.0,1000,106,0,0.0
+EGY,"Egypt, Arab Rep.",vulnerability,0.0,1000,106,0,0.0
+EGY,"Egypt, Arab Rep.",equity_access,0.0,1000,106,0,0.0
+AZE,Azerbaijan,capacity,1.0,1000,106,0,0.0
+AZE,Azerbaijan,preparedness,0.0,1000,106,0,0.0
+AZE,Azerbaijan,vulnerability,0.0,1000,106,0,0.0
+AZE,Azerbaijan,equity_access,0.0,1000,106,0,0.0
+UKR,Ukraine,capacity,0.996,1000,106,0,0.0
+UKR,Ukraine,preparedness,0.004,1000,106,0,0.0
+UKR,Ukraine,vulnerability,0.0,1000,106,0,0.0
+UKR,Ukraine,equity_access,0.0,1000,106,0,0.0
+DOM,Dominican Republic,capacity,1.0,1000,106,0,0.0
+DOM,Dominican Republic,preparedness,0.0,1000,106,0,0.0
+DOM,Dominican Republic,vulnerability,0.0,1000,106,0,0.0
+DOM,Dominican Republic,equity_access,0.0,1000,106,0,0.0
+BOL,Bolivia,capacity,1.0,1000,106,0,0.0
+BOL,Bolivia,preparedness,0.0,1000,106,0,0.0
+BOL,Bolivia,vulnerability,0.0,1000,106,0,0.0
+BOL,Bolivia,equity_access,0.0,1000,106,0,0.0
+GTM,Guatemala,capacity,1.0,1000,106,0,0.0
+GTM,Guatemala,preparedness,0.0,1000,106,0,0.0
+GTM,Guatemala,vulnerability,0.0,1000,106,0,0.0
+GTM,Guatemala,equity_access,0.0,1000,106,0,0.0
+PHL,Philippines,capacity,1.0,1000,106,0,0.0
+PHL,Philippines,preparedness,0.0,1000,106,0,0.0
+PHL,Philippines,vulnerability,0.0,1000,106,0,0.0
+PHL,Philippines,equity_access,0.0,1000,106,0,0.0
+ZAF,South Africa,capacity,0.519,1000,106,0,0.0
+ZAF,South Africa,preparedness,0.481,1000,106,0,0.0
+ZAF,South Africa,vulnerability,0.0,1000,106,0,0.0
+ZAF,South Africa,equity_access,0.0,1000,106,0,0.0
+NAM,Namibia,capacity,0.288,1000,106,0,0.0
+NAM,Namibia,preparedness,0.712,1000,106,0,0.0
+NAM,Namibia,vulnerability,0.0,1000,106,0,0.0
+NAM,Namibia,equity_access,0.0,1000,106,0,0.0

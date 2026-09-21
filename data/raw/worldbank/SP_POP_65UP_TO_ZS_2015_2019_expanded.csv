@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,variable
+Africa Eastern and Southern,AFE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.15714194166587,age65_share
+Africa Eastern and Southern,AFE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.11392234821198,age65_share
+Africa Eastern and Southern,AFE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.07482831431294,age65_share
+Africa Eastern and Southern,AFE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.04497679911034,age65_share
+Africa Eastern and Southern,AFE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.0209800627081,age65_share
+Africa Western and Central,AFW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.91018496114195,age65_share
+Africa Western and Central,AFW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.9026878912076,age65_share
+Africa Western and Central,AFW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.90033985448859,age65_share
+Africa Western and Central,AFW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.90320940127754,age65_share
+Africa Western and Central,AFW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.91026540802581,age65_share
+Arab World,ARB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.18635530015928,age65_share
+Arab World,ARB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.08181680168791,age65_share
+Arab World,ARB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.98006156404198,age65_share
+Arab World,ARB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.89446274838379,age65_share
+Arab World,ARB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.83059579742831,age65_share
+Caribbean small states,CSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.58725607336797,age65_share
+Caribbean small states,CSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.31958057328657,age65_share
+Caribbean small states,CSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,8.10305187983601,age65_share
+Caribbean small states,CSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.83674531685472,age65_share
+Caribbean small states,CSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.58577792619511,age65_share
+Central Europe and the Baltics,CEB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,18.722358234302,age65_share
+Central Europe and the Baltics,CEB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,18.2800559799574,age65_share
+Central Europe and the Baltics,CEB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,17.8458198355238,age65_share
+Central Europe and the Baltics,CEB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,17.4043072940577,age65_share
+Central Europe and the Baltics,CEB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,16.9582839213529,age65_share
+Early-demographic dividend,EAR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.864005177427,age65_share
+Early-demographic dividend,EAR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.69913615423204,age65_share
+Early-demographic dividend,EAR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.54475878388619,age65_share
+Early-demographic dividend,EAR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.40309482717696,age65_share
+Early-demographic dividend,EAR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.27558314448739,age65_share
+East Asia & Pacific,EAS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,11.5700348569336,age65_share
+East Asia & Pacific,EAS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,11.1521030937395,age65_share
+East Asia & Pacific,EAS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,10.7446559848988,age65_share
+East Asia & Pacific,EAS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,10.3683064663002,age65_share
+East Asia & Pacific,EAS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,10.0220854398612,age65_share
+East Asia & Pacific (excluding high income),EAP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.3428213003312,age65_share
+East Asia & Pacific (excluding high income),EAP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,9.91773427622491,age65_share
+East Asia & Pacific (excluding high income),EAP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.50627733870643,age65_share
+East Asia & Pacific (excluding high income),EAP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,9.13242851633735,age65_share
+East Asia & Pacific (excluding high income),EAP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.79721135321095,age65_share
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.3355012946524,age65_share
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,9.90614100950201,age65_share
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.48910208381052,age65_share
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,9.10908567515979,age65_share
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.7700911797787,age65_share
+Euro area,EMU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,20.81996774247,age65_share
+Euro area,EMU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,20.5566498705035,age65_share
+Euro area,EMU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,20.2973714497022,age65_share
+Euro area,EMU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,20.0313612374497,age65_share
+Euro area,EMU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,19.768656293341,age65_share
+Europe & Central Asia,ECS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,16.5823298507429,age65_share
+Europe & Central Asia,ECS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,16.2973766509372,age65_share
+Europe & Central Asia,ECS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,16.0327107526495,age65_share
+Europe & Central Asia,ECS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,15.7749113912591,age65_share
+Europe & Central Asia,ECS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,15.5288814614256,age65_share
+Europe & Central Asia (excluding high income),ECA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.066107035901,age65_share
+Europe & Central Asia (excluding high income),ECA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,9.82005532586501,age65_share
+Europe & Central Asia (excluding high income),ECA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.61678050997266,age65_share
+Europe & Central Asia (excluding high income),ECA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,9.4228237958442,age65_share
+Europe & Central Asia (excluding high income),ECA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,9.25622880235829,age65_share
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,12.8719799323058,age65_share
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,12.5512517354736,age65_share
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,12.2663261403509,age65_share
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,11.9914871798939,age65_share
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,11.7401261839188,age65_share
+European Union,EUU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,20.3750307956607,age65_share
+European Union,EUU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,20.0780889113611,age65_share
+European Union,EUU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,19.7868737552614,age65_share
+European Union,EUU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,19.4904059703204,age65_share
+European Union,EUU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,19.1927508562703,age65_share
+Fragile and conflict affected situations,FCS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.96443201279837,age65_share
+Fragile and conflict affected situations,FCS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.93217274703926,age65_share
+Fragile and conflict affected situations,FCS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.9009057724467,age65_share
+Fragile and conflict affected situations,FCS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.87083841577833,age65_share
+Fragile and conflict affected situations,FCS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.84650486440212,age65_share
+Heavily indebted poor countries (HIPC),HPC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.92652448949533,age65_share
+Heavily indebted poor countries (HIPC),HPC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.9056973556519,age65_share
+Heavily indebted poor countries (HIPC),HPC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.88859833658544,age65_share
+Heavily indebted poor countries (HIPC),HPC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.87557165484176,age65_share
+Heavily indebted poor countries (HIPC),HPC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.86615188892334,age65_share
+High income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,17.8438801502311,age65_share
+High income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,17.5106432079105,age65_share
+High income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,17.1821398490054,age65_share
+High income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,16.8702043045439,age65_share
+High income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,16.5766970601159,age65_share
+IBRD only,IBD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.86907575914731,age65_share
+IBRD only,IBD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.55958121959094,age65_share
+IBRD only,IBD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,8.26352954006266,age65_share
+IBRD only,IBD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.98925096747554,age65_share
+IBRD only,IBD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.74048603294574,age65_share
+IDA & IBRD total,IBT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,7.48895130123562,age65_share
+IDA & IBRD total,IBT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,7.26171460490448,age65_share
+IDA & IBRD total,IBT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.04279210121662,age65_share
+IDA & IBRD total,IBT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,6.83945283053357,age65_share
+IDA & IBRD total,IBT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.65473072898136,age65_share
+IDA blend,IDB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.46095871086724,age65_share
+IDA blend,IDB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.42088278873211,age65_share
+IDA blend,IDB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.38673741186947,age65_share
+IDA blend,IDB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.3631193314191,age65_share
+IDA blend,IDB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.34462579206261,age65_share
+IDA only,IDX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.77697893068878,age65_share
+IDA only,IDX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.72124215665419,age65_share
+IDA only,IDX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.66652449088935,age65_share
+IDA only,IDX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.61537769603935,age65_share
+IDA only,IDX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.56855067560736,age65_share
+IDA total,IDA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.66604342540692,age65_share
+IDA total,IDA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.61557657564976,age65_share
+IDA total,IDA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.56792377116517,age65_share
+IDA total,IDA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.52632394002637,age65_share
+IDA total,IDA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.48937180265636,age65_share
+Late-demographic dividend,LTE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,11.5295825106413,age65_share
+Late-demographic dividend,LTE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,11.070267526194,age65_share
+Late-demographic dividend,LTE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,10.6271285573196,age65_share
+Late-demographic dividend,LTE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,10.2190431819828,age65_share
+Late-demographic dividend,LTE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,9.84662096818106,age65_share
+Latin America & Caribbean,LCN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.60758091152324,age65_share
+Latin America & Caribbean,LCN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.35689709815919,age65_share
+Latin America & Caribbean,LCN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,8.11983439857911,age65_share
+Latin America & Caribbean,LCN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.89701427607178,age65_share
+Latin America & Caribbean,LCN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.68399621297092,age65_share
+Latin America & Caribbean (excluding high income),LAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.38961422014101,age65_share
+Latin America & Caribbean (excluding high income),LAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.15573409484887,age65_share
+Latin America & Caribbean (excluding high income),LAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.9314226303216,age65_share
+Latin America & Caribbean (excluding high income),LAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.71763531471015,age65_share
+Latin America & Caribbean (excluding high income),LAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.50934658109232,age65_share
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.4111417966171,age65_share
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.16295606442999,age65_share
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.92712296129775,age65_share
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.70673306938284,age65_share
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.49534868577542,age65_share
+Least developed countries: UN classification,LDC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.58222669717417,age65_share
+Least developed countries: UN classification,LDC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.5316800208323,age65_share
+Least developed countries: UN classification,LDC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.48320481779033,age65_share
+Least developed countries: UN classification,LDC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.43927549529911,age65_share
+Least developed countries: UN classification,LDC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.40080516770663,age65_share
+Low & middle income,LMY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,7.2774604042439,age65_share
+Low & middle income,LMY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,7.05113737058838,age65_share
+Low & middle income,LMY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,6.83282617607367,age65_share
+Low & middle income,LMY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,6.630568070631,age65_share
+Low & middle income,LMY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.44651415962102,age65_share
+Low income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.1726055501338,age65_share
+Low income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.16048938820684,age65_share
+Low income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.15647180921578,age65_share
+Low income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.1592979322464,age65_share
+Low income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.15711528715693,age65_share
+Lower middle income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.30166567802619,age65_share
+Lower middle income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.15441965168929,age65_share
+Lower middle income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.0155166461911,age65_share
+Lower middle income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.88804218386133,age65_share
+Lower middle income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.76890918198875,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.58548237671864,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.4797792743706,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.37607829684335,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.28336130831485,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.20729814036475,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.65118101526252,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.54771377233768,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.44942503561546,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.35691446038607,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.273402579405,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.65912680345998,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.55542256462645,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.45689438379004,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.36421844059262,age65_share
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.28056386779576,age65_share
+Middle income,MIC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,7.67002611444948,age65_share
+Middle income,MIC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,7.41640934691878,age65_share
+Middle income,MIC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.17211501984884,age65_share
+Middle income,MIC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,6.94594814950174,age65_share
+Middle income,MIC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.74107969327457,age65_share
+North America,NAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,15.8634105007359,age65_share
+North America,NAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,15.4782657258417,age65_share
+North America,NAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,15.1225408408483,age65_share
+North America,NAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,14.792708831133,age65_share
+North America,NAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,14.4802852739518,age65_share
+Not classified,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,,age65_share
+Not classified,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,,age65_share
+Not classified,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,,age65_share
+Not classified,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,,age65_share
+Not classified,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,,age65_share
+OECD members,OED,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,16.9559918941689,age65_share
+OECD members,OED,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,16.6642982988672,age65_share
+OECD members,OED,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,16.3856900881716,age65_share
+OECD members,OED,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,16.1090870008096,age65_share
+OECD members,OED,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,15.8306592935065,age65_share
+Other small states,OSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,9.4488717093074,age65_share
+Other small states,OSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,9.29068111710775,age65_share
+Other small states,OSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.1323746635927,age65_share
+Other small states,OSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,8.95715325837604,age65_share
+Other small states,OSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.76891357355298,age65_share
+Pacific island small states,PSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.81750078385899,age65_share
+Pacific island small states,PSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.71666392678166,age65_share
+Pacific island small states,PSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.6091292505117,age65_share
+Pacific island small states,PSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.51468461715419,age65_share
+Pacific island small states,PSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.43624411907203,age65_share
+Post-demographic dividend,PST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,19.1790451370376,age65_share
+Post-demographic dividend,PST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,18.8576166892467,age65_share
+Post-demographic dividend,PST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,18.5430681589094,age65_share
+Post-demographic dividend,PST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.2293181636452,age65_share
+Post-demographic dividend,PST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,17.9155014154975,age65_share
+Pre-demographic dividend,PRE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.82583716451927,age65_share
+Pre-demographic dividend,PRE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.80463803855985,age65_share
+Pre-demographic dividend,PRE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.78717656696085,age65_share
+Pre-demographic dividend,PRE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.77755412835428,age65_share
+Pre-demographic dividend,PRE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.7716745473898,age65_share
+Small states,SST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.63385567361177,age65_share
+Small states,SST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.45717171410214,age65_share
+Small states,SST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,8.29234901876455,age65_share
+Small states,SST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,8.10708910211718,age65_share
+Small states,SST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.91936028137118,age65_share
+South Asia,SAS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.21827278293473,age65_share
+South Asia,SAS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.01428817180366,age65_share
+South Asia,SAS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.81790270670978,age65_share
+South Asia,SAS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.6326383520799,age65_share
+South Asia,SAS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.45841890276284,age65_share
+South Asia (IDA & IBRD),TSA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.21827278293473,age65_share
+South Asia (IDA & IBRD),TSA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.01428817180366,age65_share
+South Asia (IDA & IBRD),TSA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.81790270670978,age65_share
+South Asia (IDA & IBRD),TSA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.6326383520799,age65_share
+South Asia (IDA & IBRD),TSA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.45841890276284,age65_share
+Sub-Saharan Africa,SSF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.05670328760275,age65_share
+Sub-Saharan Africa,SSF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.02786863945004,age65_share
+Sub-Saharan Africa,SSF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.00365982946056,age65_share
+Sub-Saharan Africa,SSF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.98714883064188,age65_share
+Sub-Saharan Africa,SSF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.97582733930201,age65_share
+Sub-Saharan Africa (excluding high income),SSA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.05838577699004,age65_share
+Sub-Saharan Africa (excluding high income),SSA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.02994297141946,age65_share
+Sub-Saharan Africa (excluding high income),SSA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.00623114448455,age65_share
+Sub-Saharan Africa (excluding high income),SSA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.99054280847196,age65_share
+Sub-Saharan Africa (excluding high income),SSA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.98000840734568,age65_share
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.05670328760275,age65_share
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.02786863945004,age65_share
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.00365982946056,age65_share
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.98714883064188,age65_share
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.97582733930201,age65_share
+Upper middle income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.1740369664085,age65_share
+Upper middle income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,9.79101204457033,age65_share
+Upper middle income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.42092721492707,age65_share
+Upper middle income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,9.0776961689836,age65_share
+Upper middle income,,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.76982637585619,age65_share
+World,WLD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,9.10450109812817,age65_share
+World,WLD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.87541290563499,age65_share
+World,WLD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,8.65405067562567,age65_share
+World,WLD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,8.44796812578043,age65_share
+World,WLD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.25739332891096,age65_share
+Afghanistan,AFG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.37615338349114,age65_share
+Afghanistan,AFG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.36712047688815,age65_share
+Afghanistan,AFG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.35973702156897,age65_share
+Afghanistan,AFG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.35549736125691,age65_share
+Afghanistan,AFG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.35669506261475,age65_share
+Albania,ALB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,14.2480986631067,age65_share
+Albania,ALB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,13.739521828078,age65_share
+Albania,ALB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,13.3053911120274,age65_share
+Albania,ALB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,12.9202121629827,age65_share
+Albania,ALB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,12.5431065412926,age65_share
+Algeria,DZA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.77497798452489,age65_share
+Algeria,DZA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.61800854886956,age65_share
+Algeria,DZA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.46724232518278,age65_share
+Algeria,DZA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.32589987824205,age65_share
+Algeria,DZA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.19673532389649,age65_share
+American Samoa,ASM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.08357067458025,age65_share
+American Samoa,ASM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.85069290982842,age65_share
+American Samoa,ASM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.61392625906254,age65_share
+American Samoa,ASM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.37664251739418,age65_share
+American Samoa,ASM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.14202503876849,age65_share
+Andorra,AND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,13.8257043289506,age65_share
+Andorra,AND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,13.4862031345627,age65_share
+Andorra,AND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,13.1984409422132,age65_share
+Andorra,AND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,13.0178785422858,age65_share
+Andorra,AND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,12.9257968645001,age65_share
+Angola,AGO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.70797798313284,age65_share
+Angola,AGO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.69303871230468,age65_share
+Angola,AGO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.68524168427026,age65_share
+Angola,AGO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.68501394815556,age65_share
+Angola,AGO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.69128111509288,age65_share
+Antigua and Barbuda,ATG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,9.47314846738577,age65_share
+Antigua and Barbuda,ATG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,9.12720234036469,age65_share
+Antigua and Barbuda,ATG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,8.79869124994473,age65_share
+Antigua and Barbuda,ATG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,8.44513110071247,age65_share
+Antigua and Barbuda,ATG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.11104027558747,age65_share
+Argentina,ARG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,11.6325391913594,age65_share
+Argentina,ARG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,11.4636515159043,age65_share
+Argentina,ARG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,11.3071247613454,age65_share
+Argentina,ARG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,11.1688143183761,age65_share
+Argentina,ARG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,11.0315216694284,age65_share
+Armenia,ARM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,12.0453317121053,age65_share
+Armenia,ARM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,11.7116892663124,age65_share
+Armenia,ARM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,11.4171755495395,age65_share
+Armenia,ARM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,11.1448655565615,age65_share
+Armenia,ARM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,10.923814112631,age65_share
+Aruba,ABW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,13.9419664537338,age65_share
+Aruba,ABW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,13.3108463619964,age65_share
+Aruba,ABW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,12.7167657393089,age65_share
+Aruba,ABW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,12.1631984301248,age65_share
+Aruba,ABW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,11.6404071622938,age65_share
+Australia,AUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,15.9450637793133,age65_share
+Australia,AUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,15.6409676060892,age65_share
+Australia,AUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,15.3876130191621,age65_share
+Australia,AUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,15.1508163000494,age65_share
+Australia,AUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,14.8994580007134,age65_share
+Austria,AUT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,18.9402993578561,age65_share
+Austria,AUT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,18.7625828458159,age65_share
+Austria,AUT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,18.6103296736393,age65_share
+Austria,AUT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.4999156835518,age65_share
+Austria,AUT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.4613708048616,age65_share
+Azerbaijan,AZE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.62764113456588,age65_share
+Azerbaijan,AZE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.3688767423245,age65_share
+Azerbaijan,AZE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,6.14013559399226,age65_share
+Azerbaijan,AZE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.94640301373228,age65_share
+Azerbaijan,AZE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.79496249814157,age65_share
+"Bahamas, The",BHS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.8243628610412,age65_share
+"Bahamas, The",BHS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,10.66759184401,age65_share
+"Bahamas, The",BHS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,10.5142323008566,age65_share
+"Bahamas, The",BHS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,10.3648833736411,age65_share
+"Bahamas, The",BHS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,10.2099019972933,age65_share
+Bahrain,BHR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.00446835284136,age65_share
+Bahrain,BHR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.77238869129833,age65_share
+Bahrain,BHR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.61201960870313,age65_share
+Bahrain,BHR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.53748590518773,age65_share
+Bahrain,BHR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.58876355273245,age65_share
+Bangladesh,BGD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.66255837053046,age65_share
+Bangladesh,BGD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.45814402305543,age65_share
+Bangladesh,BGD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.25888905067487,age65_share
+Bangladesh,BGD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.07223834276104,age65_share
+Bangladesh,BGD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.90260142194805,age65_share
+Barbados,BRB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,14.2956713458923,age65_share
+Barbados,BRB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,13.8812050137063,age65_share
+Barbados,BRB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,13.5158528184573,age65_share
+Barbados,BRB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,13.2030865798156,age65_share
+Barbados,BRB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,12.9216100935517,age65_share
+Belarus,BLR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,15.3719450417652,age65_share
+Belarus,BLR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,15.0511533137392,age65_share
+Belarus,BLR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,14.797647947019,age65_share
+Belarus,BLR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,14.5402754703135,age65_share
+Belarus,BLR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,14.3137668458221,age65_share
+Belgium,BEL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,19.029838081816,age65_share
+Belgium,BEL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,18.8086209996758,age65_share
+Belgium,BEL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,18.584903433857,age65_share
+Belgium,BEL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.356666180316,age65_share
+Belgium,BEL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.1637094668899,age65_share
+Belize,BLZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.37513040120157,age65_share
+Belize,BLZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.27416290027129,age65_share
+Belize,BLZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.19438292718545,age65_share
+Belize,BLZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.1311470914849,age65_share
+Belize,BLZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.07610297109726,age65_share
+Benin,BEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.03327124628391,age65_share
+Benin,BEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.02828051946374,age65_share
+Benin,BEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.02784602376455,age65_share
+Benin,BEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.03144387791543,age65_share
+Benin,BEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.03762600146945,age65_share
+Bermuda,BMU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,18.2327982903583,age65_share
+Bermuda,BMU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,17.6740141937303,age65_share
+Bermuda,BMU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,17.16618039117,age65_share
+Bermuda,BMU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,16.6457835882645,age65_share
+Bermuda,BMU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,16.1068960898784,age65_share
+Bhutan,BTN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.92796512661737,age65_share
+Bhutan,BTN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.86666298128749,age65_share
+Bhutan,BTN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.83666795035889,age65_share
+Bhutan,BTN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.76252965103374,age65_share
+Bhutan,BTN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.63326843257928,age65_share
+Bolivia,BOL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.69637597867023,age65_share
+Bolivia,BOL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.65831749558234,age65_share
+Bolivia,BOL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.62693883757342,age65_share
+Bolivia,BOL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.60108593728302,age65_share
+Bolivia,BOL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.57956840423779,age65_share
+Bosnia and Herzegovina,BIH,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,19.6456887437667,age65_share
+Bosnia and Herzegovina,BIH,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,18.9760112193682,age65_share
+Bosnia and Herzegovina,BIH,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,18.338880896671,age65_share
+Bosnia and Herzegovina,BIH,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,17.7718389532056,age65_share
+Bosnia and Herzegovina,BIH,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,17.2535174740777,age65_share
+Botswana,BWA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.84555352446718,age65_share
+Botswana,BWA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.78395670382982,age65_share
+Botswana,BWA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.71468452368085,age65_share
+Botswana,BWA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.63969445700474,age65_share
+Botswana,BWA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.56111112876162,age65_share
+Brazil,BRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,9.27307434876159,age65_share
+Brazil,BRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.92785021515533,age65_share
+Brazil,BRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,8.5916529152697,age65_share
+Brazil,BRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,8.26857395268557,age65_share
+Brazil,BRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.95680732355772,age65_share
+British Virgin Islands,VGB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.05066699638682,age65_share
+British Virgin Islands,VGB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,7.83535793634764,age65_share
+British Virgin Islands,VGB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.61644086975137,age65_share
+British Virgin Islands,VGB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.17870004132475,age65_share
+British Virgin Islands,VGB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.87006304804696,age65_share
+Brunei Darussalam,BRN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.28835727839523,age65_share
+Brunei Darussalam,BRN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.97590847160694,age65_share
+Brunei Darussalam,BRN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.67856053533962,age65_share
+Brunei Darussalam,BRN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.40308351498255,age65_share
+Brunei Darussalam,BRN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.15680292933755,age65_share
+Bulgaria,BGR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,21.4794589439076,age65_share
+Bulgaria,BGR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,21.1708879702475,age65_share
+Bulgaria,BGR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,20.8699557799437,age65_share
+Bulgaria,BGR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,20.5760516337296,age65_share
+Bulgaria,BGR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,20.209781460636,age65_share
+Burkina Faso,BFA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.55918669789944,age65_share
+Burkina Faso,BFA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.55480791737547,age65_share
+Burkina Faso,BFA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.5594856886159,age65_share
+Burkina Faso,BFA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.57349738145185,age65_share
+Burkina Faso,BFA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.5964842899372,age65_share
+Burundi,BDI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.40126821487113,age65_share
+Burundi,BDI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.36073843584262,age65_share
+Burundi,BDI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.31607727699591,age65_share
+Burundi,BDI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.26939910143298,age65_share
+Burundi,BDI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.22313846109284,age65_share
+Cabo Verde,CPV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.81429049375224,age65_share
+Cabo Verde,CPV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.63793422474996,age65_share
+Cabo Verde,CPV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.46527248373442,age65_share
+Cabo Verde,CPV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.30060705739585,age65_share
+Cabo Verde,CPV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.15658375838101,age65_share
+Cambodia,KHM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.27307790694231,age65_share
+Cambodia,KHM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.09207597900805,age65_share
+Cambodia,KHM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.90883602678903,age65_share
+Cambodia,KHM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.7354180834771,age65_share
+Cambodia,KHM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.56873555218231,age65_share
+Cameroon,CMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.78429920377855,age65_share
+Cameroon,CMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.79116064603211,age65_share
+Cameroon,CMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.80367063138058,age65_share
+Cameroon,CMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.82198107998873,age65_share
+Cameroon,CMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.84572861421998,age65_share
+Canada,CAN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,17.5318595224519,age65_share
+Canada,CAN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,17.1296813071885,age65_share
+Canada,CAN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,16.7582136912329,age65_share
+Canada,CAN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,16.3881021891164,age65_share
+Canada,CAN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,16.0101997556659,age65_share
+Cayman Islands,CYM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,7.16354508592392,age65_share
+Cayman Islands,CYM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.87362091582563,age65_share
+Cayman Islands,CYM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,6.61806292660629,age65_share
+Cayman Islands,CYM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,6.38267525613902,age65_share
+Cayman Islands,CYM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.15646672344567,age65_share
+Central African Republic,CAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.18855387385715,age65_share
+Central African Republic,CAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.16203967608299,age65_share
+Central African Republic,CAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.09752330781376,age65_share
+Central African Republic,CAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.03200758815304,age65_share
+Central African Republic,CAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,1.95385046250308,age65_share
+Chad,TCD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.04845628973613,age65_share
+Chad,TCD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.04665537566992,age65_share
+Chad,TCD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.04749365973065,age65_share
+Chad,TCD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.05159826671532,age65_share
+Chad,TCD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.05939244331895,age65_share
+Channel Islands,CHI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,18.585184737986,age65_share
+Channel Islands,CHI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,18.3059057469104,age65_share
+Channel Islands,CHI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,18.0015153405408,age65_share
+Channel Islands,CHI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,17.6672849977423,age65_share
+Channel Islands,CHI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,17.3173574297434,age65_share
+Chile,CHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,12.3260602912509,age65_share
+Chile,CHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,12.0636582777361,age65_share
+Chile,CHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,11.8130834222508,age65_share
+Chile,CHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,11.5448975094543,age65_share
+Chile,CHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,11.2496571917453,age65_share
+China,CHN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,12.0613659717192,age65_share
+China,CHN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,11.5162092042497,age65_share
+China,CHN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,10.9809606634325,age65_share
+China,CHN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,10.4907994645602,age65_share
+China,CHN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,10.053420914992,age65_share
+Colombia,COL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.19032265077422,age65_share
+Colombia,COL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,7.91335297679074,age65_share
+Colombia,COL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.65248494953718,age65_share
+Colombia,COL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.38857678707939,age65_share
+Colombia,COL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.10912759193297,age65_share
+Comoros,COM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.45791771445426,age65_share
+Comoros,COM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.43234101012196,age65_share
+Comoros,COM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.41209801637307,age65_share
+Comoros,COM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.36446144948169,age65_share
+Comoros,COM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.28516187273113,age65_share
+"Congo, Dem. Rep.",COD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.09329491821841,age65_share
+"Congo, Dem. Rep.",COD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.09687504482002,age65_share
+"Congo, Dem. Rep.",COD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.10422429772435,age65_share
+"Congo, Dem. Rep.",COD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.11530869916254,age65_share
+"Congo, Dem. Rep.",COD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.12697957146724,age65_share
+"Congo, Rep.",COG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.72775052651388,age65_share
+"Congo, Rep.",COG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.70147386942977,age65_share
+"Congo, Rep.",COG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.68201653855692,age65_share
+"Congo, Rep.",COG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.66785140399224,age65_share
+"Congo, Rep.",COG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.6610957884824,age65_share
+Costa Rica,CRI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.105472418687,age65_share
+Costa Rica,CRI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,9.74221925855286,age65_share
+Costa Rica,CRI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.40002772137051,age65_share
+Costa Rica,CRI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,9.07487624557029,age65_share
+Costa Rica,CRI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.75896902857875,age65_share
+Cote d'Ivoire,CIV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.48842186373225,age65_share
+Cote d'Ivoire,CIV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.48160762899374,age65_share
+Cote d'Ivoire,CIV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.48395717689405,age65_share
+Cote d'Ivoire,CIV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.49670206949143,age65_share
+Cote d'Ivoire,CIV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.5199471963117,age65_share
+Croatia,HRV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,21.1822163945349,age65_share
+Croatia,HRV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,20.6682803013664,age65_share
+Croatia,HRV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,20.1354432241616,age65_share
+Croatia,HRV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,19.6581193481792,age65_share
+Croatia,HRV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,19.2311236257324,age65_share
+Cuba,CUB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,15.3697053690774,age65_share
+Cuba,CUB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,15.0605041766063,age65_share
+Cuba,CUB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,14.7546073113309,age65_share
+Cuba,CUB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,14.4765104638789,age65_share
+Cuba,CUB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,14.2021227461714,age65_share
+Curacao,CUW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,14.1400632046554,age65_share
+Curacao,CUW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,14.2532223467441,age65_share
+Curacao,CUW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,14.7929573452966,age65_share
+Curacao,CUW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,14.3516159313397,age65_share
+Curacao,CUW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,13.9266679470866,age65_share
+Cyprus,CYP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,13.3825533556934,age65_share
+Cyprus,CYP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,13.1664879646662,age65_share
+Cyprus,CYP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,12.9503446411893,age65_share
+Cyprus,CYP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,12.7306530327678,age65_share
+Cyprus,CYP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,12.499902624146,age65_share
+Czechia,CZE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,19.9485877378936,age65_share
+Czechia,CZE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,19.5315793430182,age65_share
+Czechia,CZE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,19.085882000882,age65_share
+Czechia,CZE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.5951592241056,age65_share
+Czechia,CZE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.0968797652582,age65_share
+Denmark,DNK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,19.7143802297606,age65_share
+Denmark,DNK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,19.4403886413888,age65_share
+Denmark,DNK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,19.1822684091773,age65_share
+Denmark,DNK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.9425702764271,age65_share
+Denmark,DNK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.7039395633233,age65_share
+Djibouti,DJI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.4058145932476,age65_share
+Djibouti,DJI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.33377927794291,age65_share
+Djibouti,DJI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.26723281861097,age65_share
+Djibouti,DJI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.20015168847389,age65_share
+Djibouti,DJI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.12368557491672,age65_share
+Dominica,DMA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,11.9680909834194,age65_share
+Dominica,DMA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,11.7873985141072,age65_share
+Dominica,DMA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,11.6509602680429,age65_share
+Dominica,DMA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,10.5643869466214,age65_share
+Dominica,DMA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,9.64138616673768,age65_share
+Dominican Republic,DOM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.58282666119334,age65_share
+Dominican Republic,DOM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.35280190364479,age65_share
+Dominican Republic,DOM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,6.13304705056594,age65_share
+Dominican Republic,DOM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.92926768832602,age65_share
+Dominican Republic,DOM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.74422925378078,age65_share
+Ecuador,ECU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,7.40791180679909,age65_share
+Ecuador,ECU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,7.19452567257434,age65_share
+Ecuador,ECU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.00392693239207,age65_share
+Ecuador,ECU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,6.82568946634407,age65_share
+Ecuador,ECU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.63997639280165,age65_share
+"Egypt, Arab Rep.",EGY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.5935289970751,age65_share
+"Egypt, Arab Rep.",EGY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.47225716625305,age65_share
+"Egypt, Arab Rep.",EGY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.36669397966263,age65_share
+"Egypt, Arab Rep.",EGY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.27700484872835,age65_share
+"Egypt, Arab Rep.",EGY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.20129434779494,age65_share
+El Salvador,SLV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,7.62636268560709,age65_share
+El Salvador,SLV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,7.49958097577779,age65_share
+El Salvador,SLV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.37013810257883,age65_share
+El Salvador,SLV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.2450899275166,age65_share
+El Salvador,SLV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.13082257779818,age65_share
+Equatorial Guinea,GNQ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.44128197191076,age65_share
+Equatorial Guinea,GNQ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.39134829889719,age65_share
+Equatorial Guinea,GNQ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.34265555680364,age65_share
+Equatorial Guinea,GNQ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.29999084993496,age65_share
+Equatorial Guinea,GNQ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.26853622922259,age65_share
+Eritrea,ERI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.06758052141323,age65_share
+Eritrea,ERI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.03411092062809,age65_share
+Eritrea,ERI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.00094021388755,age65_share
+Eritrea,ERI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.9638070623145,age65_share
+Eritrea,ERI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.93267399677867,age65_share
+Estonia,EST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,19.8965346883511,age65_share
+Estonia,EST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,19.6754905294355,age65_share
+Estonia,EST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,19.4674154002753,age65_share
+Estonia,EST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,19.186016024635,age65_share
+Estonia,EST,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.88875196261,age65_share
+Eswatini,SWZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.79565953652678,age65_share
+Eswatini,SWZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.68640709298551,age65_share
+Eswatini,SWZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.57586743850018,age65_share
+Eswatini,SWZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.47505344680222,age65_share
+Eswatini,SWZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.39635767022149,age65_share
+Ethiopia,ETH,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.03819036170098,age65_share
+Ethiopia,ETH,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.00590065682161,age65_share
+Ethiopia,ETH,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.97727297368099,age65_share
+Ethiopia,ETH,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.95342136795797,age65_share
+Ethiopia,ETH,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.93507038070835,age65_share
+Faroe Islands,FRO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,17.4879199097248,age65_share
+Faroe Islands,FRO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,17.3942861621664,age65_share
+Faroe Islands,FRO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,17.3078836852895,age65_share
+Faroe Islands,FRO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,17.1386743399465,age65_share
+Faroe Islands,FRO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,16.8959064088273,age65_share
+Fiji,FJI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.8208579193671,age65_share
+Fiji,FJI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.64436642752786,age65_share
+Fiji,FJI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.47733708041885,age65_share
+Fiji,FJI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.32890685686807,age65_share
+Fiji,FJI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.20837642530085,age65_share
+Finland,FIN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,22.061393842071,age65_share
+Finland,FIN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,21.6154814502107,age65_share
+Finland,FIN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,21.1457473282604,age65_share
+Finland,FIN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,20.6838033296157,age65_share
+Finland,FIN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,20.2090618722589,age65_share
+France,FRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,20.4100888765873,age65_share
+France,FRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,20.0394210628073,age65_share
+France,FRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,19.6708486830069,age65_share
+France,FRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,19.2846641669454,age65_share
+France,FRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.8516269618174,age65_share
+French Polynesia,PYF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.77511123216388,age65_share
+French Polynesia,PYF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.30422188906619,age65_share
+French Polynesia,PYF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.87488865047048,age65_share
+French Polynesia,PYF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.55684107780892,age65_share
+French Polynesia,PYF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.31521668718015,age65_share
+Gabon,GAB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.99260397789748,age65_share
+Gabon,GAB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.99083766231565,age65_share
+Gabon,GAB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.99443645973388,age65_share
+Gabon,GAB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.00291671784968,age65_share
+Gabon,GAB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.01687514805931,age65_share
+"Gambia, The",GMB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.71508895151666,age65_share
+"Gambia, The",GMB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.6705969915387,age65_share
+"Gambia, The",GMB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.63862139221045,age65_share
+"Gambia, The",GMB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.61985721413654,age65_share
+"Gambia, The",GMB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.6148231827951,age65_share
+Georgia,GEO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,14.7044720808539,age65_share
+Georgia,GEO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,14.5183098161021,age65_share
+Georgia,GEO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,14.374380908966,age65_share
+Georgia,GEO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,14.2606638033131,age65_share
+Georgia,GEO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,14.1419424262625,age65_share
+Germany,DEU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,21.6283933065816,age65_share
+Germany,DEU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,21.4497613850113,age65_share
+Germany,DEU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,21.2936405100178,age65_share
+Germany,DEU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,21.134996177657,age65_share
+Germany,DEU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,21.0533536816501,age65_share
+Ghana,GHA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.43641156155462,age65_share
+Ghana,GHA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.40728721613155,age65_share
+Ghana,GHA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.38515734651757,age65_share
+Ghana,GHA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.36936577242403,age65_share
+Ghana,GHA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.35879820466689,age65_share
+Gibraltar,GIB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,17.46069758269,age65_share
+Gibraltar,GIB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,17.5130544557296,age65_share
+Gibraltar,GIB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,17.5488034574895,age65_share
+Gibraltar,GIB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,17.523062525068,age65_share
+Gibraltar,GIB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,17.3292159373352,age65_share
+Greece,GRC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,22.1273853041386,age65_share
+Greece,GRC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,21.8966337548395,age65_share
+Greece,GRC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,21.6563374262051,age65_share
+Greece,GRC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,21.3988876993596,age65_share
+Greece,GRC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,21.0794802004731,age65_share
+Greenland,GRL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.58444476142928,age65_share
+Greenland,GRL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.3854227041294,age65_share
+Greenland,GRL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,8.18337464999732,age65_share
+Greenland,GRL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.95294411444676,age65_share
+Greenland,GRL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.71674907623927,age65_share
+Grenada,GRD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.7581812616667,age65_share
+Grenada,GRD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,10.5474928905446,age65_share
+Grenada,GRD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,10.363571787453,age65_share
+Grenada,GRD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,10.203682793364,age65_share
+Grenada,GRD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,10.0670584952388,age65_share
+Guam,GUM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.3310713932562,age65_share
+Guam,GUM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,9.87647490925409,age65_share
+Guam,GUM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.42748791975044,age65_share
+Guam,GUM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,8.98476863733648,age65_share
+Guam,GUM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.54676494577164,age65_share
+Guatemala,GTM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.46874605807685,age65_share
+Guatemala,GTM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.37433087464238,age65_share
+Guatemala,GTM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.28938967150886,age65_share
+Guatemala,GTM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.21599740853021,age65_share
+Guatemala,GTM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.15188561448804,age65_share
+Guinea,GIN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.45692449778455,age65_share
+Guinea,GIN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.46579167799443,age65_share
+Guinea,GIN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.47770352792694,age65_share
+Guinea,GIN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.4919982804648,age65_share
+Guinea,GIN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.50836699365263,age65_share
+Guinea-Bissau,GNB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.98298111090331,age65_share
+Guinea-Bissau,GNB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.93416156500409,age65_share
+Guinea-Bissau,GNB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.88896826785767,age65_share
+Guinea-Bissau,GNB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.84981086509669,age65_share
+Guinea-Bissau,GNB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.81952009466785,age65_share
+Guyana,GUY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.79881510279633,age65_share
+Guyana,GUY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.68355598565104,age65_share
+Guyana,GUY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.62383983416582,age65_share
+Guyana,GUY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.46390010844112,age65_share
+Guyana,GUY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.31233649761921,age65_share
+Haiti,HTI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.37038159637999,age65_share
+Haiti,HTI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.29881788711147,age65_share
+Haiti,HTI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.2310954750866,age65_share
+Haiti,HTI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.16856386152331,age65_share
+Haiti,HTI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.11116669706763,age65_share
+Honduras,HND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.88983564207188,age65_share
+Honduras,HND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.76996993561992,age65_share
+Honduras,HND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.6514707524241,age65_share
+Honduras,HND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.53528544321415,age65_share
+Honduras,HND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.4226865952786,age65_share
+"Hong Kong SAR, China",HKG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,17.9525256642131,age65_share
+"Hong Kong SAR, China",HKG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,17.1963488832139,age65_share
+"Hong Kong SAR, China",HKG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,16.5707384721456,age65_share
+"Hong Kong SAR, China",HKG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,15.9950861294117,age65_share
+"Hong Kong SAR, China",HKG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,15.3825958222931,age65_share
+Hungary,HUN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,19.6029229874294,age65_share
+Hungary,HUN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,19.1292329288769,age65_share
+Hungary,HUN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,18.7797493757284,age65_share
+Hungary,HUN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.4382661409188,age65_share
+Hungary,HUN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.0559904650891,age65_share
+Iceland,ISL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,14.299299000969,age65_share
+Iceland,ISL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,14.1209962193995,age65_share
+Iceland,ISL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,14.0228770869629,age65_share
+Iceland,ISL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,13.9213912898367,age65_share
+Iceland,ISL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,13.679345765165,age65_share
+India,IND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.22347304109804,age65_share
+India,IND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.01925951437221,age65_share
+India,IND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.8247052897296,age65_share
+India,IND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.64173085340436,age65_share
+India,IND,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.46921307827757,age65_share
+Indonesia,IDN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.48567879421327,age65_share
+Indonesia,IDN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.3509593367423,age65_share
+Indonesia,IDN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,6.2384335097991,age65_share
+Indonesia,IDN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,6.14856356267664,age65_share
+Indonesia,IDN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.08184727833196,age65_share
+"Iran, Islamic Rep.",IRN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,7.01598841078797,age65_share
+"Iran, Islamic Rep.",IRN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.75643435185291,age65_share
+"Iran, Islamic Rep.",IRN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,6.50077915475875,age65_share
+"Iran, Islamic Rep.",IRN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,6.25108188270571,age65_share
+"Iran, Islamic Rep.",IRN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.00659988151446,age65_share
+Iraq,IRQ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.31720320491488,age65_share
+Iraq,IRQ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.23303566296358,age65_share
+Iraq,IRQ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.15072288734421,age65_share
+Iraq,IRQ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.08574346197846,age65_share
+Iraq,IRQ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.04510842357688,age65_share
+Ireland,IRL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,14.2437778846663,age65_share
+Ireland,IRL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,13.9535917035732,age65_share
+Ireland,IRL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,13.6720454120936,age65_share
+Ireland,IRL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,13.3920921055483,age65_share
+Ireland,IRL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,13.1102542122923,age65_share
+Isle of Man,IMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,21.5915384752818,age65_share
+Isle of Man,IMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,21.3190065091193,age65_share
+Isle of Man,IMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,21.0132880431532,age65_share
+Isle of Man,IMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,20.6706922579254,age65_share
+Isle of Man,IMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,20.24391994545,age65_share
+Israel,ISR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,11.8854991652299,age65_share
+Israel,ISR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,11.7012951661424,age65_share
+Israel,ISR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,11.4924645678713,age65_share
+Israel,ISR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,11.2613992767727,age65_share
+Israel,ISR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,11.0178266647386,age65_share
+Italy,ITA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,23.104171093177,age65_share
+Italy,ITA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,22.8062143288843,age65_share
+Italy,ITA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,22.558669089969,age65_share
+Italy,ITA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,22.3095886391617,age65_share
+Italy,ITA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,22.0285256126439,age65_share
+Jamaica,JAM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.94823486657852,age65_share
+Jamaica,JAM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.7806520873835,age65_share
+Jamaica,JAM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,6.6403659256184,age65_share
+Jamaica,JAM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,6.51509031411982,age65_share
+Jamaica,JAM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.40393658025201,age65_share
+Japan,JPN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,28.6287707536412,age65_share
+Japan,JPN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,28.3452163347643,age65_share
+Japan,JPN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,27.9778213758677,age65_share
+Japan,JPN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,27.5120281384821,age65_share
+Japan,JPN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,26.9230034152781,age65_share
+Jordan,JOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.77701553656163,age65_share
+Jordan,JOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.64857422445874,age65_share
+Jordan,JOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.52500521290032,age65_share
+Jordan,JOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.41284721082323,age65_share
+Jordan,JOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.31858033894938,age65_share
+Kazakhstan,KAZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,7.48037890518547,age65_share
+Kazakhstan,KAZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,7.30176395882548,age65_share
+Kazakhstan,KAZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.12369405612749,age65_share
+Kazakhstan,KAZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,6.93973967358632,age65_share
+Kazakhstan,KAZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.76146357623621,age65_share
+Kenya,KEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.74689322576961,age65_share
+Kenya,KEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.64365458615595,age65_share
+Kenya,KEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.54036944015272,age65_share
+Kenya,KEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.49676010564838,age65_share
+Kenya,KEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.44316524157074,age65_share
+Kiribati,KIR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.89281837952558,age65_share
+Kiribati,KIR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.84531898249968,age65_share
+Kiribati,KIR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.79299020158055,age65_share
+Kiribati,KIR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.73866878238998,age65_share
+Kiribati,KIR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.68403030432735,age65_share
+"Korea, Dem. People's Rep.",PRK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.9247931815613,age65_share
+"Korea, Dem. People's Rep.",PRK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,10.8409375250363,age65_share
+"Korea, Dem. People's Rep.",PRK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,10.87340884649,age65_share
+"Korea, Dem. People's Rep.",PRK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,10.986594788575,age65_share
+"Korea, Dem. People's Rep.",PRK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,10.9463487303204,age65_share
+"Korea, Rep.",KOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,15.0634884441589,age65_share
+"Korea, Rep.",KOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,14.4543760222277,age65_share
+"Korea, Rep.",KOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,13.8737462057967,age65_share
+"Korea, Rep.",KOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,13.3631038531662,age65_share
+"Korea, Rep.",KOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,12.954685714924,age65_share
+Kosovo,XKX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.53982411816925,age65_share
+Kosovo,XKX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.23044778618587,age65_share
+Kosovo,XKX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.99174150608641,age65_share
+Kosovo,XKX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.79406543500305,age65_share
+Kosovo,XKX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.53752065744061,age65_share
+Kuwait,KWT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.60361384527711,age65_share
+Kuwait,KWT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.24320917336232,age65_share
+Kuwait,KWT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.91711681115618,age65_share
+Kuwait,KWT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.63844318552757,age65_share
+Kuwait,KWT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.40886968522768,age65_share
+Kyrgyz Republic,KGZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.17384800051124,age65_share
+Kyrgyz Republic,KGZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.1512820157017,age65_share
+Kyrgyz Republic,KGZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.11917760176021,age65_share
+Kyrgyz Republic,KGZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.07955235536804,age65_share
+Kyrgyz Republic,KGZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.96654216127541,age65_share
+Lao PDR,LAO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.17749001037701,age65_share
+Lao PDR,LAO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.1282707951479,age65_share
+Lao PDR,LAO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.10222242423819,age65_share
+Lao PDR,LAO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.10183240872785,age65_share
+Lao PDR,LAO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.13108857261085,age65_share
+Latvia,LVA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,20.4072272200842,age65_share
+Latvia,LVA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,20.1981958800325,age65_share
+Latvia,LVA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,20.0107948444194,age65_share
+Latvia,LVA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,19.7753873612594,age65_share
+Latvia,LVA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,19.5243158412573,age65_share
+Lebanon,LBN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.77970915650001,age65_share
+Lebanon,LBN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.33008097515432,age65_share
+Lebanon,LBN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.8471502540207,age65_share
+Lebanon,LBN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.32786873190107,age65_share
+Lebanon,LBN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.78958060672056,age65_share
+Lesotho,LSO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.77981769304005,age65_share
+Lesotho,LSO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.78136501919076,age65_share
+Lesotho,LSO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.80087158261016,age65_share
+Lesotho,LSO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.8399903868811,age65_share
+Lesotho,LSO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.89919944844927,age65_share
+Liberia,LBR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.21013029964686,age65_share
+Liberia,LBR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.19698199657575,age65_share
+Liberia,LBR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.18765532439204,age65_share
+Liberia,LBR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.18277915252897,age65_share
+Liberia,LBR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.18482020658746,age65_share
+Libya,LBY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.62502513115857,age65_share
+Libya,LBY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.60938805494977,age65_share
+Libya,LBY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.58721729538308,age65_share
+Libya,LBY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.54150030785756,age65_share
+Libya,LBY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.47813966690292,age65_share
+Liechtenstein,LIE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,18.2791363163372,age65_share
+Liechtenstein,LIE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,17.855409995148,age65_share
+Liechtenstein,LIE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,17.3749356019075,age65_share
+Liechtenstein,LIE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,16.864282865878,age65_share
+Liechtenstein,LIE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,16.370320855615,age65_share
+Lithuania,LTU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,19.8571907989029,age65_share
+Lithuania,LTU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,19.7309309832227,age65_share
+Lithuania,LTU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,19.504402571296,age65_share
+Lithuania,LTU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,19.1757756195781,age65_share
+Lithuania,LTU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.8803013596424,age65_share
+Luxembourg,LUX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,14.4700667405182,age65_share
+Luxembourg,LUX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,14.3776280584969,age65_share
+Luxembourg,LUX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,14.3068137144371,age65_share
+Luxembourg,LUX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,14.2424413802086,age65_share
+Luxembourg,LUX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,14.1954152151927,age65_share
+"Macao SAR, China",MAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.6213504547121,age65_share
+"Macao SAR, China",MAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,10.0197033267959,age65_share
+"Macao SAR, China",MAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.4998178807819,age65_share
+"Macao SAR, China",MAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,9.03601779251992,age65_share
+"Macao SAR, China",MAC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.61030346572289,age65_share
+Madagascar,MDG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.09198189312276,age65_share
+Madagascar,MDG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.01848784753958,age65_share
+Madagascar,MDG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.94338687851329,age65_share
+Madagascar,MDG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.86662404589863,age65_share
+Madagascar,MDG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.78825380522701,age65_share
+Malawi,MWI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.76517585218182,age65_share
+Malawi,MWI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.82687397577763,age65_share
+Malawi,MWI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.89717991664502,age65_share
+Malawi,MWI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.97776097480433,age65_share
+Malawi,MWI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.06993549592414,age65_share
+Malaysia,MYS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.48232176367792,age65_share
+Malaysia,MYS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.26670890587931,age65_share
+Malaysia,MYS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,6.06511485190783,age65_share
+Malaysia,MYS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.87993391755952,age65_share
+Malaysia,MYS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.70847520142888,age65_share
+Maldives,MDV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.83285048520598,age65_share
+Maldives,MDV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.83165450746515,age65_share
+Maldives,MDV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.86766371291352,age65_share
+Maldives,MDV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.93214198706091,age65_share
+Maldives,MDV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.01479374243847,age65_share
+Mali,MLI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.52301022604725,age65_share
+Mali,MLI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.54869997130177,age65_share
+Mali,MLI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.57634749650993,age65_share
+Mali,MLI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.60453577129353,age65_share
+Mali,MLI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.63327015909517,age65_share
+Malta,MLT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,18.5815714000859,age65_share
+Malta,MLT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,18.7496839900321,age65_share
+Malta,MLT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,18.8131074315696,age65_share
+Malta,MLT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.6555640731084,age65_share
+Malta,MLT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.3273199612118,age65_share
+Marshall Islands,MHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.57333575721768,age65_share
+Marshall Islands,MHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.39185160649222,age65_share
+Marshall Islands,MHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.19478174901674,age65_share
+Marshall Islands,MHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.00362615020227,age65_share
+Marshall Islands,MHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.80017622770259,age65_share
+Mauritania,MRT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.29913011324822,age65_share
+Mauritania,MRT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.33540817279263,age65_share
+Mauritania,MRT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.38544428174658,age65_share
+Mauritania,MRT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.45096290818668,age65_share
+Mauritania,MRT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.53342073549181,age65_share
+Mauritius,MUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.8947577102786,age65_share
+Mauritius,MUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,10.3966493732511,age65_share
+Mauritius,MUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.89137298503473,age65_share
+Mauritius,MUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,9.38091590555375,age65_share
+Mauritius,MUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.87991763366248,age65_share
+Mexico,MEX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,7.33464157467799,age65_share
+Mexico,MEX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,7.14422403295026,age65_share
+Mexico,MEX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,6.96592017390268,age65_share
+Mexico,MEX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,6.8015894842814,age65_share
+Mexico,MEX,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.65084837815842,age65_share
+"Micronesia, Fed. Sts.",FSM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.77276436771186,age65_share
+"Micronesia, Fed. Sts.",FSM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.52281194983145,age65_share
+"Micronesia, Fed. Sts.",FSM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.30620698474171,age65_share
+"Micronesia, Fed. Sts.",FSM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.11186849355257,age65_share
+"Micronesia, Fed. Sts.",FSM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.91480515657841,age65_share
+Moldova,MDA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,13.8014600191097,age65_share
+Moldova,MDA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,13.3074098865074,age65_share
+Moldova,MDA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,12.8296483714172,age65_share
+Moldova,MDA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,12.2990838824212,age65_share
+Moldova,MDA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,11.7091797505114,age65_share
+Monaco,MCO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,36.2853919021753,age65_share
+Monaco,MCO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,36.2342580822708,age65_share
+Monaco,MCO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,35.5777907532247,age65_share
+Monaco,MCO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,35.009121150338,age65_share
+Monaco,MCO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,34.1159507032674,age65_share
+Mongolia,MNG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.17415725035646,age65_share
+Mongolia,MNG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.04957088820743,age65_share
+Mongolia,MNG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.95398220054092,age65_share
+Mongolia,MNG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.8851300244803,age65_share
+Mongolia,MNG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.83803196041828,age65_share
+Montenegro,MNE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,16.2013123164339,age65_share
+Montenegro,MNE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,15.7080684318645,age65_share
+Montenegro,MNE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,15.2378556506188,age65_share
+Montenegro,MNE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,14.8258265738724,age65_share
+Montenegro,MNE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,14.420476163943,age65_share
+Morocco,MAR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.72020202315888,age65_share
+Morocco,MAR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.45847935365639,age65_share
+Morocco,MAR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,6.21542948574287,age65_share
+Morocco,MAR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.99554455752977,age65_share
+Morocco,MAR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.80213787505015,age65_share
+Mozambique,MOZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.80919999009516,age65_share
+Mozambique,MOZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.79398474315366,age65_share
+Mozambique,MOZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.776631662126,age65_share
+Mozambique,MOZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.75909067106942,age65_share
+Mozambique,MOZ,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.74244471881563,age65_share
+Myanmar,MMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.31825313612298,age65_share
+Myanmar,MMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.1297183774185,age65_share
+Myanmar,MMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.95130203257975,age65_share
+Myanmar,MMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.78481355024311,age65_share
+Myanmar,MMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.62985745547791,age65_share
+Namibia,NAM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.57099401639958,age65_share
+Namibia,NAM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.56049185076086,age65_share
+Namibia,NAM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.55212292064991,age65_share
+Namibia,NAM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.544524401928,age65_share
+Namibia,NAM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.53342112062947,age65_share
+Nauru,NRU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.04108052127384,age65_share
+Nauru,NRU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,1.92550642561533,age65_share
+Nauru,NRU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,1.78823737195337,age65_share
+Nauru,NRU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,1.66367713004484,age65_share
+Nauru,NRU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,1.49716998356765,age65_share
+Nepal,NPL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.04820039203474,age65_share
+Nepal,NPL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.94674321357334,age65_share
+Nepal,NPL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.78746945246086,age65_share
+Nepal,NPL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.6258290419239,age65_share
+Nepal,NPL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.482604371989,age65_share
+Netherlands,NLD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,19.0648534024819,age65_share
+Netherlands,NLD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,18.7510079268288,age65_share
+Netherlands,NLD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,18.4202330068604,age65_share
+Netherlands,NLD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.0943972670713,age65_share
+Netherlands,NLD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,17.7566909073968,age65_share
+New Caledonia,NCL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,9.99185489728708,age65_share
+New Caledonia,NCL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,9.68078690559743,age65_share
+New Caledonia,NCL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.38454430674388,age65_share
+New Caledonia,NCL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,9.09188739093157,age65_share
+New Caledonia,NCL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.79654480732286,age65_share
+New Zealand,NZL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,15.3016117661383,age65_share
+New Zealand,NZL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,15.0578869326057,age65_share
+New Zealand,NZL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,14.8685528434202,age65_share
+New Zealand,NZL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,14.7113008693955,age65_share
+New Zealand,NZL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,14.5553593182878,age65_share
+Nicaragua,NIC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.11546955676403,age65_share
+Nicaragua,NIC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.00772646591918,age65_share
+Nicaragua,NIC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.90176777086147,age65_share
+Nicaragua,NIC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.79981638674496,age65_share
+Nicaragua,NIC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.6954695054832,age65_share
+Niger,NER,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.5107464204291,age65_share
+Niger,NER,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.49142005101931,age65_share
+Niger,NER,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.47370634430218,age65_share
+Niger,NER,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.45772773034349,age65_share
+Niger,NER,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.44373504287821,age65_share
+Nigeria,NGA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.97488504235954,age65_share
+Nigeria,NGA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.96648528719345,age65_share
+Nigeria,NGA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.96343761248884,age65_share
+Nigeria,NGA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.96529179502844,age65_share
+Nigeria,NGA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.97028437512951,age65_share
+North Macedonia,MKD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,15.7588026396984,age65_share
+North Macedonia,MKD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,15.0850497869881,age65_share
+North Macedonia,MKD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,14.4580662828714,age65_share
+North Macedonia,MKD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,13.9040754168431,age65_share
+North Macedonia,MKD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,13.4042646662284,age65_share
+Northern Mariana Islands,MNP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.71277192545035,age65_share
+Northern Mariana Islands,MNP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.43227988670864,age65_share
+Northern Mariana Islands,MNP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.13326060630323,age65_share
+Northern Mariana Islands,MNP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.82736887715912,age65_share
+Northern Mariana Islands,MNP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.50949751036136,age65_share
+Norway,NOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,17.3948556308139,age65_share
+Norway,NOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,17.0853969570307,age65_share
+Norway,NOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,16.7812420495177,age65_share
+Norway,NOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,16.5172709689852,age65_share
+Norway,NOR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,16.2747739736493,age65_share
+Oman,OMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.61074293420886,age65_share
+Oman,OMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.5835616542633,age65_share
+Oman,OMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.5501848912697,age65_share
+Oman,OMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.55013946528911,age65_share
+Oman,OMN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.57491526071741,age65_share
+Pakistan,PAK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.98447495645256,age65_share
+Pakistan,PAK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.93281543027845,age65_share
+Pakistan,PAK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.88886536895529,age65_share
+Pakistan,PAK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.85041862791259,age65_share
+Pakistan,PAK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.82091940742152,age65_share
+Palau,PLW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,9.09371839532532,age65_share
+Palau,PLW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.6699037301075,age65_share
+Palau,PLW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,8.25286323826634,age65_share
+Palau,PLW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.84401865482947,age65_share
+Palau,PLW,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.5185008019359,age65_share
+Panama,PAN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.06954352497892,age65_share
+Panama,PAN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,7.82908880947431,age65_share
+Panama,PAN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.60642319638852,age65_share
+Panama,PAN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.39857533463231,age65_share
+Panama,PAN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.19795496731152,age65_share
+Papua New Guinea,PNG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.05067327435397,age65_share
+Papua New Guinea,PNG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.99107558895945,age65_share
+Papua New Guinea,PNG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.93653337493684,age65_share
+Papua New Guinea,PNG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.88799552094785,age65_share
+Papua New Guinea,PNG,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.84453851578693,age65_share
+Paraguay,PRY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.03178053058008,age65_share
+Paraguay,PRY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.90441846341313,age65_share
+Paraguay,PRY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.78578076551032,age65_share
+Paraguay,PRY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.67323334495096,age65_share
+Paraguay,PRY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.56309092411671,age65_share
+Peru,PER,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.60697377690978,age65_share
+Peru,PER,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.50395140434384,age65_share
+Peru,PER,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,8.4037750924899,age65_share
+Peru,PER,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,8.30477229297199,age65_share
+Peru,PER,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.19443422988023,age65_share
+Philippines,PHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.51942674426754,age65_share
+Philippines,PHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.31408910623004,age65_share
+Philippines,PHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.11815540339097,age65_share
+Philippines,PHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.93781110895032,age65_share
+Philippines,PHL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.77024234469686,age65_share
+Poland,POL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,17.5584217024462,age65_share
+Poland,POL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,17.0145616085721,age65_share
+Poland,POL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,16.4659360432975,age65_share
+Poland,POL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,15.9129115092505,age65_share
+Poland,POL,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,15.3775328347538,age65_share
+Portugal,PRT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,22.3900784021367,age65_share
+Portugal,PRT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,21.9323930135851,age65_share
+Portugal,PRT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,21.4882830483163,age65_share
+Portugal,PRT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,21.026998642616,age65_share
+Portugal,PRT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,20.5742532955034,age65_share
+Puerto Rico (US),PRI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,21.6954965103704,age65_share
+Puerto Rico (US),PRI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,20.929871358282,age65_share
+Puerto Rico (US),PRI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,19.9137956984448,age65_share
+Puerto Rico (US),PRI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.9020880996373,age65_share
+Puerto Rico (US),PRI,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.1467548731668,age65_share
+Qatar,QAT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,1.17212029932225,age65_share
+Qatar,QAT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,1.14427291316419,age65_share
+Qatar,QAT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,1.12252533934654,age65_share
+Qatar,QAT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,1.08622390331203,age65_share
+Qatar,QAT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,1.05084577481311,age65_share
+Romania,ROU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,18.604236526527,age65_share
+Romania,ROU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,18.2496778221635,age65_share
+Romania,ROU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,17.9121340991497,age65_share
+Romania,ROU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,17.5741928757273,age65_share
+Romania,ROU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,17.209625303825,age65_share
+Russian Federation,RUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,15.063299330246,age65_share
+Russian Federation,RUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,14.6302500942335,age65_share
+Russian Federation,RUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,14.2409291689874,age65_share
+Russian Federation,RUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,13.8715252574284,age65_share
+Russian Federation,RUS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,13.534464750748,age65_share
+Rwanda,RWA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.35702522122747,age65_share
+Rwanda,RWA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.24675392272707,age65_share
+Rwanda,RWA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.14278477802991,age65_share
+Rwanda,RWA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.04670211037116,age65_share
+Rwanda,RWA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.96109405978786,age65_share
+Samoa,WSM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.17090564139966,age65_share
+Samoa,WSM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.05631509475773,age65_share
+Samoa,WSM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.94609679453008,age65_share
+Samoa,WSM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.87889375377766,age65_share
+Samoa,WSM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.87332864180155,age65_share
+San Marino,SMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,19.6534210602257,age65_share
+San Marino,SMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,19.3159274222744,age65_share
+San Marino,SMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,18.9976147536215,age65_share
+San Marino,SMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.7418585249477,age65_share
+San Marino,SMR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.4876552314091,age65_share
+Sao Tome and Principe,STP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.82254255079853,age65_share
+Sao Tome and Principe,STP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.74380908429161,age65_share
+Sao Tome and Principe,STP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.67057140993523,age65_share
+Sao Tome and Principe,STP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.61066039565317,age65_share
+Sao Tome and Principe,STP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.57155338981782,age65_share
+Saudi Arabia,SAU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.45024814989585,age65_share
+Saudi Arabia,SAU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.38074635666274,age65_share
+Saudi Arabia,SAU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.28023790995907,age65_share
+Saudi Arabia,SAU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.21365075571716,age65_share
+Saudi Arabia,SAU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.22811303229385,age65_share
+Senegal,SEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.51051951175819,age65_share
+Senegal,SEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.49937511383095,age65_share
+Senegal,SEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.498380920997,age65_share
+Senegal,SEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.5068960130787,age65_share
+Senegal,SEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.52362334286885,age65_share
+Serbia,SRB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,21.0643608505556,age65_share
+Serbia,SRB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,20.4864046664261,age65_share
+Serbia,SRB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,19.9073825690271,age65_share
+Serbia,SRB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,19.3853692133533,age65_share
+Serbia,SRB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.883979706442,age65_share
+Seychelles,SYC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,7.36545956030786,age65_share
+Seychelles,SYC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,7.2279207232267,age65_share
+Seychelles,SYC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.1411099696246,age65_share
+Seychelles,SYC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.09153986942388,age65_share
+Seychelles,SYC,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.05775929198588,age65_share
+Sierra Leone,SLE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.13516272846153,age65_share
+Sierra Leone,SLE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.12991631680085,age65_share
+Sierra Leone,SLE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.13219453500935,age65_share
+Sierra Leone,SLE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.1406826212018,age65_share
+Sierra Leone,SLE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.15426090082563,age65_share
+Singapore,SGP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.9750531897302,age65_share
+Singapore,SGP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,10.4836486140996,age65_share
+Singapore,SGP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.96401995439571,age65_share
+Singapore,SGP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,9.44794121187799,age65_share
+Singapore,SGP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.99820725948152,age65_share
+Sint Maarten (Dutch part),SXM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.6426970743726,age65_share
+Sint Maarten (Dutch part),SXM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,9.83204069298952,age65_share
+Sint Maarten (Dutch part),SXM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.09312374187427,age65_share
+Sint Maarten (Dutch part),SXM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,8.35838845460012,age65_share
+Sint Maarten (Dutch part),SXM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.64447646878294,age65_share
+Slovak Republic,SVK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,16.259188968312,age65_share
+Slovak Republic,SVK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,15.7269155531126,age65_share
+Slovak Republic,SVK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,15.2000556322042,age65_share
+Slovak Republic,SVK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,14.6624290456748,age65_share
+Slovak Republic,SVK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,14.1487853575038,age65_share
+Slovenia,SVN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,19.8516683589804,age65_share
+Slovenia,SVN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,19.4617683036878,age65_share
+Slovenia,SVN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,19.0009988314642,age65_share
+Slovenia,SVN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.5120548294753,age65_share
+Slovenia,SVN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.0184247458794,age65_share
+Solomon Islands,SLB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.7418955238434,age65_share
+Solomon Islands,SLB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.71667787804558,age65_share
+Solomon Islands,SLB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.64059174108884,age65_share
+Solomon Islands,SLB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.57280618256782,age65_share
+Solomon Islands,SLB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.5178248868106,age65_share
+"Somalia, Fed. Rep.",SOM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.51777325278675,age65_share
+"Somalia, Fed. Rep.",SOM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.48885834651918,age65_share
+"Somalia, Fed. Rep.",SOM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.46189328494081,age65_share
+"Somalia, Fed. Rep.",SOM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.43113332599239,age65_share
+"Somalia, Fed. Rep.",SOM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.39233268053472,age65_share
+South Africa,ZAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.94522019077183,age65_share
+South Africa,ZAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.77660923535215,age65_share
+South Africa,ZAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.62805566504697,age65_share
+South Africa,ZAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.47353488678247,age65_share
+South Africa,ZAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.36961143105032,age65_share
+South Sudan,SSD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.62643590603589,age65_share
+South Sudan,SSD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.56144511639214,age65_share
+South Sudan,SSD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.52351716932591,age65_share
+South Sudan,SSD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.51922835075791,age65_share
+South Sudan,SSD,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.53487680441832,age65_share
+Spain,ESP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,19.3818276285973,age65_share
+Spain,ESP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,19.2023408408683,age65_share
+Spain,ESP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,18.9928200430073,age65_share
+Spain,ESP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.7673388766097,age65_share
+Spain,ESP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.5417546078088,age65_share
+Sri Lanka,LKA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.3754608627101,age65_share
+Sri Lanka,LKA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,10.0359733858419,age65_share
+Sri Lanka,LKA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.69368587386127,age65_share
+Sri Lanka,LKA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,9.34550801437968,age65_share
+Sri Lanka,LKA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.99054561576392,age65_share
+St. Kitts and Nevis,KNA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.95605039242623,age65_share
+St. Kitts and Nevis,KNA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.52824489188126,age65_share
+St. Kitts and Nevis,KNA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,8.15187936366245,age65_share
+St. Kitts and Nevis,KNA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.84607377667314,age65_share
+St. Kitts and Nevis,KNA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.62091850278736,age65_share
+St. Lucia,LCA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.52717105281673,age65_share
+St. Lucia,LCA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.36586316568465,age65_share
+St. Lucia,LCA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,8.22379240339794,age65_share
+St. Lucia,LCA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,8.10009906288786,age65_share
+St. Lucia,LCA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.98807349153395,age65_share
+St. Martin (French part),MAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,16.2097091911926,age65_share
+St. Martin (French part),MAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,10.2785182716872,age65_share
+St. Martin (French part),MAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,8.11129962673906,age65_share
+St. Martin (French part),MAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.55077336919973,age65_share
+St. Martin (French part),MAF,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.0339051085124,age65_share
+St. Vincent and the Grenadines,VCT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,10.5407662695479,age65_share
+St. Vincent and the Grenadines,VCT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,10.2353086937461,age65_share
+St. Vincent and the Grenadines,VCT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.97085072352669,age65_share
+St. Vincent and the Grenadines,VCT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,9.73826617206637,age65_share
+St. Vincent and the Grenadines,VCT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,9.52645848915482,age65_share
+Sudan,SDN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.9179533217527,age65_share
+Sudan,SDN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.84336548392882,age65_share
+Sudan,SDN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.77804346419624,age65_share
+Sudan,SDN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.72096931324978,age65_share
+Sudan,SDN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.67303734220435,age65_share
+Suriname,SUR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.77123915426368,age65_share
+Suriname,SUR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.58676841600467,age65_share
+Suriname,SUR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,6.40865199178728,age65_share
+Suriname,SUR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,6.2495214859202,age65_share
+Suriname,SUR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.12626305174966,age65_share
+Sweden,SWE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,19.9506621429353,age65_share
+Sweden,SWE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,19.8625371600706,age65_share
+Sweden,SWE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,19.8018336203973,age65_share
+Sweden,SWE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,19.773834861054,age65_share
+Sweden,SWE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,19.6982615865952,age65_share
+Switzerland,CHE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,18.582145616847,age65_share
+Switzerland,CHE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,18.3875840156537,age65_share
+Switzerland,CHE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,18.2004755827912,age65_share
+Switzerland,CHE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.0385893516831,age65_share
+Switzerland,CHE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,17.8893566752222,age65_share
+Syrian Arab Republic,SYR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.4946862790511,age65_share
+Syrian Arab Republic,SYR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,4.46661775083008,age65_share
+Syrian Arab Republic,SYR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.39669751384003,age65_share
+Syrian Arab Republic,SYR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.29243069134678,age65_share
+Syrian Arab Republic,SYR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.16985034145845,age65_share
+Tajikistan,TJK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.18626005591206,age65_share
+Tajikistan,TJK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.10246232728538,age65_share
+Tajikistan,TJK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.03561676461647,age65_share
+Tajikistan,TJK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.98491444094617,age65_share
+Tajikistan,TJK,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.95521434917814,age65_share
+Tanzania,TZA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.00234097600619,age65_share
+Tanzania,TZA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.982650016663,age65_share
+Tanzania,TZA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.96645421288993,age65_share
+Tanzania,TZA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.95556650523252,age65_share
+Tanzania,TZA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.94766271335005,age65_share
+Thailand,THA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,12.3287535151114,age65_share
+Thailand,THA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,11.7833301811334,age65_share
+Thailand,THA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,11.2659962515276,age65_share
+Thailand,THA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,10.7814783921017,age65_share
+Thailand,THA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,10.3239727428364,age65_share
+Timor-Leste,TLS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.56015264294518,age65_share
+Timor-Leste,TLS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.54947298463352,age65_share
+Timor-Leste,TLS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.49459416490973,age65_share
+Timor-Leste,TLS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.38991941376434,age65_share
+Timor-Leste,TLS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.26079519123017,age65_share
+Togo,TGO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.99903061159381,age65_share
+Togo,TGO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.95794971120425,age65_share
+Togo,TGO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.91843029402681,age65_share
+Togo,TGO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.88098337946085,age65_share
+Togo,TGO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.84488370419364,age65_share
+Tonga,TON,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,6.23547949029758,age65_share
+Tonga,TON,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.14636271923385,age65_share
+Tonga,TON,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,6.06850140714059,age65_share
+Tonga,TON,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,6.02896023653387,age65_share
+Tonga,TON,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.0082944530845,age65_share
+Trinidad and Tobago,TTO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,9.84595533418547,age65_share
+Trinidad and Tobago,TTO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,9.34493513682419,age65_share
+Trinidad and Tobago,TTO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,8.93160783125257,age65_share
+Trinidad and Tobago,TTO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,8.46355598298152,age65_share
+Trinidad and Tobago,TTO,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.0072712591796,age65_share
+Tunisia,TUN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,7.94574369640089,age65_share
+Tunisia,TUN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,7.62598609691059,age65_share
+Tunisia,TUN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.37113523511462,age65_share
+Tunisia,TUN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.16166955374354,age65_share
+Tunisia,TUN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.96910280274163,age65_share
+Turkiye,TUR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,8.52263227141434,age65_share
+Turkiye,TUR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,8.17189463389264,age65_share
+Turkiye,TUR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.94642994912766,age65_share
+Turkiye,TUR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,7.75965087531105,age65_share
+Turkiye,TUR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,7.61843212730696,age65_share
+Turkmenistan,TKM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.72875616489817,age65_share
+Turkmenistan,TKM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.67195730944701,age65_share
+Turkmenistan,TKM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.62729809971045,age65_share
+Turkmenistan,TKM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.59089666245862,age65_share
+Turkmenistan,TKM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.56561616662135,age65_share
+Turks and Caicos Islands,TCA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,9.8145509724201,age65_share
+Turks and Caicos Islands,TCA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,9.47218980473309,age65_share
+Turks and Caicos Islands,TCA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,9.08362041966802,age65_share
+Turks and Caicos Islands,TCA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,8.67806342163644,age65_share
+Turks and Caicos Islands,TCA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,8.25160497199836,age65_share
+Tuvalu,TUV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.61856157263019,age65_share
+Tuvalu,TUV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.49276777824287,age65_share
+Tuvalu,TUV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,5.40988131382832,age65_share
+Tuvalu,TUV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,5.4028089116611,age65_share
+Tuvalu,TUV,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,5.41822493842926,age65_share
+Uganda,UGA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.0364020510638,age65_share
+Uganda,UGA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.00923927155456,age65_share
+Uganda,UGA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,1.98361700367381,age65_share
+Uganda,UGA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,1.95859435278379,age65_share
+Uganda,UGA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,1.93508400842168,age65_share
+Ukraine,UKR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,16.7162998851047,age65_share
+Ukraine,UKR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,16.3479433378029,age65_share
+Ukraine,UKR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,15.9568665329263,age65_share
+Ukraine,UKR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,15.5292217574425,age65_share
+Ukraine,UKR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,15.1544965833274,age65_share
+United Arab Emirates,ARE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,1.52798923207058,age65_share
+United Arab Emirates,ARE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,1.50109608885113,age65_share
+United Arab Emirates,ARE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,1.47888416773632,age65_share
+United Arab Emirates,ARE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,1.48522186061082,age65_share
+United Arab Emirates,ARE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,1.50462849552252,age65_share
+United Kingdom,GBR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,18.457958087858,age65_share
+United Kingdom,GBR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,18.2557500676941,age65_share
+United Kingdom,GBR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,18.0734136212163,age65_share
+United Kingdom,GBR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,17.9162025708266,age65_share
+United Kingdom,GBR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,17.7699801979471,age65_share
+United States,USA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,15.6728852475003,age65_share
+United States,USA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,15.2914866245804,age65_share
+United States,USA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,14.9391233929999,age65_share
+United States,USA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,14.6147285118987,age65_share
+United States,USA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,14.3102247136795,age65_share
+Uruguay,URY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,15.1266239266362,age65_share
+Uruguay,URY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,14.9558820150277,age65_share
+Uruguay,URY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,14.8089200405792,age65_share
+Uruguay,URY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,14.6975112768004,age65_share
+Uruguay,URY,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,14.6098431213382,age65_share
+Uzbekistan,UZB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,5.19811024525901,age65_share
+Uzbekistan,UZB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,5.06720768957552,age65_share
+Uzbekistan,UZB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,4.94336473656492,age65_share
+Uzbekistan,UZB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,4.83118545859416,age65_share
+Uzbekistan,UZB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,4.72878830124081,age65_share
+Vanuatu,VUT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,4.00620580886999,age65_share
+Vanuatu,VUT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.93748126699117,age65_share
+Vanuatu,VUT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.88715543954012,age65_share
+Vanuatu,VUT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.82507033608797,age65_share
+Vanuatu,VUT,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.73749065204565,age65_share
+"Venezuela, RB",VEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,7.84708794613938,age65_share
+"Venezuela, RB",VEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,7.39106835600809,age65_share
+"Venezuela, RB",VEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,7.00354275654894,age65_share
+"Venezuela, RB",VEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,6.7356443025607,age65_share
+"Venezuela, RB",VEN,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.53595483112237,age65_share
+Viet Nam,VNM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,7.25022977006795,age65_share
+Viet Nam,VNM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,6.98161953689909,age65_share
+Viet Nam,VNM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,6.76773963938779,age65_share
+Viet Nam,VNM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,6.60876308594788,age65_share
+Viet Nam,VNM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,6.45078979885794,age65_share
+Virgin Islands (U.S.),VIR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,20.6081288987105,age65_share
+Virgin Islands (U.S.),VIR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,19.7212396331587,age65_share
+Virgin Islands (U.S.),VIR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,18.8766525613058,age65_share
+Virgin Islands (U.S.),VIR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.0642621207318,age65_share
+Virgin Islands (U.S.),VIR,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,17.2707548816679,age65_share
+West Bank and Gaza,PSE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.50508535292495,age65_share
+West Bank and Gaza,PSE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.4276431178253,age65_share
+West Bank and Gaza,PSE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.35569557065348,age65_share
+West Bank and Gaza,PSE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.28405075269727,age65_share
+West Bank and Gaza,PSE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.21502621326908,age65_share
+"Yemen, Rep.",YEM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,2.57211420533341,age65_share
+"Yemen, Rep.",YEM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,2.59535360556385,age65_share
+"Yemen, Rep.",YEM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,2.62395533469807,age65_share
+"Yemen, Rep.",YEM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,2.65747059781663,age65_share
+"Yemen, Rep.",YEM,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,2.69658134072569,age65_share
+Zambia,ZMB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,1.78700911823288,age65_share
+Zambia,ZMB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,1.76725056665151,age65_share
+Zambia,ZMB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,1.75286336564157,age65_share
+Zambia,ZMB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,1.74344108575267,age65_share
+Zambia,ZMB,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,1.73777036449312,age65_share
+Zimbabwe,ZWE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,3.53424144890757,age65_share
+Zimbabwe,ZWE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,3.46510135520736,age65_share
+Zimbabwe,ZWE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,3.38745728096075,age65_share
+Zimbabwe,ZWE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,3.30577932197804,age65_share
+Zimbabwe,ZWE,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,3.22149163973947,age65_share

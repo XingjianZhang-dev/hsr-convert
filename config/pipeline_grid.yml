@@ -1,0 +1,13 @@
+baseline:
+  imputation: knn
+  normalization: robust_minmax
+  weighting: critic
+  ranking_methods: [marcos, topsis]
+
+ensemble:
+  imputation_methods: [median, knn, iterative]
+  normalization_methods: [minmax, robust_minmax, vector, zscore_minmax]
+  weighting_methods: [equal, entropy, critic, std, merec]
+  ranking_methods: [topsis, vikor, marcos, edas, codas, waspas, mabac]
+  primary_sample_missingness_threshold: 0.35
+  random_seed: 20260624

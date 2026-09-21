@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,variable
+Africa Eastern and Southern,AFE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,32.2445544986626,basic_sanitation_access
+Africa Eastern and Southern,AFE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,31.6082193350839,basic_sanitation_access
+Africa Eastern and Southern,AFE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,30.9334876885869,basic_sanitation_access
+Africa Eastern and Southern,AFE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,30.2072987113232,basic_sanitation_access
+Africa Eastern and Southern,AFE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,29.5806299792428,basic_sanitation_access
+Africa Western and Central,AFW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,36.1241075478964,basic_sanitation_access
+Africa Western and Central,AFW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,35.2016115683715,basic_sanitation_access
+Africa Western and Central,AFW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,34.4079009359693,basic_sanitation_access
+Africa Western and Central,AFW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,33.5093514125676,basic_sanitation_access
+Africa Western and Central,AFW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,32.6250683396274,basic_sanitation_access
+Arab World,ARB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,84.3862512082364,basic_sanitation_access
+Arab World,ARB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,83.8543247646562,basic_sanitation_access
+Arab World,ARB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,83.3065429485668,basic_sanitation_access
+Arab World,ARB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,82.7181898708854,basic_sanitation_access
+Arab World,ARB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,82.0647165627336,basic_sanitation_access
+Caribbean small states,CSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,91.4114217974076,basic_sanitation_access
+Caribbean small states,CSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,91.1326725570487,basic_sanitation_access
+Caribbean small states,CSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,90.7771375893304,basic_sanitation_access
+Caribbean small states,CSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,90.5388872391483,basic_sanitation_access
+Caribbean small states,CSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,90.3002158621818,basic_sanitation_access
+Central Europe and the Baltics,CEB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,95.2616627039685,basic_sanitation_access
+Central Europe and the Baltics,CEB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,95.0505448396847,basic_sanitation_access
+Central Europe and the Baltics,CEB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,94.7800426872963,basic_sanitation_access
+Central Europe and the Baltics,CEB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,94.4160248094977,basic_sanitation_access
+Central Europe and the Baltics,CEB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,93.9517152537674,basic_sanitation_access
+Early-demographic dividend,EAR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,71.6301436378088,basic_sanitation_access
+Early-demographic dividend,EAR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,69.7677819873262,basic_sanitation_access
+Early-demographic dividend,EAR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,67.9114060278797,basic_sanitation_access
+Early-demographic dividend,EAR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,66.4356743701035,basic_sanitation_access
+Early-demographic dividend,EAR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,64.5760088750241,basic_sanitation_access
+East Asia & Pacific,EAS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,89.3505475023518,basic_sanitation_access
+East Asia & Pacific,EAS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,87.969389625634,basic_sanitation_access
+East Asia & Pacific,EAS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,86.5689796547393,basic_sanitation_access
+East Asia & Pacific,EAS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,85.1496860902974,basic_sanitation_access
+East Asia & Pacific,EAS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,83.713233005871,basic_sanitation_access
+East Asia & Pacific (excluding high income),EAP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,88.2484110831476,basic_sanitation_access
+East Asia & Pacific (excluding high income),EAP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,86.7164623211125,basic_sanitation_access
+East Asia & Pacific (excluding high income),EAP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,85.1612904831338,basic_sanitation_access
+East Asia & Pacific (excluding high income),EAP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,83.5822056681026,basic_sanitation_access
+East Asia & Pacific (excluding high income),EAP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,81.98394448674,basic_sanitation_access
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,88.2936833894514,basic_sanitation_access
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,86.7514686306903,basic_sanitation_access
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,85.1863941384065,basic_sanitation_access
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,83.5969866898599,basic_sanitation_access
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,81.9880103755963,basic_sanitation_access
+Euro area,EMU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.9894202521854,basic_sanitation_access
+Euro area,EMU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.9835048726422,basic_sanitation_access
+Euro area,EMU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.9756277559547,basic_sanitation_access
+Euro area,EMU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.9669376441437,basic_sanitation_access
+Euro area,EMU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,98.9560924538183,basic_sanitation_access
+Europe & Central Asia,ECS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,96.6125525612032,basic_sanitation_access
+Europe & Central Asia,ECS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,96.3896224953144,basic_sanitation_access
+Europe & Central Asia,ECS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,96.1605564260946,basic_sanitation_access
+Europe & Central Asia,ECS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,95.9228285883788,basic_sanitation_access
+Europe & Central Asia,ECS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,95.6721689937978,basic_sanitation_access
+Europe & Central Asia (excluding high income),ECA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.2406358584475,basic_sanitation_access
+Europe & Central Asia (excluding high income),ECA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,96.8550932840745,basic_sanitation_access
+Europe & Central Asia (excluding high income),ECA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,96.4821732233,basic_sanitation_access
+Europe & Central Asia (excluding high income),ECA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,96.1050863842486,basic_sanitation_access
+Europe & Central Asia (excluding high income),ECA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,95.7258074849472,basic_sanitation_access
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,94.1889586189209,basic_sanitation_access
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,93.759995703732,basic_sanitation_access
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,93.304905740005,basic_sanitation_access
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,92.8298093425384,basic_sanitation_access
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,92.3321459538128,basic_sanitation_access
+European Union,EUU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.2550272172695,basic_sanitation_access
+European Union,EUU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.2050299424607,basic_sanitation_access
+European Union,EUU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.1386118496653,basic_sanitation_access
+European Union,EUU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.0500976008884,basic_sanitation_access
+European Union,EUU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.9351226099889,basic_sanitation_access
+Fragile and conflict affected situations,FCS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,44.6227996770206,basic_sanitation_access
+Fragile and conflict affected situations,FCS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,44.1660160177563,basic_sanitation_access
+Fragile and conflict affected situations,FCS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,43.7001051605604,basic_sanitation_access
+Fragile and conflict affected situations,FCS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,43.1096501554522,basic_sanitation_access
+Fragile and conflict affected situations,FCS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,42.6349896208654,basic_sanitation_access
+Heavily indebted poor countries (HIPC),HPC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,29.1201511161916,basic_sanitation_access
+Heavily indebted poor countries (HIPC),HPC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,28.311124898582,basic_sanitation_access
+Heavily indebted poor countries (HIPC),HPC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,27.5069805058566,basic_sanitation_access
+Heavily indebted poor countries (HIPC),HPC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,26.6526456240649,basic_sanitation_access
+Heavily indebted poor countries (HIPC),HPC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,25.8727506256034,basic_sanitation_access
+High income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.9126300827388,basic_sanitation_access
+High income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.8299740183562,basic_sanitation_access
+High income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.7397404770574,basic_sanitation_access
+High income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.642170649266,basic_sanitation_access
+High income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.5354231401954,basic_sanitation_access
+IBRD only,IBD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,83.470606854664,basic_sanitation_access
+IBRD only,IBD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,81.8262300587061,basic_sanitation_access
+IBRD only,IBD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,80.1496071950918,basic_sanitation_access
+IBRD only,IBD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,78.6139174594222,basic_sanitation_access
+IBRD only,IBD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,76.9316705573429,basic_sanitation_access
+IDA & IBRD total,IBT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,73.2989831969541,basic_sanitation_access
+IDA & IBRD total,IBT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,71.9322010591575,basic_sanitation_access
+IDA & IBRD total,IBT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,70.5317317922969,basic_sanitation_access
+IDA & IBRD total,IBT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,69.2632317199031,basic_sanitation_access
+IDA & IBRD total,IBT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,67.8452142588306,basic_sanitation_access
+IDA blend,IDB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,53.4236201595087,basic_sanitation_access
+IDA blend,IDB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,52.2651074145661,basic_sanitation_access
+IDA blend,IDB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,51.1239481085685,basic_sanitation_access
+IDA blend,IDB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,50.0005991390601,basic_sanitation_access
+IDA blend,IDB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,48.8905117626007,basic_sanitation_access
+IDA only,IDX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,40.7495319109696,basic_sanitation_access
+IDA only,IDX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,39.8070991490139,basic_sanitation_access
+IDA only,IDX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,38.881257015469,basic_sanitation_access
+IDA only,IDX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,37.8909718197989,basic_sanitation_access
+IDA only,IDX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,36.9967830384951,basic_sanitation_access
+IDA total,IDA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,45.2273007217955,basic_sanitation_access
+IDA total,IDA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,44.2188379518913,basic_sanitation_access
+IDA total,IDA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,43.2249526366127,basic_sanitation_access
+IDA total,IDA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,42.1869859265646,basic_sanitation_access
+IDA total,IDA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,41.2232672984577,basic_sanitation_access
+Late-demographic dividend,LTE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,91.2789188426645,basic_sanitation_access
+Late-demographic dividend,LTE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,90.0275927699321,basic_sanitation_access
+Late-demographic dividend,LTE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,88.750591299882,basic_sanitation_access
+Late-demographic dividend,LTE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,87.4467506891737,basic_sanitation_access
+Late-demographic dividend,LTE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,86.1168572677273,basic_sanitation_access
+Latin America & Caribbean,LCN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,87.4589803843898,basic_sanitation_access
+Latin America & Caribbean,LCN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,86.8260228187696,basic_sanitation_access
+Latin America & Caribbean,LCN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,86.1901512422603,basic_sanitation_access
+Latin America & Caribbean,LCN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,86.1960929811649,basic_sanitation_access
+Latin America & Caribbean,LCN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,85.5521939722884,basic_sanitation_access
+Latin America & Caribbean (excluding high income),LAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,86.2593374952088,basic_sanitation_access
+Latin America & Caribbean (excluding high income),LAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,85.5728704479412,basic_sanitation_access
+Latin America & Caribbean (excluding high income),LAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,84.8820875096081,basic_sanitation_access
+Latin America & Caribbean (excluding high income),LAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,85.037089121128,basic_sanitation_access
+Latin America & Caribbean (excluding high income),LAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,84.3642537669542,basic_sanitation_access
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,87.2977930257771,basic_sanitation_access
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,86.6592707661214,basic_sanitation_access
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,86.0098452138094,basic_sanitation_access
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,86.037157704974,basic_sanitation_access
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,85.3859321572291,basic_sanitation_access
+Least developed countries: UN classification,LDC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,38.0332922296145,basic_sanitation_access
+Least developed countries: UN classification,LDC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,37.0844906815234,basic_sanitation_access
+Least developed countries: UN classification,LDC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,36.1184251098484,basic_sanitation_access
+Least developed countries: UN classification,LDC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,35.0738470499709,basic_sanitation_access
+Least developed countries: UN classification,LDC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,34.1075480447881,basic_sanitation_access
+Low & middle income,LMY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,73.7683053435065,basic_sanitation_access
+Low & middle income,LMY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,72.3165282561865,basic_sanitation_access
+Low & middle income,LMY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,70.8306549989968,basic_sanitation_access
+Low & middle income,LMY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,69.4866069747076,basic_sanitation_access
+Low & middle income,LMY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,67.9901210195728,basic_sanitation_access
+Low income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,36.6134438387081,basic_sanitation_access
+Low income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,35.8559282209054,basic_sanitation_access
+Low income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,35.1328282381494,basic_sanitation_access
+Low income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,34.3067864910005,basic_sanitation_access
+Low income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,33.6780097212881,basic_sanitation_access
+Lower middle income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,65.7405553366968,basic_sanitation_access
+Lower middle income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,63.7130591337721,basic_sanitation_access
+Lower middle income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,61.6799099997332,basic_sanitation_access
+Lower middle income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,59.6494833554506,basic_sanitation_access
+Lower middle income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,57.6184428963224,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,80.9099122844731,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,80.0758906562006,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,79.207872566406,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,78.2661018344262,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,77.2666792083961,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,79.2892833996802,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,78.3580724557766,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,77.3739363536868,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,76.3414593674824,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,75.2914272852237,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,79.1584811307905,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,78.2250990289768,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,77.238533934487,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,76.2027099527803,basic_sanitation_access
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,75.149665462068,basic_sanitation_access
+Middle income,MIC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,77.3370598655301,basic_sanitation_access
+Middle income,MIC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,75.7521987991884,basic_sanitation_access
+Middle income,MIC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,74.1360744028612,basic_sanitation_access
+Middle income,MIC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,72.6874958811339,basic_sanitation_access
+Middle income,MIC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,71.0672484828627,basic_sanitation_access
+North America,NAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.5896839849981,basic_sanitation_access
+North America,NAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.6158138599293,basic_sanitation_access
+North America,NAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.6422342008677,basic_sanitation_access
+North America,NAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.6687684232381,basic_sanitation_access
+North America,NAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.6956039642977,basic_sanitation_access
+Not classified,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+Not classified,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,,basic_sanitation_access
+Not classified,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,,basic_sanitation_access
+Not classified,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,,basic_sanitation_access
+Not classified,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,,basic_sanitation_access
+OECD members,OED,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.3156617766966,basic_sanitation_access
+OECD members,OED,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.2114749460726,basic_sanitation_access
+OECD members,OED,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.0996788296821,basic_sanitation_access
+OECD members,OED,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.9784566975159,basic_sanitation_access
+OECD members,OED,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.8464687347594,basic_sanitation_access
+Other small states,OSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,81.8776278446538,basic_sanitation_access
+Other small states,OSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,81.0384961161673,basic_sanitation_access
+Other small states,OSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,80.1846170273583,basic_sanitation_access
+Other small states,OSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,79.336739820512,basic_sanitation_access
+Other small states,OSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,78.5000968276193,basic_sanitation_access
+Pacific island small states,PSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,68.6216456445236,basic_sanitation_access
+Pacific island small states,PSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,68.6768689995445,basic_sanitation_access
+Pacific island small states,PSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,68.792929905562,basic_sanitation_access
+Pacific island small states,PSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,68.9075652440538,basic_sanitation_access
+Pacific island small states,PSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,68.835685667411,basic_sanitation_access
+Post-demographic dividend,PST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.1925897820728,basic_sanitation_access
+Post-demographic dividend,PST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.1714884543802,basic_sanitation_access
+Post-demographic dividend,PST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.1610967602496,basic_sanitation_access
+Post-demographic dividend,PST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.1502672552234,basic_sanitation_access
+Post-demographic dividend,PST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.1385171656867,basic_sanitation_access
+Pre-demographic dividend,PRE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,37.0451798426379,basic_sanitation_access
+Pre-demographic dividend,PRE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,36.1907130829015,basic_sanitation_access
+Pre-demographic dividend,PRE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,35.3396651566567,basic_sanitation_access
+Pre-demographic dividend,PRE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,34.3515461363365,basic_sanitation_access
+Pre-demographic dividend,PRE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,33.4572426712355,basic_sanitation_access
+Small states,SST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,82.2038177798422,basic_sanitation_access
+Small states,SST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,81.6661080494783,basic_sanitation_access
+Small states,SST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,81.1204681220719,basic_sanitation_access
+Small states,SST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,80.5573949080494,basic_sanitation_access
+Small states,SST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,79.9754821309299,basic_sanitation_access
+South Asia,SAS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,68.2929375209308,basic_sanitation_access
+South Asia,SAS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,65.4131386342213,basic_sanitation_access
+South Asia,SAS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,62.5446654383749,basic_sanitation_access
+South Asia,SAS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,59.689489068753,basic_sanitation_access
+South Asia,SAS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,56.8493740200815,basic_sanitation_access
+South Asia (IDA & IBRD),TSA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,68.2929375209308,basic_sanitation_access
+South Asia (IDA & IBRD),TSA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,65.4131386342214,basic_sanitation_access
+South Asia (IDA & IBRD),TSA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,62.5446654383749,basic_sanitation_access
+South Asia (IDA & IBRD),TSA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,59.689489068753,basic_sanitation_access
+South Asia (IDA & IBRD),TSA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,56.8493740200815,basic_sanitation_access
+Sub-Saharan Africa,SSF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,33.8235063127962,basic_sanitation_access
+Sub-Saharan Africa,SSF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,33.0732272045652,basic_sanitation_access
+Sub-Saharan Africa,SSF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,32.3547363191435,basic_sanitation_access
+Sub-Saharan Africa,SSF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,31.5542303924277,basic_sanitation_access
+Sub-Saharan Africa,SSF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,30.8222423349675,basic_sanitation_access
+Sub-Saharan Africa (excluding high income),SSA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,36.6737204147761,basic_sanitation_access
+Sub-Saharan Africa (excluding high income),SSA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,35.8724938231054,basic_sanitation_access
+Sub-Saharan Africa (excluding high income),SSA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,35.1032573617823,basic_sanitation_access
+Sub-Saharan Africa (excluding high income),SSA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,34.2368553133564,basic_sanitation_access
+Sub-Saharan Africa (excluding high income),SSA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,33.4565735706684,basic_sanitation_access
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,33.8235063127962,basic_sanitation_access
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,33.0732272045652,basic_sanitation_access
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,32.3547363191435,basic_sanitation_access
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,31.5542303924277,basic_sanitation_access
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,30.8222423349675,basic_sanitation_access
+Upper middle income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,89.8044460928792,basic_sanitation_access
+Upper middle income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,88.5872421793616,basic_sanitation_access
+Upper middle income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,87.3184569621177,basic_sanitation_access
+Upper middle income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,86.1721943814367,basic_sanitation_access
+Upper middle income,,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,84.8802850079647,basic_sanitation_access
+World,WLD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,77.1621342519848,basic_sanitation_access
+World,WLD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,76.0236338404313,basic_sanitation_access
+World,WLD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,74.8617977662473,basic_sanitation_access
+World,WLD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,73.7845590172445,basic_sanitation_access
+World,WLD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,72.6026614972167,basic_sanitation_access
+Afghanistan,AFG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,47.5183902057843,basic_sanitation_access
+Afghanistan,AFG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,46.1335435081079,basic_sanitation_access
+Afghanistan,AFG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,44.7508111861658,basic_sanitation_access
+Afghanistan,AFG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,43.3698641937307,basic_sanitation_access
+Afghanistan,AFG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,41.9898186307368,basic_sanitation_access
+Albania,ALB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.1830672601737,basic_sanitation_access
+Albania,ALB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.9736466158724,basic_sanitation_access
+Albania,ALB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.5472964296809,basic_sanitation_access
+Albania,ALB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.1079014758832,basic_sanitation_access
+Albania,ALB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.6549680441734,basic_sanitation_access
+Algeria,DZA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,86.1385037232471,basic_sanitation_access
+Algeria,DZA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,86.3030907782839,basic_sanitation_access
+Algeria,DZA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,86.4588236326811,basic_sanitation_access
+Algeria,DZA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,86.6054840366106,basic_sanitation_access
+Algeria,DZA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,86.7425206516531,basic_sanitation_access
+American Samoa,ASM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,62.1434004908821,basic_sanitation_access
+American Samoa,ASM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,62.1513013269738,basic_sanitation_access
+American Samoa,ASM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,62.1592021630655,basic_sanitation_access
+American Samoa,ASM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,62.1671029991572,basic_sanitation_access
+American Samoa,ASM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,62.1750038352489,basic_sanitation_access
+Andorra,AND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,100.0,basic_sanitation_access
+Andorra,AND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,100.0,basic_sanitation_access
+Andorra,AND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,100.0,basic_sanitation_access
+Andorra,AND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,100.0,basic_sanitation_access
+Andorra,AND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,100.0,basic_sanitation_access
+Angola,AGO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,49.5470237290202,basic_sanitation_access
+Angola,AGO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,49.2865229934191,basic_sanitation_access
+Angola,AGO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,48.4237656848917,basic_sanitation_access
+Angola,AGO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,47.555908833618,basic_sanitation_access
+Angola,AGO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,46.6837650963553,basic_sanitation_access
+Antigua and Barbuda,ATG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.0899721182438,basic_sanitation_access
+Antigua and Barbuda,ATG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.5136876135771,basic_sanitation_access
+Antigua and Barbuda,ATG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.7638078582703,basic_sanitation_access
+Antigua and Barbuda,ATG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.0132411183707,basic_sanitation_access
+Antigua and Barbuda,ATG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,96.2618760462753,basic_sanitation_access
+Argentina,ARG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+Argentina,ARG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,,basic_sanitation_access
+Argentina,ARG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,,basic_sanitation_access
+Argentina,ARG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,94.8209557204549,basic_sanitation_access
+Argentina,ARG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,94.4204076284931,basic_sanitation_access
+Armenia,ARM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,92.4966218956113,basic_sanitation_access
+Armenia,ARM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,92.2358515104765,basic_sanitation_access
+Armenia,ARM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,91.9795911262643,basic_sanitation_access
+Armenia,ARM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,91.7279143880493,basic_sanitation_access
+Armenia,ARM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,91.480572190435,basic_sanitation_access
+Aruba,ABW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.7217883612824,basic_sanitation_access
+Aruba,ABW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.6823839099995,basic_sanitation_access
+Aruba,ABW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.6429794587166,basic_sanitation_access
+Aruba,ABW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.6035750074337,basic_sanitation_access
+Aruba,ABW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,98.5641705561508,basic_sanitation_access
+Australia,AUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.9998294271244,basic_sanitation_access
+Australia,AUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.9993731869528,basic_sanitation_access
+Australia,AUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.9989169467813,basic_sanitation_access
+Australia,AUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.9984607066097,basic_sanitation_access
+Australia,AUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.9980044664382,basic_sanitation_access
+Austria,AUT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.9727130295408,basic_sanitation_access
+Austria,AUT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.9728166060806,basic_sanitation_access
+Austria,AUT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.9729077052186,basic_sanitation_access
+Austria,AUT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.9748167576783,basic_sanitation_access
+Austria,AUT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.9767095192409,basic_sanitation_access
+Azerbaijan,AZE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,93.0865984611418,basic_sanitation_access
+Azerbaijan,AZE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,91.6909287439115,basic_sanitation_access
+Azerbaijan,AZE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,90.2983404004094,basic_sanitation_access
+Azerbaijan,AZE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,88.9091129023182,basic_sanitation_access
+Azerbaijan,AZE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,87.5234598194959,basic_sanitation_access
+"Bahamas, The",BHS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,93.7100445402837,basic_sanitation_access
+"Bahamas, The",BHS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,93.7100445402837,basic_sanitation_access
+"Bahamas, The",BHS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,93.7100445402837,basic_sanitation_access
+"Bahamas, The",BHS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,93.7100445402837,basic_sanitation_access
+"Bahamas, The",BHS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,93.7100445402837,basic_sanitation_access
+Bahrain,BHR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,100.0,basic_sanitation_access
+Bahrain,BHR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,100.0,basic_sanitation_access
+Bahrain,BHR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,100.0,basic_sanitation_access
+Bahrain,BHR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,100.0,basic_sanitation_access
+Bahrain,BHR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.9996815404533,basic_sanitation_access
+Bangladesh,BGD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,57.7528738554199,basic_sanitation_access
+Bangladesh,BGD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,55.8026895798661,basic_sanitation_access
+Bangladesh,BGD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,53.861024982081,basic_sanitation_access
+Bangladesh,BGD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,51.9283001377065,basic_sanitation_access
+Bangladesh,BGD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,50.0050245547683,basic_sanitation_access
+Barbados,BRB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.0277191579059,basic_sanitation_access
+Barbados,BRB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,96.6389380178594,basic_sanitation_access
+Barbados,BRB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,96.2501568778129,basic_sanitation_access
+Barbados,BRB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,95.8613757377664,basic_sanitation_access
+Barbados,BRB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,95.4725945977198,basic_sanitation_access
+Belarus,BLR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.4338632205589,basic_sanitation_access
+Belarus,BLR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.9391988814901,basic_sanitation_access
+Belarus,BLR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.4471393205969,basic_sanitation_access
+Belarus,BLR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.9567271053164,basic_sanitation_access
+Belarus,BLR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.4677528685491,basic_sanitation_access
+Belgium,BEL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.4861954289203,basic_sanitation_access
+Belgium,BEL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.4861848733706,basic_sanitation_access
+Belgium,BEL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.4861854185217,basic_sanitation_access
+Belgium,BEL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.4861721928964,basic_sanitation_access
+Belgium,BEL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.4861641764678,basic_sanitation_access
+Belize,BLZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,84.0839153038299,basic_sanitation_access
+Belize,BLZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,84.0520275827063,basic_sanitation_access
+Belize,BLZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,84.027602259463,basic_sanitation_access
+Belize,BLZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,84.0080355199731,basic_sanitation_access
+Belize,BLZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,83.9929567244339,basic_sanitation_access
+Benin,BEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,18.8420840944928,basic_sanitation_access
+Benin,BEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,18.1937303852969,basic_sanitation_access
+Benin,BEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,17.5567124078682,basic_sanitation_access
+Benin,BEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,16.9310972411709,basic_sanitation_access
+Benin,BEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,16.3169481534553,basic_sanitation_access
+Bermuda,BMU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.9416526015971,basic_sanitation_access
+Bermuda,BMU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.9416526015971,basic_sanitation_access
+Bermuda,BMU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.9437352570609,basic_sanitation_access
+Bermuda,BMU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.9458179125246,basic_sanitation_access
+Bermuda,BMU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.9479005679884,basic_sanitation_access
+Bhutan,BTN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,78.8989372535781,basic_sanitation_access
+Bhutan,BTN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,77.2378421749847,basic_sanitation_access
+Bhutan,BTN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,75.5507698570494,basic_sanitation_access
+Bhutan,BTN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,73.8369686889029,basic_sanitation_access
+Bhutan,BTN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,72.0956866215508,basic_sanitation_access
+Bolivia,BOL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,63.6552770936558,basic_sanitation_access
+Bolivia,BOL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,61.8863758501478,basic_sanitation_access
+Bolivia,BOL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,60.1364043539165,basic_sanitation_access
+Bolivia,BOL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,58.4055072099322,basic_sanitation_access
+Bolivia,BOL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,56.6920160774471,basic_sanitation_access
+Bosnia and Herzegovina,BIH,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+Bosnia and Herzegovina,BIH,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,95.3850620124746,basic_sanitation_access
+Bosnia and Herzegovina,BIH,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,95.360235583008,basic_sanitation_access
+Bosnia and Herzegovina,BIH,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,95.3361467691692,basic_sanitation_access
+Bosnia and Herzegovina,BIH,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,95.3129339341419,basic_sanitation_access
+Botswana,BWA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,69.8150599678289,basic_sanitation_access
+Botswana,BWA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,69.2069921595304,basic_sanitation_access
+Botswana,BWA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,68.5731443566445,basic_sanitation_access
+Botswana,BWA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,67.9129615984092,basic_sanitation_access
+Botswana,BWA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,67.2288878869323,basic_sanitation_access
+Brazil,BRA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,88.7943635272571,basic_sanitation_access
+Brazil,BRA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,88.0250303307035,basic_sanitation_access
+Brazil,BRA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,87.2513460581389,basic_sanitation_access
+Brazil,BRA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,86.4725409994878,basic_sanitation_access
+Brazil,BRA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,85.6891694067484,basic_sanitation_access
+British Virgin Islands,VGB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+British Virgin Islands,VGB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,,basic_sanitation_access
+British Virgin Islands,VGB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,,basic_sanitation_access
+British Virgin Islands,VGB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,96.8579794836767,basic_sanitation_access
+British Virgin Islands,VGB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,96.8579794836767,basic_sanitation_access
+Brunei Darussalam,BRN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,95.8309192020188,basic_sanitation_access
+Brunei Darussalam,BRN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,94.6142838007268,basic_sanitation_access
+Brunei Darussalam,BRN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,93.3976483994347,basic_sanitation_access
+Brunei Darussalam,BRN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,92.1810129981427,basic_sanitation_access
+Brunei Darussalam,BRN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,90.9643775968511,basic_sanitation_access
+Bulgaria,BGR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,86.0247532488828,basic_sanitation_access
+Bulgaria,BGR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,86.0143608416048,basic_sanitation_access
+Bulgaria,BGR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,86.0039712709355,basic_sanitation_access
+Bulgaria,BGR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,85.9935449985972,basic_sanitation_access
+Bulgaria,BGR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,85.9831554868043,basic_sanitation_access
+Burkina Faso,BFA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,26.7185691114763,basic_sanitation_access
+Burkina Faso,BFA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,25.6835548762607,basic_sanitation_access
+Burkina Faso,BFA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,24.6558918981723,basic_sanitation_access
+Burkina Faso,BFA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,23.6358671659231,basic_sanitation_access
+Burkina Faso,BFA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,22.623723352134,basic_sanitation_access
+Burundi,BDI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,44.3577388229315,basic_sanitation_access
+Burundi,BDI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,44.4954380894811,basic_sanitation_access
+Burundi,BDI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,44.6289841238283,basic_sanitation_access
+Burundi,BDI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,44.7585847024572,basic_sanitation_access
+Burundi,BDI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,44.8844503584829,basic_sanitation_access
+Cabo Verde,CPV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,78.8249549430518,basic_sanitation_access
+Cabo Verde,CPV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,76.7237249815456,basic_sanitation_access
+Cabo Verde,CPV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,74.6142580571751,basic_sanitation_access
+Cabo Verde,CPV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,72.496932762021,basic_sanitation_access
+Cabo Verde,CPV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,70.3717073692285,basic_sanitation_access
+Cambodia,KHM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,67.2122392007629,basic_sanitation_access
+Cambodia,KHM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,63.9398472470947,basic_sanitation_access
+Cambodia,KHM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,60.6744151428492,basic_sanitation_access
+Cambodia,KHM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,57.417022532982,basic_sanitation_access
+Cambodia,KHM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,54.1665197831593,basic_sanitation_access
+Cameroon,CMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,44.8498829146317,basic_sanitation_access
+Cameroon,CMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,44.4148640176423,basic_sanitation_access
+Cameroon,CMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,43.9831129823405,basic_sanitation_access
+Cameroon,CMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,43.555339313602,basic_sanitation_access
+Cameroon,CMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,43.1308620153925,basic_sanitation_access
+Canada,CAN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.7573247700797,basic_sanitation_access
+Canada,CAN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.84154412867,basic_sanitation_access
+Canada,CAN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.9256763278337,basic_sanitation_access
+Canada,CAN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.0097526693879,basic_sanitation_access
+Canada,CAN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.0937780508687,basic_sanitation_access
+Cayman Islands,CYM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,83.3302417177914,basic_sanitation_access
+Cayman Islands,CYM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,83.3508058282208,basic_sanitation_access
+Cayman Islands,CYM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,83.3709930981595,basic_sanitation_access
+Cayman Islands,CYM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,83.3908035276073,basic_sanitation_access
+Cayman Islands,CYM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,83.4102371165644,basic_sanitation_access
+Central African Republic,CAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,14.481982156805,basic_sanitation_access
+Central African Republic,CAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,14.8478356260426,basic_sanitation_access
+Central African Republic,CAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,15.2164870297134,basic_sanitation_access
+Central African Republic,CAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,15.5882414691861,basic_sanitation_access
+Central African Republic,CAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,15.9631877672806,basic_sanitation_access
+Chad,TCD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,12.2940184363217,basic_sanitation_access
+Chad,TCD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,12.0541194503815,basic_sanitation_access
+Chad,TCD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,11.8291930674672,basic_sanitation_access
+Chad,TCD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,11.6187911677525,basic_sanitation_access
+Chad,TCD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,11.421878644262,basic_sanitation_access
+Channel Islands,CHI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+Channel Islands,CHI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,,basic_sanitation_access
+Channel Islands,CHI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,,basic_sanitation_access
+Channel Islands,CHI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,,basic_sanitation_access
+Channel Islands,CHI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,,basic_sanitation_access
+Chile,CHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.2440906332437,basic_sanitation_access
+Chile,CHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.1482997350228,basic_sanitation_access
+Chile,CHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.8734482786872,basic_sanitation_access
+Chile,CHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.5469573760897,basic_sanitation_access
+Chile,CHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,98.2192140338201,basic_sanitation_access
+China,CHN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,91.2881339239822,basic_sanitation_access
+China,CHN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,89.6942189460529,basic_sanitation_access
+China,CHN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,88.0683084431652,basic_sanitation_access
+China,CHN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,86.4094766918916,basic_sanitation_access
+China,CHN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,84.7193121416501,basic_sanitation_access
+Colombia,COL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,92.2252062631808,basic_sanitation_access
+Colombia,COL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,91.3506596764722,basic_sanitation_access
+Colombia,COL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,90.4749374427322,basic_sanitation_access
+Colombia,COL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,89.5980252896949,basic_sanitation_access
+Colombia,COL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,88.7199118898909,basic_sanitation_access
+Comoros,COM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,51.3942491790653,basic_sanitation_access
+Comoros,COM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,50.159514854681,basic_sanitation_access
+Comoros,COM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,48.9029223957365,basic_sanitation_access
+Comoros,COM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,47.6248040673008,basic_sanitation_access
+Comoros,COM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,46.3255872493184,basic_sanitation_access
+"Congo, Dem. Rep.",COD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,16.416662028181,basic_sanitation_access
+"Congo, Dem. Rep.",COD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,16.7256345274003,basic_sanitation_access
+"Congo, Dem. Rep.",COD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,17.0428367247806,basic_sanitation_access
+"Congo, Dem. Rep.",COD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,17.3684018777428,basic_sanitation_access
+"Congo, Dem. Rep.",COD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,17.7022823048892,basic_sanitation_access
+"Congo, Rep.",COG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,20.3642632516174,basic_sanitation_access
+"Congo, Rep.",COG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,20.2685707874205,basic_sanitation_access
+"Congo, Rep.",COG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,20.1728789551264,basic_sanitation_access
+"Congo, Rep.",COG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,19.5480521293593,basic_sanitation_access
+"Congo, Rep.",COG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,18.9369281667441,basic_sanitation_access
+Costa Rica,CRI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.8949564570676,basic_sanitation_access
+Costa Rica,CRI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.7025136559983,basic_sanitation_access
+Costa Rica,CRI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.5045870013496,basic_sanitation_access
+Costa Rica,CRI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.3007564187582,basic_sanitation_access
+Costa Rica,CRI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.0905446199626,basic_sanitation_access
+Cote d'Ivoire,CIV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,35.8059580233634,basic_sanitation_access
+Cote d'Ivoire,CIV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,34.8708875943719,basic_sanitation_access
+Cote d'Ivoire,CIV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,33.945429522791,basic_sanitation_access
+Cote d'Ivoire,CIV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,33.0299664803717,basic_sanitation_access
+Cote d'Ivoire,CIV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,32.1245714539308,basic_sanitation_access
+Croatia,HRV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,95.7669528953151,basic_sanitation_access
+Croatia,HRV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,95.7545423447665,basic_sanitation_access
+Croatia,HRV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,95.7427708106791,basic_sanitation_access
+Croatia,HRV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,95.7305312019132,basic_sanitation_access
+Croatia,HRV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,95.7190097005678,basic_sanitation_access
+Cuba,CUB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,91.5402228633008,basic_sanitation_access
+Cuba,CUB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,90.8986460916429,basic_sanitation_access
+Cuba,CUB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,90.2590050806412,basic_sanitation_access
+Cuba,CUB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,89.6215521812865,basic_sanitation_access
+Cuba,CUB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,88.9864920345571,basic_sanitation_access
+Curacao,CUW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+Curacao,CUW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,,basic_sanitation_access
+Curacao,CUW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.1690721651989,basic_sanitation_access
+Curacao,CUW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.1690721651989,basic_sanitation_access
+Curacao,CUW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.1690721651989,basic_sanitation_access
+Cyprus,CYP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.5026390696851,basic_sanitation_access
+Cyprus,CYP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.5094911557165,basic_sanitation_access
+Cyprus,CYP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.5164756897262,basic_sanitation_access
+Cyprus,CYP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.5235457103291,basic_sanitation_access
+Cyprus,CYP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.5306978983581,basic_sanitation_access
+Czechia,CZE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.0733677168251,basic_sanitation_access
+Czechia,CZE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.073893834029,basic_sanitation_access
+Czechia,CZE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.0743713886289,basic_sanitation_access
+Czechia,CZE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.0747972565215,basic_sanitation_access
+Czechia,CZE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.0751703935412,basic_sanitation_access
+Denmark,DNK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.5972264992143,basic_sanitation_access
+Denmark,DNK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.5972321137483,basic_sanitation_access
+Denmark,DNK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.5972303913109,basic_sanitation_access
+Denmark,DNK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.5972301475052,basic_sanitation_access
+Denmark,DNK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.5972338246899,basic_sanitation_access
+Djibouti,DJI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,66.6577106028334,basic_sanitation_access
+Djibouti,DJI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,65.1354027813767,basic_sanitation_access
+Djibouti,DJI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,63.6147917367826,basic_sanitation_access
+Djibouti,DJI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,62.0957006266769,basic_sanitation_access
+Djibouti,DJI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,60.5779617075524,basic_sanitation_access
+Dominica,DMA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+Dominica,DMA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,,basic_sanitation_access
+Dominica,DMA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,80.3664248800941,basic_sanitation_access
+Dominica,DMA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,80.3664248800941,basic_sanitation_access
+Dominica,DMA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,80.3664248800941,basic_sanitation_access
+Dominican Republic,DOM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,87.5294360450425,basic_sanitation_access
+Dominican Republic,DOM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,86.9970340675961,basic_sanitation_access
+Dominican Republic,DOM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,86.4591843551148,basic_sanitation_access
+Dominican Republic,DOM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,85.9156708340948,basic_sanitation_access
+Dominican Republic,DOM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,85.3681191078801,basic_sanitation_access
+Ecuador,ECU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,87.3866333551063,basic_sanitation_access
+Ecuador,ECU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,86.5928399282026,basic_sanitation_access
+Ecuador,ECU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,85.8004886348106,basic_sanitation_access
+Ecuador,ECU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,85.0099232884518,basic_sanitation_access
+Ecuador,ECU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,84.2194382578739,basic_sanitation_access
+"Egypt, Arab Rep.",EGY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,95.9974521361916,basic_sanitation_access
+"Egypt, Arab Rep.",EGY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,95.7838228519798,basic_sanitation_access
+"Egypt, Arab Rep.",EGY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,95.5716159808707,basic_sanitation_access
+"Egypt, Arab Rep.",EGY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,95.3608044893643,basic_sanitation_access
+"Egypt, Arab Rep.",EGY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,95.1514018679127,basic_sanitation_access
+El Salvador,SLV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,86.7364561760088,basic_sanitation_access
+El Salvador,SLV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,86.456582332616,basic_sanitation_access
+El Salvador,SLV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,86.1264645689972,basic_sanitation_access
+El Salvador,SLV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,85.789208776824,basic_sanitation_access
+El Salvador,SLV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,85.445452477435,basic_sanitation_access
+Equatorial Guinea,GNQ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+Equatorial Guinea,GNQ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,,basic_sanitation_access
+Equatorial Guinea,GNQ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,66.3127866671561,basic_sanitation_access
+Equatorial Guinea,GNQ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,66.2485390317556,basic_sanitation_access
+Equatorial Guinea,GNQ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,66.1825230692518,basic_sanitation_access
+Eritrea,ERI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+Eritrea,ERI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,,basic_sanitation_access
+Eritrea,ERI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,,basic_sanitation_access
+Eritrea,ERI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,11.9399660140866,basic_sanitation_access
+Eritrea,ERI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,11.8379124928254,basic_sanitation_access
+Estonia,EST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.0297517072032,basic_sanitation_access
+Estonia,EST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.0313545119292,basic_sanitation_access
+Estonia,EST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.0328460543917,basic_sanitation_access
+Estonia,EST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.0342292897259,basic_sanitation_access
+Estonia,EST,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.0355098457434,basic_sanitation_access
+Eswatini,SWZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,61.4575194811054,basic_sanitation_access
+Eswatini,SWZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,60.8480464368627,basic_sanitation_access
+Eswatini,SWZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,60.236840423133,basic_sanitation_access
+Eswatini,SWZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,59.6244143156364,basic_sanitation_access
+Eswatini,SWZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,59.0113147479488,basic_sanitation_access
+Ethiopia,ETH,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,8.68474048756754,basic_sanitation_access
+Ethiopia,ETH,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,8.35875920842316,basic_sanitation_access
+Ethiopia,ETH,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,8.0353579200927,basic_sanitation_access
+Ethiopia,ETH,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,7.71437321783047,basic_sanitation_access
+Ethiopia,ETH,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,7.39517563066231,basic_sanitation_access
+Faroe Islands,FRO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+Faroe Islands,FRO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,,basic_sanitation_access
+Faroe Islands,FRO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,,basic_sanitation_access
+Faroe Islands,FRO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,,basic_sanitation_access
+Faroe Islands,FRO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,90.8834757181354,basic_sanitation_access
+Fiji,FJI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,93.7099433236184,basic_sanitation_access
+Fiji,FJI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,93.4859578759574,basic_sanitation_access
+Fiji,FJI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,93.2511716546291,basic_sanitation_access
+Fiji,FJI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,93.0055113848616,basic_sanitation_access
+Fiji,FJI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,92.7488640903171,basic_sanitation_access
+Finland,FIN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.4479732107755,basic_sanitation_access
+Finland,FIN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.4479792179027,basic_sanitation_access
+Finland,FIN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.4479844608387,basic_sanitation_access
+Finland,FIN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.4479863794358,basic_sanitation_access
+Finland,FIN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.4479924994101,basic_sanitation_access
+France,FRA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.6484147946355,basic_sanitation_access
+France,FRA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.6492124319546,basic_sanitation_access
+France,FRA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.6500120942252,basic_sanitation_access
+France,FRA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.6508068148027,basic_sanitation_access
+France,FRA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,98.651596087179,basic_sanitation_access
+French Polynesia,PYF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.5650409485018,basic_sanitation_access
+French Polynesia,PYF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.5760712283881,basic_sanitation_access
+French Polynesia,PYF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.5871015082744,basic_sanitation_access
+French Polynesia,PYF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.5981317881607,basic_sanitation_access
+French Polynesia,PYF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.609162068047,basic_sanitation_access
+Gabon,GAB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,51.4223011158649,basic_sanitation_access
+Gabon,GAB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,49.9863984455825,basic_sanitation_access
+Gabon,GAB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,48.5637395217699,basic_sanitation_access
+Gabon,GAB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,47.1547496987424,basic_sanitation_access
+Gabon,GAB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,45.7595556064781,basic_sanitation_access
+"Gambia, The",GMB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,47.2014093425827,basic_sanitation_access
+"Gambia, The",GMB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,47.0485303132535,basic_sanitation_access
+"Gambia, The",GMB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,46.9072182092037,basic_sanitation_access
+"Gambia, The",GMB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,46.7787647028692,basic_sanitation_access
+"Gambia, The",GMB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,46.6646737011035,basic_sanitation_access
+Georgia,GEO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,87.5111601190334,basic_sanitation_access
+Georgia,GEO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,86.8748222310992,basic_sanitation_access
+Georgia,GEO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,86.2379416213095,basic_sanitation_access
+Georgia,GEO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,85.6008234007507,basic_sanitation_access
+Georgia,GEO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,84.963148689816,basic_sanitation_access
+Germany,DEU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.2253839958428,basic_sanitation_access
+Germany,DEU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.2251947749957,basic_sanitation_access
+Germany,DEU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.2250385348841,basic_sanitation_access
+Germany,DEU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.224925403148,basic_sanitation_access
+Germany,DEU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.2248544718085,basic_sanitation_access
+Ghana,GHA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,25.327363008811,basic_sanitation_access
+Ghana,GHA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,24.1144852694417,basic_sanitation_access
+Ghana,GHA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,22.9147548943672,basic_sanitation_access
+Ghana,GHA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,21.7286047018582,basic_sanitation_access
+Ghana,GHA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,20.556338766229,basic_sanitation_access
+Gibraltar,GIB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,100.0,basic_sanitation_access
+Gibraltar,GIB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,100.0,basic_sanitation_access
+Gibraltar,GIB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,100.0,basic_sanitation_access
+Gibraltar,GIB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,100.0,basic_sanitation_access
+Gibraltar,GIB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,100.0,basic_sanitation_access
+Greece,GRC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.9902600193741,basic_sanitation_access
+Greece,GRC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.9867526034177,basic_sanitation_access
+Greece,GRC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.9831881851134,basic_sanitation_access
+Greece,GRC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.9564489293753,basic_sanitation_access
+Greece,GRC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,98.8956496305224,basic_sanitation_access
+Greenland,GRL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,62.5,basic_sanitation_access
+Greenland,GRL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,62.5,basic_sanitation_access
+Greenland,GRL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,62.5,basic_sanitation_access
+Greenland,GRL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,62.5,basic_sanitation_access
+Greenland,GRL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,62.5,basic_sanitation_access
+Grenada,GRD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,92.8050063049392,basic_sanitation_access
+Grenada,GRD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,92.8978896121892,basic_sanitation_access
+Grenada,GRD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,92.9907729194391,basic_sanitation_access
+Grenada,GRD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,93.0836562266891,basic_sanitation_access
+Grenada,GRD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,93.176539533939,basic_sanitation_access
+Guam,GUM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,90.1852545469869,basic_sanitation_access
+Guam,GUM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,90.1214796797303,basic_sanitation_access
+Guam,GUM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,90.0577048124737,basic_sanitation_access
+Guam,GUM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,89.993929945217,basic_sanitation_access
+Guam,GUM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,89.9301550779604,basic_sanitation_access
+Guatemala,GTM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,68.5709973645284,basic_sanitation_access
+Guatemala,GTM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,68.2489426363097,basic_sanitation_access
+Guatemala,GTM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,67.9199018955355,basic_sanitation_access
+Guatemala,GTM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,67.5843983621211,basic_sanitation_access
+Guatemala,GTM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,67.2424899275787,basic_sanitation_access
+Guinea,GIN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,27.6063983510435,basic_sanitation_access
+Guinea,GIN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,26.4315341873572,basic_sanitation_access
+Guinea,GIN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,25.2793165342665,basic_sanitation_access
+Guinea,GIN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,24.1498387012441,basic_sanitation_access
+Guinea,GIN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,23.0429534538905,basic_sanitation_access
+Guinea-Bissau,GNB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,25.9048078160921,basic_sanitation_access
+Guinea-Bissau,GNB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,24.5775735612132,basic_sanitation_access
+Guinea-Bissau,GNB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,23.2682682564985,basic_sanitation_access
+Guinea-Bissau,GNB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,21.9768833616634,basic_sanitation_access
+Guinea-Bissau,GNB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,20.7029543822311,basic_sanitation_access
+Guyana,GUY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,89.3586157172433,basic_sanitation_access
+Guyana,GUY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,88.6946981126402,basic_sanitation_access
+Guyana,GUY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,88.0315709882197,basic_sanitation_access
+Guyana,GUY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,87.3692388758564,basic_sanitation_access
+Guyana,GUY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,86.7079635217248,basic_sanitation_access
+Haiti,HTI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,28.5057820115222,basic_sanitation_access
+Haiti,HTI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,28.1567904087872,basic_sanitation_access
+Haiti,HTI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,27.7940822522494,basic_sanitation_access
+Haiti,HTI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,27.4175706296699,basic_sanitation_access
+Haiti,HTI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,27.0270378862153,basic_sanitation_access
+Honduras,HND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,83.1107110257034,basic_sanitation_access
+Honduras,HND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,82.1820517802878,basic_sanitation_access
+Honduras,HND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,81.2476858869062,basic_sanitation_access
+Honduras,HND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,80.3074947960451,basic_sanitation_access
+Honduras,HND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,79.3614899844159,basic_sanitation_access
+"Hong Kong SAR, China",HKG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,95.442540620384,basic_sanitation_access
+"Hong Kong SAR, China",HKG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,95.564174052191,basic_sanitation_access
+"Hong Kong SAR, China",HKG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,95.685807483998,basic_sanitation_access
+"Hong Kong SAR, China",HKG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,95.807440915805,basic_sanitation_access
+"Hong Kong SAR, China",HKG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,95.929074347612,basic_sanitation_access
+Hungary,HUN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.9861309569959,basic_sanitation_access
+Hungary,HUN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.9885191913956,basic_sanitation_access
+Hungary,HUN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.9908758837113,basic_sanitation_access
+Hungary,HUN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.9931789584607,basic_sanitation_access
+Hungary,HUN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.9954541400148,basic_sanitation_access
+Iceland,ISL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.7811009775607,basic_sanitation_access
+Iceland,ISL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.7816461491977,basic_sanitation_access
+Iceland,ISL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.7821726872398,basic_sanitation_access
+Iceland,ISL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.7826661232675,basic_sanitation_access
+Iceland,ISL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,98.7831179489898,basic_sanitation_access
+India,IND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,69.1300220717047,basic_sanitation_access
+India,IND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,66.1148742165368,basic_sanitation_access
+India,IND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,63.1125583715917,basic_sanitation_access
+India,IND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,60.1238284933312,basic_sanitation_access
+India,IND,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,57.1496392627885,basic_sanitation_access
+Indonesia,IDN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,80.1767467592482,basic_sanitation_access
+Indonesia,IDN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,78.0995418857349,basic_sanitation_access
+Indonesia,IDN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,76.0256805835892,basic_sanitation_access
+Indonesia,IDN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,73.9559310852412,basic_sanitation_access
+Indonesia,IDN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,71.8904398574445,basic_sanitation_access
+"Iran, Islamic Rep.",IRN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,90.0210887632991,basic_sanitation_access
+"Iran, Islamic Rep.",IRN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,89.6988576017474,basic_sanitation_access
+"Iran, Islamic Rep.",IRN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,89.3166613162414,basic_sanitation_access
+"Iran, Islamic Rep.",IRN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,88.7518172769829,basic_sanitation_access
+"Iran, Islamic Rep.",IRN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,88.1779155269033,basic_sanitation_access
+Iraq,IRQ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.864851810422,basic_sanitation_access
+Iraq,IRQ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,96.9997458760796,basic_sanitation_access
+Iraq,IRQ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,95.4549205220896,basic_sanitation_access
+Iraq,IRQ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,93.6396641233782,basic_sanitation_access
+Iraq,IRQ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,91.8347515135487,basic_sanitation_access
+Ireland,IRL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,89.7998496161213,basic_sanitation_access
+Ireland,IRL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,89.812337262782,basic_sanitation_access
+Ireland,IRL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,89.8240697617023,basic_sanitation_access
+Ireland,IRL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,89.8349918949082,basic_sanitation_access
+Ireland,IRL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,89.8452309062707,basic_sanitation_access
+Isle of Man,IMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,100.0,basic_sanitation_access
+Isle of Man,IMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,100.0,basic_sanitation_access
+Isle of Man,IMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,100.0,basic_sanitation_access
+Isle of Man,IMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,100.0,basic_sanitation_access
+Isle of Man,IMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,100.0,basic_sanitation_access
+Israel,ISR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.9420208696373,basic_sanitation_access
+Israel,ISR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.9481963561794,basic_sanitation_access
+Israel,ISR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.9545287961214,basic_sanitation_access
+Israel,ISR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.9610220718726,basic_sanitation_access
+Israel,ISR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.9676711051809,basic_sanitation_access
+Italy,ITA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.8852225421869,basic_sanitation_access
+Italy,ITA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.8852799137261,basic_sanitation_access
+Italy,ITA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.8853414231028,basic_sanitation_access
+Italy,ITA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.885399852308,basic_sanitation_access
+Italy,ITA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.8854583535856,basic_sanitation_access
+Jamaica,JAM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,88.997622645007,basic_sanitation_access
+Jamaica,JAM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,88.4702342742167,basic_sanitation_access
+Jamaica,JAM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,87.9424102965954,basic_sanitation_access
+Jamaica,JAM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,87.4141682686662,basic_sanitation_access
+Jamaica,JAM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,86.8855879242963,basic_sanitation_access
+Japan,JPN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.9546552667981,basic_sanitation_access
+Japan,JPN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.9569242360089,basic_sanitation_access
+Japan,JPN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.9591932052198,basic_sanitation_access
+Japan,JPN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.9614621744307,basic_sanitation_access
+Japan,JPN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.9637311436416,basic_sanitation_access
+Jordan,JOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,96.9442655127058,basic_sanitation_access
+Jordan,JOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.0507514777426,basic_sanitation_access
+Jordan,JOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.1574792984054,basic_sanitation_access
+Jordan,JOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.2644408764445,basic_sanitation_access
+Jordan,JOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.3716594756962,basic_sanitation_access
+Kazakhstan,KAZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.9051562762041,basic_sanitation_access
+Kazakhstan,KAZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.8553422711483,basic_sanitation_access
+Kazakhstan,KAZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.8049933636929,basic_sanitation_access
+Kazakhstan,KAZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.7438938717997,basic_sanitation_access
+Kazakhstan,KAZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.6826966507758,basic_sanitation_access
+Kenya,KEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,37.298797647533,basic_sanitation_access
+Kenya,KEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,36.5783889502292,basic_sanitation_access
+Kenya,KEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,35.857250498731,basic_sanitation_access
+Kenya,KEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,35.1355349703251,basic_sanitation_access
+Kenya,KEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,34.4133695043635,basic_sanitation_access
+Kiribati,KIR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,43.8567170359075,basic_sanitation_access
+Kiribati,KIR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,43.4001999878848,basic_sanitation_access
+Kiribati,KIR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,42.9115121446096,basic_sanitation_access
+Kiribati,KIR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,42.3903837205277,basic_sanitation_access
+Kiribati,KIR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,41.8362047246118,basic_sanitation_access
+"Korea, Dem. People's Rep.",PRK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,84.6194920966635,basic_sanitation_access
+"Korea, Dem. People's Rep.",PRK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,83.9155776338149,basic_sanitation_access
+"Korea, Dem. People's Rep.",PRK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,83.1584097748592,basic_sanitation_access
+"Korea, Dem. People's Rep.",PRK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,82.4086074475707,basic_sanitation_access
+"Korea, Dem. People's Rep.",PRK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,81.6658106218557,basic_sanitation_access
+"Korea, Rep.",KOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.8112288308416,basic_sanitation_access
+"Korea, Rep.",KOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.8276038758901,basic_sanitation_access
+"Korea, Rep.",KOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.8439789209386,basic_sanitation_access
+"Korea, Rep.",KOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.8603539659872,basic_sanitation_access
+"Korea, Rep.",KOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.8767290110357,basic_sanitation_access
+Kosovo,XKX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+Kosovo,XKX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,,basic_sanitation_access
+Kosovo,XKX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,,basic_sanitation_access
+Kosovo,XKX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,,basic_sanitation_access
+Kosovo,XKX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,,basic_sanitation_access
+Kuwait,KWT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,100.0,basic_sanitation_access
+Kuwait,KWT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,100.0,basic_sanitation_access
+Kuwait,KWT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,100.0,basic_sanitation_access
+Kuwait,KWT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,100.0,basic_sanitation_access
+Kuwait,KWT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,100.0,basic_sanitation_access
+Kyrgyz Republic,KGZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.7833519513512,basic_sanitation_access
+Kyrgyz Republic,KGZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.4927558595168,basic_sanitation_access
+Kyrgyz Republic,KGZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.2012105005547,basic_sanitation_access
+Kyrgyz Republic,KGZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,96.9087481057027,basic_sanitation_access
+Kyrgyz Republic,KGZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,96.6154706740523,basic_sanitation_access
+Lao PDR,LAO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,78.292642485837,basic_sanitation_access
+Lao PDR,LAO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,75.8672585757636,basic_sanitation_access
+Lao PDR,LAO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,73.4268509487817,basic_sanitation_access
+Lao PDR,LAO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,70.9711485336486,basic_sanitation_access
+Lao PDR,LAO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,68.5001364815887,basic_sanitation_access
+Latvia,LVA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,91.4979934262128,basic_sanitation_access
+Latvia,LVA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,91.2449187722214,basic_sanitation_access
+Latvia,LVA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,90.9929787461015,basic_sanitation_access
+Latvia,LVA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,90.7423211464844,basic_sanitation_access
+Latvia,LVA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,90.4930837616034,basic_sanitation_access
+Lebanon,LBN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.0673793809694,basic_sanitation_access
+Lebanon,LBN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.8705825263797,basic_sanitation_access
+Lebanon,LBN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,96.5614042134683,basic_sanitation_access
+Lebanon,LBN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,95.2522259005569,basic_sanitation_access
+Lebanon,LBN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,93.9430475876455,basic_sanitation_access
+Lesotho,LSO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,41.4091356196007,basic_sanitation_access
+Lesotho,LSO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,40.0785080651777,basic_sanitation_access
+Lesotho,LSO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,38.7366301247734,basic_sanitation_access
+Lesotho,LSO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,37.3835722556357,basic_sanitation_access
+Lesotho,LSO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,36.0192915871812,basic_sanitation_access
+Liberia,LBR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,20.5305258325317,basic_sanitation_access
+Liberia,LBR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,19.9911366216728,basic_sanitation_access
+Liberia,LBR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,19.4591800299081,basic_sanitation_access
+Liberia,LBR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,18.9349390175014,basic_sanitation_access
+Liberia,LBR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,18.4179781203981,basic_sanitation_access
+Libya,LBY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,89.0336052039344,basic_sanitation_access
+Libya,LBY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,89.1404970360656,basic_sanitation_access
+Libya,LBY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,89.2473888681967,basic_sanitation_access
+Libya,LBY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,89.3542807003278,basic_sanitation_access
+Libya,LBY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,89.461172532459,basic_sanitation_access
+Liechtenstein,LIE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.95,basic_sanitation_access
+Liechtenstein,LIE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.95,basic_sanitation_access
+Liechtenstein,LIE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.95,basic_sanitation_access
+Liechtenstein,LIE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.95,basic_sanitation_access
+Liechtenstein,LIE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.95,basic_sanitation_access
+Lithuania,LTU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,94.2289437143384,basic_sanitation_access
+Lithuania,LTU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,93.6701055685758,basic_sanitation_access
+Lithuania,LTU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,93.1100410366065,basic_sanitation_access
+Lithuania,LTU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,92.5491836464928,basic_sanitation_access
+Lithuania,LTU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,91.9880821486282,basic_sanitation_access
+Luxembourg,LUX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.6126777405437,basic_sanitation_access
+Luxembourg,LUX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.6153595742426,basic_sanitation_access
+Luxembourg,LUX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.618188396035,basic_sanitation_access
+Luxembourg,LUX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.6211680150003,basic_sanitation_access
+Luxembourg,LUX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.6243035577451,basic_sanitation_access
+"Macao SAR, China",MAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,100.0,basic_sanitation_access
+"Macao SAR, China",MAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,100.0,basic_sanitation_access
+"Macao SAR, China",MAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,100.0,basic_sanitation_access
+"Macao SAR, China",MAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,100.0,basic_sanitation_access
+"Macao SAR, China",MAC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,100.0,basic_sanitation_access
+Madagascar,MDG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,13.1693375483997,basic_sanitation_access
+Madagascar,MDG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,12.647045200372,basic_sanitation_access
+Madagascar,MDG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,12.1276026442495,basic_sanitation_access
+Madagascar,MDG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,11.6111708038341,basic_sanitation_access
+Madagascar,MDG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,11.0976984755033,basic_sanitation_access
+Malawi,MWI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,42.8038384563156,basic_sanitation_access
+Malawi,MWI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,40.6356741988533,basic_sanitation_access
+Malawi,MWI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,38.4570661478088,basic_sanitation_access
+Malawi,MWI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,36.2684898070789,basic_sanitation_access
+Malawi,MWI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,34.0704035850355,basic_sanitation_access
+Malaysia,MYS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,95.93567943551,basic_sanitation_access
+Malaysia,MYS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,95.8087179177358,basic_sanitation_access
+Malaysia,MYS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,95.7121393469454,basic_sanitation_access
+Malaysia,MYS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,95.5818387511704,basic_sanitation_access
+Malaysia,MYS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,95.4491928177034,basic_sanitation_access
+Maldives,MDV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,96.3505180491116,basic_sanitation_access
+Maldives,MDV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,95.3413870915622,basic_sanitation_access
+Maldives,MDV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,94.3268032321981,basic_sanitation_access
+Maldives,MDV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,93.3068469398135,basic_sanitation_access
+Maldives,MDV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,92.2815312224762,basic_sanitation_access
+Mali,MLI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,41.2415636688459,basic_sanitation_access
+Mali,MLI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,39.9458152875809,basic_sanitation_access
+Mali,MLI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,38.6530201870083,basic_sanitation_access
+Mali,MLI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,37.3629585814102,basic_sanitation_access
+Mali,MLI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,36.0760821566718,basic_sanitation_access
+Malta,MLT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.9905343490211,basic_sanitation_access
+Malta,MLT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.9858051675868,basic_sanitation_access
+Malta,MLT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.9810896682043,basic_sanitation_access
+Malta,MLT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.9763785453032,basic_sanitation_access
+Malta,MLT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.9716734306493,basic_sanitation_access
+Marshall Islands,MHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,78.488659643571,basic_sanitation_access
+Marshall Islands,MHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,78.3619174334576,basic_sanitation_access
+Marshall Islands,MHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,78.2256974121697,basic_sanitation_access
+Marshall Islands,MHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,78.0801139470474,basic_sanitation_access
+Marshall Islands,MHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,77.9244886482311,basic_sanitation_access
+Mauritania,MRT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,49.7339098436372,basic_sanitation_access
+Mauritania,MRT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,47.6904380054199,basic_sanitation_access
+Mauritania,MRT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,45.6828446170813,basic_sanitation_access
+Mauritania,MRT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,43.7104270690001,basic_sanitation_access
+Mauritania,MRT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,41.7742652183786,basic_sanitation_access
+Mauritius,MUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,95.9523952887646,basic_sanitation_access
+Mauritius,MUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,95.6610436549434,basic_sanitation_access
+Mauritius,MUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,95.3704562123422,basic_sanitation_access
+Mauritius,MUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,95.0806649213747,basic_sanitation_access
+Mauritius,MUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,94.7917221671352,basic_sanitation_access
+Mexico,MEX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,91.0705197769802,basic_sanitation_access
+Mexico,MEX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,90.5185596102805,basic_sanitation_access
+Mexico,MEX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,89.9592224609298,basic_sanitation_access
+Mexico,MEX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,89.3924181439649,basic_sanitation_access
+Mexico,MEX,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,88.8179258213353,basic_sanitation_access
+"Micronesia, Fed. Sts.",FSM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,90.4539007167041,basic_sanitation_access
+"Micronesia, Fed. Sts.",FSM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,90.4539007167041,basic_sanitation_access
+"Micronesia, Fed. Sts.",FSM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,90.4539007167041,basic_sanitation_access
+"Micronesia, Fed. Sts.",FSM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,90.4539007167041,basic_sanitation_access
+"Micronesia, Fed. Sts.",FSM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,86.3660587810373,basic_sanitation_access
+Moldova,MDA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,83.6501429350345,basic_sanitation_access
+Moldova,MDA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,82.9015800000824,basic_sanitation_access
+Moldova,MDA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,82.1581768544632,basic_sanitation_access
+Moldova,MDA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,81.420818324275,basic_sanitation_access
+Moldova,MDA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,80.6901033429329,basic_sanitation_access
+Monaco,MCO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,100.0,basic_sanitation_access
+Monaco,MCO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,100.0,basic_sanitation_access
+Monaco,MCO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,100.0,basic_sanitation_access
+Monaco,MCO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,100.0,basic_sanitation_access
+Monaco,MCO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,100.0,basic_sanitation_access
+Mongolia,MNG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,67.4319599015551,basic_sanitation_access
+Mongolia,MNG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,66.102065585159,basic_sanitation_access
+Mongolia,MNG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,64.7860401773072,basic_sanitation_access
+Mongolia,MNG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,63.4840050160805,basic_sanitation_access
+Mongolia,MNG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,62.1905023037508,basic_sanitation_access
+Montenegro,MNE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.5022963479866,basic_sanitation_access
+Montenegro,MNE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.2142443586762,basic_sanitation_access
+Montenegro,MNE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,96.6569962707111,basic_sanitation_access
+Montenegro,MNE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,96.0990784093621,basic_sanitation_access
+Montenegro,MNE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,95.5434213816421,basic_sanitation_access
+Morocco,MAR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,86.3282321764417,basic_sanitation_access
+Morocco,MAR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,85.4034661501233,basic_sanitation_access
+Morocco,MAR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,84.4759106100825,basic_sanitation_access
+Morocco,MAR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,83.5458723077839,basic_sanitation_access
+Morocco,MAR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,82.6133857695212,basic_sanitation_access
+Mozambique,MOZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,32.0616645064997,basic_sanitation_access
+Mozambique,MOZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,30.7959176592195,basic_sanitation_access
+Mozambique,MOZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,29.5435460585168,basic_sanitation_access
+Mozambique,MOZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,28.3033808340067,basic_sanitation_access
+Mozambique,MOZ,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,27.0750381576231,basic_sanitation_access
+Myanmar,MMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,73.1653173340109,basic_sanitation_access
+Myanmar,MMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,72.6910446469858,basic_sanitation_access
+Myanmar,MMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,72.2144198606081,basic_sanitation_access
+Myanmar,MMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,71.7359380963987,basic_sanitation_access
+Myanmar,MMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,71.2558705695299,basic_sanitation_access
+Namibia,NAM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,36.9123066913261,basic_sanitation_access
+Namibia,NAM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,36.4891060185928,basic_sanitation_access
+Namibia,NAM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,36.0971096744774,basic_sanitation_access
+Namibia,NAM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,35.68218646148,basic_sanitation_access
+Namibia,NAM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,35.243867972916,basic_sanitation_access
+Nauru,NRU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,69.5699539376476,basic_sanitation_access
+Nauru,NRU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,69.2196722624544,basic_sanitation_access
+Nauru,NRU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,68.8693754420541,basic_sanitation_access
+Nauru,NRU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,68.5190634764467,basic_sanitation_access
+Nauru,NRU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,68.1687363656322,basic_sanitation_access
+Nepal,NPL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,69.2128409973963,basic_sanitation_access
+Nepal,NPL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,65.966994107957,basic_sanitation_access
+Nepal,NPL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,62.7615781748289,basic_sanitation_access
+Nepal,NPL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,59.5972467919298,basic_sanitation_access
+Nepal,NPL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,56.4745599225782,basic_sanitation_access
+Netherlands,NLD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.6944050882075,basic_sanitation_access
+Netherlands,NLD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.7036451274894,basic_sanitation_access
+Netherlands,NLD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.7135252353783,basic_sanitation_access
+Netherlands,NLD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.7241321475967,basic_sanitation_access
+Netherlands,NLD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.7352192649865,basic_sanitation_access
+New Caledonia,NCL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,100.0,basic_sanitation_access
+New Caledonia,NCL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,100.0,basic_sanitation_access
+New Caledonia,NCL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,100.0,basic_sanitation_access
+New Caledonia,NCL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,100.0,basic_sanitation_access
+New Caledonia,NCL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,100.0,basic_sanitation_access
+New Zealand,NZL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.9999954101942,basic_sanitation_access
+New Zealand,NZL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.9999959549403,basic_sanitation_access
+New Zealand,NZL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.9999952214353,basic_sanitation_access
+New Zealand,NZL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.9999978251524,basic_sanitation_access
+New Zealand,NZL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,100.0,basic_sanitation_access
+Nicaragua,NIC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+Nicaragua,NIC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,,basic_sanitation_access
+Nicaragua,NIC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,,basic_sanitation_access
+Nicaragua,NIC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,,basic_sanitation_access
+Nicaragua,NIC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,,basic_sanitation_access
+Niger,NER,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,14.10969749241,basic_sanitation_access
+Niger,NER,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,13.6886629942744,basic_sanitation_access
+Niger,NER,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,13.2744201872419,basic_sanitation_access
+Niger,NER,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,12.8657160959019,basic_sanitation_access
+Niger,NER,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,12.4627973884211,basic_sanitation_access
+Nigeria,NGA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,43.2767522763627,basic_sanitation_access
+Nigeria,NGA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,42.2262627362671,basic_sanitation_access
+Nigeria,NGA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,41.1997192224782,basic_sanitation_access
+Nigeria,NGA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,40.1973286058844,basic_sanitation_access
+Nigeria,NGA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,39.2193808312227,basic_sanitation_access
+North Macedonia,MKD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.8791697296938,basic_sanitation_access
+North Macedonia,MKD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.3296814337333,basic_sanitation_access
+North Macedonia,MKD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,96.7174458342857,basic_sanitation_access
+North Macedonia,MKD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,96.0648171578031,basic_sanitation_access
+North Macedonia,MKD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,95.4144114282649,basic_sanitation_access
+Northern Mariana Islands,MNP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.9751404617553,basic_sanitation_access
+Northern Mariana Islands,MNP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.713994320665,basic_sanitation_access
+Northern Mariana Islands,MNP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.4528481795746,basic_sanitation_access
+Northern Mariana Islands,MNP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.1917020384842,basic_sanitation_access
+Northern Mariana Islands,MNP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.9305558973937,basic_sanitation_access
+Norway,NOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.0521493999593,basic_sanitation_access
+Norway,NOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.053258505645,basic_sanitation_access
+Norway,NOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.0543904284695,basic_sanitation_access
+Norway,NOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.0555433258963,basic_sanitation_access
+Norway,NOR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,98.0567246248415,basic_sanitation_access
+Oman,OMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.3200354455114,basic_sanitation_access
+Oman,OMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.3198091795186,basic_sanitation_access
+Oman,OMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.3195652935256,basic_sanitation_access
+Oman,OMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.3192950863755,basic_sanitation_access
+Oman,OMN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.3190102957444,basic_sanitation_access
+Pakistan,PAK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,66.0398368746477,basic_sanitation_access
+Pakistan,PAK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,64.1435342442995,basic_sanitation_access
+Pakistan,PAK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,62.2553089946578,basic_sanitation_access
+Pakistan,PAK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,60.3757049658476,basic_sanitation_access
+Pakistan,PAK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,58.5009708232225,basic_sanitation_access
+Palau,PLW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.2917742819101,basic_sanitation_access
+Palau,PLW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.0358496591014,basic_sanitation_access
+Palau,PLW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.7722965190515,basic_sanitation_access
+Palau,PLW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.5006428774559,basic_sanitation_access
+Palau,PLW,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.2203841305645,basic_sanitation_access
+Panama,PAN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,83.1771159799322,basic_sanitation_access
+Panama,PAN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,82.0200768210799,basic_sanitation_access
+Panama,PAN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,80.8694181421993,basic_sanitation_access
+Panama,PAN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,79.7251829235126,basic_sanitation_access
+Panama,PAN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,78.5876693762409,basic_sanitation_access
+Papua New Guinea,PNG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,21.8143659983838,basic_sanitation_access
+Papua New Guinea,PNG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,21.4585108450562,basic_sanitation_access
+Papua New Guinea,PNG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,21.1018609699395,basic_sanitation_access
+Papua New Guinea,PNG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,20.745116008719,basic_sanitation_access
+Papua New Guinea,PNG,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,20.3882856738352,basic_sanitation_access
+Paraguay,PRY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,91.4154881056866,basic_sanitation_access
+Paraguay,PRY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,90.415146711899,basic_sanitation_access
+Paraguay,PRY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,89.4202504452198,basic_sanitation_access
+Paraguay,PRY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,88.4178947324525,basic_sanitation_access
+Paraguay,PRY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,87.4068345992566,basic_sanitation_access
+Peru,PER,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,76.1591748496731,basic_sanitation_access
+Peru,PER,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,75.6274098296364,basic_sanitation_access
+Peru,PER,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,75.0928493726003,basic_sanitation_access
+Peru,PER,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,74.5559040876133,basic_sanitation_access
+Peru,PER,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,74.0145820909902,basic_sanitation_access
+Philippines,PHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,81.3825055793541,basic_sanitation_access
+Philippines,PHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,80.2422384212533,basic_sanitation_access
+Philippines,PHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,79.1077756692214,basic_sanitation_access
+Philippines,PHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,77.9796692916052,basic_sanitation_access
+Philippines,PHL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,76.8582853974515,basic_sanitation_access
+Poland,POL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.9575340330854,basic_sanitation_access
+Poland,POL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.9554251030336,basic_sanitation_access
+Poland,POL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.7966126825203,basic_sanitation_access
+Poland,POL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.3831051859455,basic_sanitation_access
+Poland,POL,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.6921036491612,basic_sanitation_access
+Portugal,PRT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.6200248701138,basic_sanitation_access
+Portugal,PRT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.5305100855018,basic_sanitation_access
+Portugal,PRT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.43806801438,basic_sanitation_access
+Portugal,PRT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.3443014964216,basic_sanitation_access
+Portugal,PRT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.2491933162673,basic_sanitation_access
+Puerto Rico (US),PRI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,100.0,basic_sanitation_access
+Puerto Rico (US),PRI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,100.0,basic_sanitation_access
+Puerto Rico (US),PRI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,100.0,basic_sanitation_access
+Puerto Rico (US),PRI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,100.0,basic_sanitation_access
+Puerto Rico (US),PRI,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,100.0,basic_sanitation_access
+Qatar,QAT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.9365458669077,basic_sanitation_access
+Qatar,QAT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.9365461279432,basic_sanitation_access
+Qatar,QAT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.9365463889767,basic_sanitation_access
+Qatar,QAT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.936546650008,basic_sanitation_access
+Qatar,QAT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.9365469110371,basic_sanitation_access
+Romania,ROU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,86.8911090946585,basic_sanitation_access
+Romania,ROU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,85.9929537766502,basic_sanitation_access
+Romania,ROU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,85.0986005989272,basic_sanitation_access
+Romania,ROU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,84.2094124497179,basic_sanitation_access
+Romania,ROU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,83.3255001952095,basic_sanitation_access
+Russian Federation,RUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,89.1372417555839,basic_sanitation_access
+Russian Federation,RUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,88.5392414303968,basic_sanitation_access
+Russian Federation,RUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,87.9466409875352,basic_sanitation_access
+Russian Federation,RUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,87.3591528902794,basic_sanitation_access
+Russian Federation,RUS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,86.7766922089747,basic_sanitation_access
+Rwanda,RWA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,74.3150494792337,basic_sanitation_access
+Rwanda,RWA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,72.7776126104957,basic_sanitation_access
+Rwanda,RWA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,71.2308954690674,basic_sanitation_access
+Rwanda,RWA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,69.6758086260828,basic_sanitation_access
+Rwanda,RWA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,68.1134578237063,basic_sanitation_access
+Samoa,WSM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,95.8200173728915,basic_sanitation_access
+Samoa,WSM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,95.5585181223598,basic_sanitation_access
+Samoa,WSM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,95.2976717259871,basic_sanitation_access
+Samoa,WSM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,95.0374675364972,basic_sanitation_access
+Samoa,WSM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,94.7777698879904,basic_sanitation_access
+San Marino,SMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,100.0,basic_sanitation_access
+San Marino,SMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,100.0,basic_sanitation_access
+San Marino,SMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,100.0,basic_sanitation_access
+San Marino,SMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,100.0,basic_sanitation_access
+San Marino,SMR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,100.0,basic_sanitation_access
+Sao Tome and Principe,STP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,45.7575570286583,basic_sanitation_access
+Sao Tome and Principe,STP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,44.4058041526004,basic_sanitation_access
+Sao Tome and Principe,STP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,43.0527347494608,basic_sanitation_access
+Sao Tome and Principe,STP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,41.6983508891345,basic_sanitation_access
+Sao Tome and Principe,STP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,40.3427054934035,basic_sanitation_access
+Saudi Arabia,SAU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.5820275772784,basic_sanitation_access
+Saudi Arabia,SAU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.5769396449473,basic_sanitation_access
+Saudi Arabia,SAU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.5718278390654,basic_sanitation_access
+Saudi Arabia,SAU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.5667358551859,basic_sanitation_access
+Saudi Arabia,SAU,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.5616457387732,basic_sanitation_access
+Senegal,SEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,57.204943845452,basic_sanitation_access
+Senegal,SEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,56.1299701818744,basic_sanitation_access
+Senegal,SEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,55.0521038030032,basic_sanitation_access
+Senegal,SEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,53.9714940731355,basic_sanitation_access
+Senegal,SEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,52.8890432398602,basic_sanitation_access
+Serbia,SRB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.9156406613819,basic_sanitation_access
+Serbia,SRB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.8576090639596,basic_sanitation_access
+Serbia,SRB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.6881908970258,basic_sanitation_access
+Serbia,SRB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.519678308202,basic_sanitation_access
+Serbia,SRB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.3520264197285,basic_sanitation_access
+Seychelles,SYC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.885830584073,basic_sanitation_access
+Seychelles,SYC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.8746286644801,basic_sanitation_access
+Seychelles,SYC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.8451290579635,basic_sanitation_access
+Seychelles,SYC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.6480096869539,basic_sanitation_access
+Seychelles,SYC,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,98.4508903159442,basic_sanitation_access
+Sierra Leone,SLE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,20.0997388519849,basic_sanitation_access
+Sierra Leone,SLE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,19.205484723374,basic_sanitation_access
+Sierra Leone,SLE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,18.3338579581936,basic_sanitation_access
+Sierra Leone,SLE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,17.4849469878374,basic_sanitation_access
+Sierra Leone,SLE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,16.6582857856538,basic_sanitation_access
+Singapore,SGP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,100.0,basic_sanitation_access
+Singapore,SGP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,100.0,basic_sanitation_access
+Singapore,SGP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,100.0,basic_sanitation_access
+Singapore,SGP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,100.0,basic_sanitation_access
+Singapore,SGP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,100.0,basic_sanitation_access
+Sint Maarten (Dutch part),SXM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+Sint Maarten (Dutch part),SXM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,,basic_sanitation_access
+Sint Maarten (Dutch part),SXM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.7810265603988,basic_sanitation_access
+Sint Maarten (Dutch part),SXM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.7810265603988,basic_sanitation_access
+Sint Maarten (Dutch part),SXM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,98.7810265603988,basic_sanitation_access
+Slovak Republic,SVK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.5318474506964,basic_sanitation_access
+Slovak Republic,SVK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.5317758845703,basic_sanitation_access
+Slovak Republic,SVK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.532398820711,basic_sanitation_access
+Slovak Republic,SVK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.526250341086,basic_sanitation_access
+Slovak Republic,SVK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.5208284449085,basic_sanitation_access
+Slovenia,SVN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.4178934010152,basic_sanitation_access
+Slovenia,SVN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.4712612260836,basic_sanitation_access
+Slovenia,SVN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.5246290511519,basic_sanitation_access
+Slovenia,SVN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.5779968762202,basic_sanitation_access
+Slovenia,SVN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,98.6313647012886,basic_sanitation_access
+Solomon Islands,SLB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,32.5533129184691,basic_sanitation_access
+Solomon Islands,SLB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,31.8782846169849,basic_sanitation_access
+Solomon Islands,SLB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,31.2036978531695,basic_sanitation_access
+Solomon Islands,SLB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,30.5306345641,basic_sanitation_access
+Solomon Islands,SLB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,29.8590956039926,basic_sanitation_access
+"Somalia, Fed. Rep.",SOM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,39.2334053088705,basic_sanitation_access
+"Somalia, Fed. Rep.",SOM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,38.1938671112932,basic_sanitation_access
+"Somalia, Fed. Rep.",SOM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,37.1573619625344,basic_sanitation_access
+"Somalia, Fed. Rep.",SOM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,36.1250378584049,basic_sanitation_access
+"Somalia, Fed. Rep.",SOM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,35.0972405875154,basic_sanitation_access
+South Africa,ZAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,74.2781920666219,basic_sanitation_access
+South Africa,ZAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,73.6294078282668,basic_sanitation_access
+South Africa,ZAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,72.9715054204693,basic_sanitation_access
+South Africa,ZAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,72.3045193020221,basic_sanitation_access
+South Africa,ZAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,71.6284763129344,basic_sanitation_access
+South Sudan,SSD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,12.5375975656084,basic_sanitation_access
+South Sudan,SSD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,11.737005779493,basic_sanitation_access
+South Sudan,SSD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,10.968942628146,basic_sanitation_access
+South Sudan,SSD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,10.2323689883362,basic_sanitation_access
+South Sudan,SSD,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,9.52607939004663,basic_sanitation_access
+Spain,ESP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.9193505376925,basic_sanitation_access
+Spain,ESP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.9195992102324,basic_sanitation_access
+Spain,ESP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.9198350404292,basic_sanitation_access
+Spain,ESP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.9188850913844,basic_sanitation_access
+Spain,ESP,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.9124654207722,basic_sanitation_access
+Sri Lanka,LKA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,92.4879479800339,basic_sanitation_access
+Sri Lanka,LKA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,91.6331770755008,basic_sanitation_access
+Sri Lanka,LKA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,90.7819310655448,basic_sanitation_access
+Sri Lanka,LKA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,89.9341591246989,basic_sanitation_access
+Sri Lanka,LKA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,89.0897723399477,basic_sanitation_access
+St. Kitts and Nevis,KNA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+St. Kitts and Nevis,KNA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,,basic_sanitation_access
+St. Kitts and Nevis,KNA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,94.9535945166888,basic_sanitation_access
+St. Kitts and Nevis,KNA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,94.9535945166888,basic_sanitation_access
+St. Kitts and Nevis,KNA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,94.9535945166888,basic_sanitation_access
+St. Lucia,LCA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,83.3723158043306,basic_sanitation_access
+St. Lucia,LCA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,83.3759977820708,basic_sanitation_access
+St. Lucia,LCA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,83.2569990879187,basic_sanitation_access
+St. Lucia,LCA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,83.1035196660243,basic_sanitation_access
+St. Lucia,LCA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,82.9135424876692,basic_sanitation_access
+St. Martin (French part),MAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.9388507681379,basic_sanitation_access
+St. Martin (French part),MAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.887627869265,basic_sanitation_access
+St. Martin (French part),MAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.836404970392,basic_sanitation_access
+St. Martin (French part),MAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.785182071519,basic_sanitation_access
+St. Martin (French part),MAF,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.7339591726461,basic_sanitation_access
+St. Vincent and the Grenadines,VCT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,,basic_sanitation_access
+St. Vincent and the Grenadines,VCT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,89.7010629819102,basic_sanitation_access
+St. Vincent and the Grenadines,VCT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,89.6721678912107,basic_sanitation_access
+St. Vincent and the Grenadines,VCT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,89.6434827883976,basic_sanitation_access
+St. Vincent and the Grenadines,VCT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,89.6149399647848,basic_sanitation_access
+Sudan,SDN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,51.3601722607621,basic_sanitation_access
+Sudan,SDN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,48.6574194730533,basic_sanitation_access
+Sudan,SDN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,46.0119565679027,basic_sanitation_access
+Sudan,SDN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,43.424779800547,basic_sanitation_access
+Sudan,SDN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,40.8962454458167,basic_sanitation_access
+Suriname,SUR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,89.2491417475009,basic_sanitation_access
+Suriname,SUR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,88.5487221622628,basic_sanitation_access
+Suriname,SUR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,87.8530834622316,basic_sanitation_access
+Suriname,SUR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,87.1630073725614,basic_sanitation_access
+Suriname,SUR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,86.4788537727956,basic_sanitation_access
+Sweden,SWE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.8383650468889,basic_sanitation_access
+Sweden,SWE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.8618710894005,basic_sanitation_access
+Sweden,SWE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.8852906425608,basic_sanitation_access
+Sweden,SWE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,98.9086418804905,basic_sanitation_access
+Sweden,SWE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,98.9319079494218,basic_sanitation_access
+Switzerland,CHE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.8998728058584,basic_sanitation_access
+Switzerland,CHE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.8998706855138,basic_sanitation_access
+Switzerland,CHE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.8998756361922,basic_sanitation_access
+Switzerland,CHE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.8982917124867,basic_sanitation_access
+Switzerland,CHE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.8954458615596,basic_sanitation_access
+Syrian Arab Republic,SYR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,93.9559328365603,basic_sanitation_access
+Syrian Arab Republic,SYR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,93.6084625778636,basic_sanitation_access
+Syrian Arab Republic,SYR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,93.258034132691,basic_sanitation_access
+Syrian Arab Republic,SYR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,92.9046403526053,basic_sanitation_access
+Syrian Arab Republic,SYR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,92.5483239351902,basic_sanitation_access
+Tajikistan,TJK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,95.9706194331764,basic_sanitation_access
+Tajikistan,TJK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,95.8112529374464,basic_sanitation_access
+Tajikistan,TJK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,95.5837707483272,basic_sanitation_access
+Tajikistan,TJK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,95.3542477429458,basic_sanitation_access
+Tajikistan,TJK,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,95.1229285632346,basic_sanitation_access
+Tanzania,TZA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,29.6802357492442,basic_sanitation_access
+Tanzania,TZA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,28.2133927251419,basic_sanitation_access
+Tanzania,TZA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,26.7585271322434,basic_sanitation_access
+Tanzania,TZA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,25.3153858621226,basic_sanitation_access
+Tanzania,TZA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,23.8834363913571,basic_sanitation_access
+Thailand,THA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.705394777576,basic_sanitation_access
+Thailand,THA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.3791754669481,basic_sanitation_access
+Thailand,THA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.0558447818026,basic_sanitation_access
+Thailand,THA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,96.7354102291453,basic_sanitation_access
+Thailand,THA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,96.417885275126,basic_sanitation_access
+Timor-Leste,TLS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,60.663593946828,basic_sanitation_access
+Timor-Leste,TLS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,58.2016694124243,basic_sanitation_access
+Timor-Leste,TLS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,55.7381542550198,basic_sanitation_access
+Timor-Leste,TLS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,53.273678577949,basic_sanitation_access
+Timor-Leste,TLS,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,50.808161320469,basic_sanitation_access
+Togo,TGO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,21.6400439153227,basic_sanitation_access
+Togo,TGO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,20.6062840876452,basic_sanitation_access
+Togo,TGO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,19.5982705218929,basic_sanitation_access
+Togo,TGO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,18.6162879264339,basic_sanitation_access
+Togo,TGO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,17.6606158910418,basic_sanitation_access
+Tonga,TON,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,93.3566618540617,basic_sanitation_access
+Tonga,TON,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,93.2070910925577,basic_sanitation_access
+Tonga,TON,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,93.0554424910355,basic_sanitation_access
+Tonga,TON,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,92.9019205295168,basic_sanitation_access
+Tonga,TON,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,92.7457956111317,basic_sanitation_access
+Trinidad and Tobago,TTO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,94.251259726399,basic_sanitation_access
+Trinidad and Tobago,TTO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,94.2677930697495,basic_sanitation_access
+Trinidad and Tobago,TTO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,94.2844344672468,basic_sanitation_access
+Trinidad and Tobago,TTO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,94.3009655351862,basic_sanitation_access
+Trinidad and Tobago,TTO,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,94.317158860963,basic_sanitation_access
+Tunisia,TUN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,94.5224940632681,basic_sanitation_access
+Tunisia,TUN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,93.6354735142668,basic_sanitation_access
+Tunisia,TUN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,92.7457440160073,basic_sanitation_access
+Tunisia,TUN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,91.8540914293083,basic_sanitation_access
+Tunisia,TUN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,90.9610365626904,basic_sanitation_access
+Turkiye,TUR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.6993304992011,basic_sanitation_access
+Turkiye,TUR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.1513969936455,basic_sanitation_access
+Turkiye,TUR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.5910900486757,basic_sanitation_access
+Turkiye,TUR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.0180744384543,basic_sanitation_access
+Turkiye,TUR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,96.4317908505569,basic_sanitation_access
+Turkmenistan,TKM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.960474453072,basic_sanitation_access
+Turkmenistan,TKM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,98.5690477632557,basic_sanitation_access
+Turkmenistan,TKM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,98.1805141094557,basic_sanitation_access
+Turkmenistan,TKM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,97.7947178741168,basic_sanitation_access
+Turkmenistan,TKM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,97.4115357683835,basic_sanitation_access
+Turks and Caicos Islands,TCA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,93.1348642536176,basic_sanitation_access
+Turks and Caicos Islands,TCA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,93.1305309193473,basic_sanitation_access
+Turks and Caicos Islands,TCA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,93.1258920918043,basic_sanitation_access
+Turks and Caicos Islands,TCA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,93.1209288772918,basic_sanitation_access
+Turks and Caicos Islands,TCA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,,basic_sanitation_access
+Tuvalu,TUV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,87.5751591368596,basic_sanitation_access
+Tuvalu,TUV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,87.1446773088525,basic_sanitation_access
+Tuvalu,TUV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,86.7100762257543,basic_sanitation_access
+Tuvalu,TUV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,86.2711177988143,basic_sanitation_access
+Tuvalu,TUV,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,85.8275541717816,basic_sanitation_access
+Uganda,UGA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,22.0428914452572,basic_sanitation_access
+Uganda,UGA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,21.6668720905552,basic_sanitation_access
+Uganda,UGA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,21.2895047336164,basic_sanitation_access
+Uganda,UGA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,20.9104342628765,basic_sanitation_access
+Uganda,UGA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,20.5299518497404,basic_sanitation_access
+Ukraine,UKR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.3052193099168,basic_sanitation_access
+Ukraine,UKR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.1876990557354,basic_sanitation_access
+Ukraine,UKR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.0700543014006,basic_sanitation_access
+Ukraine,UKR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,96.9523458246156,basic_sanitation_access
+Ukraine,UKR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,96.8342062972295,basic_sanitation_access
+United Arab Emirates,ARE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.0984768671773,basic_sanitation_access
+United Arab Emirates,ARE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.1010218730891,basic_sanitation_access
+United Arab Emirates,ARE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.1036305730769,basic_sanitation_access
+United Arab Emirates,ARE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.1063234658359,basic_sanitation_access
+United Arab Emirates,ARE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.1090951528049,basic_sanitation_access
+United Kingdom,GBR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.1080626668205,basic_sanitation_access
+United Kingdom,GBR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.1091755535877,basic_sanitation_access
+United Kingdom,GBR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.1102920996894,basic_sanitation_access
+United Kingdom,GBR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.1114197755495,basic_sanitation_access
+United Kingdom,GBR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.1125609623652,basic_sanitation_access
+United States,USA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.6844358089122,basic_sanitation_access
+United States,USA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.7031223122571,basic_sanitation_access
+United States,USA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.7223530086904,basic_sanitation_access
+United States,USA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.7420835602062,basic_sanitation_access
+United States,USA,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.7623251311093,basic_sanitation_access
+Uruguay,URY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,97.784620083579,basic_sanitation_access
+Uruguay,URY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.4993671618489,basic_sanitation_access
+Uruguay,URY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.2135571051318,basic_sanitation_access
+Uruguay,URY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,96.9271658776364,basic_sanitation_access
+Uruguay,URY,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,96.6401328300575,basic_sanitation_access
+Uzbekistan,UZB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,95.9392204824787,basic_sanitation_access
+Uzbekistan,UZB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,95.8162707017891,basic_sanitation_access
+Uzbekistan,UZB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,95.6935576486234,basic_sanitation_access
+Uzbekistan,UZB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,95.5713512500574,basic_sanitation_access
+Uzbekistan,UZB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,95.4497993116875,basic_sanitation_access
+Vanuatu,VUT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,49.7088902543103,basic_sanitation_access
+Vanuatu,VUT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,50.0825530456951,basic_sanitation_access
+Vanuatu,VUT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,50.4548604763526,basic_sanitation_access
+Vanuatu,VUT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,50.826109673151,basic_sanitation_access
+Vanuatu,VUT,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,51.1954457861803,basic_sanitation_access
+"Venezuela, RB",VEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,96.7597095990301,basic_sanitation_access
+"Venezuela, RB",VEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,96.2144174724477,basic_sanitation_access
+"Venezuela, RB",VEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,95.6691253458652,basic_sanitation_access
+"Venezuela, RB",VEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,95.1238332192828,basic_sanitation_access
+"Venezuela, RB",VEN,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,94.5785410927004,basic_sanitation_access
+Viet Nam,VNM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,86.6789932516384,basic_sanitation_access
+Viet Nam,VNM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,84.7702960974693,basic_sanitation_access
+Viet Nam,VNM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,82.8485783033642,basic_sanitation_access
+Viet Nam,VNM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,80.9140981082283,basic_sanitation_access
+Viet Nam,VNM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,78.9669212576084,basic_sanitation_access
+Virgin Islands (U.S.),VIR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,99.2289751608412,basic_sanitation_access
+Virgin Islands (U.S.),VIR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,99.2190062023162,basic_sanitation_access
+Virgin Islands (U.S.),VIR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,99.2090372437912,basic_sanitation_access
+Virgin Islands (U.S.),VIR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,99.1990682852662,basic_sanitation_access
+Virgin Islands (U.S.),VIR,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,99.1890993267411,basic_sanitation_access
+West Bank and Gaza,PSE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,98.156123198693,basic_sanitation_access
+West Bank and Gaza,PSE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,97.6788204548577,basic_sanitation_access
+West Bank and Gaza,PSE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,97.2007822905197,basic_sanitation_access
+West Bank and Gaza,PSE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,96.7220200053128,basic_sanitation_access
+West Bank and Gaza,PSE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,96.2425962734405,basic_sanitation_access
+"Yemen, Rep.",YEM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,59.0129962088495,basic_sanitation_access
+"Yemen, Rep.",YEM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,58.1748003487901,basic_sanitation_access
+"Yemen, Rep.",YEM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,57.3296474501288,basic_sanitation_access
+"Yemen, Rep.",YEM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,56.4772672906306,basic_sanitation_access
+"Yemen, Rep.",YEM,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,55.6182996414083,basic_sanitation_access
+Zambia,ZMB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,33.8947045843208,basic_sanitation_access
+Zambia,ZMB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,33.2903966380539,basic_sanitation_access
+Zambia,ZMB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,32.674491350081,basic_sanitation_access
+Zambia,ZMB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,32.0477720583314,basic_sanitation_access
+Zambia,ZMB,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,31.4108659962422,basic_sanitation_access
+Zimbabwe,ZWE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2019,35.7743353702206,basic_sanitation_access
+Zimbabwe,ZWE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2018,36.3571595127659,basic_sanitation_access
+Zimbabwe,ZWE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2017,36.9416715486173,basic_sanitation_access
+Zimbabwe,ZWE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2016,37.5291927779865,basic_sanitation_access
+Zimbabwe,ZWE,SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),2015,38.1206484665361,basic_sanitation_access

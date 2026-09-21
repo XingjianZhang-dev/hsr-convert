@@ -1,0 +1,895 @@
+{
+  "baselines": {
+    "capacity_only": {
+      "bottom10_overlap": 0.0,
+      "bottom20_overlap": 0.15,
+      "description": "HSR-Convert potential capacity C_i only (no outcome linkage)",
+      "n": 106,
+      "spearman_ci_high": 0.24662182496726012,
+      "spearman_ci_low": -0.17035545407841987,
+      "spearman_p": 0.6646776563688712,
+      "spearman_with_conversion_efficiency": 0.04258760107816711,
+      "spearman_with_observed_burden": -0.18140917449681337,
+      "spearman_with_observed_burden_ci_high": -0.004226510658333828,
+      "spearman_with_observed_burden_ci_low": -0.35026493594342467,
+      "spearman_with_observed_burden_p": 0.06273717359127455,
+      "top10_overlap": 0.2,
+      "top20_overlap": 0.4
+    },
+    "ghs_2019_overall": {
+      "bottom10_overlap": 0.1,
+      "bottom20_overlap": 0.1,
+      "description": "GHS 2019 overall index (static preparedness ranking)",
+      "n": 105,
+      "spearman_ci_high": 0.14801701976893608,
+      "spearman_ci_low": -0.24717005826604102,
+      "spearman_p": 0.606863577643348,
+      "spearman_with_conversion_efficiency": -0.05079105075454099,
+      "spearman_with_observed_burden": 0.085823294171482,
+      "spearman_with_observed_burden_ci_high": 0.258557153597106,
+      "spearman_with_observed_burden_ci_low": -0.0890901705160491,
+      "spearman_with_observed_burden_p": 0.3840231105667612,
+      "top10_overlap": 0.1,
+      "top20_overlap": 0.2
+    },
+    "ghs_bottom_quartile_positive_efficiency": [
+      {
+        "baseline_rank": 94,
+        "baseline_score": 30.9,
+        "conversion_efficiency_zscore": 1.6115552910680526,
+        "conversion_profile": "adaptive over-performers",
+        "country": "Namibia",
+        "country_label_category": "evidence-dependent label",
+        "efficiency_rank": 3,
+        "iso3": "NAM"
+      },
+      {
+        "baseline_rank": 82,
+        "baseline_score": 35.8,
+        "conversion_efficiency_zscore": 1.5073829326411707,
+        "conversion_profile": "adaptive over-performers",
+        "country": "Dominican Republic",
+        "country_label_category": "stable over-performer",
+        "efficiency_rank": 4,
+        "iso3": "DOM"
+      },
+      {
+        "baseline_rank": 87,
+        "baseline_score": 32.7,
+        "conversion_efficiency_zscore": 1.4192387944136184,
+        "conversion_profile": "adaptive over-performers",
+        "country": "St. Vincent and the Grenadines",
+        "country_label_category": "evidence-dependent label",
+        "efficiency_rank": 6,
+        "iso3": "VCT"
+      },
+      {
+        "baseline_rank": 89,
+        "baseline_score": 32.2,
+        "conversion_efficiency_zscore": 1.153939279448213,
+        "conversion_profile": "adaptive over-performers",
+        "country": "Barbados",
+        "country_label_category": "evidence-dependent label",
+        "efficiency_rank": 9,
+        "iso3": "BRB"
+      },
+      {
+        "baseline_rank": 100,
+        "baseline_score": 30.2,
+        "conversion_efficiency_zscore": 1.1536533611423352,
+        "conversion_profile": "uncertain / data-limited systems",
+        "country": "Antigua and Barbuda",
+        "country_label_category": "data-limited",
+        "efficiency_rank": 10,
+        "iso3": "ATG"
+      },
+      {
+        "baseline_rank": 79,
+        "baseline_score": 36.9,
+        "conversion_efficiency_zscore": 1.0824306028338924,
+        "conversion_profile": "uncertain / data-limited systems",
+        "country": "Ukraine",
+        "country_label_category": "data-limited",
+        "efficiency_rank": 14,
+        "iso3": "UKR"
+      },
+      {
+        "baseline_rank": 105,
+        "baseline_score": 25.4,
+        "conversion_efficiency_zscore": 0.9963822847207642,
+        "conversion_profile": "adaptive over-performers",
+        "country": "Fiji",
+        "country_label_category": "evidence-dependent label",
+        "efficiency_rank": 17,
+        "iso3": "FJI"
+      },
+      {
+        "baseline_rank": 102,
+        "baseline_score": 29.8,
+        "conversion_efficiency_zscore": 0.8731159431863904,
+        "conversion_profile": "adaptive over-performers",
+        "country": "Tajikistan",
+        "country_label_category": "evidence-dependent label",
+        "efficiency_rank": 20,
+        "iso3": "TJK"
+      },
+      {
+        "baseline_rank": 84,
+        "baseline_score": 33.2,
+        "conversion_efficiency_zscore": 0.7344894000496776,
+        "conversion_profile": "uncertain / data-limited systems",
+        "country": "Seychelles",
+        "country_label_category": "data-limited",
+        "efficiency_rank": 22,
+        "iso3": "SYC"
+      },
+      {
+        "baseline_rank": 88,
+        "baseline_score": 32.6,
+        "conversion_efficiency_zscore": 0.7253228043293579,
+        "conversion_profile": "adaptive over-performers",
+        "country": "Cabo Verde",
+        "country_label_category": "evidence-dependent label",
+        "efficiency_rank": 23,
+        "iso3": "CPV"
+      },
+      {
+        "baseline_rank": 94,
+        "baseline_score": 30.9,
+        "conversion_efficiency_zscore": 0.6781550515502107,
+        "conversion_profile": "adaptive over-performers",
+        "country": "Jamaica",
+        "country_label_category": "evidence-dependent label",
+        "efficiency_rank": 24,
+        "iso3": "JAM"
+      },
+      {
+        "baseline_rank": 100,
+        "baseline_score": 30.2,
+        "conversion_efficiency_zscore": 0.6737376894803904,
+        "conversion_profile": "uncertain / data-limited systems",
+        "country": "Belize",
+        "country_label_category": "data-limited",
+        "efficiency_rank": 25,
+        "iso3": "BLZ"
+      },
+      {
+        "baseline_rank": 84,
+        "baseline_score": 33.2,
+        "conversion_efficiency_zscore": 0.4706846741780459,
+        "conversion_profile": "adaptive over-performers",
+        "country": "Suriname",
+        "country_label_category": "stable over-performer",
+        "efficiency_rank": 37,
+        "iso3": "SUR"
+      },
+      {
+        "baseline_rank": 98,
+        "baseline_score": 30.5,
+        "conversion_efficiency_zscore": 0.4072528611044628,
+        "conversion_profile": "effective converters",
+        "country": "Andorra",
+        "country_label_category": "evidence-dependent label",
+        "efficiency_rank": 41,
+        "iso3": "AND"
+      },
+      {
+        "baseline_rank": 103,
+        "baseline_score": 29.6,
+        "conversion_efficiency_zscore": 0.3320929275655985,
+        "conversion_profile": "adaptive over-performers",
+        "country": "Bahamas, The",
+        "country_label_category": "stable over-performer",
+        "efficiency_rank": 45,
+        "iso3": "BHS"
+      },
+      {
+        "baseline_rank": 93,
+        "baseline_score": 31.0,
+        "conversion_efficiency_zscore": 0.3271621021699673,
+        "conversion_profile": "adaptive over-performers",
+        "country": "Guatemala",
+        "country_label_category": "evidence-dependent label",
+        "efficiency_rank": 46,
+        "iso3": "GTM"
+      },
+      {
+        "baseline_rank": 83,
+        "baseline_score": 34.2,
+        "conversion_efficiency_zscore": 0.213239025009891,
+        "conversion_profile": "adaptive over-performers",
+        "country": "Azerbaijan",
+        "country_label_category": "evidence-dependent label",
+        "efficiency_rank": 51,
+        "iso3": "AZE"
+      },
+      {
+        "baseline_rank": 89,
+        "baseline_score": 32.2,
+        "conversion_efficiency_zscore": 0.0624401117610778,
+        "conversion_profile": "uncertain / data-limited systems",
+        "country": "San Marino",
+        "country_label_category": "data-limited",
+        "efficiency_rank": 56,
+        "iso3": "SMR"
+      }
+    ],
+    "ghs_coverage_in_validation_set": 105,
+    "ghs_top_quartile_negative_efficiency": [
+      {
+        "baseline_rank": 16,
+        "baseline_score": 61.4,
+        "conversion_efficiency_zscore": -2.9737986660169526,
+        "conversion_profile": "uncertain / data-limited systems",
+        "country": "Bulgaria",
+        "country_label_category": "data-limited",
+        "efficiency_rank": 105,
+        "iso3": "BGR"
+      },
+      {
+        "baseline_rank": 13,
+        "baseline_score": 63.2,
+        "conversion_efficiency_zscore": -1.948283078005972,
+        "conversion_profile": "uncertain / data-limited systems",
+        "country": "Armenia",
+        "country_label_category": "data-limited",
+        "efficiency_rank": 100,
+        "iso3": "ARM"
+      },
+      {
+        "baseline_rank": 1,
+        "baseline_score": 76.2,
+        "conversion_efficiency_zscore": -1.2162711675864122,
+        "conversion_profile": "capacity under-realizers",
+        "country": "United States",
+        "country_label_category": "stable under-realizer",
+        "efficiency_rank": 93,
+        "iso3": "USA"
+      },
+      {
+        "baseline_rank": 24,
+        "baseline_score": 56.1,
+        "conversion_efficiency_zscore": -0.5607786651550956,
+        "conversion_profile": "capacity under-realizers",
+        "country": "Argentina",
+        "country_label_category": "stable under-realizer",
+        "efficiency_rank": 79,
+        "iso3": "ARG"
+      },
+      {
+        "baseline_rank": 25,
+        "baseline_score": 55.8,
+        "conversion_efficiency_zscore": -0.4875587587834289,
+        "conversion_profile": "uncertain / data-limited systems",
+        "country": "Singapore",
+        "country_label_category": "data-limited",
+        "efficiency_rank": 77,
+        "iso3": "SGP"
+      },
+      {
+        "baseline_rank": 20,
+        "baseline_score": 59.8,
+        "conversion_efficiency_zscore": -0.0992728276026543,
+        "conversion_profile": "uncertain / data-limited systems",
+        "country": "Latvia",
+        "country_label_category": "data-limited",
+        "efficiency_rank": 61,
+        "iso3": "LVA"
+      }
+    ],
+    "n_boot": 2000,
+    "n_ghs_bottom_quartile": 27,
+    "n_ghs_bottom_quartile_positive_efficiency": 18,
+    "n_ghs_top_quartile": 27,
+    "n_ghs_top_quartile_negative_efficiency": 6,
+    "outcome_only": {
+      "bottom10_overlap": 0.7,
+      "bottom20_overlap": 0.8,
+      "description": "Raw 2020-2022 excess deaths per million, sign-flipped (no capacity adjustment)",
+      "n": 106,
+      "spearman_ci_high": 0.8229635448838613,
+      "spearman_ci_low": 0.5599758718171237,
+      "spearman_p": 1.3415278455500723e-17,
+      "spearman_with_conversion_efficiency": 0.7110713655943773,
+      "top10_overlap": 0.5,
+      "top20_overlap": 0.6
+    },
+    "seed": 20260921
+  },
+  "model_comparison": {
+    "best_model_by_cv_rmse": "random_forest",
+    "elastic_net": {
+      "corrected_t_p_vs_ridge": 0.10018813017429104,
+      "corrected_t_vs_ridge": 1.65945850742045,
+      "cv_mae_mean": 1497.3247425545567,
+      "cv_mae_sd": 277.8979452270855,
+      "cv_r2_mean": 0.2696453174553611,
+      "cv_r2_sd": 0.04439275960117383,
+      "cv_rmse_mean": 1903.3651726627475,
+      "cv_rmse_sd": 351.54711839618795,
+      "delta_rmse_vs_ridge_mean": 144.13830307842363,
+      "delta_rmse_vs_ridge_sd": 170.3438006959131,
+      "n_countries": 106,
+      "wilcoxon_p_vs_ridge_per_repeat": 1.9073486328125e-06
+    },
+    "gradient_boosting": {
+      "corrected_t_p_vs_ridge": 0.377824861963024,
+      "corrected_t_vs_ridge": -0.885887651635309,
+      "cv_mae_mean": 1272.104435641455,
+      "cv_mae_sd": 222.8469446304822,
+      "cv_r2_mean": 0.46881496411366397,
+      "cv_r2_sd": 0.0413612191697599,
+      "cv_rmse_mean": 1627.8273125585026,
+      "cv_rmse_sd": 270.5820024750678,
+      "delta_rmse_vs_ridge_mean": -131.39955702582157,
+      "delta_rmse_vs_ridge_sd": 290.8898575931616,
+      "n_countries": 106,
+      "wilcoxon_p_vs_ridge_per_repeat": 1.9073486328125e-06
+    },
+    "huber": {
+      "corrected_t_p_vs_ridge": 0.7317752640223507,
+      "corrected_t_vs_ridge": 0.34373404567605703,
+      "cv_mae_mean": 1395.610705750964,
+      "cv_mae_sd": 260.8177752034944,
+      "cv_r2_mean": 0.3562530439311819,
+      "cv_r2_sd": 0.03397870198501962,
+      "cv_rmse_mean": 1787.8060456119836,
+      "cv_rmse_sd": 328.5756932192141,
+      "delta_rmse_vs_ridge_mean": 28.579176027659834,
+      "delta_rmse_vs_ridge_sd": 163.05738749139255,
+      "n_countries": 106,
+      "wilcoxon_p_vs_ridge_per_repeat": 0.0005855560302734375
+    },
+    "intercept_only": {
+      "corrected_t_p_vs_ridge": 3.4514304797452755e-05,
+      "corrected_t_vs_ridge": 4.339197742460166,
+      "cv_mae_mean": 1803.1643935647785,
+      "cv_mae_sd": 298.0785259571864,
+      "cv_r2_mean": -0.02198427123026774,
+      "cv_r2_sd": 0.013393777640436219,
+      "cv_rmse_mean": 2253.2619946600385,
+      "cv_rmse_sd": 408.2213803670775,
+      "delta_rmse_vs_ridge_mean": 494.0351250757148,
+      "delta_rmse_vs_ridge_sd": 223.2861120945976,
+      "n_countries": 106,
+      "wilcoxon_p_vs_ridge_per_repeat": 1.9073486328125e-06
+    },
+    "linear": {
+      "corrected_t_p_vs_ridge": 0.550164776794923,
+      "corrected_t_vs_ridge": 0.599566729337099,
+      "cv_mae_mean": 1458.5847198618503,
+      "cv_mae_sd": 248.54818332612135,
+      "cv_r2_mean": 0.3426557121007944,
+      "cv_r2_sd": 0.03652719285130921,
+      "cv_rmse_mean": 1811.9859273302473,
+      "cv_rmse_sd": 300.8246939544684,
+      "delta_rmse_vs_ridge_mean": 52.75905774592345,
+      "delta_rmse_vs_ridge_sd": 172.57299300284154,
+      "n_countries": 106,
+      "wilcoxon_p_vs_ridge_per_repeat": 1.9073486328125e-06
+    },
+    "n_repeats": 20,
+    "n_splits": 5,
+    "protocol": "5-fold x 20 repeats, seed 20260921, identical folds for all models",
+    "random_forest": {
+      "corrected_t_p_vs_ridge": 0.08562675862410296,
+      "corrected_t_vs_ridge": -1.7362712978677008,
+      "cv_mae_mean": 1228.158623008116,
+      "cv_mae_sd": 222.86502368001592,
+      "cv_r2_mean": 0.5090521591610522,
+      "cv_r2_sd": 0.030470992330496605,
+      "cv_rmse_mean": 1567.7608805799473,
+      "cv_rmse_sd": 241.83638148648166,
+      "delta_rmse_vs_ridge_mean": -191.46598900437675,
+      "delta_rmse_vs_ridge_sd": 216.26556759915744,
+      "n_countries": 106,
+      "wilcoxon_p_vs_ridge_per_repeat": 1.9073486328125e-06
+    },
+    "ridge": {
+      "corrected_t_p_vs_ridge": NaN,
+      "corrected_t_vs_ridge": NaN,
+      "cv_mae_mean": 1396.0640980680637,
+      "cv_mae_sd": 240.00137894152823,
+      "cv_r2_mean": 0.37829186246923385,
+      "cv_r2_sd": 0.026288363130921828,
+      "cv_rmse_mean": 1759.2268695843243,
+      "cv_rmse_sd": 307.730379277684,
+      "delta_rmse_vs_ridge_mean": 0.0,
+      "delta_rmse_vs_ridge_sd": 0.0,
+      "n_countries": 106,
+      "wilcoxon_p_vs_ridge_per_repeat": NaN
+    },
+    "ridge_rank_by_cv_rmse": 3,
+    "seed": 20260921
+  },
+  "pipeline": {
+    "bootstrap_median_profile_stability": 1.0,
+    "bottleneck_agreement": {
+      "baseline_owid_excess_mortality__vs__ghs_enhanced_owid": 0.5,
+      "baseline_owid_excess_mortality__vs__life_expectancy_loss": 0.490566037735849,
+      "ghs_enhanced_owid__vs__life_expectancy_loss": 0.9905660377358492
+    },
+    "cross_evidence": {
+      "baseline_owid_excess_mortality__vs__ghs_enhanced_owid": {
+        "n": 106,
+        "profile_agreement": 0.9716981132075472,
+        "spearman": 0.9960400030228984,
+        "stable_label_count": 103,
+        "unstable_label_count": 3
+      },
+      "baseline_owid_excess_mortality__vs__life_expectancy_loss": {
+        "n": 106,
+        "profile_agreement": 0.6415094339622641,
+        "spearman": 0.6604478927878681,
+        "stable_label_count": 68,
+        "unstable_label_count": 38
+      },
+      "ghs_enhanced_owid__vs__life_expectancy_loss": {
+        "n": 106,
+        "profile_agreement": 0.6509433962264151,
+        "spearman": 0.6541501876716125,
+        "stable_label_count": 69,
+        "unstable_label_count": 37
+      }
+    },
+    "data_limited_examples": [
+      "Antigua and Barbuda",
+      "Lithuania",
+      "Armenia",
+      "Serbia"
+    ],
+    "evidence_dependent_examples": [
+      "West Bank and Gaza",
+      "Algeria",
+      "Mongolia",
+      "Chile"
+    ],
+    "indicators_per_block": {
+      "capacity": 6,
+      "equity_access": 7,
+      "preparedness": 4,
+      "vulnerability": 9
+    },
+    "label_triage": {
+      "data_limited": 107,
+      "evidence_dependent": 38,
+      "n_labelled": 186,
+      "n_scoring_without_any_lens": 7,
+      "scoring_without_any_lens": [
+        "Cuba",
+        "Monaco",
+        "Korea, Dem. People's Rep.",
+        "Venezuela, RB",
+        "Eritrea",
+        "Yemen, Rep.",
+        "South Sudan"
+      ],
+      "stable": 41,
+      "stable_by_profile": {
+        "stable effective converter": 16,
+        "stable over-performer": 3,
+        "stable structurally vulnerable": 6,
+        "stable under-realizer": 16
+      }
+    },
+    "monte_carlo_mean_profile_stability": 0.878188679245283,
+    "monte_carlo_robust_profile_share": 0.8018867924528302,
+    "n_ghs_matched_countries": 189,
+    "n_indicators": 26,
+    "n_life_expectancy_countries": 193,
+    "n_owid_validation_countries": 106,
+    "n_scoring_countries": 193,
+    "profile_counts": {
+      "adaptive over-performers": 20,
+      "capacity under-realizers": 23,
+      "effective converters": 20,
+      "structurally vulnerable systems": 16,
+      "uncertain / data-limited systems": 27
+    },
+    "profile_median_efficiency": {
+      "adaptive over-performers": 0.7017389279397843,
+      "capacity under-realizers": -0.4849502246418017,
+      "effective converters": 0.5962253562563459,
+      "structurally vulnerable systems": -0.8110651624369087,
+      "uncertain / data-limited systems": -0.1113311654121229
+    },
+    "stable_examples": {
+      "stable effective converter": [
+        "Denmark",
+        "Japan",
+        "Luxembourg",
+        "Finland"
+      ],
+      "stable over-performer": [
+        "Dominican Republic",
+        "Suriname",
+        "Bahamas, The"
+      ],
+      "stable structurally vulnerable": [
+        "Mexico",
+        "Peru",
+        "Bolivia",
+        "Paraguay"
+      ],
+      "stable under-realizer": [
+        "Belarus",
+        "Slovak Republic",
+        "United States",
+        "Croatia",
+        "Romania"
+      ]
+    },
+    "stage2_single_cv": {
+      "huber": {
+        "cv_rmse": 1764.6053723918128,
+        "in_sample_adj_r2": 0.469363806849697,
+        "in_sample_r2": 0.5350616212397346
+      },
+      "linear": {
+        "cv_rmse": 1762.1407668753022,
+        "in_sample_adj_r2": 0.4970783914866793,
+        "in_sample_r2": 0.5593448763502333
+      },
+      "random_forest": {
+        "cv_rmse": 1543.231899901214,
+        "in_sample_adj_r2": 0.7969621845932326,
+        "in_sample_r2": 0.8221001998340705
+      },
+      "ridge": {
+        "cv_rmse": 1764.982016555163,
+        "in_sample_adj_r2": 0.4256241416732589,
+        "in_sample_r2": 0.4967373431803792
+      }
+    }
+  },
+  "sensitivity": {
+    "monte_carlo": {
+      "mean_stability_range": [
+        0.8270188679245283,
+        0.9022830188679245
+      ],
+      "most_likely_agreement_range": [
+        0.9811320754716981,
+        0.9905660377358491
+      ],
+      "robust_share_range": [
+        0.6698113207547169,
+        0.8207547169811321
+      ],
+      "rows": [
+        {
+          "mean_ci_width": 0.9056988503081264,
+          "mean_profile_stability": 0.8992075471698113,
+          "median_profile_stability": 0.984,
+          "most_likely_profile_agreement_with_baseline": 0.9905660377358491,
+          "n_simulations": 250,
+          "noise_multiplier": 0.5,
+          "robust_profile_share": 0.8113207547169812
+        },
+        {
+          "mean_ci_width": 0.9159718573851533,
+          "mean_profile_stability": 0.9007735849056604,
+          "median_profile_stability": 0.981,
+          "most_likely_profile_agreement_with_baseline": 0.9905660377358491,
+          "n_simulations": 500,
+          "noise_multiplier": 0.5,
+          "robust_profile_share": 0.8207547169811321
+        },
+        {
+          "mean_ci_width": 0.9112961332367798,
+          "mean_profile_stability": 0.9022830188679245,
+          "median_profile_stability": 0.9855,
+          "most_likely_profile_agreement_with_baseline": 0.9905660377358491,
+          "n_simulations": 1000,
+          "noise_multiplier": 0.5,
+          "robust_profile_share": 0.8207547169811321
+        },
+        {
+          "mean_ci_width": 0.9405644001746769,
+          "mean_profile_stability": 0.8777358490566037,
+          "median_profile_stability": 0.944,
+          "most_likely_profile_agreement_with_baseline": 0.9905660377358491,
+          "n_simulations": 250,
+          "noise_multiplier": 1.0,
+          "robust_profile_share": 0.7830188679245284
+        },
+        {
+          "mean_ci_width": 0.9458239795213628,
+          "mean_profile_stability": 0.8785094339622643,
+          "median_profile_stability": 0.945,
+          "most_likely_profile_agreement_with_baseline": 0.9905660377358491,
+          "n_simulations": 500,
+          "noise_multiplier": 1.0,
+          "robust_profile_share": 0.7735849056603774
+        },
+        {
+          "mean_ci_width": 0.9397835123649362,
+          "mean_profile_stability": 0.8804716981132077,
+          "median_profile_stability": 0.9495,
+          "most_likely_profile_agreement_with_baseline": 0.9905660377358491,
+          "n_simulations": 1000,
+          "noise_multiplier": 1.0,
+          "robust_profile_share": 0.7924528301886793
+        },
+        {
+          "mean_ci_width": 0.9652743729596129,
+          "mean_profile_stability": 0.8270188679245283,
+          "median_profile_stability": 0.866,
+          "most_likely_profile_agreement_with_baseline": 0.9811320754716981,
+          "n_simulations": 250,
+          "noise_multiplier": 2.0,
+          "robust_profile_share": 0.6981132075471698
+        },
+        {
+          "mean_ci_width": 0.9689480836673049,
+          "mean_profile_stability": 0.8292075471698114,
+          "median_profile_stability": 0.867,
+          "most_likely_profile_agreement_with_baseline": 0.9811320754716981,
+          "n_simulations": 500,
+          "noise_multiplier": 2.0,
+          "robust_profile_share": 0.6886792452830188
+        },
+        {
+          "mean_ci_width": 0.9598081378625891,
+          "mean_profile_stability": 0.8313301886792452,
+          "median_profile_stability": 0.8685,
+          "most_likely_profile_agreement_with_baseline": 0.9811320754716981,
+          "n_simulations": 1000,
+          "noise_multiplier": 2.0,
+          "robust_profile_share": 0.6698113207547169
+        }
+      ],
+      "settings": "noise multiplier in {0.5, 1, 2} applied to block-score noise (sd 0.025) and method noise; draws in {250, 500, 1000}; block weights Dirichlet(1); bootstrap refit"
+    },
+    "n_weight_draws_per_scheme": 500,
+    "seed": 20260921,
+    "thresholds": {
+      "baseline_efficiency_cut_percentile": 44.339622641509436,
+      "grid_percentiles": [
+        40,
+        45,
+        50,
+        55,
+        60
+      ],
+      "mean_share_same_as_baseline_full_grid": 0.929056603773585,
+      "mean_share_same_as_baseline_main_grid": 0.9479245283018868,
+      "mean_stability_stable_labels_full_grid": 0.928780487804878,
+      "mean_stability_stable_labels_main_grid": 0.9560975609756098,
+      "min_share_same_as_baseline_full_grid": 0.8490566037735849,
+      "min_share_same_as_baseline_main_grid": 0.8867924528301887,
+      "n_combinations_full_grid": 125,
+      "n_combinations_main_grid": 25,
+      "n_countries": 106,
+      "n_countries_invariant_at_most_2_labels_full_grid": 104,
+      "n_countries_invariant_full_grid": 81,
+      "n_countries_invariant_main_grid": 89,
+      "n_non_uncertain_countries": 79,
+      "n_non_uncertain_invariant_main_grid": 65,
+      "n_stable_labels": 41,
+      "n_stable_labels_invariant_main_grid": 36,
+      "share_countries_invariant_full_grid": 0.7641509433962265,
+      "share_countries_invariant_main_grid": 0.839622641509434,
+      "share_non_uncertain_invariant_main_grid": 0.8227848101265823
+    },
+    "weights": {
+      "block_only_flat": {
+        "mean_profile_agreement": 0.8908301886792453,
+        "mean_spearman_capacity": 0.8014154218202887,
+        "mean_spearman_efficiency": 0.9888714210141825,
+        "median_country_flip_rate": 0.0020000000000000018,
+        "min_profile_agreement": 0.7641509433962265,
+        "n_countries": 106,
+        "n_draws": 500,
+        "p05_profile_agreement": 0.8018867924528302,
+        "p05_spearman_efficiency": 0.9759049802252059,
+        "share_countries_flip_le_10pct": 0.6415094339622641,
+        "share_countries_modal_equals_baseline": 0.9811320754716981,
+        "share_countries_never_flip": 0.49056603773584906
+      },
+      "dirichlet_flat": {
+        "mean_profile_agreement": 0.8842075471698113,
+        "mean_spearman_capacity": 0.8407521374411164,
+        "mean_spearman_efficiency": 0.9747465450789732,
+        "median_country_flip_rate": 0.04500000000000004,
+        "min_profile_agreement": 0.5,
+        "n_countries": 106,
+        "n_draws": 500,
+        "p05_profile_agreement": 0.7735849056603774,
+        "p05_spearman_efficiency": 0.9472463914149684,
+        "share_countries_flip_le_10pct": 0.660377358490566,
+        "share_countries_modal_equals_baseline": 0.9811320754716981,
+        "share_countries_never_flip": 0.25471698113207547
+      },
+      "dirichlet_moderate": {
+        "mean_profile_agreement": 0.944943396226415,
+        "mean_spearman_capacity": 0.9497114643423936,
+        "mean_spearman_efficiency": 0.9872116885406959,
+        "median_country_flip_rate": 0.0040000000000000036,
+        "min_profile_agreement": 0.660377358490566,
+        "n_countries": 106,
+        "n_draws": 500,
+        "p05_profile_agreement": 0.8962264150943396,
+        "p05_spearman_efficiency": 0.9725807995566416,
+        "share_countries_flip_le_10pct": 0.839622641509434,
+        "share_countries_modal_equals_baseline": 0.9905660377358491,
+        "share_countries_never_flip": 0.41509433962264153
+      }
+    }
+  },
+  "statistics": {
+    "calibration": {
+      "calibration_intercept": -263.20717790027857,
+      "calibration_slope": 1.0788486935442942,
+      "calibration_slope_ci_high": 1.3382860268625687,
+      "calibration_slope_ci_low": 0.8194113602260198,
+      "calibration_slope_se": 0.1323659863868747,
+      "coverage_80": 0.7830188679245284,
+      "coverage_95": 0.9433962264150944,
+      "interval_method": "cross-conformal residual-quantile intervals: half-width = 80%/95% quantile of |out-of-fold residual| among countries outside the country's own fold (first CV repeat)",
+      "mean_width_80": 4379.50350373,
+      "mean_width_95": 7200.61774742613,
+      "n": 106,
+      "oof_pearson_r": 0.6243244350574093,
+      "oof_r2": 0.38757481505592417,
+      "oof_rmse": 1772.938995997577
+    },
+    "cross_evidence_bootstrap": {
+      "baseline_owid_excess_mortality__vs__ghs_enhanced_owid": {
+        "cohen_kappa": 0.964313769498373,
+        "evidence_variant_a": "baseline_owid_excess_mortality",
+        "evidence_variant_b": "ghs_enhanced_owid",
+        "n": 106,
+        "profile_agreement": 0.9716981132075472,
+        "profile_agreement_ci_high": 1.0,
+        "profile_agreement_ci_low": 0.9339622641509434,
+        "spearman": 0.9960400030228985,
+        "spearman_ci_high": 0.9973590810613308,
+        "spearman_ci_low": 0.9910381250702888,
+        "spearman_p": 3.828273564433717e-111
+      },
+      "baseline_owid_excess_mortality__vs__life_expectancy_loss": {
+        "cohen_kappa": 0.5436728220233374,
+        "evidence_variant_a": "baseline_owid_excess_mortality",
+        "evidence_variant_b": "life_expectancy_loss",
+        "n": 106,
+        "profile_agreement": 0.6415094339622641,
+        "profile_agreement_ci_high": 0.7358490566037735,
+        "profile_agreement_ci_low": 0.5471698113207547,
+        "spearman": 0.6604478927878681,
+        "spearman_ci_high": 0.7564013065509074,
+        "spearman_ci_low": 0.5378341496985313,
+        "spearman_p": 1.3373402202861073e-14
+      },
+      "ghs_enhanced_owid__vs__life_expectancy_loss": {
+        "cohen_kappa": 0.5544194501249715,
+        "evidence_variant_a": "ghs_enhanced_owid",
+        "evidence_variant_b": "life_expectancy_loss",
+        "n": 106,
+        "profile_agreement": 0.6509433962264151,
+        "profile_agreement_ci_high": 0.7452830188679245,
+        "profile_agreement_ci_low": 0.5566037735849056,
+        "spearman": 0.6541501876716125,
+        "spearman_ci_high": 0.7544338022410949,
+        "spearman_ci_low": 0.5309927241418366,
+        "spearman_p": 2.8802692725338255e-14
+      },
+      "method": "country-level percentile bootstrap of the paired 106-country set, conditional on the fitted labels/scores",
+      "n_boot": 2000
+    },
+    "model_delta_bootstrap": {
+      "elastic_net": {
+        "ci_high": 202.6903479829364,
+        "ci_low": -2.3010257105684895,
+        "delta_rmse_mean": 100.89524724754473,
+        "share_resamples_alternative_better": 0.029
+      },
+      "elastic_net_fixed_alpha": 5.553199633599632,
+      "elastic_net_fixed_l1_ratio": 0.9,
+      "gradient_boosting": {
+        "ci_high": 266.65473639179373,
+        "ci_low": -410.2082362291989,
+        "delta_rmse_mean": -61.02077239990974,
+        "share_resamples_alternative_better": 0.631
+      },
+      "huber": {
+        "ci_high": 416.14127719744073,
+        "ci_low": -121.09881685118133,
+        "delta_rmse_mean": 106.32079821361071,
+        "share_resamples_alternative_better": 0.237
+      },
+      "linear": {
+        "ci_high": 384.90651766049365,
+        "ci_low": -118.11493500529573,
+        "delta_rmse_mean": 105.51045121374071,
+        "share_resamples_alternative_better": 0.201
+      },
+      "n_boot": 1000,
+      "note": "country-level percentile bootstrap (resample 106 countries with replacement; one 5-fold CV per resample with all copies of a country in the same fold; identical folds across models); positive delta = worse than ridge",
+      "random_forest": {
+        "ci_high": 131.66878818176988,
+        "ci_low": -403.06355637649665,
+        "delta_rmse_mean": -125.960588420885,
+        "share_resamples_alternative_better": 0.839
+      }
+    },
+    "permutation": {
+      "capacity_vs_burden_perm_p": 0.06269373062693731,
+      "capacity_vs_burden_spearman": -0.18140917449681337,
+      "cv_rmse_gain_capacity_beyond_controls": 35.75552203994084,
+      "cv_rmse_gain_capacity_perm_p": 0.021597840215978402,
+      "cv_rmse_gain_full_vs_intercept": 524.7603470257395,
+      "cv_rmse_gain_perm_p": 9.999000099990002e-05,
+      "cv_rmse_intercept_only": 2309.288207167517,
+      "cv_rmse_ridge_full": 1784.5278601417776,
+      "cv_rmse_ridge_without_capacity": 1820.2833821817185,
+      "n_permutations": 10000,
+      "note": "one-sided p-values for RMSE gains (H1: gain > 0); two-sided for the Spearman test; p = (count+1)/(N+1)",
+      "seed": 20260921
+    },
+    "profile_difference": {
+      "kruskal_h": 53.970853398458985,
+      "kruskal_p": 1.1382353049584064e-11,
+      "max_holm_p": 0.42488347368209856,
+      "n_countries": 79,
+      "n_profiles": 4,
+      "note": "expected by construction (profiles are defined from E_i); reported as a sanity/reporting item only",
+      "pairwise": [
+        {
+          "mannwhitney_u": 445.0,
+          "n_a": 20,
+          "n_b": 23,
+          "p_holm": 1.0567895906345614e-06,
+          "p_raw": 1.7613159843909357e-07,
+          "profile_a": "adaptive over-performers",
+          "profile_b": "capacity under-realizers"
+        },
+        {
+          "mannwhitney_u": 230.0,
+          "n_a": 20,
+          "n_b": 20,
+          "p_holm": 0.42488347368209856,
+          "p_raw": 0.42488347368209856,
+          "profile_a": "adaptive over-performers",
+          "profile_b": "effective converters"
+        },
+        {
+          "mannwhitney_u": 320.0,
+          "n_a": 20,
+          "n_b": 16,
+          "p_holm": 1.9091670786405006e-06,
+          "p_raw": 3.818334157281001e-07,
+          "profile_a": "adaptive over-performers",
+          "profile_b": "structurally vulnerable systems"
+        },
+        {
+          "mannwhitney_u": 25.0,
+          "n_a": 23,
+          "n_b": 20,
+          "p_holm": 1.91326207880224e-06,
+          "p_raw": 6.377540262674133e-07,
+          "profile_a": "capacity under-realizers",
+          "profile_b": "effective converters"
+        },
+        {
+          "mannwhitney_u": 241.0,
+          "n_a": 23,
+          "n_b": 16,
+          "p_holm": 0.2134070440637573,
+          "p_raw": 0.10670352203187865,
+          "profile_a": "capacity under-realizers",
+          "profile_b": "structurally vulnerable systems"
+        },
+        {
+          "mannwhitney_u": 320.0,
+          "n_a": 20,
+          "n_b": 16,
+          "p_holm": 1.9091670786405006e-06,
+          "p_raw": 3.818334157281001e-07,
+          "profile_a": "effective converters",
+          "profile_b": "structurally vulnerable systems"
+        }
+      ]
+    }
+  }
+}

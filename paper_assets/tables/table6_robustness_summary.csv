@@ -1,0 +1,6 @@
+robustness_domain,n,coverage_count,missing_count,missing_rate,summary_metric,summary_value,asset_source_files
+bootstrap_conversion_uncertainty,106,106,87,0.4507772020725389,median_profile_stability,1.0,Stage 3 robustness result tables
+monte_carlo_conversion_uncertainty,106,106,87,0.4507772020725389,robust_profile_share,0.8018867924528302,Stage 3 robustness result tables
+random_forest_sensitivity,108,108,85,0.4404145077720207,no_leakage_detected,True,Stage 3 robustness result tables
+ghs_2019_integration,189,189,4,0.0207253886010362,status,loaded,Stage 3 robustness result tables
+secondary_outcome_validation,0,0,193,1.0,status,skipped_no_legitimate_country_level_file,Stage 3 robustness result tables

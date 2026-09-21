@@ -1,0 +1,17 @@
+variable,n_countries,n_missing,missing_rate,use_as_feature
+physicians_per_1000,184,33,0.15207373271889402,True
+nurses_midwives_per_1000,193,24,0.11059907834101383,True
+hospital_beds_per_1000,156,61,0.28110599078341014,True
+current_health_expenditure_per_capita_ppp,193,24,0.11059907834101383,True
+domestic_gov_health_expenditure_gdp,193,24,0.11059907834101383,True
+out_of_pocket_expenditure_share,193,24,0.11059907834101383,True
+uhc_service_coverage_index,193,24,0.11059907834101383,True
+measles_immunization_coverage,193,24,0.11059907834101383,True
+dpt_immunization_coverage,193,24,0.11059907834101383,True
+age65_share,217,0,0.0,True
+population_density,216,1,0.004608294930875576,True
+life_expectancy,217,0,0.0,True
+under5_mortality,196,21,0.0967741935483871,True
+adult_mortality_female,217,0,0.0,True
+adult_mortality_male,217,0,0.0,True
+gdp_per_capita_ppp,199,18,0.08294930875576037,False

@@ -1,0 +1,270 @@
+[
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 184,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.MED.PHYS.ZS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.MED.PHYS.ZS?format=json&date=2015:2019",
+    "variable": "physicians_per_1000"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 193,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.MED.NUMW.P3",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.MED.NUMW.P3?format=json&date=2015:2019",
+    "variable": "nurses_midwives_per_1000"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 187,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.MED.BEDS.ZS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.MED.BEDS.ZS?format=json&date=2015:2019",
+    "variable": "hospital_beds_per_1000"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 237,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.XPD.CHEX.PP.CD",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.XPD.CHEX.PP.CD?format=json&date=2015:2019",
+    "variable": "current_health_expenditure_per_capita_ppp"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 237,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.XPD.CHEX.GD.ZS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.XPD.CHEX.GD.ZS?format=json&date=2015:2019",
+    "variable": "current_health_expenditure_gdp"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 237,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.XPD.GHED.GD.ZS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.XPD.GHED.GD.ZS?format=json&date=2015:2019",
+    "variable": "domestic_gov_health_expenditure_gdp"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 237,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.IMM.MEAS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.IMM.MEAS?format=json&date=2015:2019",
+    "variable": "measles_immunization_coverage"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 237,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.IMM.IDPT",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.IMM.IDPT?format=json&date=2015:2019",
+    "variable": "dpt_immunization_coverage"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 223,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.TBS.INCD",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.TBS.INCD?format=json&date=2015:2019",
+    "variable": "tuberculosis_incidence"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 178,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.DYN.AIDS.ZS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.DYN.AIDS.ZS?format=json&date=2015:2019",
+    "variable": "hiv_prevalence"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 261,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SP.POP.65UP.TO.ZS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.POP.65UP.TO.ZS?format=json&date=2015:2019",
+    "variable": "age65_share"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 260,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator EN.POP.DNST",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?format=json&date=2015:2019",
+    "variable": "population_density"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 261,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SP.URB.TOTL.IN.ZS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.URB.TOTL.IN.ZS?format=json&date=2015:2019",
+    "variable": "urban_population_share"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 229,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.DYN.NCOM.ZS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.DYN.NCOM.ZS?format=json&date=2015:2019",
+    "variable": "ncd_mortality_risk"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 244,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator EN.ATM.PM25.MC.M3",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/EN.ATM.PM25.MC.M3?format=json&date=2015:2019",
+    "variable": "air_pollution_pm25"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 261,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SP.DYN.LE00.IN",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2015:2019",
+    "variable": "life_expectancy"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 240,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.DYN.MORT",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.DYN.MORT?format=json&date=2015:2019",
+    "variable": "under5_mortality"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 261,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SP.DYN.AMRT.FE",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.DYN.AMRT.FE?format=json&date=2015:2019",
+    "variable": "adult_mortality_female"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 261,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SP.DYN.AMRT.MA",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.DYN.AMRT.MA?format=json&date=2015:2019",
+    "variable": "adult_mortality_male"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 237,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH_UHC_SCI",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH_UHC_SCI?format=json&date=2015:2019",
+    "variable": "uhc_service_coverage_index"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 237,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.XPD.GHED.CH.ZS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.XPD.GHED.CH.ZS?format=json&date=2015:2019",
+    "variable": "domestic_gov_health_expenditure_share"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 237,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.XPD.OOPC.CH.ZS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.XPD.OOPC.CH.ZS?format=json&date=2015:2019",
+    "variable": "out_of_pocket_expenditure_share"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:46 EDT",
+    "n_countries": 237,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.XPD.OOPC.PP.CD",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.XPD.OOPC.PP.CD?format=json&date=2015:2019",
+    "variable": "out_of_pocket_expenditure_per_capita_ppp"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:47 EDT",
+    "n_countries": 258,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.STA.BASS.ZS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.STA.BASS.ZS?format=json&date=2015:2019",
+    "variable": "basic_sanitation_access"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:47 EDT",
+    "n_countries": 258,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.H2O.BASW.ZS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.H2O.BASW.ZS?format=json&date=2015:2019",
+    "variable": "basic_drinking_water_access"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:47 EDT",
+    "n_countries": 149,
+    "note": "valid_local_archive",
+    "source_name": "World Bank indicator SH.STA.HYGN.ZS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.STA.HYGN.ZS?format=json&date=2015:2019",
+    "variable": "basic_handwashing_access"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:47 EDT",
+    "n_countries": 0,
+    "note": "skipped_sparse_coverage_0.000",
+    "source_name": "World Bank indicator SH.STA.DIAB.ZS",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SH.STA.DIAB.ZS?format=json&date=2015:2019",
+    "variable": "diabetes_prevalence"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:47 EDT",
+    "n_countries": 243,
+    "note": "context_control_not_scored",
+    "source_name": "World Bank indicator NY.GDP.PCAP.PP.KD",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/NY.GDP.PCAP.PP.KD?format=json&date=2015:2019",
+    "variable": "gdp_per_capita_ppp"
+  },
+  {
+    "download_timestamp": "2026-09-21 18:30:47 EDT",
+    "n_countries": 261,
+    "note": "context_control_not_scored",
+    "source_name": "World Bank indicator SP.POP.TOTL",
+    "status": "downloaded",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?format=json&date=2015:2019",
+    "variable": "population_total"
+  },
+  {
+    "output_file": "not applicable",
+    "programmatic": false,
+    "reason": "baseline_blocks.include_ghs_2019 is false; GHS 2019 is used only by the Stage 4 GHS-enhanced variant",
+    "source_name": "GHS Index 2019",
+    "status": "not merged into baseline blocks"
+  }
+]

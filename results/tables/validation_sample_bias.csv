@@ -1,0 +1,119 @@
+section,iso3,country,region,income_group,population_group,n,coverage_count,missing_count,missing_rate
+scoring_sample_missing_validation_outcome,SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",High income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,PLW,Palau,East Asia & Pacific,High income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,TUV,Tuvalu,East Asia & Pacific,Upper middle income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,NRU,Nauru,East Asia & Pacific,High income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,LBY,Libya,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,CHN,China,East Asia & Pacific,Upper middle income,>=50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",High income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,DMA,Dominica,Latin America & Caribbean ,Upper middle income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,TON,Tonga,East Asia & Pacific,Upper middle income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,MHL,Marshall Islands,East Asia & Pacific,Upper middle income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,GRD,Grenada,Latin America & Caribbean ,Upper middle income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,KIR,Kiribati,East Asia & Pacific,Lower middle income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,LKA,Sri Lanka,South Asia,Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,GUY,Guyana,Latin America & Caribbean ,High income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,VNM,Viet Nam,East Asia & Pacific,Lower middle income,>=50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,WSM,Samoa,East Asia & Pacific,Upper middle income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,SLB,Solomon Islands,East Asia & Pacific,Lower middle income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,HND,Honduras,Latin America & Caribbean ,Lower middle income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,VEN,"Venezuela, RB",Latin America & Caribbean ,Not classified,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,Lower middle income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,VUT,Vanuatu,East Asia & Pacific,Lower middle income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,IDN,Indonesia,East Asia & Pacific,Upper middle income,>=50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,TLS,Timor-Leste,East Asia & Pacific,Lower middle income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,IND,India,South Asia,Lower middle income,>=50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,RWA,Rwanda,Sub-Saharan Africa ,Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,SYR,Syrian Arab Republic,"Middle East, North Africa, Afghanistan & Pakistan",Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,NPL,Nepal,South Asia,Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,MWI,Malawi,Sub-Saharan Africa ,Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,KHM,Cambodia,East Asia & Pacific,Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,LAO,Lao PDR,East Asia & Pacific,Lower middle income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,BDI,Burundi,Sub-Saharan Africa ,Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,ERI,Eritrea,Sub-Saharan Africa ,Low income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,UGA,Uganda,Sub-Saharan Africa ,Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,>=50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,BGD,Bangladesh,South Asia,Lower middle income,>=50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,MMR,Myanmar,East Asia & Pacific,Lower middle income,>=50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,SDN,Sudan,Sub-Saharan Africa ,Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,MOZ,Mozambique,Sub-Saharan Africa ,Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,>=50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,COM,Comoros,Sub-Saharan Africa ,Lower middle income,<1m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,HTI,Haiti,Latin America & Caribbean ,Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,MDG,Madagascar,Sub-Saharan Africa ,Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,LBR,Liberia,Sub-Saharan Africa ,Low income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,NER,Niger,Sub-Saharan Africa ,Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,AGO,Angola,Sub-Saharan Africa ,Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,MLI,Mali,Sub-Saharan Africa ,Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,TGO,Togo,Sub-Saharan Africa ,Low income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,ETH,Ethiopia,Sub-Saharan Africa ,Not classified,>=50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,>=50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,1m_to_10m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,BEN,Benin,Sub-Saharan Africa ,Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,GIN,Guinea,Sub-Saharan Africa ,Lower middle income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa ,Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,SSD,South Sudan,Sub-Saharan Africa ,Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,>=50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,TCD,Chad,Sub-Saharan Africa ,Low income,10m_to_50m,1,0,1,1.0
+scoring_sample_missing_validation_outcome,CAF,Central African Republic,Sub-Saharan Africa ,Low income,1m_to_10m,1,0,1,1.0
+validation_outcome_missing_scoring_sample,ABW,Aruba,Latin America & Caribbean ,High income,<1m,1,0,1,1.0
+validation_outcome_missing_scoring_sample,BMU,Bermuda,North America,High income,<1m,1,0,1,1.0
+validation_outcome_missing_scoring_sample,FRO,Faroe Islands,Europe & Central Asia,High income,<1m,1,0,1,1.0
+validation_outcome_missing_scoring_sample,GIB,Gibraltar,Europe & Central Asia,High income,<1m,1,0,1,1.0
+validation_outcome_missing_scoring_sample,GLP,Guadeloupe,,,population_unavailable,1,0,1,1.0
+validation_outcome_missing_scoring_sample,GRL,Greenland,Europe & Central Asia,High income,<1m,1,0,1,1.0
+validation_outcome_missing_scoring_sample,GUF,French Guiana,,,population_unavailable,1,0,1,1.0
+validation_outcome_missing_scoring_sample,HKG,Hong Kong,East Asia & Pacific,High income,1m_to_10m,1,0,1,1.0
+validation_outcome_missing_scoring_sample,LIE,Liechtenstein,Europe & Central Asia,High income,<1m,1,0,1,1.0
+validation_outcome_missing_scoring_sample,MAC,Macao,East Asia & Pacific,High income,<1m,1,0,1,1.0
+validation_outcome_missing_scoring_sample,MTQ,Martinique,,,population_unavailable,1,0,1,1.0
+validation_outcome_missing_scoring_sample,MYT,Mayotte,,,population_unavailable,1,0,1,1.0
+validation_outcome_missing_scoring_sample,NCL,New Caledonia,East Asia & Pacific,High income,<1m,1,0,1,1.0
+validation_outcome_missing_scoring_sample,PRI,Puerto Rico,Latin America & Caribbean ,High income,1m_to_10m,1,0,1,1.0
+validation_outcome_missing_scoring_sample,PYF,French Polynesia,East Asia & Pacific,High income,<1m,1,0,1,1.0
+validation_outcome_missing_scoring_sample,REU,Reunion,,,population_unavailable,1,0,1,1.0
+validation_outcome_missing_scoring_sample,TWN,Taiwan,,,population_unavailable,1,0,1,1.0
+coverage_summary_by_region,,,East Asia & Pacific,,,30,11,19,0.6333333333333333
+coverage_summary_by_region,,,Europe & Central Asia,,,51,50,1,0.019607843137254943
+coverage_summary_by_region,,,Latin America & Caribbean ,,,33,25,8,0.24242424242424243
+coverage_summary_by_region,,,"Middle East, North Africa, Afghanistan & Pakistan",,,23,13,10,0.4347826086956522
+coverage_summary_by_region,,,North America,,,2,2,0,0.0
+coverage_summary_by_region,,,South Asia,,,6,2,4,0.6666666666666667
+coverage_summary_by_region,,,Sub-Saharan Africa ,,,48,5,43,0.8958333333333334
+coverage_summary_by_income_group,,,,High income,,63,57,6,0.09523809523809523
+coverage_summary_by_income_group,,,,Low income,,25,0,25,1.0
+coverage_summary_by_income_group,,,,Lower middle income,,50,13,37,0.74
+coverage_summary_by_income_group,,,,Not classified,,2,0,2,1.0
+coverage_summary_by_income_group,,,,Upper middle income,,53,38,15,0.28301886792452835
+coverage_summary_by_population_group,,,,,10m_to_50m,62,27,35,0.564516129032258
+coverage_summary_by_population_group,,,,,1m_to_10m,68,45,23,0.3382352941176471
+coverage_summary_by_population_group,,,,,<1m,36,20,16,0.4444444444444444
+coverage_summary_by_population_group,,,,,>=50m,27,16,11,0.40740740740740744

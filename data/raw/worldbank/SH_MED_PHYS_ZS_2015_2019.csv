@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,unit,obs_status,decimal
+Africa Eastern and Southern,AFE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Africa Eastern and Southern,AFE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Africa Eastern and Southern,AFE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Africa Eastern and Southern,AFE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Africa Eastern and Southern,AFE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Africa Western and Central,AFW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Africa Western and Central,AFW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Africa Western and Central,AFW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Africa Western and Central,AFW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Africa Western and Central,AFW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Arab World,ARB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Arab World,ARB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Arab World,ARB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Arab World,ARB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Arab World,ARB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Caribbean small states,CSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Caribbean small states,CSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Caribbean small states,CSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Caribbean small states,CSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Caribbean small states,CSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Central Europe and the Baltics,CEB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Central Europe and the Baltics,CEB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Central Europe and the Baltics,CEB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Central Europe and the Baltics,CEB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Central Europe and the Baltics,CEB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Early-demographic dividend,EAR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Early-demographic dividend,EAR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Early-demographic dividend,EAR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Early-demographic dividend,EAR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Early-demographic dividend,EAR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+East Asia & Pacific,EAS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+East Asia & Pacific,EAS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+East Asia & Pacific,EAS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+East Asia & Pacific,EAS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+East Asia & Pacific,EAS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+East Asia & Pacific (excluding high income),EAP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+East Asia & Pacific (excluding high income),EAP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+East Asia & Pacific (excluding high income),EAP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+East Asia & Pacific (excluding high income),EAP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+East Asia & Pacific (excluding high income),EAP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Euro area,EMU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Euro area,EMU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Euro area,EMU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Euro area,EMU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Euro area,EMU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Europe & Central Asia,ECS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Europe & Central Asia,ECS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Europe & Central Asia,ECS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Europe & Central Asia,ECS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Europe & Central Asia,ECS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Europe & Central Asia (excluding high income),ECA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Europe & Central Asia (excluding high income),ECA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Europe & Central Asia (excluding high income),ECA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Europe & Central Asia (excluding high income),ECA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Europe & Central Asia (excluding high income),ECA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+European Union,EUU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+European Union,EUU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+European Union,EUU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+European Union,EUU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+European Union,EUU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Fragile and conflict affected situations,FCS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Fragile and conflict affected situations,FCS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Fragile and conflict affected situations,FCS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Fragile and conflict affected situations,FCS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Fragile and conflict affected situations,FCS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Heavily indebted poor countries (HIPC),HPC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Heavily indebted poor countries (HIPC),HPC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Heavily indebted poor countries (HIPC),HPC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Heavily indebted poor countries (HIPC),HPC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Heavily indebted poor countries (HIPC),HPC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+High income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+High income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+High income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+High income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+High income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+IBRD only,IBD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+IBRD only,IBD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+IBRD only,IBD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+IBRD only,IBD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+IBRD only,IBD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+IDA & IBRD total,IBT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+IDA & IBRD total,IBT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+IDA & IBRD total,IBT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+IDA & IBRD total,IBT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+IDA & IBRD total,IBT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+IDA blend,IDB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+IDA blend,IDB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+IDA blend,IDB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+IDA blend,IDB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+IDA blend,IDB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+IDA only,IDX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+IDA only,IDX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+IDA only,IDX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+IDA only,IDX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+IDA only,IDX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+IDA total,IDA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+IDA total,IDA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+IDA total,IDA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+IDA total,IDA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+IDA total,IDA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Late-demographic dividend,LTE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Late-demographic dividend,LTE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Late-demographic dividend,LTE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Late-demographic dividend,LTE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Late-demographic dividend,LTE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Latin America & Caribbean,LCN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Latin America & Caribbean,LCN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Latin America & Caribbean,LCN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Latin America & Caribbean,LCN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Latin America & Caribbean,LCN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Latin America & Caribbean (excluding high income),LAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Latin America & Caribbean (excluding high income),LAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Latin America & Caribbean (excluding high income),LAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Latin America & Caribbean (excluding high income),LAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Latin America & Caribbean (excluding high income),LAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Least developed countries: UN classification,LDC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Least developed countries: UN classification,LDC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Least developed countries: UN classification,LDC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Least developed countries: UN classification,LDC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Least developed countries: UN classification,LDC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Low & middle income,LMY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Low & middle income,LMY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Low & middle income,LMY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Low & middle income,LMY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Low & middle income,LMY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Low income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Low income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Low income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Low income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Low income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Lower middle income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Lower middle income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Lower middle income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Lower middle income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Lower middle income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Middle income,MIC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Middle income,MIC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Middle income,MIC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Middle income,MIC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Middle income,MIC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+North America,NAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+North America,NAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+North America,NAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+North America,NAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+North America,NAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Not classified,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Not classified,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Not classified,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Not classified,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Not classified,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+OECD members,OED,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+OECD members,OED,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+OECD members,OED,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+OECD members,OED,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+OECD members,OED,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Other small states,OSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Other small states,OSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Other small states,OSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Other small states,OSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Other small states,OSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Pacific island small states,PSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Pacific island small states,PSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Pacific island small states,PSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Pacific island small states,PSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Pacific island small states,PSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Post-demographic dividend,PST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Post-demographic dividend,PST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Post-demographic dividend,PST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Post-demographic dividend,PST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Post-demographic dividend,PST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Pre-demographic dividend,PRE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Pre-demographic dividend,PRE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Pre-demographic dividend,PRE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Pre-demographic dividend,PRE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Pre-demographic dividend,PRE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Small states,SST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Small states,SST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Small states,SST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Small states,SST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Small states,SST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+South Asia,SAS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+South Asia,SAS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+South Asia,SAS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+South Asia,SAS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+South Asia,SAS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+South Asia (IDA & IBRD),TSA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+South Asia (IDA & IBRD),TSA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+South Asia (IDA & IBRD),TSA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+South Asia (IDA & IBRD),TSA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+South Asia (IDA & IBRD),TSA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Sub-Saharan Africa,SSF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Sub-Saharan Africa,SSF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Sub-Saharan Africa,SSF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Sub-Saharan Africa,SSF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Sub-Saharan Africa,SSF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Sub-Saharan Africa (excluding high income),SSA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Sub-Saharan Africa (excluding high income),SSA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Sub-Saharan Africa (excluding high income),SSA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Sub-Saharan Africa (excluding high income),SSA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Sub-Saharan Africa (excluding high income),SSA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Upper middle income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Upper middle income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Upper middle income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Upper middle income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Upper middle income,,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+World,WLD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+World,WLD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+World,WLD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+World,WLD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+World,WLD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Afghanistan,AFG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.214,,,1
+Afghanistan,AFG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.303,,,1
+Afghanistan,AFG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.245,,,1
+Afghanistan,AFG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.284,,,1
+Afghanistan,AFG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.29,,,1
+Albania,ALB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.645,,,1
+Albania,ALB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Albania,ALB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Albania,ALB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.212,,,1
+Albania,ALB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Algeria,DZA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.973,,,1
+Algeria,DZA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.708,,,1
+Algeria,DZA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Algeria,DZA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.819,,,1
+Algeria,DZA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+American Samoa,ASM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+American Samoa,ASM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+American Samoa,ASM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+American Samoa,ASM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+American Samoa,ASM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Andorra,AND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.392,,,1
+Andorra,AND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,4.535,,,1
+Andorra,AND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,4.119,,,1
+Andorra,AND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,4.058,,,1
+Andorra,AND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.754,,,1
+Angola,AGO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Angola,AGO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.211,,,1
+Angola,AGO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.212,,,1
+Angola,AGO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Angola,AGO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Antigua and Barbuda,ATG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Antigua and Barbuda,ATG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Antigua and Barbuda,ATG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.917,,,1
+Antigua and Barbuda,ATG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Antigua and Barbuda,ATG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Argentina,ARG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,5.25,,,1
+Argentina,ARG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,5.167,,,1
+Argentina,ARG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,5.094,,,1
+Argentina,ARG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,5.024,,,1
+Argentina,ARG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,4.98,,,1
+Armenia,ARM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.026,,,1
+Armenia,ARM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.893,,,1
+Armenia,ARM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.903,,,1
+Armenia,ARM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.887,,,1
+Armenia,ARM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.919,,,1
+Aruba,ABW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Aruba,ABW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Aruba,ABW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Aruba,ABW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Aruba,ABW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Australia,AUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.808,,,1
+Australia,AUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.726,,,1
+Australia,AUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.656,,,1
+Australia,AUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.557,,,1
+Australia,AUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.486,,,1
+Austria,AUT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,5.318,,,1
+Austria,AUT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,5.241,,,1
+Austria,AUT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,5.182,,,1
+Austria,AUT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,5.129,,,1
+Austria,AUT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,5.124,,,1
+Azerbaijan,AZE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.148,,,1
+Azerbaijan,AZE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.236,,,1
+Azerbaijan,AZE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.197,,,1
+Azerbaijan,AZE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.262,,,1
+Azerbaijan,AZE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.328,,,1
+"Bahamas, The",BHS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+"Bahamas, The",BHS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+"Bahamas, The",BHS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.895,,,1
+"Bahamas, The",BHS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+"Bahamas, The",BHS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Bahrain,BHR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.687,,,1
+Bahrain,BHR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.729,,,1
+Bahrain,BHR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.76,,,1
+Bahrain,BHR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.83,,,1
+Bahrain,BHR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.927,,,1
+Bangladesh,BGD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.63,,,1
+Bangladesh,BGD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.573,,,1
+Bangladesh,BGD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.535,,,1
+Bangladesh,BGD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.489,,,1
+Bangladesh,BGD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.476,,,1
+Barbados,BRB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Barbados,BRB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Barbados,BRB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.541,,,1
+Barbados,BRB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Barbados,BRB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Belarus,BLR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.546,,,1
+Belarus,BLR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,4.486,,,1
+Belarus,BLR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,4.427,,,1
+Belarus,BLR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,4.372,,,1
+Belarus,BLR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,4.255,,,1
+Belgium,BEL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.424,,,1
+Belgium,BEL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.355,,,1
+Belgium,BEL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.292,,,1
+Belgium,BEL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.28,,,1
+Belgium,BEL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.221,,,1
+Belize,BLZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Belize,BLZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.086,,,1
+Belize,BLZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.131,,,1
+Belize,BLZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Belize,BLZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Benin,BEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.06,,,1
+Benin,BEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.073,,,1
+Benin,BEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Benin,BEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.045,,,1
+Benin,BEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Bermuda,BMU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Bermuda,BMU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Bermuda,BMU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Bermuda,BMU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Bermuda,BMU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Bhutan,BTN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.336,,,1
+Bhutan,BTN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.421,,,1
+Bhutan,BTN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.31,,,1
+Bhutan,BTN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.4,,,1
+Bhutan,BTN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.339,,,1
+Bolivia,BOL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.088,,,1
+Bolivia,BOL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Bolivia,BOL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.016,,,1
+Bolivia,BOL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.569,,,1
+Bolivia,BOL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Bosnia and Herzegovina,BIH,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.584,,,1
+Bosnia and Herzegovina,BIH,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.457,,,1
+Bosnia and Herzegovina,BIH,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.163,,,1
+Bosnia and Herzegovina,BIH,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.146,,,1
+Bosnia and Herzegovina,BIH,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.107,,,1
+Botswana,BWA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.395,,,1
+Botswana,BWA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.402,,,1
+Botswana,BWA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Botswana,BWA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.371,,,1
+Botswana,BWA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Brazil,BRA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.351,,,1
+Brazil,BRA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Brazil,BRA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.198,,,1
+Brazil,BRA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Brazil,BRA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+British Virgin Islands,VGB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+British Virgin Islands,VGB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+British Virgin Islands,VGB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+British Virgin Islands,VGB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+British Virgin Islands,VGB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Brunei Darussalam,BRN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Brunei Darussalam,BRN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.763,,,1
+Brunei Darussalam,BRN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.578,,,1
+Brunei Darussalam,BRN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Brunei Darussalam,BRN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.75,,,1
+Bulgaria,BGR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.236,,,1
+Bulgaria,BGR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,4.217,,,1
+Bulgaria,BGR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,4.184,,,1
+Bulgaria,BGR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,4.107,,,1
+Bulgaria,BGR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,4.041,,,1
+Burkina Faso,BFA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.091,,,1
+Burkina Faso,BFA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.082,,,1
+Burkina Faso,BFA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.082,,,1
+Burkina Faso,BFA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.062,,,1
+Burkina Faso,BFA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.063,,,1
+Burundi,BDI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Burundi,BDI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.094,,,1
+Burundi,BDI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.094,,,1
+Burundi,BDI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Burundi,BDI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.046,,,1
+Cabo Verde,CPV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.743,,,1
+Cabo Verde,CPV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.711,,,1
+Cabo Verde,CPV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.659,,,1
+Cabo Verde,CPV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.731,,,1
+Cabo Verde,CPV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.743,,,1
+Cambodia,KHM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.211,,,1
+Cambodia,KHM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.211,,,1
+Cambodia,KHM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.195,,,1
+Cambodia,KHM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.197,,,1
+Cambodia,KHM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.15,,,1
+Cameroon,CMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Cameroon,CMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.131,,,1
+Cameroon,CMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Cameroon,CMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Cameroon,CMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Canada,CAN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.418,,,1
+Canada,CAN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.411,,,1
+Canada,CAN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.6102,,,1
+Canada,CAN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.3105,,,1
+Canada,CAN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.5388,,,1
+Cayman Islands,CYM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Cayman Islands,CYM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Cayman Islands,CYM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Cayman Islands,CYM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Cayman Islands,CYM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Central African Republic,CAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Central African Republic,CAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.069,,,1
+Central African Republic,CAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Central African Republic,CAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Central African Republic,CAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.07,,,1
+Chad,TCD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.052,,,1
+Chad,TCD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.05,,,1
+Chad,TCD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.042,,,1
+Chad,TCD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.036,,,1
+Chad,TCD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.048,,,1
+Channel Islands,CHI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Channel Islands,CHI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Channel Islands,CHI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Channel Islands,CHI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Channel Islands,CHI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Chile,CHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.627,,,1
+Chile,CHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.569,,,1
+Chile,CHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.43,,,1
+Chile,CHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.286,,,1
+Chile,CHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.138,,,1
+China,CHN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.255,,,1
+China,CHN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.122,,,1
+China,CHN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.003,,,1
+China,CHN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.888,,,1
+China,CHN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.797,,,1
+Colombia,COL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.317,,,1
+Colombia,COL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.242,,,1
+Colombia,COL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.163,,,1
+Colombia,COL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.088,,,1
+Colombia,COL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.022,,,1
+Comoros,COM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Comoros,COM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.285,,,1
+Comoros,COM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Comoros,COM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.291,,,1
+Comoros,COM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+"Congo, Dem. Rep.",COD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.162,,,1
+"Congo, Dem. Rep.",COD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+"Congo, Dem. Rep.",COD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+"Congo, Dem. Rep.",COD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+"Congo, Dem. Rep.",COD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+"Congo, Rep.",COG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+"Congo, Rep.",COG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.099,,,1
+"Congo, Rep.",COG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+"Congo, Rep.",COG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.102,,,1
+"Congo, Rep.",COG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Costa Rica,CRI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.376,,,1
+Costa Rica,CRI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.253,,,1
+Costa Rica,CRI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.101,,,1
+Costa Rica,CRI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.955,,,1
+Costa Rica,CRI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.806,,,1
+Cote d'Ivoire,CIV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.149,,,1
+Cote d'Ivoire,CIV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.351,,,1
+Cote d'Ivoire,CIV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Cote d'Ivoire,CIV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Cote d'Ivoire,CIV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Croatia,HRV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.59,,,1
+Croatia,HRV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.497,,,1
+Croatia,HRV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.404,,,1
+Croatia,HRV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.265,,,1
+Croatia,HRV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.21,,,1
+Cuba,CUB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,8.677,,,1
+Cuba,CUB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,8.505,,,1
+Cuba,CUB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,8.187,,,1
+Cuba,CUB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,8.003,,,1
+Cuba,CUB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,7.803,,,1
+Curacao,CUW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Curacao,CUW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Curacao,CUW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Curacao,CUW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Curacao,CUW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Cyprus,CYP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.928,,,1
+Cyprus,CYP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.789,,,1
+Cyprus,CYP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.651,,,1
+Cyprus,CYP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.594,,,1
+Cyprus,CYP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.498,,,1
+Czechia,CZE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.112,,,1
+Czechia,CZE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,4.069,,,1
+Czechia,CZE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,4.0676,,,1
+Czechia,CZE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,4.0194,,,1
+Czechia,CZE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.9516,,,1
+Denmark,DNK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.251,,,1
+Denmark,DNK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,4.196,,,1
+Denmark,DNK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,4.109,,,1
+Denmark,DNK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.999,,,1
+Denmark,DNK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.93,,,1
+Djibouti,DJI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Djibouti,DJI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Djibouti,DJI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Djibouti,DJI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Djibouti,DJI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Dominica,DMA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Dominica,DMA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.158,,,1
+Dominica,DMA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.168,,,1
+Dominica,DMA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Dominica,DMA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Dominican Republic,DOM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.431,,,1
+Dominican Republic,DOM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.426,,,1
+Dominican Republic,DOM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Dominican Republic,DOM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Dominican Republic,DOM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Ecuador,ECU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.32,,,1
+Ecuador,ECU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.341,,,1
+Ecuador,ECU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.225,,,1
+Ecuador,ECU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.055,,,1
+Ecuador,ECU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.806,,,1
+"Egypt, Arab Rep.",EGY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.697,,,1
+"Egypt, Arab Rep.",EGY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.716,,,1
+"Egypt, Arab Rep.",EGY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.743,,,1
+"Egypt, Arab Rep.",EGY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.763,,,1
+"Egypt, Arab Rep.",EGY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.763,,,1
+El Salvador,SLV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+El Salvador,SLV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.963,,,1
+El Salvador,SLV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+El Salvador,SLV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.5662,,,1
+El Salvador,SLV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Equatorial Guinea,GNQ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Equatorial Guinea,GNQ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Equatorial Guinea,GNQ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.325,,,1
+Equatorial Guinea,GNQ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Equatorial Guinea,GNQ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Eritrea,ERI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.077,,,1
+Eritrea,ERI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.088,,,1
+Eritrea,ERI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.071,,,1
+Eritrea,ERI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.072,,,1
+Eritrea,ERI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.068,,,1
+Estonia,EST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.469,,,1
+Estonia,EST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.483,,,1
+Estonia,EST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.468,,,1
+Estonia,EST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.457,,,1
+Estonia,EST,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.417,,,1
+Eswatini,SWZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Eswatini,SWZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.238,,,1
+Eswatini,SWZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.18,,,1
+Eswatini,SWZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.093,,,1
+Eswatini,SWZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Ethiopia,ETH,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.089,,,1
+Ethiopia,ETH,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.075,,,1
+Ethiopia,ETH,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Ethiopia,ETH,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Ethiopia,ETH,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Faroe Islands,FRO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Faroe Islands,FRO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Faroe Islands,FRO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Faroe Islands,FRO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Faroe Islands,FRO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Fiji,FJI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Fiji,FJI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Fiji,FJI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Fiji,FJI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Fiji,FJI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.813,,,1
+Finland,FIN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.566,,,1
+Finland,FIN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.463,,,1
+Finland,FIN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.437,,,1
+Finland,FIN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.42,,,1
+Finland,FIN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.421,,,1
+France,FRA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.243,,,1
+France,FRA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.214,,,1
+France,FRA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.217,,,1
+France,FRA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.2,,,1
+France,FRA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.184,,,1
+French Polynesia,PYF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+French Polynesia,PYF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+French Polynesia,PYF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+French Polynesia,PYF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+French Polynesia,PYF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Gabon,GAB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.603,,,1
+Gabon,GAB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.618,,,1
+Gabon,GAB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.653,,,1
+Gabon,GAB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.34,,,1
+Gabon,GAB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+"Gambia, The",GMB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.077,,,1
+"Gambia, The",GMB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.124,,,1
+"Gambia, The",GMB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.099,,,1
+"Gambia, The",GMB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+"Gambia, The",GMB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.096,,,1
+Georgia,GEO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,7.452,,,1
+Georgia,GEO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,7.51,,,1
+Georgia,GEO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,6.478,,,1
+Georgia,GEO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,6.351,,,1
+Georgia,GEO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,5.313,,,1
+Germany,DEU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.373,,,1
+Germany,DEU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,4.287,,,1
+Germany,DEU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,4.226,,,1
+Germany,DEU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,4.166,,,1
+Germany,DEU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,4.12,,,1
+Ghana,GHA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.104,,,1
+Ghana,GHA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.144,,,1
+Ghana,GHA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.089,,,1
+Ghana,GHA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.123,,,1
+Ghana,GHA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.114,,,1
+Gibraltar,GIB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Gibraltar,GIB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Gibraltar,GIB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Gibraltar,GIB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Gibraltar,GIB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Greece,GRC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,6.163,,,1
+Greece,GRC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,6.105,,,1
+Greece,GRC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,6.067,,,1
+Greece,GRC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,6.122,,,1
+Greece,GRC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,5.902,,,1
+Greenland,GRL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Greenland,GRL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Greenland,GRL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Greenland,GRL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Greenland,GRL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Grenada,GRD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Grenada,GRD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.383,,,1
+Grenada,GRD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.352,,,1
+Grenada,GRD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Grenada,GRD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Guam,GUM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Guam,GUM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Guam,GUM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Guam,GUM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Guam,GUM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Guatemala,GTM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Guatemala,GTM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.363,,,1
+Guatemala,GTM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.286,,,1
+Guatemala,GTM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Guatemala,GTM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Guinea,GIN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Guinea,GIN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.219,,,1
+Guinea,GIN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Guinea,GIN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.081,,,1
+Guinea,GIN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.083,,,1
+Guinea-Bissau,GNB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Guinea-Bissau,GNB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.301,,,1
+Guinea-Bissau,GNB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Guinea-Bissau,GNB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.1,,,1
+Guinea-Bissau,GNB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.198,,,1
+Guyana,GUY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Guyana,GUY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.79,,,1
+Guyana,GUY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Guyana,GUY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Guyana,GUY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Haiti,HTI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Haiti,HTI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.238,,,1
+Haiti,HTI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Haiti,HTI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Haiti,HTI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.087,,,1
+Honduras,HND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Honduras,HND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Honduras,HND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.304,,,1
+Honduras,HND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.589,,,1
+Honduras,HND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+"Hong Kong SAR, China",HKG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+"Hong Kong SAR, China",HKG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+"Hong Kong SAR, China",HKG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+"Hong Kong SAR, China",HKG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+"Hong Kong SAR, China",HKG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Hungary,HUN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.494,,,1
+Hungary,HUN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.384,,,1
+Hungary,HUN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.326,,,1
+Hungary,HUN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.212,,,1
+Hungary,HUN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.098,,,1
+Iceland,ISL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.892,,,1
+Iceland,ISL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.891,,,1
+Iceland,ISL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.872,,,1
+Iceland,ISL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.85,,,1
+Iceland,ISL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.773,,,1
+India,IND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.889,,,1
+India,IND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.84,,,1
+India,IND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.766,,,1
+India,IND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.748,,,1
+India,IND,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.723,,,1
+Indonesia,IDN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.462,,,1
+Indonesia,IDN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.421,,,1
+Indonesia,IDN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.373,,,1
+Indonesia,IDN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Indonesia,IDN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.27,,,1
+"Iran, Islamic Rep.",IRN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+"Iran, Islamic Rep.",IRN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.505,,,1
+"Iran, Islamic Rep.",IRN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.071,,,1
+"Iran, Islamic Rep.",IRN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+"Iran, Islamic Rep.",IRN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.095,,,1
+Iraq,IRQ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.881,,,1
+Iraq,IRQ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.676,,,1
+Iraq,IRQ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.8,,,1
+Iraq,IRQ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.707,,,1
+Iraq,IRQ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.718,,,1
+Ireland,IRL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.317,,,1
+Ireland,IRL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.276,,,1
+Ireland,IRL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.256,,,1
+Ireland,IRL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.193,,,1
+Ireland,IRL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.119,,,1
+Isle of Man,IMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Isle of Man,IMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Isle of Man,IMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Isle of Man,IMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Isle of Man,IMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Israel,ISR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.521,,,1
+Israel,ISR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.477,,,1
+Israel,ISR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.43,,,1
+Israel,ISR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.422,,,1
+Israel,ISR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.431,,,1
+Italy,ITA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.024,,,1
+Italy,ITA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.987,,,1
+Italy,ITA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.999,,,1
+Italy,ITA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.963,,,1
+Italy,ITA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.848,,,1
+Jamaica,JAM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Jamaica,JAM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.548,,,1
+Jamaica,JAM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Jamaica,JAM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.471,,,1
+Jamaica,JAM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.428,,,1
+Japan,JPN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Japan,JPN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.485,,,1
+Japan,JPN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Japan,JPN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.423,,,1
+Japan,JPN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Jordan,JOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.519,,,1
+Jordan,JOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Jordan,JOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.222,,,1
+Jordan,JOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Jordan,JOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.726,,,1
+Kazakhstan,KAZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.62,,,1
+Kazakhstan,KAZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.531,,,1
+Kazakhstan,KAZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.6,,,1
+Kazakhstan,KAZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.707,,,1
+Kazakhstan,KAZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.726,,,1
+Kenya,KEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Kenya,KEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.16,,,1
+Kenya,KEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Kenya,KEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Kenya,KEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Kiribati,KIR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Kiribati,KIR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Kiribati,KIR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Kiribati,KIR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Kiribati,KIR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+"Korea, Dem. People's Rep.",PRK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+"Korea, Dem. People's Rep.",PRK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+"Korea, Dem. People's Rep.",PRK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.628,,,1
+"Korea, Dem. People's Rep.",PRK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.645,,,1
+"Korea, Dem. People's Rep.",PRK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+"Korea, Rep.",KOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.458,,,1
+"Korea, Rep.",KOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.386,,,1
+"Korea, Rep.",KOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.343,,,1
+"Korea, Rep.",KOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.29,,,1
+"Korea, Rep.",KOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.242,,,1
+Kosovo,XKX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Kosovo,XKX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Kosovo,XKX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Kosovo,XKX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Kosovo,XKX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Kuwait,KWT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.087,,,1
+Kuwait,KWT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.03,,,1
+Kuwait,KWT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.106,,,1
+Kuwait,KWT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.106,,,1
+Kuwait,KWT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.647,,,1
+Kyrgyz Republic,KGZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.759,,,1
+Kyrgyz Republic,KGZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.787,,,1
+Kyrgyz Republic,KGZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.835,,,1
+Kyrgyz Republic,KGZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.853,,,1
+Kyrgyz Republic,KGZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.846,,,1
+Lao PDR,LAO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.363,,,1
+Lao PDR,LAO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.361,,,1
+Lao PDR,LAO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.44,,,1
+Lao PDR,LAO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.371,,,1
+Lao PDR,LAO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.4,,,1
+Latvia,LVA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.267,,,1
+Latvia,LVA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.303,,,1
+Latvia,LVA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.205,,,1
+Latvia,LVA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.212,,,1
+Latvia,LVA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.197,,,1
+Lebanon,LBN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.611,,,1
+Lebanon,LBN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.412,,,1
+Lebanon,LBN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.242,,,1
+Lebanon,LBN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.136,,,1
+Lebanon,LBN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.123,,,1
+Lesotho,LSO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Lesotho,LSO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.457,,,1
+Lesotho,LSO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Lesotho,LSO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Lesotho,LSO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Liberia,LBR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.145,,,1
+Liberia,LBR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.14,,,1
+Liberia,LBR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.051,,,1
+Liberia,LBR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.049,,,1
+Liberia,LBR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.036,,,1
+Libya,LBY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Libya,LBY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Libya,LBY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.042,,,1
+Libya,LBY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Libya,LBY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.861,,,1
+Liechtenstein,LIE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Liechtenstein,LIE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Liechtenstein,LIE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Liechtenstein,LIE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Liechtenstein,LIE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Lithuania,LTU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.568,,,1
+Lithuania,LTU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,4.596,,,1
+Lithuania,LTU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,4.555,,,1
+Lithuania,LTU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,4.466,,,1
+Lithuania,LTU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,4.338,,,1
+Luxembourg,LUX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Luxembourg,LUX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Luxembourg,LUX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.984,,,1
+Luxembourg,LUX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.884,,,1
+Luxembourg,LUX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.908,,,1
+"Macao SAR, China",MAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+"Macao SAR, China",MAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+"Macao SAR, China",MAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+"Macao SAR, China",MAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+"Macao SAR, China",MAC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Madagascar,MDG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Madagascar,MDG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.195,,,1
+Madagascar,MDG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Madagascar,MDG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Madagascar,MDG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Malawi,MWI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Malawi,MWI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.15,,,1
+Malawi,MWI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Malawi,MWI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.031,,,1
+Malawi,MWI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Malaysia,MYS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.021,,,1
+Malaysia,MYS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.858,,,1
+Malaysia,MYS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.787,,,1
+Malaysia,MYS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.576,,,1
+Malaysia,MYS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.489,,,1
+Maldives,MDV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.235,,,1
+Maldives,MDV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.862,,,1
+Maldives,MDV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.894,,,1
+Maldives,MDV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.32,,,1
+Maldives,MDV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Mali,MLI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Mali,MLI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.12,,,1
+Mali,MLI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.113,,,1
+Mali,MLI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.117,,,1
+Mali,MLI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.094,,,1
+Malta,MLT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.026,,,1
+Malta,MLT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.972,,,1
+Malta,MLT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.965,,,1
+Malta,MLT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.828,,,1
+Malta,MLT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.676,,,1
+Marshall Islands,MHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Marshall Islands,MHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Marshall Islands,MHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Marshall Islands,MHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Marshall Islands,MHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Mauritania,MRT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.201,,,1
+Mauritania,MRT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.196,,,1
+Mauritania,MRT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.188,,,1
+Mauritania,MRT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Mauritania,MRT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.175,,,1
+Mauritius,MUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.558,,,1
+Mauritius,MUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.858,,,1
+Mauritius,MUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.268,,,1
+Mauritius,MUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.144,,,1
+Mauritius,MUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.973,,,1
+Mexico,MEX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.46,,,1
+Mexico,MEX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.456,,,1
+Mexico,MEX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.409,,,1
+Mexico,MEX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.345,,,1
+Mexico,MEX,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.34,,,1
+"Micronesia, Fed. Sts.",FSM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.762,,,1
+"Micronesia, Fed. Sts.",FSM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+"Micronesia, Fed. Sts.",FSM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+"Micronesia, Fed. Sts.",FSM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+"Micronesia, Fed. Sts.",FSM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Moldova,MDA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.033,,,1
+Moldova,MDA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.204,,,1
+Moldova,MDA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.285,,,1
+Moldova,MDA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.239,,,1
+Moldova,MDA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.159,,,1
+Monaco,MCO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,8.609,,,1
+Monaco,MCO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,8.298,,,1
+Monaco,MCO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Monaco,MCO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Monaco,MCO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Mongolia,MNG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.647,,,1
+Mongolia,MNG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.526,,,1
+Mongolia,MNG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.407,,,1
+Mongolia,MNG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.289,,,1
+Mongolia,MNG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.243,,,1
+Montenegro,MNE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.792,,,1
+Montenegro,MNE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.809,,,1
+Montenegro,MNE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.675,,,1
+Montenegro,MNE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.589,,,1
+Montenegro,MNE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.372,,,1
+Morocco,MAR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Morocco,MAR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Morocco,MAR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.734,,,1
+Morocco,MAR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Morocco,MAR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Mozambique,MOZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.086,,,1
+Mozambique,MOZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.085,,,1
+Mozambique,MOZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.077,,,1
+Mozambique,MOZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Mozambique,MOZ,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Myanmar,MMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.757,,,1
+Myanmar,MMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.696,,,1
+Myanmar,MMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.889,,,1
+Myanmar,MMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.638,,,1
+Myanmar,MMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Namibia,NAM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.368,,,1
+Namibia,NAM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.335,,,1
+Namibia,NAM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.567,,,1
+Namibia,NAM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Namibia,NAM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Nauru,NRU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Nauru,NRU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Nauru,NRU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Nauru,NRU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Nauru,NRU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.273,,,1
+Nepal,NPL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.815,,,1
+Nepal,NPL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.749,,,1
+Nepal,NPL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.681,,,1
+Nepal,NPL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Nepal,NPL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Netherlands,NLD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.713,,,1
+Netherlands,NLD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.632,,,1
+Netherlands,NLD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.565,,,1
+Netherlands,NLD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.501,,,1
+Netherlands,NLD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.457,,,1
+New Caledonia,NCL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+New Caledonia,NCL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+New Caledonia,NCL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+New Caledonia,NCL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+New Caledonia,NCL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+New Zealand,NZL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.37,,,1
+New Zealand,NZL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.311,,,1
+New Zealand,NZL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.253,,,1
+New Zealand,NZL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.115,,,1
+New Zealand,NZL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.031,,,1
+Nicaragua,NIC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Nicaragua,NIC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.682,,,1
+Nicaragua,NIC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.0,,,1
+Nicaragua,NIC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.965,,,1
+Nicaragua,NIC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.942,,,1
+Niger,NER,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.039,,,1
+Niger,NER,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.037,,,1
+Niger,NER,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.022,,,1
+Niger,NER,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.033,,,1
+Niger,NER,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.032,,,1
+Nigeria,NGA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.356,,,1
+Nigeria,NGA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.364,,,1
+Nigeria,NGA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Nigeria,NGA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.428,,,1
+Nigeria,NGA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+North Macedonia,MKD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.409,,,1
+North Macedonia,MKD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.315,,,1
+North Macedonia,MKD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.204,,,1
+North Macedonia,MKD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.166,,,1
+North Macedonia,MKD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.017,,,1
+Northern Mariana Islands,MNP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Northern Mariana Islands,MNP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Northern Mariana Islands,MNP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Northern Mariana Islands,MNP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Northern Mariana Islands,MNP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Norway,NOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.578,,,1
+Norway,NOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,4.466,,,1
+Norway,NOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,4.346,,,1
+Norway,NOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,4.22,,,1
+Norway,NOR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,4.091,,,1
+Oman,OMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.091,,,1
+Oman,OMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.104,,,1
+Oman,OMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.013,,,1
+Oman,OMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.964,,,1
+Oman,OMN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.13,,,1
+Pakistan,PAK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.049,,,1
+Pakistan,PAK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.917,,,1
+Pakistan,PAK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.932,,,1
+Pakistan,PAK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.89,,,1
+Pakistan,PAK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.85,,,1
+Palau,PLW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.191,,,1
+Palau,PLW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.573,,,1
+Palau,PLW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.91,,,1
+Palau,PLW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Palau,PLW,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Panama,PAN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.637,,,1
+Panama,PAN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.609,,,1
+Panama,PAN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.589,,,1
+Panama,PAN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.573,,,1
+Panama,PAN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.579,,,1
+Papua New Guinea,PNG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.06,,,1
+Papua New Guinea,PNG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.064,,,1
+Papua New Guinea,PNG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Papua New Guinea,PNG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Papua New Guinea,PNG,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Paraguay,PRY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Paraguay,PRY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.466,,,1
+Paraguay,PRY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Paraguay,PRY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Paraguay,PRY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Peru,PER,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.354,,,1
+Peru,PER,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.373,,,1
+Peru,PER,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Peru,PER,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.307,,,1
+Peru,PER,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Philippines,PHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.732,,,1
+Philippines,PHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.695,,,1
+Philippines,PHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.66,,,1
+Philippines,PHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.631,,,1
+Philippines,PHL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.609,,,1
+Poland,POL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.279,,,1
+Poland,POL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.341,,,1
+Poland,POL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.36,,,1
+Poland,POL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.397,,,1
+Poland,POL,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.311,,,1
+Portugal,PRT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,5.422,,,1
+Portugal,PRT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,5.276,,,1
+Portugal,PRT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,5.103,,,1
+Portugal,PRT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,4.93,,,1
+Portugal,PRT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,4.748,,,1
+Puerto Rico (US),PRI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Puerto Rico (US),PRI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Puerto Rico (US),PRI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Puerto Rico (US),PRI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Puerto Rico (US),PRI,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Qatar,QAT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Qatar,QAT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.504,,,1
+Qatar,QAT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Qatar,QAT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.751,,,1
+Qatar,QAT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Romania,ROU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.165,,,1
+Romania,ROU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.028,,,1
+Romania,ROU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.912,,,1
+Romania,ROU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.83,,,1
+Romania,ROU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.758,,,1
+Russian Federation,RUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.165,,,1
+Russian Federation,RUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,4.097,,,1
+Russian Federation,RUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,4.058,,,1
+Russian Federation,RUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.964,,,1
+Russian Federation,RUS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.925,,,1
+Rwanda,RWA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.117,,,1
+Rwanda,RWA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.132,,,1
+Rwanda,RWA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.135,,,1
+Rwanda,RWA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.12,,,1
+Rwanda,RWA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.11,,,1
+Samoa,WSM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.558,,,1
+Samoa,WSM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Samoa,WSM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Samoa,WSM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.329,,,1
+Samoa,WSM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+San Marino,SMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+San Marino,SMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+San Marino,SMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+San Marino,SMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+San Marino,SMR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Sao Tome and Principe,STP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.492,,,1
+Sao Tome and Principe,STP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Sao Tome and Principe,STP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Sao Tome and Principe,STP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Sao Tome and Principe,STP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.315,,,1
+Saudi Arabia,SAU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.633,,,1
+Saudi Arabia,SAU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.899,,,1
+Saudi Arabia,SAU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.676,,,1
+Saudi Arabia,SAU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.466,,,1
+Saudi Arabia,SAU,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.444,,,1
+Senegal,SEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.088,,,1
+Senegal,SEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Senegal,SEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.069,,,1
+Senegal,SEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.077,,,1
+Senegal,SEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.2074,,,1
+Serbia,SRB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Serbia,SRB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.966,,,1
+Serbia,SRB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.937,,,1
+Serbia,SRB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.926,,,1
+Serbia,SRB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.043,,,1
+Seychelles,SYC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.869,,,1
+Seychelles,SYC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.087,,,1
+Seychelles,SYC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Seychelles,SYC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.849,,,1
+Seychelles,SYC,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Sierra Leone,SLE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.033,,,1
+Sierra Leone,SLE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.075,,,1
+Sierra Leone,SLE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Sierra Leone,SLE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Sierra Leone,SLE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Singapore,SGP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.519,,,1
+Singapore,SGP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.443,,,1
+Singapore,SGP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.389,,,1
+Singapore,SGP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.325,,,1
+Singapore,SGP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.255,,,1
+Sint Maarten (Dutch part),SXM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Sint Maarten (Dutch part),SXM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Sint Maarten (Dutch part),SXM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Sint Maarten (Dutch part),SXM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Sint Maarten (Dutch part),SXM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Slovak Republic,SVK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.569,,,1
+Slovak Republic,SVK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.523,,,1
+Slovak Republic,SVK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.423,,,1
+Slovak Republic,SVK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.476,,,1
+Slovak Republic,SVK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.454,,,1
+Slovenia,SVN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.27,,,1
+Slovenia,SVN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.185,,,1
+Slovenia,SVN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.107,,,1
+Slovenia,SVN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.019,,,1
+Slovenia,SVN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.83,,,1
+Solomon Islands,SLB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Solomon Islands,SLB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Solomon Islands,SLB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Solomon Islands,SLB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.181,,,1
+Solomon Islands,SLB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+"Somalia, Fed. Rep.",SOM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+"Somalia, Fed. Rep.",SOM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+"Somalia, Fed. Rep.",SOM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+"Somalia, Fed. Rep.",SOM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+"Somalia, Fed. Rep.",SOM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+South Africa,ZAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.779,,,1
+South Africa,ZAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.742,,,1
+South Africa,ZAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.775,,,1
+South Africa,ZAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.753,,,1
+South Africa,ZAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.763,,,1
+South Sudan,SSD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.033,,,1
+South Sudan,SSD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.041,,,1
+South Sudan,SSD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+South Sudan,SSD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+South Sudan,SSD,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Spain,ESP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.376,,,1
+Spain,ESP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.996,,,1
+Spain,ESP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.854,,,1
+Spain,ESP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,3.803,,,1
+Spain,ESP,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,3.826,,,1
+Sri Lanka,LKA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.098,,,1
+Sri Lanka,LKA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.958,,,1
+Sri Lanka,LKA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.887,,,1
+Sri Lanka,LKA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.856,,,1
+Sri Lanka,LKA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.83,,,1
+St. Kitts and Nevis,KNA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+St. Kitts and Nevis,KNA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.085,,,1
+St. Kitts and Nevis,KNA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+St. Kitts and Nevis,KNA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+St. Kitts and Nevis,KNA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.909,,,1
+St. Lucia,LCA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,6.168,,,1
+St. Lucia,LCA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,6.367,,,1
+St. Lucia,LCA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,6.245,,,1
+St. Lucia,LCA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,5.672,,,1
+St. Lucia,LCA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+St. Martin (French part),MAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+St. Martin (French part),MAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+St. Martin (French part),MAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+St. Martin (French part),MAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+St. Martin (French part),MAF,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+St. Vincent and the Grenadines,VCT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+St. Vincent and the Grenadines,VCT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+St. Vincent and the Grenadines,VCT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+St. Vincent and the Grenadines,VCT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+St. Vincent and the Grenadines,VCT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Sudan,SDN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Sudan,SDN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Sudan,SDN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.25,,,1
+Sudan,SDN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Sudan,SDN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.396,,,1
+Suriname,SUR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Suriname,SUR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.787,,,1
+Suriname,SUR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.139,,,1
+Suriname,SUR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.087,,,1
+Suriname,SUR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.006,,,1
+Sweden,SWE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.288,,,1
+Sweden,SWE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,4.322,,,1
+Sweden,SWE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,4.269,,,1
+Sweden,SWE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,4.233,,,1
+Sweden,SWE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,4.174,,,1
+Switzerland,CHE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.349,,,1
+Switzerland,CHE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,4.338,,,1
+Switzerland,CHE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,4.297,,,1
+Switzerland,CHE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,4.25,,,1
+Switzerland,CHE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,4.196,,,1
+Syrian Arab Republic,SYR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.517,,,1
+Syrian Arab Republic,SYR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.5,,,1
+Syrian Arab Republic,SYR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.468,,,1
+Syrian Arab Republic,SYR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.172,,,1
+Syrian Arab Republic,SYR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Tajikistan,TJK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.933,,,1
+Tajikistan,TJK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.934,,,1
+Tajikistan,TJK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.785,,,1
+Tajikistan,TJK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.754,,,1
+Tajikistan,TJK,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.747,,,1
+Tanzania,TZA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Tanzania,TZA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.05,,,1
+Tanzania,TZA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Tanzania,TZA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Tanzania,TZA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Thailand,THA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.548,,,1
+Thailand,THA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.518,,,1
+Thailand,THA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.788,,,1
+Thailand,THA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.433,,,1
+Thailand,THA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.453,,,1
+Timor-Leste,TLS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.764,,,1
+Timor-Leste,TLS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.718,,,1
+Timor-Leste,TLS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.745,,,1
+Timor-Leste,TLS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Timor-Leste,TLS,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.69,,,1
+Togo,TGO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.074,,,1
+Togo,TGO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.074,,,1
+Togo,TGO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.072,,,1
+Togo,TGO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.044,,,1
+Togo,TGO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.047,,,1
+Tonga,TON,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.012,,,1
+Tonga,TON,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Tonga,TON,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Tonga,TON,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Tonga,TON,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Trinidad and Tobago,TTO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,4.205,,,1
+Trinidad and Tobago,TTO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,3.939,,,1
+Trinidad and Tobago,TTO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,3.222,,,1
+Trinidad and Tobago,TTO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Trinidad and Tobago,TTO,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.541,,,1
+Tunisia,TUN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.299,,,1
+Tunisia,TUN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Tunisia,TUN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.278,,,1
+Tunisia,TUN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.258,,,1
+Tunisia,TUN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.285,,,1
+Turkiye,TUR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.884,,,1
+Turkiye,TUR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.814,,,1
+Turkiye,TUR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.805,,,1
+Turkiye,TUR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.774,,,1
+Turkiye,TUR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.765,,,1
+Turkmenistan,TKM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.957,,,1
+Turkmenistan,TKM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,1.971,,,1
+Turkmenistan,TKM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.969,,,1
+Turkmenistan,TKM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,1.959,,,1
+Turkmenistan,TKM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,1.974,,,1
+Turks and Caicos Islands,TCA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Turks and Caicos Islands,TCA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Turks and Caicos Islands,TCA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Turks and Caicos Islands,TCA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Turks and Caicos Islands,TCA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Tuvalu,TUV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Tuvalu,TUV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Tuvalu,TUV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Tuvalu,TUV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Tuvalu,TUV,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Uganda,UGA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Uganda,UGA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Uganda,UGA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.172,,,1
+Uganda,UGA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Uganda,UGA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.097,,,1
+Ukraine,UKR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Ukraine,UKR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Ukraine,UKR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Ukraine,UKR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Ukraine,UKR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+United Arab Emirates,ARE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.71,,,1
+United Arab Emirates,ARE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.605,,,1
+United Arab Emirates,ARE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.502,,,1
+United Arab Emirates,ARE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.458,,,1
+United Arab Emirates,ARE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.361,,,1
+United Kingdom,GBR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.932,,,1
+United Kingdom,GBR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.828,,,1
+United Kingdom,GBR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.802,,,1
+United Kingdom,GBR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.773,,,1
+United Kingdom,GBR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.767,,,1
+United States,USA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,3.482,,,1
+United States,USA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.548,,,1
+United States,USA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+United States,USA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+United States,USA,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Uruguay,URY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Uruguay,URY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Uruguay,URY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,5.01,,,1
+Uruguay,URY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,4.008,,,1
+Uruguay,URY,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Uzbekistan,UZB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,2.322,,,1
+Uzbekistan,UZB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.329,,,1
+Uzbekistan,UZB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,2.27,,,1
+Uzbekistan,UZB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,2.298,,,1
+Uzbekistan,UZB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,2.363,,,1
+Vanuatu,VUT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.164,,,1
+Vanuatu,VUT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.137,,,1
+Vanuatu,VUT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Vanuatu,VUT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.169,,,1
+Vanuatu,VUT,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+"Venezuela, RB",VEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+"Venezuela, RB",VEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+"Venezuela, RB",VEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.664,,,1
+"Venezuela, RB",VEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+"Venezuela, RB",VEN,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Viet Nam,VNM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.99,,,1
+Viet Nam,VNM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.881,,,1
+Viet Nam,VNM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Viet Nam,VNM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.825,,,1
+Viet Nam,VNM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.795,,,1
+Virgin Islands (U.S.),VIR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+Virgin Islands (U.S.),VIR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+Virgin Islands (U.S.),VIR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Virgin Islands (U.S.),VIR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+Virgin Islands (U.S.),VIR,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+West Bank and Gaza,PSE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+West Bank and Gaza,PSE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,2.168,,,1
+West Bank and Gaza,PSE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,1.774,,,1
+West Bank and Gaza,PSE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+West Bank and Gaza,PSE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+"Yemen, Rep.",YEM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,,,,1
+"Yemen, Rep.",YEM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,,,,1
+"Yemen, Rep.",YEM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+"Yemen, Rep.",YEM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,,,,1
+"Yemen, Rep.",YEM,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Zambia,ZMB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.237,,,1
+Zambia,ZMB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.224,,,1
+Zambia,ZMB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,,,,1
+Zambia,ZMB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.09,,,1
+Zambia,ZMB,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,,,,1
+Zimbabwe,ZWE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,0.123,,,1
+Zimbabwe,ZWE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.201,,,1
+Zimbabwe,ZWE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.179,,,1
+Zimbabwe,ZWE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.172,,,1
+Zimbabwe,ZWE,SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.174,,,1

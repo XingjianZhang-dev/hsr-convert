@@ -1,0 +1,4 @@
+evidence_variant_a,evidence_variant_b,n,coverage_count,missing_count,missing_rate,conversion_efficiency_spearman,profile_agreement,stable_label_count,unstable_label_count,source_provenance
+baseline_owid_excess_mortality,ghs_enhanced_owid,106,106,0,0.0,0.9960400030228985,0.9716981132075472,103,3,baseline_owid_excess_mortality;ghs_enhanced_owid
+baseline_owid_excess_mortality,life_expectancy_loss,106,106,80,0.4301075268817204,0.6604478927878681,0.6415094339622641,68,38,baseline_owid_excess_mortality;life_expectancy_loss
+ghs_enhanced_owid,life_expectancy_loss,106,106,80,0.4301075268817204,0.6541501876716125,0.6509433962264151,69,37,ghs_enhanced_owid;life_expectancy_loss

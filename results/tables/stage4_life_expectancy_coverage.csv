@@ -1,0 +1,5 @@
+outcome,source_indicator,source_provenance,n,n_scoring_countries,coverage_count,missing_count,missing_rate,higher_is_worse
+life_expectancy_loss_2019_2020,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022,193,193,193,0,0.0,True
+life_expectancy_loss_2019_2021,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022,193,193,193,0,0.0,True
+life_expectancy_loss_2019_2022,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022,193,193,193,0,0.0,True
+max_life_expectancy_drop_2020_2022,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022,193,193,193,0,0.0,True

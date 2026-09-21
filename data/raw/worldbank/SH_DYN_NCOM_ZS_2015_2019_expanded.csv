@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,variable
+Africa Eastern and Southern,AFE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.1814939357203,ncd_mortality_risk
+Africa Eastern and Southern,AFE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.3811164645277,ncd_mortality_risk
+Africa Eastern and Southern,AFE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.300512624368,ncd_mortality_risk
+Africa Eastern and Southern,AFE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.4201125188432,ncd_mortality_risk
+Africa Eastern and Southern,AFE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.4905527837396,ncd_mortality_risk
+Africa Western and Central,AFW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.5262659614271,ncd_mortality_risk
+Africa Western and Central,AFW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.6416202020647,ncd_mortality_risk
+Africa Western and Central,AFW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.7513104360238,ncd_mortality_risk
+Africa Western and Central,AFW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,20.9742421234034,ncd_mortality_risk
+Africa Western and Central,AFW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.1393200838383,ncd_mortality_risk
+Arab World,ARB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.8891406176307,ncd_mortality_risk
+Arab World,ARB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.9843329248905,ncd_mortality_risk
+Arab World,ARB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.8641443540089,ncd_mortality_risk
+Arab World,ARB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.1895885249652,ncd_mortality_risk
+Arab World,ARB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.6262996727592,ncd_mortality_risk
+Caribbean small states,CSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.0729361033974,ncd_mortality_risk
+Caribbean small states,CSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.9271619431183,ncd_mortality_risk
+Caribbean small states,CSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.0408202961819,ncd_mortality_risk
+Caribbean small states,CSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.3317313759264,ncd_mortality_risk
+Caribbean small states,CSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.1992602838059,ncd_mortality_risk
+Central Europe and the Baltics,CEB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,18.6472055748226,ncd_mortality_risk
+Central Europe and the Baltics,CEB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,19.2175593975712,ncd_mortality_risk
+Central Europe and the Baltics,CEB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,19.2652494600049,ncd_mortality_risk
+Central Europe and the Baltics,CEB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,19.4718991126918,ncd_mortality_risk
+Central Europe and the Baltics,CEB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,19.9842070043077,ncd_mortality_risk
+Early-demographic dividend,EAR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.0985559113195,ncd_mortality_risk
+Early-demographic dividend,EAR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.1188800254848,ncd_mortality_risk
+Early-demographic dividend,EAR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.9358107896556,ncd_mortality_risk
+Early-demographic dividend,EAR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.0328296913163,ncd_mortality_risk
+Early-demographic dividend,EAR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.0204596641822,ncd_mortality_risk
+East Asia & Pacific,EAS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,17.0292084188052,ncd_mortality_risk
+East Asia & Pacific,EAS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,17.1394367076022,ncd_mortality_risk
+East Asia & Pacific,EAS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,17.3502263416317,ncd_mortality_risk
+East Asia & Pacific,EAS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,17.6369394404241,ncd_mortality_risk
+East Asia & Pacific,EAS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.8302639882389,ncd_mortality_risk
+East Asia & Pacific (excluding high income),EAP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,17.9450576905199,ncd_mortality_risk
+East Asia & Pacific (excluding high income),EAP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,18.074276859646,ncd_mortality_risk
+East Asia & Pacific (excluding high income),EAP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,18.306521146894,ncd_mortality_risk
+East Asia & Pacific (excluding high income),EAP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,18.6205481942835,ncd_mortality_risk
+East Asia & Pacific (excluding high income),EAP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,18.8405514209094,ncd_mortality_risk
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,17.8641020243465,ncd_mortality_risk
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,17.994392537772,ncd_mortality_risk
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,18.217787783333,ncd_mortality_risk
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,18.5224816827466,ncd_mortality_risk
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,18.7381446918498,ncd_mortality_risk
+Euro area,EMU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,10.6478797329182,ncd_mortality_risk
+Euro area,EMU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,10.9599703221908,ncd_mortality_risk
+Euro area,EMU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,11.1146529136171,ncd_mortality_risk
+Euro area,EMU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,11.2721534826767,ncd_mortality_risk
+Euro area,EMU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,11.4887895610437,ncd_mortality_risk
+Europe & Central Asia,ECS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,16.3680175055905,ncd_mortality_risk
+Europe & Central Asia,ECS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,16.8511030022241,ncd_mortality_risk
+Europe & Central Asia,ECS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,16.9048496924426,ncd_mortality_risk
+Europe & Central Asia,ECS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,17.3180845903399,ncd_mortality_risk
+Europe & Central Asia,ECS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.496017820283,ncd_mortality_risk
+Europe & Central Asia (excluding high income),ECA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.4742219208735,ncd_mortality_risk
+Europe & Central Asia (excluding high income),ECA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.9120323292768,ncd_mortality_risk
+Europe & Central Asia (excluding high income),ECA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.1195146558559,ncd_mortality_risk
+Europe & Central Asia (excluding high income),ECA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.6610304429737,ncd_mortality_risk
+Europe & Central Asia (excluding high income),ECA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.0291864853795,ncd_mortality_risk
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.9724408429283,ncd_mortality_risk
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.6208134452798,ncd_mortality_risk
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.6821462953529,ncd_mortality_risk
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,23.4041727033076,ncd_mortality_risk
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.6309657992213,ncd_mortality_risk
+European Union,EUU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,12.2486732873773,ncd_mortality_risk
+European Union,EUU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,12.6139583322619,ncd_mortality_risk
+European Union,EUU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,12.7451306027777,ncd_mortality_risk
+European Union,EUU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,12.9153337426893,ncd_mortality_risk
+European Union,EUU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,13.1842502427963,ncd_mortality_risk
+Fragile and conflict affected situations,FCS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.5038297694601,ncd_mortality_risk
+Fragile and conflict affected situations,FCS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.6238844764939,ncd_mortality_risk
+Fragile and conflict affected situations,FCS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.5279862740354,ncd_mortality_risk
+Fragile and conflict affected situations,FCS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.7225237360997,ncd_mortality_risk
+Fragile and conflict affected situations,FCS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.7864426715155,ncd_mortality_risk
+Heavily indebted poor countries (HIPC),HPC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.9306395100781,ncd_mortality_risk
+Heavily indebted poor countries (HIPC),HPC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,23.0576179301153,ncd_mortality_risk
+Heavily indebted poor countries (HIPC),HPC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,23.1532450902468,ncd_mortality_risk
+Heavily indebted poor countries (HIPC),HPC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,23.2489961754097,ncd_mortality_risk
+Heavily indebted poor countries (HIPC),HPC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.3523747871211,ncd_mortality_risk
+High income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,12.9859543296977,ncd_mortality_risk
+High income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,13.3425000509722,ncd_mortality_risk
+High income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,13.4379004085393,ncd_mortality_risk
+High income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,13.7244400327679,ncd_mortality_risk
+High income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,13.8438528299842,ncd_mortality_risk
+IBRD only,IBD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,19.3754739679983,ncd_mortality_risk
+IBRD only,IBD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,19.4925122898094,ncd_mortality_risk
+IBRD only,IBD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,19.4575286173824,ncd_mortality_risk
+IBRD only,IBD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,19.6980873055788,ncd_mortality_risk
+IBRD only,IBD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,19.7758415859519,ncd_mortality_risk
+IDA & IBRD total,IBT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,19.961635109778,ncd_mortality_risk
+IDA & IBRD total,IBT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.0803011463274,ncd_mortality_risk
+IDA & IBRD total,IBT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.0660306813547,ncd_mortality_risk
+IDA & IBRD total,IBT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,20.2765411570195,ncd_mortality_risk
+IDA & IBRD total,IBT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,20.3610009746407,ncd_mortality_risk
+IDA blend,IDB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.8753923564834,ncd_mortality_risk
+IDA blend,IDB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,23.1255094409592,ncd_mortality_risk
+IDA blend,IDB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,23.3838387757615,ncd_mortality_risk
+IDA blend,IDB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,23.6186747692111,ncd_mortality_risk
+IDA blend,IDB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.8256649947111,ncd_mortality_risk
+IDA only,IDX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.2761254549633,ncd_mortality_risk
+IDA only,IDX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.3791597495589,ncd_mortality_risk
+IDA only,IDX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.3966252333456,ncd_mortality_risk
+IDA only,IDX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.4249564716521,ncd_mortality_risk
+IDA only,IDX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.5225637199996,ncd_mortality_risk
+IDA total,IDA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.4857397541253,ncd_mortality_risk
+IDA total,IDA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.6404021863629,ncd_mortality_risk
+IDA total,IDA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.7422286696729,ncd_mortality_risk
+IDA total,IDA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.8430941975906,ncd_mortality_risk
+IDA total,IDA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.9794405196763,ncd_mortality_risk
+Late-demographic dividend,LTE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,16.7997994798495,ncd_mortality_risk
+Late-demographic dividend,LTE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,17.0548825479144,ncd_mortality_risk
+Late-demographic dividend,LTE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,17.2928190615513,ncd_mortality_risk
+Late-demographic dividend,LTE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,17.6676562617549,ncd_mortality_risk
+Late-demographic dividend,LTE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.8923539029646,ncd_mortality_risk
+Latin America & Caribbean,LCN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,14.8176439605989,ncd_mortality_risk
+Latin America & Caribbean,LCN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,14.9171461379378,ncd_mortality_risk
+Latin America & Caribbean,LCN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,15.0914885569996,ncd_mortality_risk
+Latin America & Caribbean,LCN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,15.4292739359742,ncd_mortality_risk
+Latin America & Caribbean,LCN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,15.294002757869,ncd_mortality_risk
+Latin America & Caribbean (excluding high income),LAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,14.8908097338098,ncd_mortality_risk
+Latin America & Caribbean (excluding high income),LAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,15.0060761955463,ncd_mortality_risk
+Latin America & Caribbean (excluding high income),LAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,15.1861971193683,ncd_mortality_risk
+Latin America & Caribbean (excluding high income),LAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,15.5090661379887,ncd_mortality_risk
+Latin America & Caribbean (excluding high income),LAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,15.4192598498022,ncd_mortality_risk
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,14.7962681904129,ncd_mortality_risk
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,14.9033782783309,ncd_mortality_risk
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,15.068983557304,ncd_mortality_risk
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,15.4337501695654,ncd_mortality_risk
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,15.2886722640266,ncd_mortality_risk
+Least developed countries: UN classification,LDC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.6647703848801,ncd_mortality_risk
+Least developed countries: UN classification,LDC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.7190137757581,ncd_mortality_risk
+Least developed countries: UN classification,LDC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.676032558209,ncd_mortality_risk
+Least developed countries: UN classification,LDC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.6929086562914,ncd_mortality_risk
+Least developed countries: UN classification,LDC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.7432900408121,ncd_mortality_risk
+Low & middle income,LMY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,19.9582740975613,ncd_mortality_risk
+Low & middle income,LMY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.0448927756775,ncd_mortality_risk
+Low & middle income,LMY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.0365463785777,ncd_mortality_risk
+Low & middle income,LMY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,20.2143701031701,ncd_mortality_risk
+Low & middle income,LMY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,20.3062269129301,ncd_mortality_risk
+Low income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,25.0144120556065,ncd_mortality_risk
+Low income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,25.1889384198605,ncd_mortality_risk
+Low income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,25.3178261534053,ncd_mortality_risk
+Low income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,25.4321663626847,ncd_mortality_risk
+Low income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,25.5038368485492,ncd_mortality_risk
+Lower middle income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,23.0639574494609,ncd_mortality_risk
+Lower middle income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,23.069940917524,ncd_mortality_risk
+Lower middle income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.7865915710615,ncd_mortality_risk
+Lower middle income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.8382371128374,ncd_mortality_risk
+Lower middle income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.8210131614908,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.4770380667631,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.5706290730039,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.6486797266178,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.9173553846396,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.2698109163714,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.5703398813532,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.6939807523639,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.8146751522765,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,23.1507404864639,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.497938105344,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.5934274633378,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.7186124452785,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.8369268964394,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,23.170286193295,ncd_mortality_risk
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.5148183379699,ncd_mortality_risk
+Middle income,MIC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,19.658846570283,ncd_mortality_risk
+Middle income,MIC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,19.7445939013015,ncd_mortality_risk
+Middle income,MIC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,19.7319571836364,ncd_mortality_risk
+Middle income,MIC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,19.916398342401,ncd_mortality_risk
+Middle income,MIC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,20.0118087503511,ncd_mortality_risk
+North America,NAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,12.8172937216576,ncd_mortality_risk
+North America,NAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,13.108842407923,ncd_mortality_risk
+North America,NAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,13.3104602397299,ncd_mortality_risk
+North America,NAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,13.5321343263408,ncd_mortality_risk
+North America,NAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,13.6219619818203,ncd_mortality_risk
+Not classified,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Not classified,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Not classified,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Not classified,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Not classified,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+OECD members,OED,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,11.7849710546904,ncd_mortality_risk
+OECD members,OED,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,12.0226741364349,ncd_mortality_risk
+OECD members,OED,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,12.1714044918156,ncd_mortality_risk
+OECD members,OED,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,12.3921856062463,ncd_mortality_risk
+OECD members,OED,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,12.5177623175407,ncd_mortality_risk
+Other small states,OSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,17.9510600715222,ncd_mortality_risk
+Other small states,OSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,18.2573934337981,ncd_mortality_risk
+Other small states,OSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,18.2749810455564,ncd_mortality_risk
+Other small states,OSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,18.4136010080604,ncd_mortality_risk
+Other small states,OSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,18.4933580883884,ncd_mortality_risk
+Pacific island small states,PSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,37.5225741157451,ncd_mortality_risk
+Pacific island small states,PSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,37.7150714616261,ncd_mortality_risk
+Pacific island small states,PSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,37.8636098625682,ncd_mortality_risk
+Pacific island small states,PSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,37.9931287914004,ncd_mortality_risk
+Pacific island small states,PSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,38.2756167008736,ncd_mortality_risk
+Post-demographic dividend,PST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,11.8627036767321,ncd_mortality_risk
+Post-demographic dividend,PST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,12.1422646516912,ncd_mortality_risk
+Post-demographic dividend,PST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,12.2318701374574,ncd_mortality_risk
+Post-demographic dividend,PST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,12.4361579850421,ncd_mortality_risk
+Post-demographic dividend,PST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,12.5712253535642,ncd_mortality_risk
+Pre-demographic dividend,PRE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.2361446210363,ncd_mortality_risk
+Pre-demographic dividend,PRE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.303222937017,ncd_mortality_risk
+Pre-demographic dividend,PRE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.2406802330239,ncd_mortality_risk
+Pre-demographic dividend,PRE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.3105036625559,ncd_mortality_risk
+Pre-demographic dividend,PRE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.3851652574145,ncd_mortality_risk
+Small states,SST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.8583735219775,ncd_mortality_risk
+Small states,SST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.049222601612,ncd_mortality_risk
+Small states,SST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.1088089937573,ncd_mortality_risk
+Small states,SST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.2868658506534,ncd_mortality_risk
+Small states,SST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.3370581478806,ncd_mortality_risk
+South Asia,SAS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,23.0914259252714,ncd_mortality_risk
+South Asia,SAS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,23.0172875453574,ncd_mortality_risk
+South Asia,SAS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.4909846622557,ncd_mortality_risk
+South Asia,SAS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.2984839482431,ncd_mortality_risk
+South Asia,SAS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.1334082670857,ncd_mortality_risk
+South Asia (IDA & IBRD),TSA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,23.0914259252714,ncd_mortality_risk
+South Asia (IDA & IBRD),TSA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,23.0172875453574,ncd_mortality_risk
+South Asia (IDA & IBRD),TSA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.4909846622557,ncd_mortality_risk
+South Asia (IDA & IBRD),TSA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.2984839482431,ncd_mortality_risk
+South Asia (IDA & IBRD),TSA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.1334082670857,ncd_mortality_risk
+Sub-Saharan Africa,SSF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.5130098983575,ncd_mortality_risk
+Sub-Saharan Africa,SSF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.6764412986107,ncd_mortality_risk
+Sub-Saharan Africa,SSF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.6709877385823,ncd_mortality_risk
+Sub-Saharan Africa,SSF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.8314134125591,ncd_mortality_risk
+Sub-Saharan Africa,SSF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.9393575751607,ncd_mortality_risk
+Sub-Saharan Africa (excluding high income),SSA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.9854134854419,ncd_mortality_risk
+Sub-Saharan Africa (excluding high income),SSA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.1753489575862,ncd_mortality_risk
+Sub-Saharan Africa (excluding high income),SSA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.1672027175837,ncd_mortality_risk
+Sub-Saharan Africa (excluding high income),SSA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.3426825716347,ncd_mortality_risk
+Sub-Saharan Africa (excluding high income),SSA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.450070985014,ncd_mortality_risk
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.5130098983575,ncd_mortality_risk
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.6764412986107,ncd_mortality_risk
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.6709877385823,ncd_mortality_risk
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.8314134125591,ncd_mortality_risk
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.9393575751607,ncd_mortality_risk
+Upper middle income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,16.9369146703615,ncd_mortality_risk
+Upper middle income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,17.107385118395,ncd_mortality_risk
+Upper middle income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,17.3279396829454,ncd_mortality_risk
+Upper middle income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,17.634543325736,ncd_mortality_risk
+Upper middle income,,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.8366466518418,ncd_mortality_risk
+World,WLD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,18.4844518359578,ncd_mortality_risk
+World,WLD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,18.6044587601773,ncd_mortality_risk
+World,WLD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,18.597782922867,ncd_mortality_risk
+World,WLD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,18.7803341313744,ncd_mortality_risk
+World,WLD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,18.8571423471284,ncd_mortality_risk
+Afghanistan,AFG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,34.4,ncd_mortality_risk
+Afghanistan,AFG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,34.6,ncd_mortality_risk
+Afghanistan,AFG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,35.0,ncd_mortality_risk
+Afghanistan,AFG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,34.9,ncd_mortality_risk
+Afghanistan,AFG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,35.0,ncd_mortality_risk
+Albania,ALB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,11.3,ncd_mortality_risk
+Albania,ALB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,11.6,ncd_mortality_risk
+Albania,ALB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,12.0,ncd_mortality_risk
+Albania,ALB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,12.5,ncd_mortality_risk
+Albania,ALB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,13.3,ncd_mortality_risk
+Algeria,DZA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,14.0,ncd_mortality_risk
+Algeria,DZA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,14.0,ncd_mortality_risk
+Algeria,DZA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,14.1,ncd_mortality_risk
+Algeria,DZA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,14.1,ncd_mortality_risk
+Algeria,DZA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,14.2,ncd_mortality_risk
+American Samoa,ASM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+American Samoa,ASM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+American Samoa,ASM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+American Samoa,ASM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+American Samoa,ASM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Andorra,AND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Andorra,AND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Andorra,AND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Andorra,AND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Andorra,AND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Angola,AGO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,24.6,ncd_mortality_risk
+Angola,AGO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,24.0,ncd_mortality_risk
+Angola,AGO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.9,ncd_mortality_risk
+Angola,AGO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,23.0,ncd_mortality_risk
+Angola,AGO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.2,ncd_mortality_risk
+Antigua and Barbuda,ATG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,18.5,ncd_mortality_risk
+Antigua and Barbuda,ATG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,17.9,ncd_mortality_risk
+Antigua and Barbuda,ATG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,17.7,ncd_mortality_risk
+Antigua and Barbuda,ATG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,18.1,ncd_mortality_risk
+Antigua and Barbuda,ATG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,18.2,ncd_mortality_risk
+Argentina,ARG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,15.6,ncd_mortality_risk
+Argentina,ARG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,15.7,ncd_mortality_risk
+Argentina,ARG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,15.9,ncd_mortality_risk
+Argentina,ARG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,16.5,ncd_mortality_risk
+Argentina,ARG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,16.2,ncd_mortality_risk
+Armenia,ARM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.2,ncd_mortality_risk
+Armenia,ARM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.1,ncd_mortality_risk
+Armenia,ARM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.3,ncd_mortality_risk
+Armenia,ARM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.6,ncd_mortality_risk
+Armenia,ARM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.2,ncd_mortality_risk
+Aruba,ABW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Aruba,ABW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Aruba,ABW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Aruba,ABW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Aruba,ABW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Australia,AUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,9.0,ncd_mortality_risk
+Australia,AUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,8.7,ncd_mortality_risk
+Australia,AUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,8.7,ncd_mortality_risk
+Australia,AUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,9.0,ncd_mortality_risk
+Australia,AUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,9.3,ncd_mortality_risk
+Austria,AUT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,10.3,ncd_mortality_risk
+Austria,AUT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,10.9,ncd_mortality_risk
+Austria,AUT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,10.8,ncd_mortality_risk
+Austria,AUT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,11.2,ncd_mortality_risk
+Austria,AUT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,11.6,ncd_mortality_risk
+Azerbaijan,AZE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,19.3,ncd_mortality_risk
+Azerbaijan,AZE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,19.9,ncd_mortality_risk
+Azerbaijan,AZE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.9,ncd_mortality_risk
+Azerbaijan,AZE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.1,ncd_mortality_risk
+Azerbaijan,AZE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.3,ncd_mortality_risk
+"Bahamas, The",BHS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.3,ncd_mortality_risk
+"Bahamas, The",BHS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.3,ncd_mortality_risk
+"Bahamas, The",BHS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.4,ncd_mortality_risk
+"Bahamas, The",BHS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,20.5,ncd_mortality_risk
+"Bahamas, The",BHS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,20.2,ncd_mortality_risk
+Bahrain,BHR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,14.5,ncd_mortality_risk
+Bahrain,BHR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,14.4,ncd_mortality_risk
+Bahrain,BHR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,14.5,ncd_mortality_risk
+Bahrain,BHR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,14.5,ncd_mortality_risk
+Bahrain,BHR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,14.3,ncd_mortality_risk
+Bangladesh,BGD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,19.2,ncd_mortality_risk
+Bangladesh,BGD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,19.3,ncd_mortality_risk
+Bangladesh,BGD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,19.3,ncd_mortality_risk
+Bangladesh,BGD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,19.1,ncd_mortality_risk
+Bangladesh,BGD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,19.1,ncd_mortality_risk
+Barbados,BRB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,17.8,ncd_mortality_risk
+Barbados,BRB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,17.4,ncd_mortality_risk
+Barbados,BRB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,17.2,ncd_mortality_risk
+Barbados,BRB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,17.5,ncd_mortality_risk
+Barbados,BRB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.3,ncd_mortality_risk
+Belarus,BLR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,24.4,ncd_mortality_risk
+Belarus,BLR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,25.1,ncd_mortality_risk
+Belarus,BLR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,24.9,ncd_mortality_risk
+Belarus,BLR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,25.3,ncd_mortality_risk
+Belarus,BLR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,25.3,ncd_mortality_risk
+Belgium,BEL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,10.0,ncd_mortality_risk
+Belgium,BEL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,10.4,ncd_mortality_risk
+Belgium,BEL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,10.6,ncd_mortality_risk
+Belgium,BEL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,11.1,ncd_mortality_risk
+Belgium,BEL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,11.5,ncd_mortality_risk
+Belize,BLZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,16.1,ncd_mortality_risk
+Belize,BLZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,16.6,ncd_mortality_risk
+Belize,BLZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,16.7,ncd_mortality_risk
+Belize,BLZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,16.6,ncd_mortality_risk
+Belize,BLZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,16.9,ncd_mortality_risk
+Benin,BEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.3,ncd_mortality_risk
+Benin,BEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.6,ncd_mortality_risk
+Benin,BEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.9,ncd_mortality_risk
+Benin,BEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.2,ncd_mortality_risk
+Benin,BEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.5,ncd_mortality_risk
+Bermuda,BMU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Bermuda,BMU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Bermuda,BMU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Bermuda,BMU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Bermuda,BMU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Bhutan,BTN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,16.7,ncd_mortality_risk
+Bhutan,BTN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,17.2,ncd_mortality_risk
+Bhutan,BTN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,17.5,ncd_mortality_risk
+Bhutan,BTN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,17.4,ncd_mortality_risk
+Bhutan,BTN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.7,ncd_mortality_risk
+Bolivia,BOL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,16.6,ncd_mortality_risk
+Bolivia,BOL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,16.7,ncd_mortality_risk
+Bolivia,BOL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,16.9,ncd_mortality_risk
+Bolivia,BOL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,17.0,ncd_mortality_risk
+Bolivia,BOL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.1,ncd_mortality_risk
+Bosnia and Herzegovina,BIH,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,19.2,ncd_mortality_risk
+Bosnia and Herzegovina,BIH,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,18.7,ncd_mortality_risk
+Bosnia and Herzegovina,BIH,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,18.8,ncd_mortality_risk
+Bosnia and Herzegovina,BIH,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,18.9,ncd_mortality_risk
+Bosnia and Herzegovina,BIH,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,19.0,ncd_mortality_risk
+Botswana,BWA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,19.5,ncd_mortality_risk
+Botswana,BWA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.9,ncd_mortality_risk
+Botswana,BWA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.1,ncd_mortality_risk
+Botswana,BWA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.8,ncd_mortality_risk
+Botswana,BWA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.1,ncd_mortality_risk
+Brazil,BRA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,15.1,ncd_mortality_risk
+Brazil,BRA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,15.4,ncd_mortality_risk
+Brazil,BRA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,15.7,ncd_mortality_risk
+Brazil,BRA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,16.2,ncd_mortality_risk
+Brazil,BRA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,16.1,ncd_mortality_risk
+British Virgin Islands,VGB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+British Virgin Islands,VGB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+British Virgin Islands,VGB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+British Virgin Islands,VGB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+British Virgin Islands,VGB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Brunei Darussalam,BRN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,15.2,ncd_mortality_risk
+Brunei Darussalam,BRN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,15.4,ncd_mortality_risk
+Brunei Darussalam,BRN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,15.3,ncd_mortality_risk
+Brunei Darussalam,BRN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,15.1,ncd_mortality_risk
+Brunei Darussalam,BRN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,15.1,ncd_mortality_risk
+Bulgaria,BGR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,24.0,ncd_mortality_risk
+Bulgaria,BGR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,24.3,ncd_mortality_risk
+Bulgaria,BGR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,24.4,ncd_mortality_risk
+Bulgaria,BGR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,24.4,ncd_mortality_risk
+Bulgaria,BGR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,24.3,ncd_mortality_risk
+Burkina Faso,BFA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,24.1,ncd_mortality_risk
+Burkina Faso,BFA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,24.5,ncd_mortality_risk
+Burkina Faso,BFA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,24.9,ncd_mortality_risk
+Burkina Faso,BFA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,25.2,ncd_mortality_risk
+Burkina Faso,BFA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,25.3,ncd_mortality_risk
+Burundi,BDI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,23.9,ncd_mortality_risk
+Burundi,BDI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,23.9,ncd_mortality_risk
+Burundi,BDI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,24.1,ncd_mortality_risk
+Burundi,BDI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,24.1,ncd_mortality_risk
+Burundi,BDI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,24.1,ncd_mortality_risk
+Cabo Verde,CPV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,17.3,ncd_mortality_risk
+Cabo Verde,CPV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,17.3,ncd_mortality_risk
+Cabo Verde,CPV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,14.9,ncd_mortality_risk
+Cabo Verde,CPV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,14.7,ncd_mortality_risk
+Cabo Verde,CPV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,14.6,ncd_mortality_risk
+Cambodia,KHM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,23.3,ncd_mortality_risk
+Cambodia,KHM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,23.4,ncd_mortality_risk
+Cambodia,KHM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,23.4,ncd_mortality_risk
+Cambodia,KHM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,23.5,ncd_mortality_risk
+Cambodia,KHM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.6,ncd_mortality_risk
+Cameroon,CMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,24.9,ncd_mortality_risk
+Cameroon,CMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,25.2,ncd_mortality_risk
+Cameroon,CMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,25.7,ncd_mortality_risk
+Cameroon,CMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,26.3,ncd_mortality_risk
+Cameroon,CMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,26.8,ncd_mortality_risk
+Canada,CAN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,9.6,ncd_mortality_risk
+Canada,CAN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,9.8,ncd_mortality_risk
+Canada,CAN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,10.0,ncd_mortality_risk
+Canada,CAN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,10.4,ncd_mortality_risk
+Canada,CAN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,10.4,ncd_mortality_risk
+Cayman Islands,CYM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Cayman Islands,CYM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Cayman Islands,CYM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Cayman Islands,CYM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Cayman Islands,CYM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Central African Republic,CAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,32.5,ncd_mortality_risk
+Central African Republic,CAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,32.8,ncd_mortality_risk
+Central African Republic,CAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,32.7,ncd_mortality_risk
+Central African Republic,CAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,33.2,ncd_mortality_risk
+Central African Republic,CAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,33.0,ncd_mortality_risk
+Chad,TCD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,24.0,ncd_mortality_risk
+Chad,TCD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,24.1,ncd_mortality_risk
+Chad,TCD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,24.0,ncd_mortality_risk
+Chad,TCD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,24.1,ncd_mortality_risk
+Chad,TCD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,24.4,ncd_mortality_risk
+Channel Islands,CHI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Channel Islands,CHI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Channel Islands,CHI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Channel Islands,CHI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Channel Islands,CHI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Chile,CHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,10.2,ncd_mortality_risk
+Chile,CHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,10.4,ncd_mortality_risk
+Chile,CHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,10.6,ncd_mortality_risk
+Chile,CHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,11.0,ncd_mortality_risk
+Chile,CHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,11.5,ncd_mortality_risk
+China,CHN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,16.0,ncd_mortality_risk
+China,CHN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,16.2,ncd_mortality_risk
+China,CHN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,16.5,ncd_mortality_risk
+China,CHN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,16.8,ncd_mortality_risk
+China,CHN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.1,ncd_mortality_risk
+Colombia,COL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,10.3,ncd_mortality_risk
+Colombia,COL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,10.5,ncd_mortality_risk
+Colombia,COL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,10.3,ncd_mortality_risk
+Colombia,COL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,10.5,ncd_mortality_risk
+Colombia,COL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,10.5,ncd_mortality_risk
+Comoros,COM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.3,ncd_mortality_risk
+Comoros,COM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.5,ncd_mortality_risk
+Comoros,COM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.8,ncd_mortality_risk
+Comoros,COM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.1,ncd_mortality_risk
+Comoros,COM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.2,ncd_mortality_risk
+"Congo, Dem. Rep.",COD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,24.7,ncd_mortality_risk
+"Congo, Dem. Rep.",COD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,25.1,ncd_mortality_risk
+"Congo, Dem. Rep.",COD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,25.2,ncd_mortality_risk
+"Congo, Dem. Rep.",COD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,25.1,ncd_mortality_risk
+"Congo, Dem. Rep.",COD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,25.2,ncd_mortality_risk
+"Congo, Rep.",COG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,23.0,ncd_mortality_risk
+"Congo, Rep.",COG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.4,ncd_mortality_risk
+"Congo, Rep.",COG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.9,ncd_mortality_risk
+"Congo, Rep.",COG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.4,ncd_mortality_risk
+"Congo, Rep.",COG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.4,ncd_mortality_risk
+Costa Rica,CRI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,9.9,ncd_mortality_risk
+Costa Rica,CRI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,9.9,ncd_mortality_risk
+Costa Rica,CRI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,10.0,ncd_mortality_risk
+Costa Rica,CRI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,9.8,ncd_mortality_risk
+Costa Rica,CRI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,9.6,ncd_mortality_risk
+Cote d'Ivoire,CIV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,23.3,ncd_mortality_risk
+Cote d'Ivoire,CIV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,23.5,ncd_mortality_risk
+Cote d'Ivoire,CIV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,23.6,ncd_mortality_risk
+Cote d'Ivoire,CIV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,23.8,ncd_mortality_risk
+Cote d'Ivoire,CIV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,24.1,ncd_mortality_risk
+Croatia,HRV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,15.9,ncd_mortality_risk
+Croatia,HRV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,16.5,ncd_mortality_risk
+Croatia,HRV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,16.5,ncd_mortality_risk
+Croatia,HRV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,16.6,ncd_mortality_risk
+Croatia,HRV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.2,ncd_mortality_risk
+Cuba,CUB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,16.8,ncd_mortality_risk
+Cuba,CUB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,16.6,ncd_mortality_risk
+Cuba,CUB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,16.9,ncd_mortality_risk
+Cuba,CUB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,16.3,ncd_mortality_risk
+Cuba,CUB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,16.6,ncd_mortality_risk
+Curacao,CUW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Curacao,CUW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Curacao,CUW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Curacao,CUW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Curacao,CUW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Cyprus,CYP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,9.0,ncd_mortality_risk
+Cyprus,CYP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,9.2,ncd_mortality_risk
+Cyprus,CYP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,9.6,ncd_mortality_risk
+Cyprus,CYP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,9.7,ncd_mortality_risk
+Cyprus,CYP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,9.9,ncd_mortality_risk
+Czechia,CZE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,14.3,ncd_mortality_risk
+Czechia,CZE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,14.8,ncd_mortality_risk
+Czechia,CZE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,14.9,ncd_mortality_risk
+Czechia,CZE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,15.0,ncd_mortality_risk
+Czechia,CZE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,15.6,ncd_mortality_risk
+Denmark,DNK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,11.1,ncd_mortality_risk
+Denmark,DNK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,11.3,ncd_mortality_risk
+Denmark,DNK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,11.2,ncd_mortality_risk
+Denmark,DNK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,11.8,ncd_mortality_risk
+Denmark,DNK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,11.9,ncd_mortality_risk
+Djibouti,DJI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.5,ncd_mortality_risk
+Djibouti,DJI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.8,ncd_mortality_risk
+Djibouti,DJI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.9,ncd_mortality_risk
+Djibouti,DJI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.7,ncd_mortality_risk
+Djibouti,DJI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.5,ncd_mortality_risk
+Dominica,DMA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Dominica,DMA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Dominica,DMA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Dominica,DMA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Dominica,DMA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Dominican Republic,DOM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,18.6,ncd_mortality_risk
+Dominican Republic,DOM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,19.2,ncd_mortality_risk
+Dominican Republic,DOM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,19.4,ncd_mortality_risk
+Dominican Republic,DOM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,19.3,ncd_mortality_risk
+Dominican Republic,DOM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,19.2,ncd_mortality_risk
+Ecuador,ECU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,11.5,ncd_mortality_risk
+Ecuador,ECU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,11.7,ncd_mortality_risk
+Ecuador,ECU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,11.9,ncd_mortality_risk
+Ecuador,ECU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,12.1,ncd_mortality_risk
+Ecuador,ECU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,11.9,ncd_mortality_risk
+"Egypt, Arab Rep.",EGY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,27.4,ncd_mortality_risk
+"Egypt, Arab Rep.",EGY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,27.8,ncd_mortality_risk
+"Egypt, Arab Rep.",EGY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,27.5,ncd_mortality_risk
+"Egypt, Arab Rep.",EGY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,28.9,ncd_mortality_risk
+"Egypt, Arab Rep.",EGY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,30.1,ncd_mortality_risk
+El Salvador,SLV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,13.0,ncd_mortality_risk
+El Salvador,SLV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,12.8,ncd_mortality_risk
+El Salvador,SLV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,13.5,ncd_mortality_risk
+El Salvador,SLV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,13.0,ncd_mortality_risk
+El Salvador,SLV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,13.0,ncd_mortality_risk
+Equatorial Guinea,GNQ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.1,ncd_mortality_risk
+Equatorial Guinea,GNQ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.0,ncd_mortality_risk
+Equatorial Guinea,GNQ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.2,ncd_mortality_risk
+Equatorial Guinea,GNQ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,19.8,ncd_mortality_risk
+Equatorial Guinea,GNQ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,19.1,ncd_mortality_risk
+Eritrea,ERI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,27.3,ncd_mortality_risk
+Eritrea,ERI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,27.7,ncd_mortality_risk
+Eritrea,ERI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,27.8,ncd_mortality_risk
+Eritrea,ERI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,28.0,ncd_mortality_risk
+Eritrea,ERI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,28.4,ncd_mortality_risk
+Estonia,EST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,15.1,ncd_mortality_risk
+Estonia,EST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,16.5,ncd_mortality_risk
+Estonia,EST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,16.5,ncd_mortality_risk
+Estonia,EST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,17.2,ncd_mortality_risk
+Estonia,EST,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.1,ncd_mortality_risk
+Eswatini,SWZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,35.1,ncd_mortality_risk
+Eswatini,SWZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,35.7,ncd_mortality_risk
+Eswatini,SWZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,35.6,ncd_mortality_risk
+Eswatini,SWZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,35.2,ncd_mortality_risk
+Eswatini,SWZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,34.5,ncd_mortality_risk
+Ethiopia,ETH,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,17.2,ncd_mortality_risk
+Ethiopia,ETH,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,17.1,ncd_mortality_risk
+Ethiopia,ETH,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,17.1,ncd_mortality_risk
+Ethiopia,ETH,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,17.1,ncd_mortality_risk
+Ethiopia,ETH,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.2,ncd_mortality_risk
+Faroe Islands,FRO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Faroe Islands,FRO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Faroe Islands,FRO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Faroe Islands,FRO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Faroe Islands,FRO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Fiji,FJI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,38.8,ncd_mortality_risk
+Fiji,FJI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,39.0,ncd_mortality_risk
+Fiji,FJI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,39.3,ncd_mortality_risk
+Fiji,FJI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,39.4,ncd_mortality_risk
+Fiji,FJI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,39.7,ncd_mortality_risk
+Finland,FIN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,9.6,ncd_mortality_risk
+Finland,FIN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,10.0,ncd_mortality_risk
+Finland,FIN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,10.3,ncd_mortality_risk
+Finland,FIN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,10.4,ncd_mortality_risk
+Finland,FIN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,10.7,ncd_mortality_risk
+France,FRA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,10.1,ncd_mortality_risk
+France,FRA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,10.3,ncd_mortality_risk
+France,FRA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,10.7,ncd_mortality_risk
+France,FRA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,10.8,ncd_mortality_risk
+France,FRA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,10.8,ncd_mortality_risk
+French Polynesia,PYF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+French Polynesia,PYF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+French Polynesia,PYF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+French Polynesia,PYF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+French Polynesia,PYF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Gabon,GAB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.5,ncd_mortality_risk
+Gabon,GAB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.9,ncd_mortality_risk
+Gabon,GAB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.2,ncd_mortality_risk
+Gabon,GAB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.8,ncd_mortality_risk
+Gabon,GAB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.5,ncd_mortality_risk
+"Gambia, The",GMB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,23.0,ncd_mortality_risk
+"Gambia, The",GMB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.9,ncd_mortality_risk
+"Gambia, The",GMB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,23.1,ncd_mortality_risk
+"Gambia, The",GMB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,23.0,ncd_mortality_risk
+"Gambia, The",GMB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.0,ncd_mortality_risk
+Georgia,GEO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.4,ncd_mortality_risk
+Georgia,GEO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.8,ncd_mortality_risk
+Georgia,GEO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.9,ncd_mortality_risk
+Georgia,GEO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,24.5,ncd_mortality_risk
+Georgia,GEO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,24.4,ncd_mortality_risk
+Germany,DEU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,11.8,ncd_mortality_risk
+Germany,DEU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,12.1,ncd_mortality_risk
+Germany,DEU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,12.1,ncd_mortality_risk
+Germany,DEU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,12.4,ncd_mortality_risk
+Germany,DEU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,12.5,ncd_mortality_risk
+Ghana,GHA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.8,ncd_mortality_risk
+Ghana,GHA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,23.2,ncd_mortality_risk
+Ghana,GHA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,23.6,ncd_mortality_risk
+Ghana,GHA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,23.9,ncd_mortality_risk
+Ghana,GHA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,24.2,ncd_mortality_risk
+Gibraltar,GIB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Gibraltar,GIB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Gibraltar,GIB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Gibraltar,GIB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Gibraltar,GIB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Greece,GRC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,12.0,ncd_mortality_risk
+Greece,GRC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,11.9,ncd_mortality_risk
+Greece,GRC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,12.3,ncd_mortality_risk
+Greece,GRC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,12.3,ncd_mortality_risk
+Greece,GRC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,12.7,ncd_mortality_risk
+Greenland,GRL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Greenland,GRL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Greenland,GRL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Greenland,GRL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Greenland,GRL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Grenada,GRD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.6,ncd_mortality_risk
+Grenada,GRD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.5,ncd_mortality_risk
+Grenada,GRD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.7,ncd_mortality_risk
+Grenada,GRD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.5,ncd_mortality_risk
+Grenada,GRD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.6,ncd_mortality_risk
+Guam,GUM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Guam,GUM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Guam,GUM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Guam,GUM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Guam,GUM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Guatemala,GTM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,15.5,ncd_mortality_risk
+Guatemala,GTM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,15.8,ncd_mortality_risk
+Guatemala,GTM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,15.2,ncd_mortality_risk
+Guatemala,GTM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,15.8,ncd_mortality_risk
+Guatemala,GTM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,15.7,ncd_mortality_risk
+Guinea,GIN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,24.5,ncd_mortality_risk
+Guinea,GIN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,24.9,ncd_mortality_risk
+Guinea,GIN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,25.3,ncd_mortality_risk
+Guinea,GIN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,25.5,ncd_mortality_risk
+Guinea,GIN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,25.8,ncd_mortality_risk
+Guinea-Bissau,GNB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,26.1,ncd_mortality_risk
+Guinea-Bissau,GNB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,25.7,ncd_mortality_risk
+Guinea-Bissau,GNB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,26.4,ncd_mortality_risk
+Guinea-Bissau,GNB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,26.6,ncd_mortality_risk
+Guinea-Bissau,GNB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,26.9,ncd_mortality_risk
+Guyana,GUY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,27.8,ncd_mortality_risk
+Guyana,GUY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,26.9,ncd_mortality_risk
+Guyana,GUY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,27.4,ncd_mortality_risk
+Guyana,GUY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,28.1,ncd_mortality_risk
+Guyana,GUY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,28.9,ncd_mortality_risk
+Haiti,HTI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,32.7,ncd_mortality_risk
+Haiti,HTI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,32.6,ncd_mortality_risk
+Haiti,HTI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,32.4,ncd_mortality_risk
+Haiti,HTI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,32.6,ncd_mortality_risk
+Haiti,HTI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,33.1,ncd_mortality_risk
+Honduras,HND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.3,ncd_mortality_risk
+Honduras,HND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.4,ncd_mortality_risk
+Honduras,HND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.7,ncd_mortality_risk
+Honduras,HND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,20.5,ncd_mortality_risk
+Honduras,HND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.0,ncd_mortality_risk
+"Hong Kong SAR, China",HKG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+"Hong Kong SAR, China",HKG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+"Hong Kong SAR, China",HKG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+"Hong Kong SAR, China",HKG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+"Hong Kong SAR, China",HKG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Hungary,HUN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.1,ncd_mortality_risk
+Hungary,HUN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.7,ncd_mortality_risk
+Hungary,HUN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,23.1,ncd_mortality_risk
+Hungary,HUN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.8,ncd_mortality_risk
+Hungary,HUN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.2,ncd_mortality_risk
+Iceland,ISL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,8.6,ncd_mortality_risk
+Iceland,ISL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,8.3,ncd_mortality_risk
+Iceland,ISL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,8.5,ncd_mortality_risk
+Iceland,ISL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,8.7,ncd_mortality_risk
+Iceland,ISL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,9.2,ncd_mortality_risk
+India,IND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,23.7,ncd_mortality_risk
+India,IND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,23.6,ncd_mortality_risk
+India,IND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,23.0,ncd_mortality_risk
+India,IND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.8,ncd_mortality_risk
+India,IND,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.6,ncd_mortality_risk
+Indonesia,IDN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,24.2,ncd_mortality_risk
+Indonesia,IDN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,24.3,ncd_mortality_risk
+Indonesia,IDN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,24.5,ncd_mortality_risk
+Indonesia,IDN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,24.7,ncd_mortality_risk
+Indonesia,IDN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,25.0,ncd_mortality_risk
+"Iran, Islamic Rep.",IRN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,14.9,ncd_mortality_risk
+"Iran, Islamic Rep.",IRN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,14.9,ncd_mortality_risk
+"Iran, Islamic Rep.",IRN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,15.1,ncd_mortality_risk
+"Iran, Islamic Rep.",IRN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,15.2,ncd_mortality_risk
+"Iran, Islamic Rep.",IRN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,15.3,ncd_mortality_risk
+Iraq,IRQ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.4,ncd_mortality_risk
+Iraq,IRQ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.2,ncd_mortality_risk
+Iraq,IRQ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.0,ncd_mortality_risk
+Iraq,IRQ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.2,ncd_mortality_risk
+Iraq,IRQ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.5,ncd_mortality_risk
+Ireland,IRL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,9.9,ncd_mortality_risk
+Ireland,IRL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,10.1,ncd_mortality_risk
+Ireland,IRL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,10.4,ncd_mortality_risk
+Ireland,IRL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,10.5,ncd_mortality_risk
+Ireland,IRL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,10.6,ncd_mortality_risk
+Isle of Man,IMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Isle of Man,IMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Isle of Man,IMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Isle of Man,IMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Isle of Man,IMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Israel,ISR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,8.9,ncd_mortality_risk
+Israel,ISR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,9.0,ncd_mortality_risk
+Israel,ISR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,9.0,ncd_mortality_risk
+Israel,ISR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,9.1,ncd_mortality_risk
+Israel,ISR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,9.5,ncd_mortality_risk
+Italy,ITA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,8.9,ncd_mortality_risk
+Italy,ITA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,9.3,ncd_mortality_risk
+Italy,ITA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,9.4,ncd_mortality_risk
+Italy,ITA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,9.3,ncd_mortality_risk
+Italy,ITA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,9.8,ncd_mortality_risk
+Jamaica,JAM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,19.3,ncd_mortality_risk
+Jamaica,JAM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,19.2,ncd_mortality_risk
+Jamaica,JAM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,19.7,ncd_mortality_risk
+Jamaica,JAM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,19.4,ncd_mortality_risk
+Jamaica,JAM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,19.7,ncd_mortality_risk
+Japan,JPN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,8.3,ncd_mortality_risk
+Japan,JPN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,8.4,ncd_mortality_risk
+Japan,JPN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,8.6,ncd_mortality_risk
+Japan,JPN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,8.7,ncd_mortality_risk
+Japan,JPN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,8.7,ncd_mortality_risk
+Jordan,JOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,12.7,ncd_mortality_risk
+Jordan,JOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,12.8,ncd_mortality_risk
+Jordan,JOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,13.4,ncd_mortality_risk
+Jordan,JOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,14.0,ncd_mortality_risk
+Jordan,JOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,14.6,ncd_mortality_risk
+Kazakhstan,KAZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,23.8,ncd_mortality_risk
+Kazakhstan,KAZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,24.0,ncd_mortality_risk
+Kazakhstan,KAZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,24.0,ncd_mortality_risk
+Kazakhstan,KAZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,25.1,ncd_mortality_risk
+Kazakhstan,KAZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,25.5,ncd_mortality_risk
+Kenya,KEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,19.1,ncd_mortality_risk
+Kenya,KEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,19.4,ncd_mortality_risk
+Kenya,KEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,18.7,ncd_mortality_risk
+Kenya,KEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,18.2,ncd_mortality_risk
+Kenya,KEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,18.3,ncd_mortality_risk
+Kiribati,KIR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,40.6,ncd_mortality_risk
+Kiribati,KIR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,40.7,ncd_mortality_risk
+Kiribati,KIR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,41.2,ncd_mortality_risk
+Kiribati,KIR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,41.6,ncd_mortality_risk
+Kiribati,KIR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,41.8,ncd_mortality_risk
+"Korea, Dem. People's Rep.",PRK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,24.6,ncd_mortality_risk
+"Korea, Dem. People's Rep.",PRK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,24.6,ncd_mortality_risk
+"Korea, Dem. People's Rep.",PRK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,25.5,ncd_mortality_risk
+"Korea, Dem. People's Rep.",PRK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,26.5,ncd_mortality_risk
+"Korea, Dem. People's Rep.",PRK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,27.0,ncd_mortality_risk
+"Korea, Rep.",KOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,7.3,ncd_mortality_risk
+"Korea, Rep.",KOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,7.5,ncd_mortality_risk
+"Korea, Rep.",KOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,7.7,ncd_mortality_risk
+"Korea, Rep.",KOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,8.2,ncd_mortality_risk
+"Korea, Rep.",KOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,8.4,ncd_mortality_risk
+Kosovo,XKX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Kosovo,XKX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Kosovo,XKX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Kosovo,XKX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Kosovo,XKX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Kuwait,KWT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,10.1,ncd_mortality_risk
+Kuwait,KWT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,9.9,ncd_mortality_risk
+Kuwait,KWT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,10.5,ncd_mortality_risk
+Kuwait,KWT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,10.5,ncd_mortality_risk
+Kuwait,KWT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,11.5,ncd_mortality_risk
+Kyrgyz Republic,KGZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.7,ncd_mortality_risk
+Kyrgyz Republic,KGZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,23.1,ncd_mortality_risk
+Kyrgyz Republic,KGZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,23.7,ncd_mortality_risk
+Kyrgyz Republic,KGZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,23.2,ncd_mortality_risk
+Kyrgyz Republic,KGZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,25.2,ncd_mortality_risk
+Lao PDR,LAO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,27.1,ncd_mortality_risk
+Lao PDR,LAO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,27.2,ncd_mortality_risk
+Lao PDR,LAO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,27.2,ncd_mortality_risk
+Lao PDR,LAO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,27.4,ncd_mortality_risk
+Lao PDR,LAO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,27.6,ncd_mortality_risk
+Latvia,LVA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.1,ncd_mortality_risk
+Latvia,LVA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.2,ncd_mortality_risk
+Latvia,LVA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.4,ncd_mortality_risk
+Latvia,LVA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.1,ncd_mortality_risk
+Latvia,LVA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.1,ncd_mortality_risk
+Lebanon,LBN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,12.1,ncd_mortality_risk
+Lebanon,LBN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,12.1,ncd_mortality_risk
+Lebanon,LBN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,12.5,ncd_mortality_risk
+Lebanon,LBN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,12.9,ncd_mortality_risk
+Lebanon,LBN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,13.6,ncd_mortality_risk
+Lesotho,LSO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,36.9,ncd_mortality_risk
+Lesotho,LSO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,36.9,ncd_mortality_risk
+Lesotho,LSO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,36.9,ncd_mortality_risk
+Lesotho,LSO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,38.0,ncd_mortality_risk
+Lesotho,LSO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,38.0,ncd_mortality_risk
+Liberia,LBR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.0,ncd_mortality_risk
+Liberia,LBR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.0,ncd_mortality_risk
+Liberia,LBR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.4,ncd_mortality_risk
+Liberia,LBR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.5,ncd_mortality_risk
+Liberia,LBR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.7,ncd_mortality_risk
+Libya,LBY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.9,ncd_mortality_risk
+Libya,LBY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.4,ncd_mortality_risk
+Libya,LBY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.3,ncd_mortality_risk
+Libya,LBY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,20.9,ncd_mortality_risk
+Libya,LBY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,20.4,ncd_mortality_risk
+Liechtenstein,LIE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Liechtenstein,LIE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Liechtenstein,LIE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Liechtenstein,LIE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Liechtenstein,LIE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Lithuania,LTU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,19.8,ncd_mortality_risk
+Lithuania,LTU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,19.9,ncd_mortality_risk
+Lithuania,LTU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,19.9,ncd_mortality_risk
+Lithuania,LTU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.4,ncd_mortality_risk
+Lithuania,LTU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.2,ncd_mortality_risk
+Luxembourg,LUX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,8.6,ncd_mortality_risk
+Luxembourg,LUX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,8.9,ncd_mortality_risk
+Luxembourg,LUX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,9.2,ncd_mortality_risk
+Luxembourg,LUX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,9.3,ncd_mortality_risk
+Luxembourg,LUX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,9.6,ncd_mortality_risk
+"Macao SAR, China",MAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+"Macao SAR, China",MAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+"Macao SAR, China",MAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+"Macao SAR, China",MAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+"Macao SAR, China",MAC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Madagascar,MDG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,26.5,ncd_mortality_risk
+Madagascar,MDG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,26.5,ncd_mortality_risk
+Madagascar,MDG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,26.6,ncd_mortality_risk
+Madagascar,MDG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,26.9,ncd_mortality_risk
+Madagascar,MDG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,26.8,ncd_mortality_risk
+Malawi,MWI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,26.1,ncd_mortality_risk
+Malawi,MWI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,26.0,ncd_mortality_risk
+Malawi,MWI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,25.8,ncd_mortality_risk
+Malawi,MWI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,25.1,ncd_mortality_risk
+Malawi,MWI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,24.6,ncd_mortality_risk
+Malaysia,MYS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,19.7,ncd_mortality_risk
+Malaysia,MYS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,19.9,ncd_mortality_risk
+Malaysia,MYS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,19.8,ncd_mortality_risk
+Malaysia,MYS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,19.6,ncd_mortality_risk
+Malaysia,MYS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,19.4,ncd_mortality_risk
+Maldives,MDV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,12.6,ncd_mortality_risk
+Maldives,MDV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,12.9,ncd_mortality_risk
+Maldives,MDV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,13.6,ncd_mortality_risk
+Maldives,MDV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,14.2,ncd_mortality_risk
+Maldives,MDV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,15.1,ncd_mortality_risk
+Mali,MLI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,24.2,ncd_mortality_risk
+Mali,MLI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,24.6,ncd_mortality_risk
+Mali,MLI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,24.8,ncd_mortality_risk
+Mali,MLI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,25.1,ncd_mortality_risk
+Mali,MLI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,25.4,ncd_mortality_risk
+Malta,MLT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,10.0,ncd_mortality_risk
+Malta,MLT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,10.1,ncd_mortality_risk
+Malta,MLT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,10.4,ncd_mortality_risk
+Malta,MLT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,10.6,ncd_mortality_risk
+Malta,MLT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,10.7,ncd_mortality_risk
+Marshall Islands,MHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Marshall Islands,MHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Marshall Islands,MHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Marshall Islands,MHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Marshall Islands,MHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Mauritania,MRT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,18.4,ncd_mortality_risk
+Mauritania,MRT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,18.3,ncd_mortality_risk
+Mauritania,MRT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,18.3,ncd_mortality_risk
+Mauritania,MRT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,18.1,ncd_mortality_risk
+Mauritania,MRT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,18.1,ncd_mortality_risk
+Mauritius,MUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.8,ncd_mortality_risk
+Mauritius,MUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,23.0,ncd_mortality_risk
+Mauritius,MUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.9,ncd_mortality_risk
+Mauritius,MUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.9,ncd_mortality_risk
+Mauritius,MUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.4,ncd_mortality_risk
+Mexico,MEX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,15.3,ncd_mortality_risk
+Mexico,MEX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,15.3,ncd_mortality_risk
+Mexico,MEX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,15.7,ncd_mortality_risk
+Mexico,MEX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,16.1,ncd_mortality_risk
+Mexico,MEX,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,15.8,ncd_mortality_risk
+"Micronesia, Fed. Sts.",FSM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,39.1,ncd_mortality_risk
+"Micronesia, Fed. Sts.",FSM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,39.2,ncd_mortality_risk
+"Micronesia, Fed. Sts.",FSM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,39.1,ncd_mortality_risk
+"Micronesia, Fed. Sts.",FSM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,39.2,ncd_mortality_risk
+"Micronesia, Fed. Sts.",FSM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,39.7,ncd_mortality_risk
+Moldova,MDA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,24.0,ncd_mortality_risk
+Moldova,MDA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,24.1,ncd_mortality_risk
+Moldova,MDA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,24.0,ncd_mortality_risk
+Moldova,MDA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,25.6,ncd_mortality_risk
+Moldova,MDA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,26.3,ncd_mortality_risk
+Monaco,MCO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Monaco,MCO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Monaco,MCO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Monaco,MCO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Monaco,MCO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Mongolia,MNG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,28.7,ncd_mortality_risk
+Mongolia,MNG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,29.2,ncd_mortality_risk
+Mongolia,MNG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,29.6,ncd_mortality_risk
+Mongolia,MNG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,30.4,ncd_mortality_risk
+Mongolia,MNG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,31.0,ncd_mortality_risk
+Montenegro,MNE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.9,ncd_mortality_risk
+Montenegro,MNE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.4,ncd_mortality_risk
+Montenegro,MNE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.5,ncd_mortality_risk
+Montenegro,MNE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,20.4,ncd_mortality_risk
+Montenegro,MNE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,20.6,ncd_mortality_risk
+Morocco,MAR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.6,ncd_mortality_risk
+Morocco,MAR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.7,ncd_mortality_risk
+Morocco,MAR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.6,ncd_mortality_risk
+Morocco,MAR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.6,ncd_mortality_risk
+Morocco,MAR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.7,ncd_mortality_risk
+Mozambique,MOZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,28.7,ncd_mortality_risk
+Mozambique,MOZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,29.8,ncd_mortality_risk
+Mozambique,MOZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,30.3,ncd_mortality_risk
+Mozambique,MOZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,30.2,ncd_mortality_risk
+Mozambique,MOZ,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,29.6,ncd_mortality_risk
+Myanmar,MMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,25.6,ncd_mortality_risk
+Myanmar,MMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,25.7,ncd_mortality_risk
+Myanmar,MMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,25.5,ncd_mortality_risk
+Myanmar,MMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,25.9,ncd_mortality_risk
+Myanmar,MMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,26.2,ncd_mortality_risk
+Namibia,NAM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.8,ncd_mortality_risk
+Namibia,NAM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,23.1,ncd_mortality_risk
+Namibia,NAM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,23.2,ncd_mortality_risk
+Namibia,NAM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,23.4,ncd_mortality_risk
+Namibia,NAM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,23.7,ncd_mortality_risk
+Nauru,NRU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Nauru,NRU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Nauru,NRU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Nauru,NRU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Nauru,NRU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Nepal,NPL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.4,ncd_mortality_risk
+Nepal,NPL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.5,ncd_mortality_risk
+Nepal,NPL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.4,ncd_mortality_risk
+Nepal,NPL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,20.5,ncd_mortality_risk
+Nepal,NPL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,20.7,ncd_mortality_risk
+Netherlands,NLD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,10.0,ncd_mortality_risk
+Netherlands,NLD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,10.3,ncd_mortality_risk
+Netherlands,NLD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,10.6,ncd_mortality_risk
+Netherlands,NLD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,11.1,ncd_mortality_risk
+Netherlands,NLD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,11.2,ncd_mortality_risk
+New Caledonia,NCL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+New Caledonia,NCL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+New Caledonia,NCL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+New Caledonia,NCL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+New Caledonia,NCL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+New Zealand,NZL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,10.4,ncd_mortality_risk
+New Zealand,NZL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,10.5,ncd_mortality_risk
+New Zealand,NZL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,11.0,ncd_mortality_risk
+New Zealand,NZL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,10.8,ncd_mortality_risk
+New Zealand,NZL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,10.9,ncd_mortality_risk
+Nicaragua,NIC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,12.8,ncd_mortality_risk
+Nicaragua,NIC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,13.1,ncd_mortality_risk
+Nicaragua,NIC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,13.2,ncd_mortality_risk
+Nicaragua,NIC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,13.6,ncd_mortality_risk
+Nicaragua,NIC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,12.9,ncd_mortality_risk
+Niger,NER,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.6,ncd_mortality_risk
+Niger,NER,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.7,ncd_mortality_risk
+Niger,NER,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.7,ncd_mortality_risk
+Niger,NER,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,20.8,ncd_mortality_risk
+Niger,NER,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,20.9,ncd_mortality_risk
+Nigeria,NGA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,17.1,ncd_mortality_risk
+Nigeria,NGA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,17.1,ncd_mortality_risk
+Nigeria,NGA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,17.1,ncd_mortality_risk
+Nigeria,NGA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,17.3,ncd_mortality_risk
+Nigeria,NGA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.4,ncd_mortality_risk
+North Macedonia,MKD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,19.3,ncd_mortality_risk
+North Macedonia,MKD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.0,ncd_mortality_risk
+North Macedonia,MKD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.0,ncd_mortality_risk
+North Macedonia,MKD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,20.8,ncd_mortality_risk
+North Macedonia,MKD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.5,ncd_mortality_risk
+Northern Mariana Islands,MNP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Northern Mariana Islands,MNP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Northern Mariana Islands,MNP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Northern Mariana Islands,MNP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Northern Mariana Islands,MNP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Norway,NOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,8.3,ncd_mortality_risk
+Norway,NOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,8.7,ncd_mortality_risk
+Norway,NOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,9.1,ncd_mortality_risk
+Norway,NOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,9.4,ncd_mortality_risk
+Norway,NOR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,9.5,ncd_mortality_risk
+Oman,OMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.3,ncd_mortality_risk
+Oman,OMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.6,ncd_mortality_risk
+Oman,OMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.3,ncd_mortality_risk
+Oman,OMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.9,ncd_mortality_risk
+Oman,OMN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.3,ncd_mortality_risk
+Pakistan,PAK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,26.3,ncd_mortality_risk
+Pakistan,PAK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,26.5,ncd_mortality_risk
+Pakistan,PAK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,26.9,ncd_mortality_risk
+Pakistan,PAK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,27.1,ncd_mortality_risk
+Pakistan,PAK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,27.3,ncd_mortality_risk
+Palau,PLW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Palau,PLW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Palau,PLW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Palau,PLW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Palau,PLW,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Panama,PAN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,11.1,ncd_mortality_risk
+Panama,PAN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,11.1,ncd_mortality_risk
+Panama,PAN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,11.2,ncd_mortality_risk
+Panama,PAN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,10.9,ncd_mortality_risk
+Panama,PAN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,11.5,ncd_mortality_risk
+Papua New Guinea,PNG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,30.7,ncd_mortality_risk
+Papua New Guinea,PNG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,30.2,ncd_mortality_risk
+Papua New Guinea,PNG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,30.1,ncd_mortality_risk
+Papua New Guinea,PNG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,30.7,ncd_mortality_risk
+Papua New Guinea,PNG,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,30.9,ncd_mortality_risk
+Paraguay,PRY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,16.5,ncd_mortality_risk
+Paraguay,PRY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,16.5,ncd_mortality_risk
+Paraguay,PRY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,16.4,ncd_mortality_risk
+Paraguay,PRY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,16.7,ncd_mortality_risk
+Paraguay,PRY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,16.6,ncd_mortality_risk
+Peru,PER,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,10.7,ncd_mortality_risk
+Peru,PER,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,9.7,ncd_mortality_risk
+Peru,PER,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,8.9,ncd_mortality_risk
+Peru,PER,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,8.3,ncd_mortality_risk
+Peru,PER,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,8.6,ncd_mortality_risk
+Philippines,PHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,25.3,ncd_mortality_risk
+Philippines,PHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,25.0,ncd_mortality_risk
+Philippines,PHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,24.9,ncd_mortality_risk
+Philippines,PHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,26.1,ncd_mortality_risk
+Philippines,PHL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,25.3,ncd_mortality_risk
+Poland,POL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,17.7,ncd_mortality_risk
+Poland,POL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,18.2,ncd_mortality_risk
+Poland,POL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,18.2,ncd_mortality_risk
+Poland,POL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,18.6,ncd_mortality_risk
+Poland,POL,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,19.5,ncd_mortality_risk
+Portugal,PRT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,11.2,ncd_mortality_risk
+Portugal,PRT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,11.4,ncd_mortality_risk
+Portugal,PRT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,11.4,ncd_mortality_risk
+Portugal,PRT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,11.5,ncd_mortality_risk
+Portugal,PRT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,11.5,ncd_mortality_risk
+Puerto Rico (US),PRI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,10.7,ncd_mortality_risk
+Puerto Rico (US),PRI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,10.6,ncd_mortality_risk
+Puerto Rico (US),PRI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,11.8,ncd_mortality_risk
+Puerto Rico (US),PRI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,11.3,ncd_mortality_risk
+Puerto Rico (US),PRI,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,11.2,ncd_mortality_risk
+Qatar,QAT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,12.9,ncd_mortality_risk
+Qatar,QAT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,13.4,ncd_mortality_risk
+Qatar,QAT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,13.7,ncd_mortality_risk
+Qatar,QAT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,14.1,ncd_mortality_risk
+Qatar,QAT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,14.6,ncd_mortality_risk
+Romania,ROU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.1,ncd_mortality_risk
+Romania,ROU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.8,ncd_mortality_risk
+Romania,ROU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.6,ncd_mortality_risk
+Romania,ROU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.7,ncd_mortality_risk
+Romania,ROU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.6,ncd_mortality_risk
+Russian Federation,RUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,24.0,ncd_mortality_risk
+Russian Federation,RUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,25.0,ncd_mortality_risk
+Russian Federation,RUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,24.9,ncd_mortality_risk
+Russian Federation,RUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,26.1,ncd_mortality_risk
+Russian Federation,RUS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,26.0,ncd_mortality_risk
+Rwanda,RWA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.4,ncd_mortality_risk
+Rwanda,RWA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.4,ncd_mortality_risk
+Rwanda,RWA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.5,ncd_mortality_risk
+Rwanda,RWA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,20.5,ncd_mortality_risk
+Rwanda,RWA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,20.6,ncd_mortality_risk
+Samoa,WSM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,32.0,ncd_mortality_risk
+Samoa,WSM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,32.2,ncd_mortality_risk
+Samoa,WSM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,32.3,ncd_mortality_risk
+Samoa,WSM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,32.4,ncd_mortality_risk
+Samoa,WSM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,32.2,ncd_mortality_risk
+San Marino,SMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+San Marino,SMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+San Marino,SMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+San Marino,SMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+San Marino,SMR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Sao Tome and Principe,STP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.6,ncd_mortality_risk
+Sao Tome and Principe,STP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.5,ncd_mortality_risk
+Sao Tome and Principe,STP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.5,ncd_mortality_risk
+Sao Tome and Principe,STP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,20.2,ncd_mortality_risk
+Sao Tome and Principe,STP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,19.8,ncd_mortality_risk
+Saudi Arabia,SAU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,14.3,ncd_mortality_risk
+Saudi Arabia,SAU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,14.2,ncd_mortality_risk
+Saudi Arabia,SAU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,13.8,ncd_mortality_risk
+Saudi Arabia,SAU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,13.1,ncd_mortality_risk
+Saudi Arabia,SAU,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,12.9,ncd_mortality_risk
+Senegal,SEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.4,ncd_mortality_risk
+Senegal,SEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.3,ncd_mortality_risk
+Senegal,SEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.6,ncd_mortality_risk
+Senegal,SEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.8,ncd_mortality_risk
+Senegal,SEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.8,ncd_mortality_risk
+Serbia,SRB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.4,ncd_mortality_risk
+Serbia,SRB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.4,ncd_mortality_risk
+Serbia,SRB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.9,ncd_mortality_risk
+Serbia,SRB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.6,ncd_mortality_risk
+Serbia,SRB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.0,ncd_mortality_risk
+Seychelles,SYC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.8,ncd_mortality_risk
+Seychelles,SYC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.7,ncd_mortality_risk
+Seychelles,SYC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.6,ncd_mortality_risk
+Seychelles,SYC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.9,ncd_mortality_risk
+Seychelles,SYC,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.6,ncd_mortality_risk
+Sierra Leone,SLE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,24.3,ncd_mortality_risk
+Sierra Leone,SLE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,24.6,ncd_mortality_risk
+Sierra Leone,SLE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,24.7,ncd_mortality_risk
+Sierra Leone,SLE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,24.7,ncd_mortality_risk
+Sierra Leone,SLE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,24.4,ncd_mortality_risk
+Singapore,SGP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,8.6,ncd_mortality_risk
+Singapore,SGP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,9.0,ncd_mortality_risk
+Singapore,SGP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,9.4,ncd_mortality_risk
+Singapore,SGP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,9.6,ncd_mortality_risk
+Singapore,SGP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,9.8,ncd_mortality_risk
+Sint Maarten (Dutch part),SXM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Sint Maarten (Dutch part),SXM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Sint Maarten (Dutch part),SXM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Sint Maarten (Dutch part),SXM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Sint Maarten (Dutch part),SXM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Slovak Republic,SVK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,16.7,ncd_mortality_risk
+Slovak Republic,SVK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,17.4,ncd_mortality_risk
+Slovak Republic,SVK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,17.7,ncd_mortality_risk
+Slovak Republic,SVK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,17.8,ncd_mortality_risk
+Slovak Republic,SVK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,18.5,ncd_mortality_risk
+Slovenia,SVN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,11.4,ncd_mortality_risk
+Slovenia,SVN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,12.0,ncd_mortality_risk
+Slovenia,SVN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,12.2,ncd_mortality_risk
+Slovenia,SVN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,12.1,ncd_mortality_risk
+Slovenia,SVN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,12.8,ncd_mortality_risk
+Solomon Islands,SLB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,38.2,ncd_mortality_risk
+Solomon Islands,SLB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,38.5,ncd_mortality_risk
+Solomon Islands,SLB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,38.4,ncd_mortality_risk
+Solomon Islands,SLB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,38.6,ncd_mortality_risk
+Solomon Islands,SLB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,39.0,ncd_mortality_risk
+"Somalia, Fed. Rep.",SOM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,29.2,ncd_mortality_risk
+"Somalia, Fed. Rep.",SOM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,29.4,ncd_mortality_risk
+"Somalia, Fed. Rep.",SOM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,29.7,ncd_mortality_risk
+"Somalia, Fed. Rep.",SOM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,29.8,ncd_mortality_risk
+"Somalia, Fed. Rep.",SOM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,30.0,ncd_mortality_risk
+South Africa,ZAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.6,ncd_mortality_risk
+South Africa,ZAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.6,ncd_mortality_risk
+South Africa,ZAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,23.0,ncd_mortality_risk
+South Africa,ZAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,24.1,ncd_mortality_risk
+South Africa,ZAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,24.6,ncd_mortality_risk
+South Sudan,SSD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.0,ncd_mortality_risk
+South Sudan,SSD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.2,ncd_mortality_risk
+South Sudan,SSD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,19.6,ncd_mortality_risk
+South Sudan,SSD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,19.0,ncd_mortality_risk
+South Sudan,SSD,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,19.0,ncd_mortality_risk
+Spain,ESP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,9.6,ncd_mortality_risk
+Spain,ESP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,9.9,ncd_mortality_risk
+Spain,ESP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,10.0,ncd_mortality_risk
+Spain,ESP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,10.1,ncd_mortality_risk
+Spain,ESP,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,10.3,ncd_mortality_risk
+Sri Lanka,LKA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,15.6,ncd_mortality_risk
+Sri Lanka,LKA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,16.0,ncd_mortality_risk
+Sri Lanka,LKA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,16.2,ncd_mortality_risk
+Sri Lanka,LKA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,16.4,ncd_mortality_risk
+Sri Lanka,LKA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,16.9,ncd_mortality_risk
+St. Kitts and Nevis,KNA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+St. Kitts and Nevis,KNA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+St. Kitts and Nevis,KNA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+St. Kitts and Nevis,KNA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+St. Kitts and Nevis,KNA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+St. Lucia,LCA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,16.2,ncd_mortality_risk
+St. Lucia,LCA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,16.3,ncd_mortality_risk
+St. Lucia,LCA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,16.4,ncd_mortality_risk
+St. Lucia,LCA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,16.5,ncd_mortality_risk
+St. Lucia,LCA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,16.3,ncd_mortality_risk
+St. Martin (French part),MAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+St. Martin (French part),MAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+St. Martin (French part),MAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+St. Martin (French part),MAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+St. Martin (French part),MAF,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+St. Vincent and the Grenadines,VCT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.7,ncd_mortality_risk
+St. Vincent and the Grenadines,VCT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.3,ncd_mortality_risk
+St. Vincent and the Grenadines,VCT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.2,ncd_mortality_risk
+St. Vincent and the Grenadines,VCT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.9,ncd_mortality_risk
+St. Vincent and the Grenadines,VCT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.0,ncd_mortality_risk
+Sudan,SDN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.4,ncd_mortality_risk
+Sudan,SDN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.8,ncd_mortality_risk
+Sudan,SDN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.7,ncd_mortality_risk
+Sudan,SDN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.8,ncd_mortality_risk
+Sudan,SDN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.9,ncd_mortality_risk
+Suriname,SUR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.6,ncd_mortality_risk
+Suriname,SUR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.7,ncd_mortality_risk
+Suriname,SUR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.2,ncd_mortality_risk
+Suriname,SUR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,20.9,ncd_mortality_risk
+Suriname,SUR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.0,ncd_mortality_risk
+Sweden,SWE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,8.2,ncd_mortality_risk
+Sweden,SWE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,8.7,ncd_mortality_risk
+Sweden,SWE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,8.9,ncd_mortality_risk
+Sweden,SWE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,9.1,ncd_mortality_risk
+Sweden,SWE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,9.2,ncd_mortality_risk
+Switzerland,CHE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,7.9,ncd_mortality_risk
+Switzerland,CHE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,8.2,ncd_mortality_risk
+Switzerland,CHE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,8.2,ncd_mortality_risk
+Switzerland,CHE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,8.5,ncd_mortality_risk
+Switzerland,CHE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,8.8,ncd_mortality_risk
+Syrian Arab Republic,SYR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,22.0,ncd_mortality_risk
+Syrian Arab Republic,SYR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.4,ncd_mortality_risk
+Syrian Arab Republic,SYR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.4,ncd_mortality_risk
+Syrian Arab Republic,SYR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,22.3,ncd_mortality_risk
+Syrian Arab Republic,SYR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.5,ncd_mortality_risk
+Tajikistan,TJK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,19.4,ncd_mortality_risk
+Tajikistan,TJK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,19.8,ncd_mortality_risk
+Tajikistan,TJK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.2,ncd_mortality_risk
+Tajikistan,TJK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.0,ncd_mortality_risk
+Tajikistan,TJK,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.4,ncd_mortality_risk
+Tanzania,TZA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,18.4,ncd_mortality_risk
+Tanzania,TZA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,18.1,ncd_mortality_risk
+Tanzania,TZA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,17.7,ncd_mortality_risk
+Tanzania,TZA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,17.6,ncd_mortality_risk
+Tanzania,TZA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.4,ncd_mortality_risk
+Thailand,THA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,14.3,ncd_mortality_risk
+Thailand,THA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,14.0,ncd_mortality_risk
+Thailand,THA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,13.9,ncd_mortality_risk
+Thailand,THA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,14.1,ncd_mortality_risk
+Thailand,THA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,13.9,ncd_mortality_risk
+Timor-Leste,TLS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.9,ncd_mortality_risk
+Timor-Leste,TLS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.4,ncd_mortality_risk
+Timor-Leste,TLS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.0,ncd_mortality_risk
+Timor-Leste,TLS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,20.5,ncd_mortality_risk
+Timor-Leste,TLS,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,20.2,ncd_mortality_risk
+Togo,TGO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,26.1,ncd_mortality_risk
+Togo,TGO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,26.5,ncd_mortality_risk
+Togo,TGO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,26.7,ncd_mortality_risk
+Togo,TGO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,27.0,ncd_mortality_risk
+Togo,TGO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,27.1,ncd_mortality_risk
+Tonga,TON,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,26.0,ncd_mortality_risk
+Tonga,TON,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,26.2,ncd_mortality_risk
+Tonga,TON,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,26.4,ncd_mortality_risk
+Tonga,TON,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,26.4,ncd_mortality_risk
+Tonga,TON,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,26.8,ncd_mortality_risk
+Trinidad and Tobago,TTO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.4,ncd_mortality_risk
+Trinidad and Tobago,TTO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.4,ncd_mortality_risk
+Trinidad and Tobago,TTO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,20.7,ncd_mortality_risk
+Trinidad and Tobago,TTO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.2,ncd_mortality_risk
+Trinidad and Tobago,TTO,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,20.5,ncd_mortality_risk
+Tunisia,TUN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,15.2,ncd_mortality_risk
+Tunisia,TUN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,15.3,ncd_mortality_risk
+Tunisia,TUN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,15.4,ncd_mortality_risk
+Tunisia,TUN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,15.4,ncd_mortality_risk
+Tunisia,TUN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,15.5,ncd_mortality_risk
+Turkiye,TUR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,16.6,ncd_mortality_risk
+Turkiye,TUR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,16.7,ncd_mortality_risk
+Turkiye,TUR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,17.0,ncd_mortality_risk
+Turkiye,TUR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,17.4,ncd_mortality_risk
+Turkiye,TUR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.7,ncd_mortality_risk
+Turkmenistan,TKM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,26.4,ncd_mortality_risk
+Turkmenistan,TKM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,26.7,ncd_mortality_risk
+Turkmenistan,TKM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,27.1,ncd_mortality_risk
+Turkmenistan,TKM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,27.3,ncd_mortality_risk
+Turkmenistan,TKM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,27.9,ncd_mortality_risk
+Turks and Caicos Islands,TCA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Turks and Caicos Islands,TCA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Turks and Caicos Islands,TCA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Turks and Caicos Islands,TCA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Turks and Caicos Islands,TCA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Tuvalu,TUV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Tuvalu,TUV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Tuvalu,TUV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Tuvalu,TUV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Tuvalu,TUV,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+Uganda,UGA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,21.8,ncd_mortality_risk
+Uganda,UGA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,21.4,ncd_mortality_risk
+Uganda,UGA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.1,ncd_mortality_risk
+Uganda,UGA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.5,ncd_mortality_risk
+Uganda,UGA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.7,ncd_mortality_risk
+Ukraine,UKR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,25.3,ncd_mortality_risk
+Ukraine,UKR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,25.8,ncd_mortality_risk
+Ukraine,UKR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,24.8,ncd_mortality_risk
+Ukraine,UKR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,25.4,ncd_mortality_risk
+Ukraine,UKR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,25.7,ncd_mortality_risk
+United Arab Emirates,ARE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,8.7,ncd_mortality_risk
+United Arab Emirates,ARE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,8.7,ncd_mortality_risk
+United Arab Emirates,ARE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,8.6,ncd_mortality_risk
+United Arab Emirates,ARE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,8.4,ncd_mortality_risk
+United Arab Emirates,ARE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,8.4,ncd_mortality_risk
+United Kingdom,GBR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,10.7,ncd_mortality_risk
+United Kingdom,GBR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,11.3,ncd_mortality_risk
+United Kingdom,GBR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,11.0,ncd_mortality_risk
+United Kingdom,GBR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,11.3,ncd_mortality_risk
+United Kingdom,GBR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,11.3,ncd_mortality_risk
+United States,USA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,13.2,ncd_mortality_risk
+United States,USA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,13.5,ncd_mortality_risk
+United States,USA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,13.7,ncd_mortality_risk
+United States,USA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,13.9,ncd_mortality_risk
+United States,USA,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,14.0,ncd_mortality_risk
+Uruguay,URY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,16.6,ncd_mortality_risk
+Uruguay,URY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,16.6,ncd_mortality_risk
+Uruguay,URY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,16.3,ncd_mortality_risk
+Uruguay,URY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,17.6,ncd_mortality_risk
+Uruguay,URY,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,17.3,ncd_mortality_risk
+Uzbekistan,UZB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,26.8,ncd_mortality_risk
+Uzbekistan,UZB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,28.4,ncd_mortality_risk
+Uzbekistan,UZB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,30.4,ncd_mortality_risk
+Uzbekistan,UZB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,31.4,ncd_mortality_risk
+Uzbekistan,UZB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,32.0,ncd_mortality_risk
+Vanuatu,VUT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,37.1,ncd_mortality_risk
+Vanuatu,VUT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,37.1,ncd_mortality_risk
+Vanuatu,VUT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,37.2,ncd_mortality_risk
+Vanuatu,VUT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,37.3,ncd_mortality_risk
+Vanuatu,VUT,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,37.6,ncd_mortality_risk
+"Venezuela, RB",VEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,17.9,ncd_mortality_risk
+"Venezuela, RB",VEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,17.6,ncd_mortality_risk
+"Venezuela, RB",VEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,17.5,ncd_mortality_risk
+"Venezuela, RB",VEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,18.2,ncd_mortality_risk
+"Venezuela, RB",VEN,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,16.7,ncd_mortality_risk
+Viet Nam,VNM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,20.8,ncd_mortality_risk
+Viet Nam,VNM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,20.9,ncd_mortality_risk
+Viet Nam,VNM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,21.1,ncd_mortality_risk
+Viet Nam,VNM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,21.4,ncd_mortality_risk
+Viet Nam,VNM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,21.6,ncd_mortality_risk
+Virgin Islands (U.S.),VIR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,,ncd_mortality_risk
+Virgin Islands (U.S.),VIR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,,ncd_mortality_risk
+Virgin Islands (U.S.),VIR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,,ncd_mortality_risk
+Virgin Islands (U.S.),VIR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,,ncd_mortality_risk
+Virgin Islands (U.S.),VIR,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,,ncd_mortality_risk
+West Bank and Gaza,PSE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,18.5,ncd_mortality_risk
+West Bank and Gaza,PSE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,18.3,ncd_mortality_risk
+West Bank and Gaza,PSE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,18.8,ncd_mortality_risk
+West Bank and Gaza,PSE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,19.6,ncd_mortality_risk
+West Bank and Gaza,PSE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,20.4,ncd_mortality_risk
+"Yemen, Rep.",YEM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,26.3,ncd_mortality_risk
+"Yemen, Rep.",YEM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,26.0,ncd_mortality_risk
+"Yemen, Rep.",YEM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,26.0,ncd_mortality_risk
+"Yemen, Rep.",YEM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,26.1,ncd_mortality_risk
+"Yemen, Rep.",YEM,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,26.0,ncd_mortality_risk
+Zambia,ZMB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,23.2,ncd_mortality_risk
+Zambia,ZMB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,22.7,ncd_mortality_risk
+Zambia,ZMB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,22.9,ncd_mortality_risk
+Zambia,ZMB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,23.1,ncd_mortality_risk
+Zambia,ZMB,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,22.7,ncd_mortality_risk
+Zimbabwe,ZWE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2019,32.7,ncd_mortality_risk
+Zimbabwe,ZWE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2018,33.6,ncd_mortality_risk
+Zimbabwe,ZWE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2017,33.4,ncd_mortality_risk
+Zimbabwe,ZWE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2016,33.7,ncd_mortality_risk
+Zimbabwe,ZWE,SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2015,33.5,ncd_mortality_risk

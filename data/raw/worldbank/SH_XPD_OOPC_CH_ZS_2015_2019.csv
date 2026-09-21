@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,unit,obs_status,decimal
+Africa Eastern and Southern,AFE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,15.3988094246281,,,2
+Africa Eastern and Southern,AFE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,15.1552139416278,,,2
+Africa Eastern and Southern,AFE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,17.0836177225454,,,2
+Africa Eastern and Southern,AFE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,19.3609538334728,,,2
+Africa Eastern and Southern,AFE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,19.6008767100439,,,2
+Africa Western and Central,AFW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,59.2587332554924,,,2
+Africa Western and Central,AFW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,62.4175847942489,,,2
+Africa Western and Central,AFW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,63.4686592230104,,,2
+Africa Western and Central,AFW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,62.9645076254619,,,2
+Africa Western and Central,AFW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,61.7315101875047,,,2
+Arab World,ARB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,27.306284276706,,,2
+Arab World,ARB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,29.1946830916114,,,2
+Arab World,ARB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,28.4236300075198,,,2
+Arab World,ARB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,29.1901350345977,,,2
+Arab World,ARB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,31.5018461127155,,,2
+Caribbean small states,CSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,37.8358898742648,,,2
+Caribbean small states,CSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,37.8339161889519,,,2
+Caribbean small states,CSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,35.6919999205785,,,2
+Caribbean small states,CSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,37.6024073592938,,,2
+Caribbean small states,CSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,36.9956290848645,,,2
+Central Europe and the Baltics,CEB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,20.4826802514832,,,2
+Central Europe and the Baltics,CEB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,20.7044008117719,,,2
+Central Europe and the Baltics,CEB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,21.9421645547055,,,2
+Central Europe and the Baltics,CEB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,22.0222940582855,,,2
+Central Europe and the Baltics,CEB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,22.1236093303044,,,2
+Early-demographic dividend,EAR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,34.8997493525908,,,2
+Early-demographic dividend,EAR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,35.2870693635047,,,2
+Early-demographic dividend,EAR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,33.9933958715405,,,2
+Early-demographic dividend,EAR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,37.0429570003929,,,2
+Early-demographic dividend,EAR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,37.2911667639214,,,2
+East Asia & Pacific,EAS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,25.9233642725437,,,2
+East Asia & Pacific,EAS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,26.2679931713028,,,2
+East Asia & Pacific,EAS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,25.8535923640492,,,2
+East Asia & Pacific,EAS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,25.4345394811673,,,2
+East Asia & Pacific,EAS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,25.7161840752841,,,2
+East Asia & Pacific (excluding high income),EAP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,35.1938974947957,,,2
+East Asia & Pacific (excluding high income),EAP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,35.7265129868733,,,2
+East Asia & Pacific (excluding high income),EAP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,36.0212632743286,,,2
+East Asia & Pacific (excluding high income),EAP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.9573655323285,,,2
+East Asia & Pacific (excluding high income),EAP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,35.4262162919185,,,2
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,35.1925434552125,,,2
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,35.7251526912155,,,2
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,36.0197899362786,,,2
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.9558942118746,,,2
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,35.4248386506493,,,2
+Euro area,EMU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,15.7227943595393,,,2
+Euro area,EMU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,15.7840217875468,,,2
+Euro area,EMU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,15.8324691038349,,,2
+Euro area,EMU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,15.6618269661305,,,2
+Euro area,EMU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,16.0176942638073,,,2
+Europe & Central Asia,ECS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,17.6498105172959,,,2
+Europe & Central Asia,ECS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,17.6776540292444,,,2
+Europe & Central Asia,ECS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,17.8253133454851,,,2
+Europe & Central Asia,ECS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,17.5053703417755,,,2
+Europe & Central Asia,ECS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,17.8082009563124,,,2
+Europe & Central Asia (excluding high income),ECA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,34.5584524771406,,,2
+Europe & Central Asia (excluding high income),ECA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,34.3878791951938,,,2
+Europe & Central Asia (excluding high income),ECA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,32.8262524980638,,,2
+Europe & Central Asia (excluding high income),ECA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,31.6588863488144,,,2
+Europe & Central Asia (excluding high income),ECA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,32.1694744515288,,,2
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,31.6584708889786,,,2
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,32.3575414889641,,,2
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,33.4154051864876,,,2
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,32.6843943754737,,,2
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,32.4881339228077,,,2
+European Union,EUU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,15.8803400758917,,,2
+European Union,EUU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,15.9457868908106,,,2
+European Union,EUU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,16.0534803485449,,,2
+European Union,EUU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,15.9075053664934,,,2
+European Union,EUU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,16.2422669156442,,,2
+Fragile and conflict affected situations,FCS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,51.7641545540688,,,2
+Fragile and conflict affected situations,FCS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,53.2121707305512,,,2
+Fragile and conflict affected situations,FCS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,56.7894964385895,,,2
+Fragile and conflict affected situations,FCS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,55.0234659598541,,,2
+Fragile and conflict affected situations,FCS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,59.0404818265102,,,2
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,40.2090107589204,,,2
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,40.6738115116855,,,2
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,41.7340843795871,,,2
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,43.3427098169426,,,2
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,44.2222951743778,,,2
+High income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,14.0058150139119,,,2
+High income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,14.204892820089,,,2
+High income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,14.2031412646514,,,2
+High income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,14.2418795085645,,,2
+High income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,14.4455510031428,,,2
+IBRD only,IBD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,33.6282048824712,,,2
+IBRD only,IBD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,33.8682706498317,,,2
+IBRD only,IBD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,33.6280249262024,,,2
+IBRD only,IBD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,34.6440930612816,,,2
+IBRD only,IBD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,34.5413708175227,,,2
+IDA & IBRD total,IBT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,34.563209235899,,,2
+IDA & IBRD total,IBT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,34.8866512946357,,,2
+IDA & IBRD total,IBT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,34.7250107628925,,,2
+IDA & IBRD total,IBT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.8187998862881,,,2
+IDA & IBRD total,IBT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,35.7611686940653,,,2
+IDA blend,IDB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,54.5743968675096,,,2
+IDA blend,IDB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,55.6297528344474,,,2
+IDA blend,IDB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,58.4202587064975,,,2
+IDA blend,IDB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,58.8409185172576,,,2
+IDA blend,IDB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,58.798785481384,,,2
+IDA only,IDX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,50.2181949310889,,,2
+IDA only,IDX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,51.85167658593,,,2
+IDA only,IDX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,51.1490810672778,,,2
+IDA only,IDX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,51.8852886084433,,,2
+IDA only,IDX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,52.3238460600474,,,2
+IDA total,IDA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,51.9736059794297,,,2
+IDA total,IDA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,53.3553508746218,,,2
+IDA total,IDA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,54.1714890114555,,,2
+IDA total,IDA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,54.859842478909,,,2
+IDA total,IDA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,55.19616026284,,,2
+Late-demographic dividend,LTE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,31.4235766524595,,,2
+Late-demographic dividend,LTE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,31.8080319666552,,,2
+Late-demographic dividend,LTE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,31.9213494773773,,,2
+Late-demographic dividend,LTE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,31.9037234742634,,,2
+Late-demographic dividend,LTE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,31.482120442702,,,2
+Latin America & Caribbean,LCN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,28.1267876373195,,,2
+Latin America & Caribbean,LCN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,28.1141050114021,,,2
+Latin America & Caribbean,LCN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,26.9560581120968,,,2
+Latin America & Caribbean,LCN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,28.065809279277,,,2
+Latin America & Caribbean,LCN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,28.2492380988194,,,2
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,27.8013122964522,,,2
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,27.7283761711985,,,2
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,26.6372573892522,,,2
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,27.7510268191034,,,2
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,27.986857615825,,,2
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,28.6113716475758,,,2
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,28.5610845979334,,,2
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,27.381120608513,,,2
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,28.5946057940149,,,2
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,28.7838530134364,,,2
+Least developed countries: UN classification,LDC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,51.7878469354686,,,2
+Least developed countries: UN classification,LDC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,52.9907023889303,,,2
+Least developed countries: UN classification,LDC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,51.9965381388005,,,2
+Least developed countries: UN classification,LDC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,52.5354586472532,,,2
+Least developed countries: UN classification,LDC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,53.0444313257659,,,2
+Low & middle income,LMY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,34.9292852946103,,,2
+Low & middle income,LMY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,35.184100146955,,,2
+Low & middle income,LMY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,34.7810773461168,,,2
+Low & middle income,LMY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.9639268622717,,,2
+Low & middle income,LMY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,35.953177269961,,,2
+Low income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,50.0118849892069,,,2
+Low income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,53.9021892970276,,,2
+Low income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,53.686847631113,,,2
+Low income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,53.5212391198286,,,2
+Low income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,55.3190723864099,,,2
+Lower middle income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,50.7258155107916,,,2
+Lower middle income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,51.4775661611442,,,2
+Lower middle income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,51.9957293650839,,,2
+Lower middle income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,55.9160113190299,,,2
+Lower middle income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,56.433650899572,,,2
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,29.1326047442817,,,2
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,30.845995508258,,,2
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,29.7590519816514,,,2
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,30.8491075908553,,,2
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,32.6839570445105,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,47.2721462745224,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,47.7563626452764,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,43.3402727602319,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,44.3487831033736,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,47.1832509995414,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,47.4204251549762,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,47.8974386426138,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,43.3632218857482,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,44.3714401406877,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,47.2140804751332,,,2
+Middle income,MIC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,34.7435403563205,,,2
+Middle income,MIC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,34.9263322326748,,,2
+Middle income,MIC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,34.5281846840569,,,2
+Middle income,MIC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.7133795408774,,,2
+Middle income,MIC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,35.6664679370479,,,2
+North America,NAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,11.5200082176415,,,2
+North America,NAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,11.5432450929455,,,2
+North America,NAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,11.5832095992982,,,2
+North America,NAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,11.8293125629737,,,2
+North America,NAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,11.9096512037792,,,2
+Not classified,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Not classified,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Not classified,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Not classified,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Not classified,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+OECD members,OED,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,13.923172183527,,,2
+OECD members,OED,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,14.078173157591,,,2
+OECD members,OED,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,14.0544341271156,,,2
+OECD members,OED,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,14.1318679068509,,,2
+OECD members,OED,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,14.3716817846906,,,2
+Other small states,OSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,26.3635243774637,,,2
+Other small states,OSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,28.3049317669564,,,2
+Other small states,OSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,28.6792603307076,,,2
+Other small states,OSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,28.4502696368746,,,2
+Other small states,OSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,28.9808656562705,,,2
+Pacific island small states,PSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,11.0496824821423,,,2
+Pacific island small states,PSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,10.9440615231239,,,2
+Pacific island small states,PSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,9.54627611196553,,,2
+Pacific island small states,PSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,11.246110412107,,,2
+Pacific island small states,PSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,11.4847003958862,,,2
+Post-demographic dividend,PST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,13.5712261763499,,,2
+Post-demographic dividend,PST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,13.7201519071683,,,2
+Post-demographic dividend,PST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,13.6782515258002,,,2
+Post-demographic dividend,PST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,13.7686249262483,,,2
+Post-demographic dividend,PST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,13.980055075434,,,2
+Pre-demographic dividend,PRE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,50.0080023086926,,,2
+Pre-demographic dividend,PRE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,51.2053168931291,,,2
+Pre-demographic dividend,PRE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,53.9062583251286,,,2
+Pre-demographic dividend,PRE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,52.5091875724448,,,2
+Pre-demographic dividend,PRE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,57.0552076725432,,,2
+Small states,SST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,28.6657331177071,,,2
+Small states,SST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,30.0138332702804,,,2
+Small states,SST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,29.856257004257,,,2
+Small states,SST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,30.297704922292,,,2
+Small states,SST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,30.6223111264176,,,2
+South Asia,SAS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,53.5249313841736,,,2
+South Asia,SAS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,54.2761539015647,,,2
+South Asia,SAS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,55.8847444297033,,,2
+South Asia,SAS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,62.9593038574455,,,2
+South Asia,SAS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,64.2853921240336,,,2
+South Asia (IDA & IBRD),TSA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,53.5249313841736,,,2
+South Asia (IDA & IBRD),TSA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,54.2761539015647,,,2
+South Asia (IDA & IBRD),TSA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,55.8847444297033,,,2
+South Asia (IDA & IBRD),TSA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,62.9593038574455,,,2
+South Asia (IDA & IBRD),TSA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,64.2853921240336,,,2
+Sub-Saharan Africa,SSF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,29.3520984838815,,,2
+Sub-Saharan Africa,SSF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,29.3639650805975,,,2
+Sub-Saharan Africa,SSF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,31.4405754001376,,,2
+Sub-Saharan Africa,SSF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,33.9842557605814,,,2
+Sub-Saharan Africa,SSF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,34.4811871956165,,,2
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,29.0497105231461,,,2
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,29.1688190934901,,,2
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,31.3495310804975,,,2
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,33.9434039544275,,,2
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,34.4203173225788,,,2
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,29.3520984838815,,,2
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,29.3639650805975,,,2
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,31.4405754001376,,,2
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,33.9842557605814,,,2
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,34.4811871956165,,,2
+Upper middle income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,32.1031894735985,,,2
+Upper middle income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,32.2543106731312,,,2
+Upper middle income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,31.6626757993896,,,2
+Upper middle income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,31.975696375902,,,2
+Upper middle income,,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,31.8521866916053,,,2
+World,WLD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,17.9675784945026,,,2
+World,WLD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,18.1295372366212,,,2
+World,WLD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,18.0561297996312,,,2
+World,WLD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,18.1639441806988,,,2
+World,WLD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,18.4412383521719,,,2
+Afghanistan,AFG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,76.818367,,,2
+Afghanistan,AFG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,76.22302246,,,2
+Afghanistan,AFG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,75.48258209,,,2
+Afghanistan,AFG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,75.97433472,,,2
+Afghanistan,AFG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,78.3822937,,,2
+Albania,ALB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,56.41222382,,,2
+Albania,ALB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,56.41461563,,,2
+Albania,ALB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,57.18074036,,,2
+Albania,ALB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,56.51747894,,,2
+Albania,ALB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,57.34070206,,,2
+Algeria,DZA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,37.92313004,,,2
+Algeria,DZA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,33.76395798,,,2
+Algeria,DZA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,33.93701172,,,2
+Algeria,DZA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,32.89492798,,,2
+Algeria,DZA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,30.19287682,,,2
+American Samoa,ASM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+American Samoa,ASM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+American Samoa,ASM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+American Samoa,ASM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+American Samoa,ASM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Andorra,AND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,12.73200035,,,2
+Andorra,AND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,12.34985161,,,2
+Andorra,AND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,12.09093952,,,2
+Andorra,AND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,12.48209,,,2
+Andorra,AND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,13.12759209,,,2
+Angola,AGO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,33.14308548,,,2
+Angola,AGO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,36.24733353,,,2
+Angola,AGO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,34.12101364,,,2
+Angola,AGO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.20893097,,,2
+Angola,AGO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,33.52316666,,,2
+Antigua and Barbuda,ATG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,24.26510048,,,2
+Antigua and Barbuda,ATG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,23.66021156,,,2
+Antigua and Barbuda,ATG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,26.5686245,,,2
+Antigua and Barbuda,ATG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,27.5195961,,,2
+Antigua and Barbuda,ATG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,23.53068924,,,2
+Argentina,ARG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,23.27544212,,,2
+Argentina,ARG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,24.02781868,,,2
+Argentina,ARG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,20.74797821,,,2
+Argentina,ARG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,26.47557259,,,2
+Argentina,ARG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,25.82054329,,,2
+Armenia,ARM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,84.79430389,,,2
+Armenia,ARM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,84.27638245,,,2
+Armenia,ARM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,84.34803009,,,2
+Armenia,ARM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,80.6469574,,,2
+Armenia,ARM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,81.62987518,,,2
+Aruba,ABW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Aruba,ABW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Aruba,ABW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Aruba,ABW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Aruba,ABW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Australia,AUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,15.01641464,,,2
+Australia,AUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,16.48277283,,,2
+Australia,AUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,16.31333733,,,2
+Australia,AUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,16.63350677,,,2
+Australia,AUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,16.91646767,,,2
+Austria,AUT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,18.7592411,,,2
+Austria,AUT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,19.29269981,,,2
+Austria,AUT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,20.11006927,,,2
+Austria,AUT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,20.04564476,,,2
+Austria,AUT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,19.84508324,,,2
+Azerbaijan,AZE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,71.34140778,,,2
+Azerbaijan,AZE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,73.38605499,,,2
+Azerbaijan,AZE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,71.84921265,,,2
+Azerbaijan,AZE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,70.02903748,,,2
+Azerbaijan,AZE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,69.12871552,,,2
+"Bahamas, The",BHS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,27.58430672,,,2
+"Bahamas, The",BHS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,28.65538406,,,2
+"Bahamas, The",BHS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,24.9106617,,,2
+"Bahamas, The",BHS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,28.30343437,,,2
+"Bahamas, The",BHS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,30.39061737,,,2
+Bahrain,BHR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,29.97935486,,,2
+Bahrain,BHR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,30.00357628,,,2
+Bahrain,BHR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,31.99498177,,,2
+Bahrain,BHR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,27.98857307,,,2
+Bahrain,BHR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,25.89375496,,,2
+Bangladesh,BGD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,76.47038269,,,2
+Bangladesh,BGD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,70.67902374,,,2
+Bangladesh,BGD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,70.08963776,,,2
+Bangladesh,BGD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,71.49494171,,,2
+Bangladesh,BGD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,72.67826843,,,2
+Barbados,BRB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,46.69363785,,,2
+Barbados,BRB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,45.89333344,,,2
+Barbados,BRB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,45.55510712,,,2
+Barbados,BRB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,45.05650711,,,2
+Barbados,BRB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,44.41487503,,,2
+Belarus,BLR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,25.69003105,,,2
+Belarus,BLR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,25.44559479,,,2
+Belarus,BLR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,27.05755615,,,2
+Belarus,BLR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,26.71418381,,,2
+Belarus,BLR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,36.20293045,,,2
+Belgium,BEL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,20.59959984,,,2
+Belgium,BEL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,19.3741951,,,2
+Belgium,BEL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,19.12564468,,,2
+Belgium,BEL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,18.9411087,,,2
+Belgium,BEL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,19.43956184,,,2
+Belize,BLZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,22.67947578,,,2
+Belize,BLZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,22.96988678,,,2
+Belize,BLZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,23.14125252,,,2
+Belize,BLZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,22.57848167,,,2
+Belize,BLZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,23.2816906,,,2
+Benin,BEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,54.70105362,,,2
+Benin,BEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,49.22253418,,,2
+Benin,BEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,47.97880173,,,2
+Benin,BEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,49.55622482,,,2
+Benin,BEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,51.40564728,,,2
+Bermuda,BMU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Bermuda,BMU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Bermuda,BMU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Bermuda,BMU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Bermuda,BMU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Bhutan,BTN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,17.79043007,,,2
+Bhutan,BTN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,13.16380501,,,2
+Bhutan,BTN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,13.3064661,,,2
+Bhutan,BTN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,20.12969589,,,2
+Bhutan,BTN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,19.79465675,,,2
+Bolivia,BOL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,23.99159813,,,2
+Bolivia,BOL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,22.10827065,,,2
+Bolivia,BOL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,25.07784653,,,2
+Bolivia,BOL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,28.02112007,,,2
+Bolivia,BOL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,27.32661629,,,2
+Bosnia and Herzegovina,BIH,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,29.35281181,,,2
+Bosnia and Herzegovina,BIH,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,29.31168938,,,2
+Bosnia and Herzegovina,BIH,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,29.11909294,,,2
+Bosnia and Herzegovina,BIH,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,28.61372757,,,2
+Bosnia and Herzegovina,BIH,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,28.80271149,,,2
+Botswana,BWA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,4.49591017,,,2
+Botswana,BWA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,5.10579157,,,2
+Botswana,BWA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,2.99324226,,,2
+Botswana,BWA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,3.30749416,,,2
+Botswana,BWA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,3.57781744,,,2
+Brazil,BRA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,24.87984657,,,2
+Brazil,BRA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,24.82529449,,,2
+Brazil,BRA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,24.46793365,,,2
+Brazil,BRA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,24.42057228,,,2
+Brazil,BRA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,24.70735931,,,2
+British Virgin Islands,VGB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+British Virgin Islands,VGB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+British Virgin Islands,VGB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+British Virgin Islands,VGB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+British Virgin Islands,VGB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Brunei Darussalam,BRN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,5.50012302,,,2
+Brunei Darussalam,BRN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,4.8520875,,,2
+Brunei Darussalam,BRN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,5.41142321,,,2
+Brunei Darussalam,BRN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,4.97981501,,,2
+Brunei Darussalam,BRN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,4.97357655,,,2
+Bulgaria,BGR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,37.79553986,,,2
+Bulgaria,BGR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,39.32843781,,,2
+Bulgaria,BGR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,42.19384384,,,2
+Bulgaria,BGR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,43.25471497,,,2
+Bulgaria,BGR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,42.50993729,,,2
+Burkina Faso,BFA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,34.67798996,,,2
+Burkina Faso,BFA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,36.23123169,,,2
+Burkina Faso,BFA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,31.36149979,,,2
+Burkina Faso,BFA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,31.39372635,,,2
+Burkina Faso,BFA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,36.02980042,,,2
+Burundi,BDI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,22.21719551,,,2
+Burundi,BDI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,27.11566162,,,2
+Burundi,BDI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,28.9984951,,,2
+Burundi,BDI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,28.36751747,,,2
+Burundi,BDI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,31.20854759,,,2
+Cabo Verde,CPV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,24.94114113,,,2
+Cabo Verde,CPV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,27.06538963,,,2
+Cabo Verde,CPV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,34.12091446,,,2
+Cabo Verde,CPV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,28.66605759,,,2
+Cabo Verde,CPV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,27.7348938,,,2
+Cambodia,KHM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,64.39125061,,,2
+Cambodia,KHM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,60.96880341,,,2
+Cambodia,KHM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,58.23595047,,,2
+Cambodia,KHM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,56.05389786,,,2
+Cambodia,KHM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,58.41831207,,,2
+Cameroon,CMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,72.18878174,,,2
+Cameroon,CMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,72.26169586,,,2
+Cameroon,CMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,78.46200562,,,2
+Cameroon,CMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,73.38752747,,,2
+Cameroon,CMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,73.83300781,,,2
+Canada,CAN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,15.42836094,,,2
+Canada,CAN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,15.56946564,,,2
+Canada,CAN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,15.82835293,,,2
+Canada,CAN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,15.60679913,,,2
+Canada,CAN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,14.70200253,,,2
+Cayman Islands,CYM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Cayman Islands,CYM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Cayman Islands,CYM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Cayman Islands,CYM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Cayman Islands,CYM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Central African Republic,CAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,60.55824661,,,2
+Central African Republic,CAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,41.67272949,,,2
+Central African Republic,CAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,56.41589355,,,2
+Central African Republic,CAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,55.20955658,,,2
+Central African Republic,CAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,48.77671814,,,2
+Chad,TCD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,63.70339966,,,2
+Chad,TCD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,64.376091,,,2
+Chad,TCD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,59.87926483,,,2
+Chad,TCD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,55.14606857,,,2
+Chad,TCD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,56.72420502,,,2
+Channel Islands,CHI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Channel Islands,CHI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Channel Islands,CHI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Channel Islands,CHI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Channel Islands,CHI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Chile,CHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,32.34170532,,,2
+Chile,CHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,32.69705963,,,2
+Chile,CHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,33.30509567,,,2
+Chile,CHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,34.75082779,,,2
+Chile,CHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,34.50925446,,,2
+China,CHN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,35.23001862,,,2
+China,CHN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,35.75046921,,,2
+China,CHN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,36.05041122,,,2
+China,CHN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.90618515,,,2
+China,CHN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,35.0892868,,,2
+Colombia,COL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,14.750144,,,2
+Colombia,COL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,15.04849339,,,2
+Colombia,COL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,15.36301041,,,2
+Colombia,COL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,15.61221027,,,2
+Colombia,COL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,15.40105057,,,2
+Comoros,COM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,61.82796478,,,2
+Comoros,COM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,67.24486542,,,2
+Comoros,COM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,63.84443665,,,2
+Comoros,COM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,71.2664566,,,2
+Comoros,COM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,74.98792267,,,2
+"Congo, Dem. Rep.",COD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,38.49700546,,,2
+"Congo, Dem. Rep.",COD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,41.61063766,,,2
+"Congo, Dem. Rep.",COD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,40.12471771,,,2
+"Congo, Dem. Rep.",COD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,37.29187775,,,2
+"Congo, Dem. Rep.",COD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,37.42670822,,,2
+"Congo, Rep.",COG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,42.17203903,,,2
+"Congo, Rep.",COG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,50.25749588,,,2
+"Congo, Rep.",COG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,45.59011841,,,2
+"Congo, Rep.",COG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,44.25678253,,,2
+"Congo, Rep.",COG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,32.46011734,,,2
+Costa Rica,CRI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,22.32456398,,,2
+Costa Rica,CRI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,22.4164257,,,2
+Costa Rica,CRI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,21.25539017,,,2
+Costa Rica,CRI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,22.20295334,,,2
+Costa Rica,CRI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,22.59923172,,,2
+Cote d'Ivoire,CIV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,37.26046371,,,2
+Cote d'Ivoire,CIV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,39.2853241,,,2
+Cote d'Ivoire,CIV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,39.21524048,,,2
+Cote d'Ivoire,CIV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,40.01249313,,,2
+Cote d'Ivoire,CIV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,42.58926392,,,2
+Croatia,HRV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,11.46475887,,,2
+Croatia,HRV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,11.38725376,,,2
+Croatia,HRV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,10.96659565,,,2
+Croatia,HRV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,10.97408199,,,2
+Croatia,HRV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,10.94543266,,,2
+Cuba,CUB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,10.85016251,,,2
+Cuba,CUB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,11.17386532,,,2
+Cuba,CUB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,10.70137501,,,2
+Cuba,CUB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,10.28543472,,,2
+Cuba,CUB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,9.62183094,,,2
+Curacao,CUW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Curacao,CUW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Curacao,CUW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Curacao,CUW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Curacao,CUW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Cyprus,CYP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,33.72646713,,,2
+Cyprus,CYP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,44.3609581,,,2
+Cyprus,CYP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,44.75834656,,,2
+Cyprus,CYP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,44.6070137,,,2
+Cyprus,CYP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,43.62483215,,,2
+Czechia,CZE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,14.309021,,,2
+Czechia,CZE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,14.15549374,,,2
+Czechia,CZE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,14.13632774,,,2
+Czechia,CZE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,14.28510857,,,2
+Czechia,CZE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,14.51374149,,,2
+Denmark,DNK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,13.79444408,,,2
+Denmark,DNK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,13.82407379,,,2
+Denmark,DNK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,13.69360352,,,2
+Denmark,DNK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,13.52142334,,,2
+Denmark,DNK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,13.45859432,,,2
+Djibouti,DJI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,28.16122055,,,2
+Djibouti,DJI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,26.90641785,,,2
+Djibouti,DJI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,26.03968811,,,2
+Djibouti,DJI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,23.17863083,,,2
+Djibouti,DJI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,19.0374279,,,2
+Dominica,DMA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,33.85964203,,,2
+Dominica,DMA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,30.91319275,,,2
+Dominica,DMA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,28.55779457,,,2
+Dominica,DMA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,32.22554016,,,2
+Dominica,DMA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,34.0546875,,,2
+Dominican Republic,DOM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,27.33348846,,,2
+Dominican Republic,DOM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,28.47889519,,,2
+Dominican Republic,DOM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,28.93177795,,,2
+Dominican Republic,DOM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,29.47797585,,,2
+Dominican Republic,DOM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,29.99302864,,,2
+Ecuador,ECU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,29.0748024,,,2
+Ecuador,ECU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,28.78895378,,,2
+Ecuador,ECU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,29.96397209,,,2
+Ecuador,ECU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,30.00954247,,,2
+Ecuador,ECU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,33.77854156,,,2
+"Egypt, Arab Rep.",EGY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,62.50646591,,,2
+"Egypt, Arab Rep.",EGY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,62.61043167,,,2
+"Egypt, Arab Rep.",EGY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,56.39825058,,,2
+"Egypt, Arab Rep.",EGY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,58.99694824,,,2
+"Egypt, Arab Rep.",EGY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,58.8299675,,,2
+El Salvador,SLV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,37.6710701,,,2
+El Salvador,SLV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,37.49291611,,,2
+El Salvador,SLV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,37.28125,,,2
+El Salvador,SLV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,34.5382576,,,2
+El Salvador,SLV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,35.22028351,,,2
+Equatorial Guinea,GNQ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,73.77350616,,,2
+Equatorial Guinea,GNQ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,70.09912109,,,2
+Equatorial Guinea,GNQ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,70.59727478,,,2
+Equatorial Guinea,GNQ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,69.09034729,,,2
+Equatorial Guinea,GNQ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,68.14749908,,,2
+Eritrea,ERI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,46.44067764,,,2
+Eritrea,ERI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,50.77529526,,,2
+Eritrea,ERI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,46.97372055,,,2
+Eritrea,ERI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,59.00007248,,,2
+Eritrea,ERI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,42.90429688,,,2
+Estonia,EST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,23.92458153,,,2
+Estonia,EST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,24.5131073,,,2
+Estonia,EST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,24.80668068,,,2
+Estonia,EST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,23.73811913,,,2
+Estonia,EST,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,23.71892166,,,2
+Eswatini,SWZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,9.2169857,,,2
+Eswatini,SWZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,10.14749718,,,2
+Eswatini,SWZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,10.49674606,,,2
+Eswatini,SWZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,10.58516216,,,2
+Eswatini,SWZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,10.56864738,,,2
+Ethiopia,ETH,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,37.81941223,,,2
+Ethiopia,ETH,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,35.49158096,,,2
+Ethiopia,ETH,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,34.40161896,,,2
+Ethiopia,ETH,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.43159103,,,2
+Ethiopia,ETH,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,36.74348068,,,2
+Faroe Islands,FRO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Faroe Islands,FRO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Faroe Islands,FRO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Faroe Islands,FRO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Faroe Islands,FRO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Fiji,FJI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,19.14904594,,,2
+Fiji,FJI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,18.00298119,,,2
+Fiji,FJI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,15.59424877,,,2
+Fiji,FJI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,20.63828468,,,2
+Fiji,FJI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,21.02604485,,,2
+Finland,FIN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,17.42399406,,,2
+Finland,FIN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,18.43068314,,,2
+Finland,FIN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,19.04597092,,,2
+Finland,FIN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,19.27291298,,,2
+Finland,FIN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,18.62889671,,,2
+France,FRA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,10.31887913,,,2
+France,FRA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,10.44571686,,,2
+France,FRA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,10.63998699,,,2
+France,FRA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,10.71399021,,,2
+France,FRA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,10.9781208,,,2
+French Polynesia,PYF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+French Polynesia,PYF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+French Polynesia,PYF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+French Polynesia,PYF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+French Polynesia,PYF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Gabon,GAB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,23.08802223,,,2
+Gabon,GAB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,23.11415291,,,2
+Gabon,GAB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,25.15639114,,,2
+Gabon,GAB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,22.55089378,,,2
+Gabon,GAB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,25.90465927,,,2
+"Gambia, The",GMB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,20.29882431,,,2
+"Gambia, The",GMB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,20.18510818,,,2
+"Gambia, The",GMB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,26.66901207,,,2
+"Gambia, The",GMB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,30.49933815,,,2
+"Gambia, The",GMB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,23.41558647,,,2
+Georgia,GEO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,56.99837112,,,2
+Georgia,GEO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,58.10008621,,,2
+Georgia,GEO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,62.44371033,,,2
+Georgia,GEO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,60.7001152,,,2
+Georgia,GEO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,62.316185,,,2
+Germany,DEU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,12.37548542,,,2
+Germany,DEU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,12.1757164,,,2
+Germany,DEU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,12.01707077,,,2
+Germany,DEU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,12.18544674,,,2
+Germany,DEU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,12.35095024,,,2
+Ghana,GHA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,28.97685051,,,2
+Ghana,GHA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,33.48161697,,,2
+Ghana,GHA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,22.65083694,,,2
+Ghana,GHA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,37.82372665,,,2
+Ghana,GHA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,35.80306244,,,2
+Gibraltar,GIB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Gibraltar,GIB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Gibraltar,GIB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Gibraltar,GIB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Gibraltar,GIB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Greece,GRC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,33.64273453,,,2
+Greece,GRC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,36.0800705,,,2
+Greece,GRC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,34.99521637,,,2
+Greece,GRC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,34.30815125,,,2
+Greece,GRC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,36.03439331,,,2
+Greenland,GRL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Greenland,GRL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Greenland,GRL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Greenland,GRL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Greenland,GRL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Grenada,GRD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,54.42095566,,,2
+Grenada,GRD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,54.91054916,,,2
+Grenada,GRD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,55.11002731,,,2
+Grenada,GRD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,55.74351883,,,2
+Grenada,GRD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,53.97851944,,,2
+Guam,GUM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Guam,GUM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Guam,GUM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Guam,GUM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Guam,GUM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Guatemala,GTM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,55.9891777,,,2
+Guatemala,GTM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,57.50035858,,,2
+Guatemala,GTM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,54.1341095,,,2
+Guatemala,GTM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,56.06058884,,,2
+Guatemala,GTM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,55.72278976,,,2
+Guinea,GIN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,59.2154274,,,2
+Guinea,GIN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,67.11582947,,,2
+Guinea,GIN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,64.59755707,,,2
+Guinea,GIN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,49.76166534,,,2
+Guinea,GIN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,49.35240555,,,2
+Guinea-Bissau,GNB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,69.62321472,,,2
+Guinea-Bissau,GNB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,66.98523712,,,2
+Guinea-Bissau,GNB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,68.41368103,,,2
+Guinea-Bissau,GNB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,64.58337402,,,2
+Guinea-Bissau,GNB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,66.92208862,,,2
+Guyana,GUY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,35.02374649,,,2
+Guyana,GUY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,33.73039627,,,2
+Guyana,GUY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,28.84054756,,,2
+Guyana,GUY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,29.93546677,,,2
+Guyana,GUY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,33.71472549,,,2
+Haiti,HTI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,39.03829193,,,2
+Haiti,HTI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,38.85435486,,,2
+Haiti,HTI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,45.40202332,,,2
+Haiti,HTI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.29019165,,,2
+Haiti,HTI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,33.96487808,,,2
+Honduras,HND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,52.32635117,,,2
+Honduras,HND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,52.14417267,,,2
+Honduras,HND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,49.70353317,,,2
+Honduras,HND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,49.7650795,,,2
+Honduras,HND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,50.66353989,,,2
+"Hong Kong SAR, China",HKG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+"Hong Kong SAR, China",HKG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+"Hong Kong SAR, China",HKG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+"Hong Kong SAR, China",HKG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+"Hong Kong SAR, China",HKG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Hungary,HUN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,27.78665924,,,2
+Hungary,HUN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,26.78894615,,,2
+Hungary,HUN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,27.24947357,,,2
+Hungary,HUN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,27.68942833,,,2
+Hungary,HUN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,27.48835373,,,2
+Iceland,ISL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,15.4256382,,,2
+Iceland,ISL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,15.82414627,,,2
+Iceland,ISL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,16.32500076,,,2
+Iceland,ISL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,16.74673653,,,2
+Iceland,ISL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,17.50760269,,,2
+India,IND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,52.00421143,,,2
+India,IND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,53.22994614,,,2
+India,IND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,55.11247635,,,2
+India,IND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,63.20619965,,,2
+India,IND,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,64.66441345,,,2
+Indonesia,IDN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,34.55001068,,,2
+Indonesia,IDN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,35.23954773,,,2
+Indonesia,IDN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,36.17775345,,,2
+Indonesia,IDN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,38.12414932,,,2
+Indonesia,IDN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,42.71576691,,,2
+"Iran, Islamic Rep.",IRN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,39.13536072,,,2
+"Iran, Islamic Rep.",IRN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,39.99976349,,,2
+"Iran, Islamic Rep.",IRN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,32.80345154,,,2
+"Iran, Islamic Rep.",IRN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,36.55317688,,,2
+"Iran, Islamic Rep.",IRN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,38.95087051,,,2
+Iraq,IRQ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,50.09696198,,,2
+Iraq,IRQ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,50.39333344,,,2
+Iraq,IRQ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,58.04656601,,,2
+Iraq,IRQ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,44.25166702,,,2
+Iraq,IRQ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,76.19068909,,,2
+Ireland,IRL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,12.65658474,,,2
+Ireland,IRL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,12.65782166,,,2
+Ireland,IRL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,13.108531,,,2
+Ireland,IRL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,13.47187138,,,2
+Ireland,IRL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,13.51100063,,,2
+Isle of Man,IMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Isle of Man,IMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Isle of Man,IMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Isle of Man,IMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Isle of Man,IMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Israel,ISR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,21.35632706,,,2
+Israel,ISR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,21.83692932,,,2
+Israel,ISR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,22.43102837,,,2
+Israel,ISR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,22.82260704,,,2
+Israel,ISR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,22.50102615,,,2
+Italy,ITA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,23.87487411,,,2
+Italy,ITA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,23.96560478,,,2
+Italy,ITA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,24.12751389,,,2
+Italy,ITA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,23.69392776,,,2
+Italy,ITA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,23.79615784,,,2
+Jamaica,JAM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,26.89248657,,,2
+Jamaica,JAM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,27.37498474,,,2
+Jamaica,JAM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,26.71978951,,,2
+Jamaica,JAM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,29.00498962,,,2
+Jamaica,JAM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,31.10013008,,,2
+Japan,JPN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,12.9017725,,,2
+Japan,JPN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,12.99456692,,,2
+Japan,JPN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,12.65492725,,,2
+Japan,JPN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,12.85439873,,,2
+Japan,JPN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,12.94767094,,,2
+Jordan,JOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,36.0000267,,,2
+Jordan,JOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,35.3108139,,,2
+Jordan,JOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,33.99718094,,,2
+Jordan,JOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,32.94747543,,,2
+Jordan,JOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,29.33435059,,,2
+Kazakhstan,KAZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,33.86382675,,,2
+Kazakhstan,KAZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,33.47025299,,,2
+Kazakhstan,KAZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,33.14392471,,,2
+Kazakhstan,KAZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.67286301,,,2
+Kazakhstan,KAZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,32.09503555,,,2
+Kenya,KEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,24.29976273,,,2
+Kenya,KEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,23.36505699,,,2
+Kenya,KEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,23.28059959,,,2
+Kenya,KEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,24.99973106,,,2
+Kenya,KEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,26.89801407,,,2
+Kiribati,KIR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,0.63055825,,,2
+Kiribati,KIR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,0.58638251,,,2
+Kiribati,KIR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,0.70969439,,,2
+Kiribati,KIR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,0.79559016,,,2
+Kiribati,KIR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,1.0869565,,,2
+"Korea, Dem. People's Rep.",PRK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+"Korea, Dem. People's Rep.",PRK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+"Korea, Dem. People's Rep.",PRK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+"Korea, Dem. People's Rep.",PRK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+"Korea, Dem. People's Rep.",PRK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+"Korea, Rep.",KOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,32.83717346,,,2
+"Korea, Rep.",KOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,34.67647934,,,2
+"Korea, Rep.",KOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,35.78922272,,,2
+"Korea, Rep.",KOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,36.48467636,,,2
+"Korea, Rep.",KOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,37.70632935,,,2
+Kosovo,XKX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Kosovo,XKX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Kosovo,XKX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Kosovo,XKX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Kosovo,XKX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Kuwait,KWT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,10.7205658,,,2
+Kuwait,KWT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,10.6470356,,,2
+Kuwait,KWT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,12.92664242,,,2
+Kuwait,KWT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,13.28215694,,,2
+Kuwait,KWT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,13.69551945,,,2
+Kyrgyz Republic,KGZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,46.181427,,,2
+Kyrgyz Republic,KGZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,46.61981201,,,2
+Kyrgyz Republic,KGZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,56.37662888,,,2
+Kyrgyz Republic,KGZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,57.21311569,,,2
+Kyrgyz Republic,KGZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,54.53977203,,,2
+Lao PDR,LAO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,41.83228683,,,2
+Lao PDR,LAO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,48.54592896,,,2
+Lao PDR,LAO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,46.23710632,,,2
+Lao PDR,LAO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,46.44212341,,,2
+Lao PDR,LAO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,45.36532593,,,2
+Latvia,LVA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,35.10500336,,,2
+Latvia,LVA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,39.17964172,,,2
+Latvia,LVA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,41.78833008,,,2
+Latvia,LVA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,43.32296753,,,2
+Latvia,LVA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,40.46530914,,,2
+Lebanon,LBN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,30.71131897,,,2
+Lebanon,LBN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,35.30458069,,,2
+Lebanon,LBN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,33.06612396,,,2
+Lebanon,LBN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,31.97481537,,,2
+Lebanon,LBN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,32.6974411,,,2
+Lesotho,LSO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,7.29349852,,,2
+Lesotho,LSO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,14.49901295,,,2
+Lesotho,LSO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,15.77537918,,,2
+Lesotho,LSO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,15.83790779,,,2
+Lesotho,LSO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,15.60902882,,,2
+Liberia,LBR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,54.67374802,,,2
+Liberia,LBR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,42.36981964,,,2
+Liberia,LBR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,44.11894226,,,2
+Liberia,LBR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,46.7549324,,,2
+Liberia,LBR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,45.30207443,,,2
+Libya,LBY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,28.01715851,,,2
+Libya,LBY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,28.24106407,,,2
+Libya,LBY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,33.7814064,,,2
+Libya,LBY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,32.49470139,,,2
+Libya,LBY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,30.7180233,,,2
+Liechtenstein,LIE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,21.59539413,,,2
+Liechtenstein,LIE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,23.15523148,,,2
+Liechtenstein,LIE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,23.28775597,,,2
+Liechtenstein,LIE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,21.1841526,,,2
+Liechtenstein,LIE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,20.52533722,,,2
+Lithuania,LTU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,32.27022552,,,2
+Lithuania,LTU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,31.51578522,,,2
+Lithuania,LTU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,32.27551651,,,2
+Lithuania,LTU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,32.31705093,,,2
+Lithuania,LTU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,31.83712196,,,2
+Luxembourg,LUX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,9.58771706,,,2
+Luxembourg,LUX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,10.43567467,,,2
+Luxembourg,LUX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,10.66126442,,,2
+Luxembourg,LUX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,10.74443722,,,2
+Luxembourg,LUX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,10.71509171,,,2
+"Macao SAR, China",MAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+"Macao SAR, China",MAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+"Macao SAR, China",MAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+"Macao SAR, China",MAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+"Macao SAR, China",MAC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Madagascar,MDG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,34.22468185,,,2
+Madagascar,MDG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,29.32769394,,,2
+Madagascar,MDG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,25.63452148,,,2
+Madagascar,MDG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,23.05756569,,,2
+Madagascar,MDG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,25.1729393,,,2
+Malawi,MWI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,11.85419559,,,2
+Malawi,MWI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,12.80120277,,,2
+Malawi,MWI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,12.69519043,,,2
+Malawi,MWI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,12.41495895,,,2
+Malawi,MWI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,10.9818964,,,2
+Malaysia,MYS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,36.0626564,,,2
+Malaysia,MYS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,36.64058304,,,2
+Malaysia,MYS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,35.93440247,,,2
+Malaysia,MYS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.94845581,,,2
+Malaysia,MYS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,33.70749283,,,2
+Maldives,MDV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,17.46362114,,,2
+Maldives,MDV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,19.77984238,,,2
+Maldives,MDV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,20.585186,,,2
+Maldives,MDV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,18.93492508,,,2
+Maldives,MDV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,19.45229149,,,2
+Mali,MLI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,31.07923317,,,2
+Mali,MLI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,32.55354691,,,2
+Mali,MLI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,37.50244141,,,2
+Mali,MLI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.75055695,,,2
+Mali,MLI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,34.17124557,,,2
+Malta,MLT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,34.13107681,,,2
+Malta,MLT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,34.29564285,,,2
+Malta,MLT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,35.22463989,,,2
+Malta,MLT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.12796402,,,2
+Malta,MLT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,37.21007919,,,2
+Marshall Islands,MHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,1.12465513,,,2
+Marshall Islands,MHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,1.17862809,,,2
+Marshall Islands,MHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,1.43960714,,,2
+Marshall Islands,MHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,1.15316296,,,2
+Marshall Islands,MHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,1.21950555,,,2
+Mauritania,MRT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,60.29301453,,,2
+Mauritania,MRT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,64.94996643,,,2
+Mauritania,MRT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,54.0633316,,,2
+Mauritania,MRT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,55.74465942,,,2
+Mauritania,MRT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,47.74198532,,,2
+Mauritius,MUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,47.12637711,,,2
+Mauritius,MUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,46.91960907,,,2
+Mauritius,MUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,47.39693832,,,2
+Mauritius,MUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,48.16077805,,,2
+Mauritius,MUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,49.57672882,,,2
+Mexico,MEX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,42.28219223,,,2
+Mexico,MEX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,42.30939865,,,2
+Mexico,MEX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,41.78836441,,,2
+Mexico,MEX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,41.3722229,,,2
+Mexico,MEX,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,41.04377365,,,2
+"Micronesia, Fed. Sts.",FSM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,2.69489312,,,2
+"Micronesia, Fed. Sts.",FSM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,2.68596697,,,2
+"Micronesia, Fed. Sts.",FSM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,2.55388117,,,2
+"Micronesia, Fed. Sts.",FSM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,2.39560294,,,2
+"Micronesia, Fed. Sts.",FSM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,2.62721825,,,2
+Moldova,MDA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,35.6937027,,,2
+Moldova,MDA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,40.02738953,,,2
+Moldova,MDA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,43.63447952,,,2
+Moldova,MDA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,46.29189682,,,2
+Moldova,MDA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,46.18740845,,,2
+Monaco,MCO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,6.71071768,,,2
+Monaco,MCO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,6.48030376,,,2
+Monaco,MCO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,6.29094744,,,2
+Monaco,MCO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,6.37585497,,,2
+Monaco,MCO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,6.05935717,,,2
+Mongolia,MNG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,43.10778427,,,2
+Mongolia,MNG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,43.93989944,,,2
+Mongolia,MNG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,38.04784012,,,2
+Mongolia,MNG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,34.81768417,,,2
+Mongolia,MNG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,36.37525558,,,2
+Montenegro,MNE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,38.55628967,,,2
+Montenegro,MNE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,39.6108551,,,2
+Montenegro,MNE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,42.16569138,,,2
+Montenegro,MNE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,38.23348618,,,2
+Montenegro,MNE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,37.72554779,,,2
+Morocco,MAR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,46.55796814,,,2
+Morocco,MAR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,46.98527527,,,2
+Morocco,MAR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,47.96567535,,,2
+Morocco,MAR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,48.8467865,,,2
+Morocco,MAR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,48.95444107,,,2
+Mozambique,MOZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,9.71002865,,,2
+Mozambique,MOZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,9.32622814,,,2
+Mozambique,MOZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,9.68614864,,,2
+Mozambique,MOZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,10.53909206,,,2
+Mozambique,MOZ,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,11.26148605,,,2
+Myanmar,MMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,76.56387329,,,2
+Myanmar,MMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,76.44635773,,,2
+Myanmar,MMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,75.68733215,,,2
+Myanmar,MMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,76.67272949,,,2
+Myanmar,MMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,70.4500351,,,2
+Namibia,NAM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,7.52685452,,,2
+Namibia,NAM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,7.78355885,,,2
+Namibia,NAM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,7.80559444,,,2
+Namibia,NAM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,7.71208572,,,2
+Namibia,NAM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,7.3291502,,,2
+Nauru,NRU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,0.80313951,,,2
+Nauru,NRU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,0.74647081,,,2
+Nauru,NRU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,0.88470006,,,2
+Nauru,NRU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,1.13456309,,,2
+Nauru,NRU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,1.07610953,,,2
+Nepal,NPL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,57.91313171,,,2
+Nepal,NPL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,57.72503281,,,2
+Nepal,NPL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,57.37548065,,,2
+Nepal,NPL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,55.44006729,,,2
+Nepal,NPL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,59.4352417,,,2
+Netherlands,NLD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,10.423666,,,2
+Netherlands,NLD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,10.79132938,,,2
+Netherlands,NLD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,11.04886436,,,2
+Netherlands,NLD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,11.28642845,,,2
+Netherlands,NLD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,11.28642845,,,2
+New Caledonia,NCL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+New Caledonia,NCL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+New Caledonia,NCL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+New Caledonia,NCL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+New Caledonia,NCL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+New Zealand,NZL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,14.4040451,,,2
+New Zealand,NZL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,14.57150078,,,2
+New Zealand,NZL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,14.54863453,,,2
+New Zealand,NZL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,14.610116,,,2
+New Zealand,NZL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,13.80066013,,,2
+Nicaragua,NIC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,33.21761322,,,2
+Nicaragua,NIC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,33.15946198,,,2
+Nicaragua,NIC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,33.84358215,,,2
+Nicaragua,NIC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.0157547,,,2
+Nicaragua,NIC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,35.39279175,,,2
+Niger,NER,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,46.09529114,,,2
+Niger,NER,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,48.96118927,,,2
+Niger,NER,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,48.3137207,,,2
+Niger,NER,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,58.51040268,,,2
+Niger,NER,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,51.68564987,,,2
+Nigeria,NGA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,71.49702454,,,2
+Nigeria,NGA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,75.94579315,,,2
+Nigeria,NGA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,77.38787079,,,2
+Nigeria,NGA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,75.18703461,,,2
+Nigeria,NGA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,71.89007568,,,2
+North Macedonia,MKD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,39.08806229,,,2
+North Macedonia,MKD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,41.23317337,,,2
+North Macedonia,MKD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,41.04214478,,,2
+North Macedonia,MKD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,35.32001495,,,2
+North Macedonia,MKD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,34.26193237,,,2
+Northern Mariana Islands,MNP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Northern Mariana Islands,MNP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Northern Mariana Islands,MNP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Northern Mariana Islands,MNP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Northern Mariana Islands,MNP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Norway,NOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,13.91872692,,,2
+Norway,NOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,13.96863365,,,2
+Norway,NOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,14.5119257,,,2
+Norway,NOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,14.27099895,,,2
+Norway,NOR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,14.14276981,,,2
+Oman,OMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,5.9613471,,,2
+Oman,OMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,6.4967432,,,2
+Oman,OMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,5.93687487,,,2
+Oman,OMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,5.56049776,,,2
+Oman,OMN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,5.30148888,,,2
+Pakistan,PAK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,56.08301163,,,2
+Pakistan,PAK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,56.24115753,,,2
+Pakistan,PAK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,57.8424263,,,2
+Pakistan,PAK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,62.12799454,,,2
+Pakistan,PAK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,64.43975067,,,2
+Palau,PLW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,14.83093166,,,2
+Palau,PLW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,16.54807472,,,2
+Palau,PLW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,16.95531273,,,2
+Palau,PLW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,17.15130997,,,2
+Palau,PLW,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,17.25234604,,,2
+Panama,PAN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,37.61917496,,,2
+Panama,PAN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,35.70438766,,,2
+Panama,PAN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,31.91596031,,,2
+Panama,PAN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,32.69819641,,,2
+Panama,PAN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,33.03644562,,,2
+Papua New Guinea,PNG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,9.52710056,,,2
+Papua New Guinea,PNG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,9.59954548,,,2
+Papua New Guinea,PNG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,8.99854469,,,2
+Papua New Guinea,PNG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,10.14459038,,,2
+Papua New Guinea,PNG,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,12.36896133,,,2
+Paraguay,PRY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,41.96775436,,,2
+Paraguay,PRY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,43.87631607,,,2
+Paraguay,PRY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,43.77459717,,,2
+Paraguay,PRY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,42.92160797,,,2
+Paraguay,PRY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,43.80717087,,,2
+Peru,PER,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,28.34798813,,,2
+Peru,PER,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,29.74592972,,,2
+Peru,PER,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,28.94732857,,,2
+Peru,PER,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,29.5966835,,,2
+Peru,PER,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,30.14810181,,,2
+Philippines,PHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,48.78687668,,,2
+Philippines,PHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,50.4368515,,,2
+Philippines,PHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,50.14805984,,,2
+Philippines,PHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,50.49208069,,,2
+Philippines,PHL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,51.1785965,,,2
+Poland,POL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,20.09078407,,,2
+Poland,POL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,20.42033195,,,2
+Poland,POL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,22.73643494,,,2
+Poland,POL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,22.74558067,,,2
+Poland,POL,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,23.03758621,,,2
+Portugal,PRT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,30.60724258,,,2
+Portugal,PRT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,29.91732025,,,2
+Portugal,PRT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,29.68834496,,,2
+Portugal,PRT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,29.43173981,,,2
+Portugal,PRT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,29.53496742,,,2
+Puerto Rico (US),PRI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Puerto Rico (US),PRI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Puerto Rico (US),PRI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Puerto Rico (US),PRI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Puerto Rico (US),PRI,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Qatar,QAT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,6.3903017,,,2
+Qatar,QAT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,6.73806286,,,2
+Qatar,QAT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,6.88137674,,,2
+Qatar,QAT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,6.27973223,,,2
+Qatar,QAT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,5.31610537,,,2
+Romania,ROU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,18.87716484,,,2
+Romania,ROU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,19.45757103,,,2
+Romania,ROU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,20.48815536,,,2
+Romania,ROU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,20.75498581,,,2
+Romania,ROU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,21.28186798,,,2
+Russian Federation,RUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,36.57374573,,,2
+Russian Federation,RUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,38.31166458,,,2
+Russian Federation,RUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,40.49308395,,,2
+Russian Federation,RUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,40.48464966,,,2
+Russian Federation,RUS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,38.6463356,,,2
+Rwanda,RWA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,10.07819271,,,2
+Rwanda,RWA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,11.50553894,,,2
+Rwanda,RWA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,14.04872417,,,2
+Rwanda,RWA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,13.24364662,,,2
+Rwanda,RWA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,12.1820488,,,2
+Samoa,WSM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,11.15737247,,,2
+Samoa,WSM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,12.97913265,,,2
+Samoa,WSM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,12.01373577,,,2
+Samoa,WSM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,11.29334545,,,2
+Samoa,WSM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,10.58728504,,,2
+San Marino,SMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,11.22083473,,,2
+San Marino,SMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,11.11235237,,,2
+San Marino,SMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,12.38630009,,,2
+San Marino,SMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,12.36561584,,,2
+San Marino,SMR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,13.6021862,,,2
+Sao Tome and Principe,STP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,16.99124527,,,2
+Sao Tome and Principe,STP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,15.81694221,,,2
+Sao Tome and Principe,STP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,14.75731373,,,2
+Sao Tome and Principe,STP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,13.91362,,,2
+Sao Tome and Principe,STP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,16.01808739,,,2
+Saudi Arabia,SAU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,11.40407372,,,2
+Saudi Arabia,SAU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,15.89835358,,,2
+Saudi Arabia,SAU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,14.3235302,,,2
+Saudi Arabia,SAU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,14.45141888,,,2
+Saudi Arabia,SAU,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,14.38336658,,,2
+Senegal,SEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,48.74660873,,,2
+Senegal,SEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,48.3353653,,,2
+Senegal,SEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,48.89573669,,,2
+Senegal,SEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,51.14096832,,,2
+Senegal,SEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,50.83868027,,,2
+Serbia,SRB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,37.03455734,,,2
+Serbia,SRB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,38.31092453,,,2
+Serbia,SRB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,40.63934708,,,2
+Serbia,SRB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,40.4536705,,,2
+Serbia,SRB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,40.58773422,,,2
+Seychelles,SYC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,26.27492523,,,2
+Seychelles,SYC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,26.20684624,,,2
+Seychelles,SYC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,24.59942627,,,2
+Seychelles,SYC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,25.30701828,,,2
+Seychelles,SYC,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,26.07247543,,,2
+Sierra Leone,SLE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,52.88983917,,,2
+Sierra Leone,SLE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,60.98888779,,,2
+Sierra Leone,SLE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,54.49611282,,,2
+Sierra Leone,SLE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,43.70614624,,,2
+Sierra Leone,SLE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,35.59750748,,,2
+Singapore,SGP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,28.39058113,,,2
+Singapore,SGP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,29.09645271,,,2
+Singapore,SGP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,32.06229782,,,2
+Singapore,SGP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,32.62351227,,,2
+Singapore,SGP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,33.08611679,,,2
+Sint Maarten (Dutch part),SXM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Sint Maarten (Dutch part),SXM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Sint Maarten (Dutch part),SXM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Sint Maarten (Dutch part),SXM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Sint Maarten (Dutch part),SXM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Slovak Republic,SVK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,19.15936279,,,2
+Slovak Republic,SVK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,18.90781784,,,2
+Slovak Republic,SVK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,18.71241951,,,2
+Slovak Republic,SVK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,17.88862991,,,2
+Slovak Republic,SVK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,18.443573,,,2
+Slovenia,SVN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,11.66123962,,,2
+Slovenia,SVN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,11.98157787,,,2
+Slovenia,SVN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,12.32243347,,,2
+Slovenia,SVN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,11.98103619,,,2
+Slovenia,SVN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,12.49877739,,,2
+Solomon Islands,SLB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,3.58858848,,,2
+Solomon Islands,SLB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,3.61343431,,,2
+Solomon Islands,SLB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,3.14581633,,,2
+Solomon Islands,SLB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,2.98277402,,,2
+Solomon Islands,SLB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,3.08802843,,,2
+"Somalia, Fed. Rep.",SOM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,44.99186707,,,2
+"Somalia, Fed. Rep.",SOM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,43.20332718,,,2
+"Somalia, Fed. Rep.",SOM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,39.6850853,,,2
+"Somalia, Fed. Rep.",SOM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,44.98737717,,,2
+"Somalia, Fed. Rep.",SOM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,37.5217247,,,2
+South Africa,ZAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,5.74111795,,,2
+South Africa,ZAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,5.84666348,,,2
+South Africa,ZAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,5.83464384,,,2
+South Africa,ZAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,5.78551435,,,2
+South Africa,ZAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,5.73639154,,,2
+South Sudan,SSD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,42.19261169,,,2
+South Sudan,SSD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,25.70042992,,,2
+South Sudan,SSD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,19.19281387,,,2
+South Sudan,SSD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+South Sudan,SSD,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Spain,ESP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,23.84757805,,,2
+Spain,ESP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,24.14520836,,,2
+Spain,ESP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,24.08994675,,,2
+Spain,ESP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,21.95563507,,,2
+Spain,ESP,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,23.8731041,,,2
+Sri Lanka,LKA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,44.29746628,,,2
+Sri Lanka,LKA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,46.81987,,,2
+Sri Lanka,LKA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,49.25233078,,,2
+Sri Lanka,LKA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,50.1216011,,,2
+Sri Lanka,LKA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,48.93215179,,,2
+St. Kitts and Nevis,KNA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,46.35456467,,,2
+St. Kitts and Nevis,KNA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,49.36806107,,,2
+St. Kitts and Nevis,KNA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,53.36548233,,,2
+St. Kitts and Nevis,KNA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,54.89627075,,,2
+St. Kitts and Nevis,KNA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,57.07152939,,,2
+St. Lucia,LCA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,41.82805252,,,2
+St. Lucia,LCA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,45.09705353,,,2
+St. Lucia,LCA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,46.11647415,,,2
+St. Lucia,LCA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,45.42465591,,,2
+St. Lucia,LCA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,48.07224655,,,2
+St. Martin (French part),MAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+St. Martin (French part),MAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+St. Martin (French part),MAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+St. Martin (French part),MAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+St. Martin (French part),MAF,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+St. Vincent and the Grenadines,VCT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,28.08990097,,,2
+St. Vincent and the Grenadines,VCT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,30.61053658,,,2
+St. Vincent and the Grenadines,VCT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,31.84617996,,,2
+St. Vincent and the Grenadines,VCT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,32.95585251,,,2
+St. Vincent and the Grenadines,VCT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,33.55331802,,,2
+Sudan,SDN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,67.50370789,,,2
+Sudan,SDN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,66.95339966,,,2
+Sudan,SDN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,72.54642487,,,2
+Sudan,SDN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,71.1858902,,,2
+Sudan,SDN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,79.40106964,,,2
+Suriname,SUR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,15.50723457,,,2
+Suriname,SUR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,18.67416573,,,2
+Suriname,SUR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,26.37959099,,,2
+Suriname,SUR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,21.82023811,,,2
+Suriname,SUR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,21.99853134,,,2
+Sweden,SWE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,13.9244051,,,2
+Sweden,SWE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,14.21954441,,,2
+Sweden,SWE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,14.23645401,,,2
+Sweden,SWE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,14.63337803,,,2
+Sweden,SWE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,15.03159618,,,2
+Switzerland,CHE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,21.8964119,,,2
+Switzerland,CHE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,21.94914818,,,2
+Switzerland,CHE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,21.55899429,,,2
+Switzerland,CHE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,21.27206993,,,2
+Switzerland,CHE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,22.04629517,,,2
+Syrian Arab Republic,SYR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,41.6618576,,,2
+Syrian Arab Republic,SYR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,43.07528687,,,2
+Syrian Arab Republic,SYR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,43.80283356,,,2
+Syrian Arab Republic,SYR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,45.03229904,,,2
+Syrian Arab Republic,SYR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,44.63256073,,,2
+Tajikistan,TJK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,71.2230072,,,2
+Tajikistan,TJK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,68.41996002,,,2
+Tajikistan,TJK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,63.15241241,,,2
+Tajikistan,TJK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,66.00267029,,,2
+Tajikistan,TJK,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,62.57888794,,,2
+Tanzania,TZA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,21.82167053,,,2
+Tanzania,TZA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,20.79366684,,,2
+Tanzania,TZA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,21.26472855,,,2
+Tanzania,TZA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,21.89363289,,,2
+Tanzania,TZA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,25.82907295,,,2
+Thailand,THA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,8.66960335,,,2
+Thailand,THA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,10.11109638,,,2
+Thailand,THA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,11.83790398,,,2
+Thailand,THA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,10.8130331,,,2
+Thailand,THA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,11.91061687,,,2
+Timor-Leste,TLS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,10.48759174,,,2
+Timor-Leste,TLS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,10.1566391,,,2
+Timor-Leste,TLS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,8.34491539,,,2
+Timor-Leste,TLS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,7.90464401,,,2
+Timor-Leste,TLS,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,7.35929489,,,2
+Togo,TGO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,66.20977783,,,2
+Togo,TGO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,64.66403961,,,2
+Togo,TGO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,61.4656601,,,2
+Togo,TGO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,63.4018898,,,2
+Togo,TGO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,66.96256256,,,2
+Tonga,TON,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,6.24760962,,,2
+Tonga,TON,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,6.09108639,,,2
+Tonga,TON,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,6.28506422,,,2
+Tonga,TON,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,6.88891935,,,2
+Tonga,TON,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,7.91038179,,,2
+Trinidad and Tobago,TTO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,46.91285706,,,2
+Trinidad and Tobago,TTO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,44.8896904,,,2
+Trinidad and Tobago,TTO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,40.80586243,,,2
+Trinidad and Tobago,TTO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,43.11694717,,,2
+Trinidad and Tobago,TTO,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,41.30602264,,,2
+Tunisia,TUN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,35.57650757,,,2
+Tunisia,TUN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,41.91517639,,,2
+Tunisia,TUN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,40.51967239,,,2
+Tunisia,TUN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,39.75572586,,,2
+Tunisia,TUN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,39.67178345,,,2
+Turkiye,TUR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,17.04763412,,,2
+Turkiye,TUR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,17.49141884,,,2
+Turkiye,TUR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,17.38420105,,,2
+Turkiye,TUR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,16.46614456,,,2
+Turkiye,TUR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,16.94873238,,,2
+Turkmenistan,TKM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,76.63578796,,,2
+Turkmenistan,TKM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,76.62548828,,,2
+Turkmenistan,TKM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,73.06459045,,,2
+Turkmenistan,TKM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,76.15638733,,,2
+Turkmenistan,TKM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,71.07138062,,,2
+Turks and Caicos Islands,TCA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Turks and Caicos Islands,TCA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Turks and Caicos Islands,TCA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Turks and Caicos Islands,TCA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Turks and Caicos Islands,TCA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Tuvalu,TUV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,0.35770288,,,2
+Tuvalu,TUV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,0.47566032,,,2
+Tuvalu,TUV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,0.58954042,,,2
+Tuvalu,TUV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,0.71104491,,,2
+Tuvalu,TUV,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,3.33649516,,,2
+Uganda,UGA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,38.26028442,,,2
+Uganda,UGA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,35.62893295,,,2
+Uganda,UGA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,38.08950424,,,2
+Uganda,UGA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,40.60963821,,,2
+Uganda,UGA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,39.4708519,,,2
+Ukraine,UKR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,51.11891937,,,2
+Ukraine,UKR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,50.65900421,,,2
+Ukraine,UKR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,49.17758942,,,2
+Ukraine,UKR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,48.35792542,,,2
+Ukraine,UKR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,48.23913574,,,2
+United Arab Emirates,ARE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,12.23162079,,,2
+United Arab Emirates,ARE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,12.69611263,,,2
+United Arab Emirates,ARE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,11.41661835,,,2
+United Arab Emirates,ARE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,15.99159431,,,2
+United Arab Emirates,ARE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,17.78964996,,,2
+United Kingdom,GBR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,16.03681946,,,2
+United Kingdom,GBR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,16.17838669,,,2
+United Kingdom,GBR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,15.82855606,,,2
+United Kingdom,GBR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,15.67987061,,,2
+United Kingdom,GBR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,15.86555099,,,2
+United States,USA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,11.30872917,,,2
+United States,USA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,11.32081032,,,2
+United States,USA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,11.34881878,,,2
+United States,USA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,11.62600517,,,2
+United States,USA,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,11.75374031,,,2
+Uruguay,URY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,15.46145821,,,2
+Uruguay,URY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,16.24662781,,,2
+Uruguay,URY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,16.49806786,,,2
+Uruguay,URY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,16.43923569,,,2
+Uruguay,URY,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,16.92112732,,,2
+Uzbekistan,UZB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,57.68497086,,,2
+Uzbekistan,UZB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,60.34236145,,,2
+Uzbekistan,UZB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,56.68790817,,,2
+Uzbekistan,UZB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,54.65854645,,,2
+Uzbekistan,UZB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,48.41368866,,,2
+Vanuatu,VUT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,7.65779018,,,2
+Vanuatu,VUT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,8.26295662,,,2
+Vanuatu,VUT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,10.36509609,,,2
+Vanuatu,VUT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,10.50645065,,,2
+Vanuatu,VUT,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,7.63868713,,,2
+"Venezuela, RB",VEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,34.12151718,,,2
+"Venezuela, RB",VEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,36.90224457,,,2
+"Venezuela, RB",VEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+"Venezuela, RB",VEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+"Venezuela, RB",VEN,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+Viet Nam,VNM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,45.11730576,,,2
+Viet Nam,VNM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,44.58100891,,,2
+Viet Nam,VNM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,42.58786774,,,2
+Viet Nam,VNM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,41.35647964,,,2
+Viet Nam,VNM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,42.13227844,,,2
+Virgin Islands (U.S.),VIR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,,,,2
+Virgin Islands (U.S.),VIR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,,,,2
+Virgin Islands (U.S.),VIR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,,,,2
+Virgin Islands (U.S.),VIR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,,,,2
+Virgin Islands (U.S.),VIR,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,,,,2
+West Bank and Gaza,PSE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,38.69657516,,,2
+West Bank and Gaza,PSE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,39.49508286,,,2
+West Bank and Gaza,PSE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,41.73205948,,,2
+West Bank and Gaza,PSE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,42.70000076,,,2
+West Bank and Gaza,PSE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,44.79999924,,,2
+"Yemen, Rep.",YEM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,75.34994507,,,2
+"Yemen, Rep.",YEM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,81.86520386,,,2
+"Yemen, Rep.",YEM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,87.90393829,,,2
+"Yemen, Rep.",YEM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,83.7115097,,,2
+"Yemen, Rep.",YEM,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,86.86334229,,,2
+Zambia,ZMB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,7.25238276,,,2
+Zambia,ZMB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,10.27590275,,,2
+Zambia,ZMB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,10.65581131,,,2
+Zambia,ZMB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,12.13953686,,,2
+Zambia,ZMB,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,12.25534916,,,2
+Zimbabwe,ZWE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,9.08337116,,,2
+Zimbabwe,ZWE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,8.79635429,,,2
+Zimbabwe,ZWE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,10.54844856,,,2
+Zimbabwe,ZWE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,24.64910698,,,2
+Zimbabwe,ZWE,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,25.78641701,,,2

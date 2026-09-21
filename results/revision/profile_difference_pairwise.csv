@@ -1,0 +1,7 @@
+profile_a,profile_b,n_a,n_b,mannwhitney_u,p_raw,p_holm
+adaptive over-performers,capacity under-realizers,20,23,445.0,1.7613159843909357e-07,1.0567895906345614e-06
+adaptive over-performers,effective converters,20,20,230.0,0.42488347368209856,0.42488347368209856
+adaptive over-performers,structurally vulnerable systems,20,16,320.0,3.818334157281001e-07,1.9091670786405006e-06
+capacity under-realizers,effective converters,23,20,25.0,6.377540262674133e-07,1.91326207880224e-06
+capacity under-realizers,structurally vulnerable systems,23,16,241.0,0.10670352203187865,0.2134070440637573
+effective converters,structurally vulnerable systems,20,16,320.0,3.818334157281001e-07,1.9091670786405006e-06

@@ -1,0 +1,5 @@
+audit_item,model,features,n,coverage_count,missing_count,missing_rate,leakage_terms_found,no_leakage_detected,rmse_mean,rmse_std,spearman_predicted_observed,r2_cv,status
+random_forest_repeated_kfold_cv,random_forest,"capacity_score,preparedness_score,vulnerability_score,equity_access_score",108,108,85,0.44041450777202074,,True,1846.482451298782,43.98258810670756,0.49763258928996734,0.3607759432568013,sensitivity_only
+ridge_repeated_kfold_cv,ridge,"capacity_score,preparedness_score,vulnerability_score,equity_access_score",108,108,85,0.44041450777202074,,True,2181.6123297907307,32.41841660813687,0.28160278944811223,0.08548819938200769,benchmark
+linear_repeated_kfold_cv,linear,"capacity_score,preparedness_score,vulnerability_score,equity_access_score",108,108,85,0.44041450777202074,,True,2197.2605051710875,40.453604171336835,0.2742480970209685,0.07495972831623499,benchmark
+random_forest_shuffled_outcome_negative_control,random_forest,"capacity_score,preparedness_score,vulnerability_score,equity_access_score",108,108,85,0.44041450777202074,,True,2420.7837139145763,76.25526030834368,0.049291682147722615,-0.11047241022979937,negative_control

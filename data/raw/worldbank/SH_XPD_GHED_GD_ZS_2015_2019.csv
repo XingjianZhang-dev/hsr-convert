@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,unit,obs_status,decimal
+Africa Eastern and Southern,AFE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.73567553327344,,,2
+Africa Eastern and Southern,AFE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.72570294751678,,,2
+Africa Eastern and Southern,AFE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.73600482718679,,,2
+Africa Eastern and Southern,AFE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.74208699626195,,,2
+Africa Eastern and Southern,AFE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.67971494433485,,,2
+Africa Western and Central,AFW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.727961933468943,,,2
+Africa Western and Central,AFW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.744825549457975,,,2
+Africa Western and Central,AFW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.799872170682834,,,2
+Africa Western and Central,AFW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.721870677963045,,,2
+Africa Western and Central,AFW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.742713444156151,,,2
+Arab World,ARB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.98920936020837,,,2
+Arab World,ARB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.87434969852607,,,2
+Arab World,ARB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.02917433728892,,,2
+Arab World,ARB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.19936978488205,,,2
+Arab World,ARB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.92121280266174,,,2
+Caribbean small states,CSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.12846083224018,,,2
+Caribbean small states,CSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.04664944955266,,,2
+Caribbean small states,CSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.18823645585149,,,2
+Caribbean small states,CSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.9666537154103,,,2
+Caribbean small states,CSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.72801288064866,,,2
+Central Europe and the Baltics,CEB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.92949090371287,,,2
+Central Europe and the Baltics,CEB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.84462607103849,,,2
+Central Europe and the Baltics,CEB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.79420150992586,,,2
+Central Europe and the Baltics,CEB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.84279954952239,,,2
+Central Europe and the Baltics,CEB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.74639044448249,,,2
+Early-demographic dividend,EAR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.3950126809791,,,2
+Early-demographic dividend,EAR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.40263243194349,,,2
+Early-demographic dividend,EAR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.57248592396523,,,2
+Early-demographic dividend,EAR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.57262313633117,,,2
+Early-demographic dividend,EAR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.62227283248535,,,2
+East Asia & Pacific,EAS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.39710644752593,,,2
+East Asia & Pacific,EAS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.28702430300929,,,2
+East Asia & Pacific,EAS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.32810720221199,,,2
+East Asia & Pacific,EAS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.42368855240226,,,2
+East Asia & Pacific,EAS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.3975048716571,,,2
+East Asia & Pacific (excluding high income),EAP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.75797713633133,,,2
+East Asia & Pacific (excluding high income),EAP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.68847968952713,,,2
+East Asia & Pacific (excluding high income),EAP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.63977396263717,,,2
+East Asia & Pacific (excluding high income),EAP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.65626385317282,,,2
+East Asia & Pacific (excluding high income),EAP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.71937206788167,,,2
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.75810061246918,,,2
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.68859221599921,,,2
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.63987430130426,,,2
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.6563716059768,,,2
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.71945509597062,,,2
+Euro area,EMU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,7.50911018763469,,,2
+Euro area,EMU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,7.47931336529117,,,2
+Euro area,EMU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,7.48374418008559,,,2
+Euro area,EMU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,7.50062007896236,,,2
+Euro area,EMU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,7.43873846950823,,,2
+Europe & Central Asia,ECS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,6.78617026563052,,,2
+Europe & Central Asia,ECS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,6.73658364361958,,,2
+Europe & Central Asia,ECS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,6.70310054471772,,,2
+Europe & Central Asia,ECS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,6.78738647646713,,,2
+Europe & Central Asia,ECS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,6.71011006194233,,,2
+Europe & Central Asia (excluding high income),ECA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.05442301004123,,,2
+Europe & Central Asia (excluding high income),ECA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.9596863645521,,,2
+Europe & Central Asia (excluding high income),ECA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.01325592850273,,,2
+Europe & Central Asia (excluding high income),ECA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.14344309814822,,,2
+Europe & Central Asia (excluding high income),ECA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.00450715117322,,,2
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.57989433823694,,,2
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.41040999304787,,,2
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.34123621860691,,,2
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.37417014187668,,,2
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.32338783734423,,,2
+European Union,EUU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,7.36464259927353,,,2
+European Union,EUU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,7.34555818420429,,,2
+European Union,EUU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,7.35438286624817,,,2
+European Union,EUU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,7.38341943709818,,,2
+European Union,EUU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,7.32196504488988,,,2
+Fragile and conflict affected situations,FCS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.32765957910711,,,2
+Fragile and conflict affected situations,FCS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.46425341499119,,,2
+Fragile and conflict affected situations,FCS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.41285920711366,,,2
+Fragile and conflict affected situations,FCS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.48156972440706,,,2
+Fragile and conflict affected situations,FCS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.20080221597419,,,2
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.45949548671407,,,2
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.40236054370305,,,2
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.45714912283285,,,2
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.39474871704197,,,2
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.32750792524279,,,2
+High income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,7.59495115625242,,,2
+High income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,7.46698752890974,,,2
+High income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,7.48645904848968,,,2
+High income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,7.55693889641935,,,2
+High income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,7.45224288817859,,,2
+IBRD only,IBD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.9167644396291,,,2
+IBRD only,IBD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.87067304106065,,,2
+IBRD only,IBD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.90494437610592,,,2
+IBRD only,IBD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.9127228114774,,,2
+IBRD only,IBD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.94795417268514,,,2
+IDA & IBRD total,IBT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.76549304205499,,,2
+IDA & IBRD total,IBT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.73744945029599,,,2
+IDA & IBRD total,IBT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.7698847554868,,,2
+IDA & IBRD total,IBT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.76823455258647,,,2
+IDA & IBRD total,IBT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.80035915009198,,,2
+IDA blend,IDB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.873295768664816,,,2
+IDA blend,IDB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.938971094993483,,,2
+IDA blend,IDB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.963045826030544,,,2
+IDA blend,IDB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.899481802022659,,,2
+IDA blend,IDB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.926745525524617,,,2
+IDA only,IDX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.09820847799793,,,2
+IDA only,IDX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.10886113839436,,,2
+IDA only,IDX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.12658828421099,,,2
+IDA only,IDX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.11669341452159,,,2
+IDA only,IDX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.126982918833,,,2
+IDA total,IDA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.983861665368771,,,2
+IDA total,IDA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.02910507020023,,,2
+IDA total,IDA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.04938991414999,,,2
+IDA total,IDA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.01157247164495,,,2
+IDA total,IDA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.02381529963789,,,2
+Late-demographic dividend,LTE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.19730359095862,,,2
+Late-demographic dividend,LTE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.11164579609345,,,2
+Late-demographic dividend,LTE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.09977966886726,,,2
+Late-demographic dividend,LTE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.12372644945523,,,2
+Late-demographic dividend,LTE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.14418113417358,,,2
+Latin America & Caribbean,LCN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.98906401541648,,,2
+Latin America & Caribbean,LCN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.98143232858005,,,2
+Latin America & Caribbean,LCN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.18525021180424,,,2
+Latin America & Caribbean,LCN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.16026874758183,,,2
+Latin America & Caribbean,LCN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.15448122583262,,,2
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.94854203777633,,,2
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.95415692187533,,,2
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.13287260155174,,,2
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.12606327728749,,,2
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.14191318896093,,,2
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.87565374184723,,,2
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.87582608894441,,,2
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.07747890878242,,,2
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.03487119479532,,,2
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.02805888038931,,,2
+Least developed countries: UN classification,LDC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.833800723297618,,,2
+Least developed countries: UN classification,LDC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.884983516187419,,,2
+Least developed countries: UN classification,LDC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.924348353701321,,,2
+Least developed countries: UN classification,LDC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.89923224691156,,,2
+Least developed countries: UN classification,LDC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.90376078498283,,,2
+Low & middle income,LMY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.66949957178213,,,2
+Low & middle income,LMY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.65422346958244,,,2
+Low & middle income,LMY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.69930947256468,,,2
+Low & middle income,LMY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.70944255792392,,,2
+Low & middle income,LMY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.74530694645952,,,2
+Low income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.074528490693,,,2
+Low income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.06633077852915,,,2
+Low income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.06997242522851,,,2
+Low income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.092118042479,,,2
+Low income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.957780066115158,,,2
+Lower middle income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.22302267099752,,,2
+Lower middle income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.21199182141697,,,2
+Lower middle income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.22619948367346,,,2
+Lower middle income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.20162561709117,,,2
+Lower middle income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.21050648619665,,,2
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.997813932332,,,2
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.92458446969139,,,2
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.17080324846726,,,2
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.24758375534188,,,2
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.04581684791401,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.1810616011495,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.2919224379306,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.6221385559008,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.62121863571005,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.46185279075302,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.1669293514577,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.2870441164928,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.61721050236399,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.62087330472222,,,2
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.45665638211302,,,2
+Middle income,MIC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.68546112089047,,,2
+Middle income,MIC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.67133281596934,,,2
+Middle income,MIC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.71714304572428,,,2
+Middle income,MIC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.72824933294332,,,2
+Middle income,MIC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.76869242708519,,,2
+North America,NAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,8.52794622730294,,,2
+North America,NAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,8.45034812152076,,,2
+North America,NAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,8.45827200127045,,,2
+North America,NAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,8.49523260792436,,,2
+North America,NAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,8.36770756818577,,,2
+Not classified,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Not classified,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Not classified,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Not classified,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Not classified,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+OECD members,OED,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,7.73977210135021,,,2
+OECD members,OED,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,7.62440618395528,,,2
+OECD members,OED,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,7.62003932456964,,,2
+OECD members,OED,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,7.66229555604186,,,2
+OECD members,OED,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,7.56384618105305,,,2
+Other small states,OSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.52123612868958,,,2
+Other small states,OSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.28660950564146,,,2
+Other small states,OSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.24390441134724,,,2
+Other small states,OSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.2691208452193,,,2
+Other small states,OSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.12217529788597,,,2
+Pacific island small states,PSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.30388329361075,,,2
+Pacific island small states,PSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.0697583241876,,,2
+Pacific island small states,PSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.80308462936439,,,2
+Pacific island small states,PSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.81888620031453,,,2
+Pacific island small states,PSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.79106992550312,,,2
+Post-demographic dividend,PST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,8.00233950146909,,,2
+Post-demographic dividend,PST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,7.88326751895198,,,2
+Post-demographic dividend,PST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,7.88780473576598,,,2
+Post-demographic dividend,PST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,7.92802197478171,,,2
+Post-demographic dividend,PST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,7.84229840171131,,,2
+Pre-demographic dividend,PRE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.01766732696222,,,2
+Pre-demographic dividend,PRE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.0785471043735,,,2
+Pre-demographic dividend,PRE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.05956777510845,,,2
+Pre-demographic dividend,PRE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.14244410623161,,,2
+Pre-demographic dividend,PRE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.861242928729823,,,2
+Small states,SST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.09094171735636,,,2
+Small states,SST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.8994784045878,,,2
+Small states,SST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.87891445041226,,,2
+Small states,SST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.8120088209034,,,2
+Small states,SST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.60779481094837,,,2
+South Asia,SAS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.993098826266166,,,2
+South Asia,SAS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.960459603887033,,,2
+South Asia,SAS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.945938208075561,,,2
+South Asia,SAS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.927335126039132,,,2
+South Asia,SAS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.9138106781052,,,2
+South Asia (IDA & IBRD),TSA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.993098826266165,,,2
+South Asia (IDA & IBRD),TSA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.960459603887033,,,2
+South Asia (IDA & IBRD),TSA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.945938208075561,,,2
+South Asia (IDA & IBRD),TSA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.927335126039132,,,2
+South Asia (IDA & IBRD),TSA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.9138106781052,,,2
+Sub-Saharan Africa,SSF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.72415986929233,,,2
+Sub-Saharan Africa,SSF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.86627670525744,,,2
+Sub-Saharan Africa,SSF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.92934964523646,,,2
+Sub-Saharan Africa,SSF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.81506366441835,,,2
+Sub-Saharan Africa,SSF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.77872780417535,,,2
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.76979786673395,,,2
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.91859393806417,,,2
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.97930444563868,,,2
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.85655644830687,,,2
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.80892300930113,,,2
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.72415986929233,,,2
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.86627670525744,,,2
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.92934964523646,,,2
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.81506366441835,,,2
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.77872780417535,,,2
+Upper middle income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.08364658225749,,,2
+Upper middle income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.04421840750237,,,2
+Upper middle income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.10789931244661,,,2
+Upper middle income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.13268082195331,,,2
+Upper middle income,,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.1672413620098,,,2
+World,WLD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,5.84225239496599,,,2
+World,WLD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,5.77548678566234,,,2
+World,WLD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,5.81031260618513,,,2
+World,WLD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,5.90360902229176,,,2
+World,WLD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,5.83862790793937,,,2
+Afghanistan,AFG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.49705607,,,2
+Afghanistan,AFG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.55239552,,,2
+Afghanistan,AFG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.64313394,,,2
+Afghanistan,AFG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.60012972,,,2
+Afghanistan,AFG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.52267277,,,2
+Albania,ALB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.89433575,,,2
+Albania,ALB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.84073949,,,2
+Albania,ALB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.74185801,,,2
+Albania,ALB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.84762025,,,2
+Albania,ALB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.67593837,,,2
+Algeria,DZA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.27598047,,,2
+Algeria,DZA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.84471345,,,2
+Algeria,DZA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.84453487,,,2
+Algeria,DZA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.94321752,,,2
+Algeria,DZA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.33925533,,,2
+American Samoa,ASM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+American Samoa,ASM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+American Samoa,ASM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+American Samoa,ASM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+American Samoa,ASM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Andorra,AND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,5.22278023,,,2
+Andorra,AND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,5.21907949,,,2
+Andorra,AND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,5.08694077,,,2
+Andorra,AND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,5.00518513,,,2
+Andorra,AND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.97208548,,,2
+Angola,AGO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.00303984,,,2
+Angola,AGO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.97981894,,,2
+Angola,AGO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.12824702,,,2
+Angola,AGO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.05520773,,,2
+Angola,AGO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.08924341,,,2
+Antigua and Barbuda,ATG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.49952674,,,2
+Antigua and Barbuda,ATG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.81542587,,,2
+Antigua and Barbuda,ATG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.61894512,,,2
+Antigua and Barbuda,ATG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.75887132,,,2
+Antigua and Barbuda,ATG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.93535352,,,2
+Argentina,ARG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,6.2193737,,,2
+Argentina,ARG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,6.11101341,,,2
+Argentina,ARG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,6.68290806,,,2
+Argentina,ARG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,6.5777607,,,2
+Argentina,ARG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,6.80309105,,,2
+Armenia,ARM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.41167367,,,2
+Armenia,ARM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.23468125,,,2
+Armenia,ARM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.37250984,,,2
+Armenia,ARM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.63735199,,,2
+Armenia,ARM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.61020839,,,2
+Aruba,ABW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Aruba,ABW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Aruba,ABW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Aruba,ABW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Aruba,ABW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Australia,AUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,7.53765869,,,2
+Australia,AUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,7.19087696,,,2
+Australia,AUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,7.23039198,,,2
+Australia,AUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,7.20443821,,,2
+Australia,AUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,7.2235322,,,2
+Austria,AUT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,7.88670015,,,2
+Austria,AUT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,7.75579357,,,2
+Austria,AUT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,7.71547127,,,2
+Austria,AUT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,7.54772329,,,2
+Austria,AUT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,7.5736208,,,2
+Azerbaijan,AZE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.06925082,,,2
+Azerbaijan,AZE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.88865483,,,2
+Azerbaijan,AZE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.00444698,,,2
+Azerbaijan,AZE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.16546094,,,2
+Azerbaijan,AZE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.30528009,,,2
+"Bahamas, The",BHS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.87397003,,,2
+"Bahamas, The",BHS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.79429245,,,2
+"Bahamas, The",BHS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.57633185,,,2
+"Bahamas, The",BHS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.71795917,,,2
+"Bahamas, The",BHS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.32609415,,,2
+Bahrain,BHR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.20524931,,,2
+Bahrain,BHR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.31990647,,,2
+Bahrain,BHR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.44733834,,,2
+Bahrain,BHR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.8373127,,,2
+Bahrain,BHR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.08921409,,,2
+Bangladesh,BGD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.36105901,,,2
+Bangladesh,BGD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.48568422,,,2
+Bangladesh,BGD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.50250494,,,2
+Bangladesh,BGD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.4755646,,,2
+Bangladesh,BGD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.38844827,,,2
+Barbados,BRB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.54682422,,,2
+Barbados,BRB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.65220022,,,2
+Barbados,BRB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.7041471,,,2
+Barbados,BRB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.85200191,,,2
+Barbados,BRB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.84907889,,,2
+Belarus,BLR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.12526941,,,2
+Belarus,BLR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.9000001,,,2
+Belarus,BLR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.98054695,,,2
+Belarus,BLR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.19298792,,,2
+Belarus,BLR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.68674207,,,2
+Belgium,BEL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,8.08414745,,,2
+Belgium,BEL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,8.32855988,,,2
+Belgium,BEL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,8.3176775,,,2
+Belgium,BEL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,8.31613922,,,2
+Belgium,BEL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,8.26822186,,,2
+Belize,BLZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.31428432,,,2
+Belize,BLZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.27672195,,,2
+Belize,BLZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.2159059,,,2
+Belize,BLZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.35043669,,,2
+Belize,BLZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.17137766,,,2
+Benin,BEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.45625761,,,2
+Benin,BEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.66673458,,,2
+Benin,BEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.70637327,,,2
+Benin,BEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.71389222,,,2
+Benin,BEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.59082586,,,2
+Bermuda,BMU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Bermuda,BMU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Bermuda,BMU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Bermuda,BMU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Bermuda,BMU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Bhutan,BTN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.4829967,,,2
+Bhutan,BTN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.44134831,,,2
+Bhutan,BTN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.31912565,,,2
+Bhutan,BTN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.42386007,,,2
+Bhutan,BTN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.55167842,,,2
+Bolivia,BOL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.89661789,,,2
+Bolivia,BOL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.79799795,,,2
+Bolivia,BOL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.44758177,,,2
+Bolivia,BOL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.4294467,,,2
+Bolivia,BOL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.30645275,,,2
+Bosnia and Herzegovina,BIH,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,6.13385725,,,2
+Bosnia and Herzegovina,BIH,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,6.1210475,,,2
+Bosnia and Herzegovina,BIH,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,6.18360281,,,2
+Bosnia and Herzegovina,BIH,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,6.47960949,,,2
+Bosnia and Herzegovina,BIH,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,6.39630365,,,2
+Botswana,BWA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.37294102,,,2
+Botswana,BWA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.14253378,,,2
+Botswana,BWA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,5.01613283,,,2
+Botswana,BWA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.83726597,,,2
+Botswana,BWA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.13518047,,,2
+Brazil,BRA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.91702151,,,2
+Brazil,BRA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.88924217,,,2
+Brazil,BRA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.95315194,,,2
+Brazil,BRA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.94799495,,,2
+Brazil,BRA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.85396719,,,2
+British Virgin Islands,VGB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+British Virgin Islands,VGB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+British Virgin Islands,VGB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+British Virgin Islands,VGB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+British Virgin Islands,VGB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Brunei Darussalam,BRN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.10503411,,,2
+Brunei Darussalam,BRN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.29566693,,,2
+Brunei Darussalam,BRN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.14737701,,,2
+Brunei Darussalam,BRN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.42138696,,,2
+Brunei Darussalam,BRN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.26836538,,,2
+Bulgaria,BGR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.2107811,,,2
+Bulgaria,BGR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.23101759,,,2
+Bulgaria,BGR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.11801386,,,2
+Bulgaria,BGR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.11281013,,,2
+Bulgaria,BGR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.13284254,,,2
+Burkina Faso,BFA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.23602796,,,2
+Burkina Faso,BFA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.12523532,,,2
+Burkina Faso,BFA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.6879499,,,2
+Burkina Faso,BFA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.38693118,,,2
+Burkina Faso,BFA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.45618761,,,2
+Burundi,BDI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.27763605,,,2
+Burundi,BDI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.0575192,,,2
+Burundi,BDI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.01362443,,,2
+Burundi,BDI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.23587942,,,2
+Burundi,BDI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.4195447,,,2
+Cabo Verde,CPV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.24034405,,,2
+Cabo Verde,CPV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.10238695,,,2
+Cabo Verde,CPV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.55316591,,,2
+Cabo Verde,CPV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.76934814,,,2
+Cabo Verde,CPV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.89664817,,,2
+Cambodia,KHM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.22948682,,,2
+Cambodia,KHM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.20929301,,,2
+Cambodia,KHM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.1320188,,,2
+Cambodia,KHM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.04308498,,,2
+Cambodia,KHM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.00400126,,,2
+Cameroon,CMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.40687224,,,2
+Cameroon,CMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.35133773,,,2
+Cameroon,CMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.14120807,,,2
+Cameroon,CMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.36593068,,,2
+Cameroon,CMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.36383638,,,2
+Canada,CAN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,7.68264532,,,2
+Canada,CAN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,7.604599,,,2
+Canada,CAN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,7.60926294,,,2
+Canada,CAN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,7.72722769,,,2
+Canada,CAN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,7.63076639,,,2
+Cayman Islands,CYM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Cayman Islands,CYM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Cayman Islands,CYM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Cayman Islands,CYM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Cayman Islands,CYM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Central African Republic,CAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.81889474,,,2
+Central African Republic,CAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.68853283,,,2
+Central African Republic,CAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.72881997,,,2
+Central African Republic,CAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.59953427,,,2
+Central African Republic,CAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.45585203,,,2
+Chad,TCD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.51349735,,,2
+Chad,TCD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.46814004,,,2
+Chad,TCD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.52580875,,,2
+Chad,TCD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.64428413,,,2
+Chad,TCD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.72352397,,,2
+Channel Islands,CHI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Channel Islands,CHI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Channel Islands,CHI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Channel Islands,CHI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Channel Islands,CHI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Chile,CHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.77255917,,,2
+Chile,CHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.68868828,,,2
+Chile,CHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.58157396,,,2
+Chile,CHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.24912882,,,2
+Chile,CHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.01006603,,,2
+China,CHN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.94739079,,,2
+China,CHN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.85993624,,,2
+China,CHN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.81638408,,,2
+China,CHN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.83731437,,,2
+China,CHN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.92099118,,,2
+Colombia,COL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,5.47731161,,,2
+Colombia,COL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,5.38843489,,,2
+Colombia,COL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,5.4549818,,,2
+Colombia,COL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,5.29663372,,,2
+Colombia,COL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,5.32889223,,,2
+Comoros,COM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.83244753,,,2
+Comoros,COM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.76553828,,,2
+Comoros,COM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.67584765,,,2
+Comoros,COM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.57399994,,,2
+Comoros,COM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.46612623,,,2
+"Congo, Dem. Rep.",COD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.55490303,,,2
+"Congo, Dem. Rep.",COD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.48873118,,,2
+"Congo, Dem. Rep.",COD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.39801776,,,2
+"Congo, Dem. Rep.",COD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.53029794,,,2
+"Congo, Dem. Rep.",COD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.62508768,,,2
+"Congo, Rep.",COG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.02925241,,,2
+"Congo, Rep.",COG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.62025368,,,2
+"Congo, Rep.",COG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.90735477,,,2
+"Congo, Rep.",COG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.11958003,,,2
+"Congo, Rep.",COG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.11883152,,,2
+Costa Rica,CRI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,5.23799706,,,2
+Costa Rica,CRI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,5.27453423,,,2
+Costa Rica,CRI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,5.1788969,,,2
+Costa Rica,CRI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,5.36528826,,,2
+Costa Rica,CRI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,5.51982594,,,2
+Cote d'Ivoire,CIV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.96328849,,,2
+Cote d'Ivoire,CIV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.89862597,,,2
+Cote d'Ivoire,CIV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.93267012,,,2
+Cote d'Ivoire,CIV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.85302079,,,2
+Cote d'Ivoire,CIV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.80445331,,,2
+Croatia,HRV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,5.53433323,,,2
+Croatia,HRV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,5.53542042,,,2
+Croatia,HRV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,5.49144459,,,2
+Croatia,HRV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,5.54387617,,,2
+Croatia,HRV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,5.5316987,,,2
+Cuba,CUB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,9.86760807,,,2
+Cuba,CUB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,9.77753925,,,2
+Cuba,CUB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,10.2355442,,,2
+Cuba,CUB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,10.94796658,,,2
+Cuba,CUB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,11.57499027,,,2
+Curacao,CUW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Curacao,CUW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Curacao,CUW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Curacao,CUW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Curacao,CUW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Cyprus,CYP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.79063916,,,2
+Cyprus,CYP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.85127211,,,2
+Cyprus,CYP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.74640369,,,2
+Cyprus,CYP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.79585361,,,2
+Cyprus,CYP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.85704303,,,2
+Czechia,CZE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,6.33127356,,,2
+Czechia,CZE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,6.24047327,,,2
+Czechia,CZE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,6.12094069,,,2
+Czechia,CZE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,6.18802738,,,2
+Czechia,CZE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,6.15198898,,,2
+Denmark,DNK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,8.52554512,,,2
+Denmark,DNK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,8.49359703,,,2
+Denmark,DNK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,8.49121284,,,2
+Denmark,DNK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,8.65580463,,,2
+Denmark,DNK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,8.74188137,,,2
+Djibouti,DJI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.28569102,,,2
+Djibouti,DJI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.33991563,,,2
+Djibouti,DJI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.1462568,,,2
+Djibouti,DJI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.32919765,,,2
+Djibouti,DJI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.70769882,,,2
+Dominica,DMA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.33201027,,,2
+Dominica,DMA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.10668468,,,2
+Dominica,DMA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.76958227,,,2
+Dominica,DMA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.33051729,,,2
+Dominica,DMA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.25268769,,,2
+Dominican Republic,DOM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.66453695,,,2
+Dominican Republic,DOM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.57885528,,,2
+Dominican Republic,DOM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.60838318,,,2
+Dominican Republic,DOM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.6700182,,,2
+Dominican Republic,DOM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.37458324,,,2
+Ecuador,ECU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.91185951,,,2
+Ecuador,ECU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.99487257,,,2
+Ecuador,ECU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.63966084,,,2
+Ecuador,ECU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.62448025,,,2
+Ecuador,ECU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.49897623,,,2
+"Egypt, Arab Rep.",EGY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.29722774,,,2
+"Egypt, Arab Rep.",EGY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.35182929,,,2
+"Egypt, Arab Rep.",EGY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.65595341,,,2
+"Egypt, Arab Rep.",EGY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.56636381,,,2
+"Egypt, Arab Rep.",EGY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.58139753,,,2
+El Salvador,SLV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.71487188,,,2
+El Salvador,SLV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.54387665,,,2
+El Salvador,SLV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.58291912,,,2
+El Salvador,SLV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.84736443,,,2
+El Salvador,SLV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.80888462,,,2
+Equatorial Guinea,GNQ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.8050639,,,2
+Equatorial Guinea,GNQ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.81501949,,,2
+Equatorial Guinea,GNQ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.78999829,,,2
+Equatorial Guinea,GNQ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.86530524,,,2
+Equatorial Guinea,GNQ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.7432819,,,2
+Eritrea,ERI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.74166143,,,2
+Eritrea,ERI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.62541473,,,2
+Eritrea,ERI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.00827622,,,2
+Eritrea,ERI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.7340641,,,2
+Eritrea,ERI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.73755044,,,2
+Estonia,EST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.94378757,,,2
+Estonia,EST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.82979679,,,2
+Estonia,EST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.75225782,,,2
+Estonia,EST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.88813353,,,2
+Estonia,EST,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.85387135,,,2
+Eswatini,SWZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.40824461,,,2
+Eswatini,SWZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.39840841,,,2
+Eswatini,SWZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.54254961,,,2
+Eswatini,SWZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.84598303,,,2
+Eswatini,SWZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.94745016,,,2
+Ethiopia,ETH,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.73088509,,,2
+Ethiopia,ETH,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.76642609,,,2
+Ethiopia,ETH,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.8612687,,,2
+Ethiopia,ETH,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.90002954,,,2
+Ethiopia,ETH,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.96540898,,,2
+Faroe Islands,FRO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Faroe Islands,FRO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Faroe Islands,FRO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Faroe Islands,FRO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Faroe Islands,FRO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Fiji,FJI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.64242482,,,2
+Fiji,FJI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.4660871,,,2
+Fiji,FJI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.11070943,,,2
+Fiji,FJI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.09586525,,,2
+Fiji,FJI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.09847856,,,2
+Finland,FIN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,7.39612961,,,2
+Finland,FIN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,7.1532836,,,2
+Finland,FIN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,7.17050409,,,2
+Finland,FIN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,7.3601203,,,2
+Finland,FIN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,7.6206398,,,2
+France,FRA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,8.33091736,,,2
+France,FRA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,8.49900723,,,2
+France,FRA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,8.6154108,,,2
+France,FRA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,8.61056232,,,2
+France,FRA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,8.23389816,,,2
+French Polynesia,PYF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+French Polynesia,PYF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+French Polynesia,PYF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+French Polynesia,PYF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+French Polynesia,PYF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Gabon,GAB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.66963005,,,2
+Gabon,GAB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.61284041,,,2
+Gabon,GAB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.75976336,,,2
+Gabon,GAB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.01055074,,,2
+Gabon,GAB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.56549394,,,2
+"Gambia, The",GMB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.28750503,,,2
+"Gambia, The",GMB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.04798186,,,2
+"Gambia, The",GMB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.06097889,,,2
+"Gambia, The",GMB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.2897681,,,2
+"Gambia, The",GMB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.99829203,,,2
+Georgia,GEO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.69142175,,,2
+Georgia,GEO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.75906873,,,2
+Georgia,GEO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.58998537,,,2
+Georgia,GEO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.87254119,,,2
+Georgia,GEO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.59349322,,,2
+Germany,DEU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,8.89676571,,,2
+Germany,DEU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,8.7105999,,,2
+Germany,DEU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,8.63574028,,,2
+Germany,DEU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,8.53130817,,,2
+Germany,DEU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,8.45390797,,,2
+Ghana,GHA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.9720608,,,2
+Ghana,GHA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.37083328,,,2
+Ghana,GHA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.63058531,,,2
+Ghana,GHA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.3003906,,,2
+Ghana,GHA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.5937829,,,2
+Gibraltar,GIB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Gibraltar,GIB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Gibraltar,GIB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Gibraltar,GIB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Gibraltar,GIB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Greece,GRC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.95904088,,,2
+Greece,GRC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.17521954,,,2
+Greece,GRC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.29561758,,,2
+Greece,GRC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.43071413,,,2
+Greece,GRC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.7674284,,,2
+Greenland,GRL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Greenland,GRL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Greenland,GRL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Greenland,GRL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Greenland,GRL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Grenada,GRD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.04134059,,,2
+Grenada,GRD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.86524379,,,2
+Grenada,GRD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.88796365,,,2
+Grenada,GRD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.76571214,,,2
+Grenada,GRD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.93493712,,,2
+Guam,GUM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Guam,GUM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Guam,GUM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Guam,GUM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Guam,GUM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Guatemala,GTM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.37253165,,,2
+Guatemala,GTM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.19892383,,,2
+Guatemala,GTM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.1993053,,,2
+Guatemala,GTM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.28762269,,,2
+Guatemala,GTM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.27820134,,,2
+Guinea,GIN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.92095226,,,2
+Guinea,GIN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.61740124,,,2
+Guinea,GIN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.60066199,,,2
+Guinea,GIN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.66374409,,,2
+Guinea,GIN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.42931107,,,2
+Guinea-Bissau,GNB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.45877996,,,2
+Guinea-Bissau,GNB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.50527376,,,2
+Guinea-Bissau,GNB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.49838862,,,2
+Guinea-Bissau,GNB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.48464295,,,2
+Guinea-Bissau,GNB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.53779858,,,2
+Guyana,GUY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.90384364,,,2
+Guyana,GUY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.95149112,,,2
+Guyana,GUY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.79179382,,,2
+Guyana,GUY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.5319159,,,2
+Guyana,GUY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.35677791,,,2
+Haiti,HTI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.40745705,,,2
+Haiti,HTI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.52653241,,,2
+Haiti,HTI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.46510881,,,2
+Haiti,HTI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.52977306,,,2
+Haiti,HTI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.56089777,,,2
+Honduras,HND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.89673924,,,2
+Honduras,HND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.84892344,,,2
+Honduras,HND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.85400987,,,2
+Honduras,HND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.09310865,,,2
+Honduras,HND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.94796515,,,2
+"Hong Kong SAR, China",HKG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+"Hong Kong SAR, China",HKG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+"Hong Kong SAR, China",HKG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+"Hong Kong SAR, China",HKG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+"Hong Kong SAR, China",HKG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Hungary,HUN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.26813841,,,2
+Hungary,HUN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.53718567,,,2
+Hungary,HUN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.60974598,,,2
+Hungary,HUN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.71779013,,,2
+Hungary,HUN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.6434226,,,2
+Iceland,ISL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,7.16506433,,,2
+Iceland,ISL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,6.9620142,,,2
+Iceland,ISL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,6.82592249,,,2
+Iceland,ISL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,6.65842867,,,2
+Iceland,ISL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,6.58261681,,,2
+India,IND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.03550148,,,2
+India,IND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.98024821,,,2
+India,IND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.96734685,,,2
+India,IND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.94049966,,,2
+India,IND,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.92193186,,,2
+Indonesia,IDN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.39791656,,,2
+Indonesia,IDN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.395854,,,2
+Indonesia,IDN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.34984481,,,2
+Indonesia,IDN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.37558317,,,2
+Indonesia,IDN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.15799773,,,2
+"Iran, Islamic Rep.",IRN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.74998093,,,2
+"Iran, Islamic Rep.",IRN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.1700592,,,2
+"Iran, Islamic Rep.",IRN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.1947484,,,2
+"Iran, Islamic Rep.",IRN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.12576914,,,2
+"Iran, Islamic Rep.",IRN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.21780825,,,2
+Iraq,IRQ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.07680917,,,2
+Iraq,IRQ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.001724,,,2
+Iraq,IRQ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.69484437,,,2
+Iraq,IRQ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.53573442,,,2
+Iraq,IRQ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.73074299,,,2
+Ireland,IRL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.8862195,,,2
+Ireland,IRL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.96560764,,,2
+Ireland,IRL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,5.019907,,,2
+Ireland,IRL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,5.29494858,,,2
+Ireland,IRL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,5.08183002,,,2
+Isle of Man,IMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Isle of Man,IMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Isle of Man,IMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Isle of Man,IMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Isle of Man,IMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Israel,ISR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.67124081,,,2
+Israel,ISR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.67882729,,,2
+Israel,ISR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.58158922,,,2
+Israel,ISR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.49493361,,,2
+Israel,ISR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.45243502,,,2
+Italy,ITA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,6.31018782,,,2
+Italy,ITA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,6.34945059,,,2
+Italy,ITA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,6.37222385,,,2
+Italy,ITA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,6.44775581,,,2
+Italy,ITA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,6.54743338,,,2
+Jamaica,JAM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.97861576,,,2
+Jamaica,JAM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.88880324,,,2
+Jamaica,JAM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.06524467,,,2
+Jamaica,JAM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.62554812,,,2
+Jamaica,JAM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.55884409,,,2
+Japan,JPN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,9.2108326,,,2
+Japan,JPN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,8.99690151,,,2
+Japan,JPN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,8.97414494,,,2
+Japan,JPN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,8.95745564,,,2
+Japan,JPN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,9.03866768,,,2
+Jordan,JOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.03746152,,,2
+Jordan,JOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.00017619,,,2
+Jordan,JOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.18527389,,,2
+Jordan,JOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.1935668,,,2
+Jordan,JOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.99459696,,,2
+Kazakhstan,KAZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.72108889,,,2
+Kazakhstan,KAZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.76464748,,,2
+Kazakhstan,KAZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.89267063,,,2
+Kazakhstan,KAZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.04025173,,,2
+Kazakhstan,KAZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.91990697,,,2
+Kenya,KEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.00870633,,,2
+Kenya,KEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.7670722,,,2
+Kenya,KEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.71156442,,,2
+Kenya,KEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.03529072,,,2
+Kenya,KEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.92388499,,,2
+Kiribati,KIR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,9.23076916,,,2
+Kiribati,KIR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,8.78594208,,,2
+Kiribati,KIR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,8.31615162,,,2
+Kiribati,KIR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,7.69784164,,,2
+Kiribati,KIR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,6.08627462,,,2
+"Korea, Dem. People's Rep.",PRK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+"Korea, Dem. People's Rep.",PRK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+"Korea, Dem. People's Rep.",PRK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+"Korea, Dem. People's Rep.",PRK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+"Korea, Dem. People's Rep.",PRK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+"Korea, Rep.",KOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.43231916,,,2
+"Korea, Rep.",KOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.03568125,,,2
+"Korea, Rep.",KOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.78743124,,,2
+"Korea, Rep.",KOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.65121055,,,2
+"Korea, Rep.",KOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.50807333,,,2
+Kosovo,XKX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Kosovo,XKX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Kosovo,XKX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Kosovo,XKX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Kosovo,XKX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Kuwait,KWT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.56783867,,,2
+Kuwait,KWT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.56324148,,,2
+Kuwait,KWT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.98828077,,,2
+Kuwait,KWT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.03627825,,,2
+Kuwait,KWT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.57679915,,,2
+Kyrgyz Republic,KGZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.18779993,,,2
+Kyrgyz Republic,KGZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.42471886,,,2
+Kyrgyz Republic,KGZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.34767461,,,2
+Kyrgyz Republic,KGZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.49723411,,,2
+Kyrgyz Republic,KGZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.71162796,,,2
+Lao PDR,LAO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.96142328,,,2
+Lao PDR,LAO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.86922747,,,2
+Lao PDR,LAO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.88887793,,,2
+Lao PDR,LAO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.76494843,,,2
+Lao PDR,LAO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.86391306,,,2
+Latvia,LVA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.10785341,,,2
+Latvia,LVA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.82692361,,,2
+Latvia,LVA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.53695512,,,2
+Latvia,LVA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.54719949,,,2
+Latvia,LVA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.43240261,,,2
+Lebanon,LBN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.28126144,,,2
+Lebanon,LBN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.77159619,,,2
+Lebanon,LBN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.67671943,,,2
+Lebanon,LBN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.72473431,,,2
+Lebanon,LBN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.37505221,,,2
+Lesotho,LSO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,6.75437784,,,2
+Lesotho,LSO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,5.5954361,,,2
+Lesotho,LSO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,6.03923559,,,2
+Lesotho,LSO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,5.59334755,,,2
+Lesotho,LSO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,5.62011147,,,2
+Liberia,LBR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.3562839,,,2
+Liberia,LBR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.68725502,,,2
+Liberia,LBR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.38745701,,,2
+Liberia,LBR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.39315951,,,2
+Liberia,LBR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.20420825,,,2
+Libya,LBY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.95533991,,,2
+Libya,LBY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.48153329,,,2
+Libya,LBY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.09533191,,,2
+Libya,LBY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.16492653,,,2
+Libya,LBY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.02187729,,,2
+Liechtenstein,LIE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.76001668,,,2
+Liechtenstein,LIE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.53447771,,,2
+Liechtenstein,LIE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.58753037,,,2
+Liechtenstein,LIE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.79975724,,,2
+Liechtenstein,LIE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.77818871,,,2
+Lithuania,LTU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.52023697,,,2
+Lithuania,LTU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.26898956,,,2
+Lithuania,LTU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.21894503,,,2
+Lithuania,LTU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.37240982,,,2
+Lithuania,LTU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.2784977,,,2
+Luxembourg,LUX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.69412756,,,2
+Luxembourg,LUX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.47836113,,,2
+Luxembourg,LUX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.35383892,,,2
+Luxembourg,LUX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.28179646,,,2
+Luxembourg,LUX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.29385996,,,2
+"Macao SAR, China",MAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+"Macao SAR, China",MAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+"Macao SAR, China",MAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+"Macao SAR, China",MAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+"Macao SAR, China",MAC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Madagascar,MDG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.68268955,,,2
+Madagascar,MDG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.49675477,,,2
+Madagascar,MDG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.24615121,,,2
+Madagascar,MDG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.37194586,,,2
+Madagascar,MDG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.99010992,,,2
+Malawi,MWI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.53329957,,,2
+Malawi,MWI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.68875861,,,2
+Malawi,MWI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.71919668,,,2
+Malawi,MWI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.91101837,,,2
+Malawi,MWI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.89914215,,,2
+Malaysia,MYS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.00959897,,,2
+Malaysia,MYS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.92697287,,,2
+Malaysia,MYS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.92218649,,,2
+Malaysia,MYS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.88870478,,,2
+Malaysia,MYS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.03347373,,,2
+Maldives,MDV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,5.87739515,,,2
+Maldives,MDV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,5.63719177,,,2
+Maldives,MDV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,6.51826191,,,2
+Maldives,MDV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,7.37399292,,,2
+Maldives,MDV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,6.23556709,,,2
+Mali,MLI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.1192745,,,2
+Mali,MLI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.15118647,,,2
+Mali,MLI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.17751467,,,2
+Mali,MLI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.20876825,,,2
+Mali,MLI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.91927379,,,2
+Malta,MLT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,5.55893612,,,2
+Malta,MLT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,5.1497612,,,2
+Malta,MLT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,5.22904444,,,2
+Malta,MLT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,5.48300409,,,2
+Malta,MLT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,5.29361916,,,2
+Marshall Islands,MHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,6.66548347,,,2
+Marshall Islands,MHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,6.50871277,,,2
+Marshall Islands,MHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.88437748,,,2
+Marshall Islands,MHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,6.47250175,,,2
+Marshall Islands,MHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,6.02202177,,,2
+Mauritania,MRT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.10124004,,,2
+Mauritania,MRT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.91096455,,,2
+Mauritania,MRT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.23123157,,,2
+Mauritania,MRT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.19934916,,,2
+Mauritania,MRT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.41883922,,,2
+Mauritius,MUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.50442028,,,2
+Mauritius,MUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.48200822,,,2
+Mauritius,MUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.47479272,,,2
+Mauritius,MUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.44510746,,,2
+Mauritius,MUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.31317115,,,2
+Mexico,MEX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.60652828,,,2
+Mexico,MEX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.59963799,,,2
+Mexico,MEX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.68433452,,,2
+Mexico,MEX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.76140785,,,2
+Mexico,MEX,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.88534904,,,2
+"Micronesia, Fed. Sts.",FSM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.74894965,,,2
+"Micronesia, Fed. Sts.",FSM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.40767145,,,2
+"Micronesia, Fed. Sts.",FSM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.53164423,,,2
+"Micronesia, Fed. Sts.",FSM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.00609899,,,2
+"Micronesia, Fed. Sts.",FSM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.89359462,,,2
+Moldova,MDA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.87679625,,,2
+Moldova,MDA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.79154086,,,2
+Moldova,MDA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.60770988,,,2
+Moldova,MDA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.7185328,,,2
+Moldova,MDA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.87085724,,,2
+Monaco,MCO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.3414309,,,2
+Monaco,MCO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.51253462,,,2
+Monaco,MCO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.61485219,,,2
+Monaco,MCO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.57075405,,,2
+Monaco,MCO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.48859453,,,2
+Mongolia,MNG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.11976218,,,2
+Mongolia,MNG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.09529591,,,2
+Mongolia,MNG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.2598424,,,2
+Mongolia,MNG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.56394386,,,2
+Mongolia,MNG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.4089644,,,2
+Montenegro,MNE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,5.06746101,,,2
+Montenegro,MNE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.96868992,,,2
+Montenegro,MNE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.58153057,,,2
+Montenegro,MNE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,5.18993425,,,2
+Montenegro,MNE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,5.39562225,,,2
+Morocco,MAR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.02342105,,,2
+Morocco,MAR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.9875257,,,2
+Morocco,MAR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.98112547,,,2
+Morocco,MAR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.00518847,,,2
+Morocco,MAR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.98215687,,,2
+Mozambique,MOZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.8260498,,,2
+Mozambique,MOZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.7863487,,,2
+Mozambique,MOZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.73677838,,,2
+Mozambique,MOZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.7231313,,,2
+Mozambique,MOZ,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.78662503,,,2
+Myanmar,MMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.60877246,,,2
+Myanmar,MMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.67250752,,,2
+Myanmar,MMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.6941902,,,2
+Myanmar,MMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.66600835,,,2
+Myanmar,MMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.1429708,,,2
+Namibia,NAM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,5.26885462,,,2
+Namibia,NAM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,5.16180658,,,2
+Namibia,NAM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,5.34107399,,,2
+Namibia,NAM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,5.76428509,,,2
+Namibia,NAM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,5.39398766,,,2
+Nauru,NRU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,10.3461647,,,2
+Nauru,NRU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,9.77889729,,,2
+Nauru,NRU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,8.42948341,,,2
+Nauru,NRU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,9.87076759,,,2
+Nauru,NRU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,8.4357338,,,2
+Nepal,NPL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.10283434,,,2
+Nepal,NPL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.06721246,,,2
+Nepal,NPL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.06542635,,,2
+Nepal,NPL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.00771654,,,2
+Nepal,NPL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.90927744,,,2
+Netherlands,NLD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,6.55726242,,,2
+Netherlands,NLD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,6.47488213,,,2
+Netherlands,NLD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,6.39186192,,,2
+Netherlands,NLD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,6.5336895,,,2
+Netherlands,NLD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,6.72993183,,,2
+New Caledonia,NCL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+New Caledonia,NCL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+New Caledonia,NCL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+New Caledonia,NCL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+New Caledonia,NCL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+New Zealand,NZL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,6.2196641,,,2
+New Zealand,NZL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,6.23302364,,,2
+New Zealand,NZL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,6.40669823,,,2
+New Zealand,NZL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,6.4102993,,,2
+New Zealand,NZL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,6.57789135,,,2
+Nicaragua,NIC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,5.2335391,,,2
+Nicaragua,NIC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,5.17776585,,,2
+Nicaragua,NIC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.85718918,,,2
+Nicaragua,NIC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.65122414,,,2
+Nicaragua,NIC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.46586037,,,2
+Niger,NER,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.02236509,,,2
+Niger,NER,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.76657593,,,2
+Niger,NER,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.88514483,,,2
+Niger,NER,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.10086405,,,2
+Niger,NER,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.11163116,,,2
+Nigeria,NGA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.46980387,,,2
+Nigeria,NGA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.49754828,,,2
+Nigeria,NGA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.53266305,,,2
+Nigeria,NGA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.47496933,,,2
+Nigeria,NGA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.58907843,,,2
+North Macedonia,MKD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.25745583,,,2
+North Macedonia,MKD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.75730491,,,2
+North Macedonia,MKD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.75674939,,,2
+North Macedonia,MKD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.0607338,,,2
+North Macedonia,MKD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.11930132,,,2
+Northern Mariana Islands,MNP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Northern Mariana Islands,MNP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Northern Mariana Islands,MNP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Northern Mariana Islands,MNP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Northern Mariana Islands,MNP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Norway,NOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,8.94719028,,,2
+Norway,NOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,8.53639317,,,2
+Norway,NOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,8.70770454,,,2
+Norway,NOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,8.99088097,,,2
+Norway,NOR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,8.61125374,,,2
+Oman,OMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.33252549,,,2
+Oman,OMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.77846813,,,2
+Oman,OMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.5271337,,,2
+Oman,OMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.75263762,,,2
+Oman,OMN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.6793406,,,2
+Pakistan,PAK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.94332874,,,2
+Pakistan,PAK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.93618691,,,2
+Pakistan,PAK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.91277653,,,2
+Pakistan,PAK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.70141035,,,2
+Pakistan,PAK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.686643,,,2
+Palau,PLW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,7.04400301,,,2
+Palau,PLW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,6.05926895,,,2
+Palau,PLW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,5.65769434,,,2
+Palau,PLW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,5.23204374,,,2
+Palau,PLW,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.94348574,,,2
+Panama,PAN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.61607218,,,2
+Panama,PAN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.40903568,,,2
+Panama,PAN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.41374683,,,2
+Panama,PAN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.33149529,,,2
+Panama,PAN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.21543312,,,2
+Papua New Guinea,PNG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.3562634,,,2
+Papua New Guinea,PNG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.61519086,,,2
+Papua New Guinea,PNG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.68148077,,,2
+Papua New Guinea,PNG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.67796266,,,2
+Papua New Guinea,PNG,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.37782788,,,2
+Paraguay,PRY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.31885815,,,2
+Paraguay,PRY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.02979112,,,2
+Paraguay,PRY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.02672791,,,2
+Paraguay,PRY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.14797997,,,2
+Paraguay,PRY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.1565783,,,2
+Peru,PER,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.24168658,,,2
+Peru,PER,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.15358686,,,2
+Peru,PER,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.01707554,,,2
+Peru,PER,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.04029965,,,2
+Peru,PER,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.00291657,,,2
+Philippines,PHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.69175851,,,2
+Philippines,PHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.53632784,,,2
+Philippines,PHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.48271859,,,2
+Philippines,PHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.47373402,,,2
+Philippines,PHL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.46860588,,,2
+Poland,POL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.56083679,,,2
+Poland,POL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.44357109,,,2
+Poland,POL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.4990406,,,2
+Poland,POL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.49414158,,,2
+Poland,POL,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.41299105,,,2
+Portugal,PRT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,5.77892017,,,2
+Portugal,PRT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,5.76187086,,,2
+Portugal,PRT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,5.70213747,,,2
+Portugal,PRT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,5.78788328,,,2
+Portugal,PRT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,5.75569677,,,2
+Puerto Rico (US),PRI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Puerto Rico (US),PRI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Puerto Rico (US),PRI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Puerto Rico (US),PRI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Puerto Rico (US),PRI,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Qatar,QAT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.72214365,,,2
+Qatar,QAT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.50761104,,,2
+Qatar,QAT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.71251249,,,2
+Qatar,QAT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.04590583,,,2
+Qatar,QAT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.19502282,,,2
+Romania,ROU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.56736565,,,2
+Romania,ROU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.39458323,,,2
+Romania,ROU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.07767963,,,2
+Romania,ROU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.97179151,,,2
+Romania,ROU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.85264945,,,2
+Russian Federation,RUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.45416045,,,2
+Russian Federation,RUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.18402362,,,2
+Russian Federation,RUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.05932951,,,2
+Russian Federation,RUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.0124886,,,2
+Russian Federation,RUS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.10976052,,,2
+Rwanda,RWA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.76991165,,,2
+Rwanda,RWA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.64325416,,,2
+Rwanda,RWA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.56328964,,,2
+Rwanda,RWA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.5660044,,,2
+Rwanda,RWA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.10472178,,,2
+Samoa,WSM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.32336426,,,2
+Samoa,WSM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.69644928,,,2
+Samoa,WSM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.92468739,,,2
+Samoa,WSM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.81041527,,,2
+Samoa,WSM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.20412493,,,2
+San Marino,SMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,7.23374033,,,2
+San Marino,SMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,7.35798597,,,2
+San Marino,SMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,7.23664856,,,2
+San Marino,SMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,7.38052702,,,2
+San Marino,SMR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,7.28606033,,,2
+Sao Tome and Principe,STP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.23238039,,,2
+Sao Tome and Principe,STP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.62429023,,,2
+Sao Tome and Principe,STP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.43653798,,,2
+Sao Tome and Principe,STP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.06470799,,,2
+Sao Tome and Principe,STP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.0531044,,,2
+Saudi Arabia,SAU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.03419542,,,2
+Saudi Arabia,SAU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.75438356,,,2
+Saudi Arabia,SAU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.33328104,,,2
+Saudi Arabia,SAU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.34350872,,,2
+Saudi Arabia,SAU,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.01395369,,,2
+Senegal,SEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.05768847,,,2
+Senegal,SEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.11893904,,,2
+Senegal,SEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.01061249,,,2
+Senegal,SEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.06801915,,,2
+Senegal,SEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.07820702,,,2
+Serbia,SRB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.83578539,,,2
+Serbia,SRB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.85909271,,,2
+Serbia,SRB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.5406208,,,2
+Serbia,SRB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.69370461,,,2
+Serbia,SRB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.88180637,,,2
+Seychelles,SYC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.04219794,,,2
+Seychelles,SYC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.1646049,,,2
+Seychelles,SYC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.2699151,,,2
+Seychelles,SYC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.25931096,,,2
+Seychelles,SYC,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.1209166,,,2
+Sierra Leone,SLE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.77659142,,,2
+Sierra Leone,SLE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.49137551,,,2
+Sierra Leone,SLE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.54366273,,,2
+Sierra Leone,SLE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.66393304,,,2
+Sierra Leone,SLE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.81068116,,,2
+Singapore,SGP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.2847712,,,2
+Singapore,SGP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.04126763,,,2
+Singapore,SGP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.10866928,,,2
+Singapore,SGP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.07529497,,,2
+Singapore,SGP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.96816146,,,2
+Sint Maarten (Dutch part),SXM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Sint Maarten (Dutch part),SXM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Sint Maarten (Dutch part),SXM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Sint Maarten (Dutch part),SXM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Sint Maarten (Dutch part),SXM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Slovak Republic,SVK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,5.44698572,,,2
+Slovak Republic,SVK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,5.25731754,,,2
+Slovak Republic,SVK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,5.32285929,,,2
+Slovak Republic,SVK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,5.6462183,,,2
+Slovak Republic,SVK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,5.30798721,,,2
+Slovenia,SVN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,6.19899702,,,2
+Slovenia,SVN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,6.04779768,,,2
+Slovenia,SVN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,5.9297328,,,2
+Slovenia,SVN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,6.19861412,,,2
+Slovenia,SVN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,6.12037754,,,2
+Solomon Islands,SLB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.25913024,,,2
+Solomon Islands,SLB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.96293306,,,2
+Solomon Islands,SLB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.09555912,,,2
+Solomon Islands,SLB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.15399909,,,2
+Solomon Islands,SLB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.06908107,,,2
+"Somalia, Fed. Rep.",SOM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.15007043,,,2
+"Somalia, Fed. Rep.",SOM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.13900605,,,2
+"Somalia, Fed. Rep.",SOM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.13631769,,,2
+"Somalia, Fed. Rep.",SOM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.10706647,,,2
+"Somalia, Fed. Rep.",SOM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.09905031,,,2
+South Africa,ZAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,4.80006361,,,2
+South Africa,ZAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.61023474,,,2
+South Africa,ZAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.56554031,,,2
+South Africa,ZAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,4.57297277,,,2
+South Africa,ZAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.59632444,,,2
+South Sudan,SSD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.99254191,,,2
+South Sudan,SSD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.18756998,,,2
+South Sudan,SSD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.86679733,,,2
+South Sudan,SSD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+South Sudan,SSD,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Spain,ESP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,6.39903307,,,2
+Spain,ESP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,6.27582741,,,2
+Spain,ESP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,6.26789188,,,2
+Spain,ESP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,6.35498238,,,2
+Spain,ESP,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,6.45323324,,,2
+Sri Lanka,LKA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.73423195,,,2
+Sri Lanka,LKA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.66403663,,,2
+Sri Lanka,LKA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.36585641,,,2
+Sri Lanka,LKA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.56008303,,,2
+Sri Lanka,LKA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.61882555,,,2
+St. Kitts and Nevis,KNA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.55811405,,,2
+St. Kitts and Nevis,KNA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.25112653,,,2
+St. Kitts and Nevis,KNA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.19368339,,,2
+St. Kitts and Nevis,KNA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.17921019,,,2
+St. Kitts and Nevis,KNA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.94096529,,,2
+St. Lucia,LCA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.07973409,,,2
+St. Lucia,LCA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.98067319,,,2
+St. Lucia,LCA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.03747821,,,2
+St. Lucia,LCA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.95973325,,,2
+St. Lucia,LCA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.99191558,,,2
+St. Martin (French part),MAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+St. Martin (French part),MAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+St. Martin (French part),MAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+St. Martin (French part),MAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+St. Martin (French part),MAF,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+St. Vincent and the Grenadines,VCT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.87263203,,,2
+St. Vincent and the Grenadines,VCT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.79988337,,,2
+St. Vincent and the Grenadines,VCT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.69260287,,,2
+St. Vincent and the Grenadines,VCT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.58707666,,,2
+St. Vincent and the Grenadines,VCT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.52658701,,,2
+Sudan,SDN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.03735721,,,2
+Sudan,SDN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.03874981,,,2
+Sudan,SDN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.06663251,,,2
+Sudan,SDN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.28979421,,,2
+Sudan,SDN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.82485694,,,2
+Suriname,SUR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,6.09356403,,,2
+Suriname,SUR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,4.47947168,,,2
+Suriname,SUR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.09932327,,,2
+Suriname,SUR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.71001315,,,2
+Suriname,SUR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.16422224,,,2
+Sweden,SWE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,9.28074455,,,2
+Sweden,SWE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,9.37008476,,,2
+Sweden,SWE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,9.2550211,,,2
+Sweden,SWE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,9.21271133,,,2
+Sweden,SWE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,9.16075993,,,2
+Switzerland,CHE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.82881737,,,2
+Switzerland,CHE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.75385094,,,2
+Switzerland,CHE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.8158226,,,2
+Switzerland,CHE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.763062,,,2
+Switzerland,CHE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.6722703,,,2
+Syrian Arab Republic,SYR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.97450435,,,2
+Syrian Arab Republic,SYR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.88352227,,,2
+Syrian Arab Republic,SYR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.91341209,,,2
+Syrian Arab Republic,SYR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.83358467,,,2
+Syrian Arab Republic,SYR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.76000929,,,2
+Tajikistan,TJK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.89777529,,,2
+Tajikistan,TJK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.89692557,,,2
+Tajikistan,TJK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.98792565,,,2
+Tajikistan,TJK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.98977911,,,2
+Tajikistan,TJK,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.04495692,,,2
+Tanzania,TZA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.6312809,,,2
+Tanzania,TZA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.62666011,,,2
+Tanzania,TZA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.55679071,,,2
+Tanzania,TZA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.61013722,,,2
+Tanzania,TZA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.25726104,,,2
+Thailand,THA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.71524906,,,2
+Thailand,THA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.74278641,,,2
+Thailand,THA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.7754643,,,2
+Thailand,THA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.85139871,,,2
+Thailand,THA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.74870157,,,2
+Timor-Leste,TLS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.87948847,,,2
+Timor-Leste,TLS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.95292592,,,2
+Timor-Leste,TLS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,4.49020767,,,2
+Timor-Leste,TLS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.44634151,,,2
+Timor-Leste,TLS,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,4.41761017,,,2
+Togo,TGO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.89146012,,,2
+Togo,TGO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.03169048,,,2
+Togo,TGO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.04958856,,,2
+Togo,TGO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.97535449,,,2
+Togo,TGO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.92438984,,,2
+Tonga,TON,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.99766731,,,2
+Tonga,TON,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.19946599,,,2
+Tonga,TON,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.90944481,,,2
+Tonga,TON,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.98697019,,,2
+Tonga,TON,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.76189899,,,2
+Trinidad and Tobago,TTO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.17576575,,,2
+Trinidad and Tobago,TTO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.22142673,,,2
+Trinidad and Tobago,TTO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.43325257,,,2
+Trinidad and Tobago,TTO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.24490404,,,2
+Trinidad and Tobago,TTO,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.90972495,,,2
+Tunisia,TUN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.56713367,,,2
+Tunisia,TUN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.09321761,,,2
+Tunisia,TUN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.32102466,,,2
+Tunisia,TUN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.40580177,,,2
+Tunisia,TUN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.34255123,,,2
+Turkiye,TUR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.38672566,,,2
+Turkiye,TUR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.18893552,,,2
+Turkiye,TUR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.24810481,,,2
+Turkiye,TUR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.36101246,,,2
+Turkiye,TUR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.21666884,,,2
+Turkmenistan,TKM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.00793219,,,2
+Turkmenistan,TKM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.98964322,,,2
+Turkmenistan,TKM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.27922606,,,2
+Turkmenistan,TKM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.038046,,,2
+Turkmenistan,TKM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.20134497,,,2
+Turks and Caicos Islands,TCA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Turks and Caicos Islands,TCA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Turks and Caicos Islands,TCA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Turks and Caicos Islands,TCA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Turks and Caicos Islands,TCA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Tuvalu,TUV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,17.16871262,,,2
+Tuvalu,TUV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,15.51837921,,,2
+Tuvalu,TUV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,19.17265701,,,2
+Tuvalu,TUV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,15.31349277,,,2
+Tuvalu,TUV,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,10.14206505,,,2
+Uganda,UGA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.57344079,,,2
+Uganda,UGA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.67459893,,,2
+Uganda,UGA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.63865817,,,2
+Uganda,UGA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.78636652,,,2
+Uganda,UGA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.75713688,,,2
+Ukraine,UKR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.17738771,,,2
+Ukraine,UKR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,3.50151348,,,2
+Ukraine,UKR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.51985121,,,2
+Ukraine,UKR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,3.64566922,,,2
+Ukraine,UKR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.68844223,,,2
+United Arab Emirates,ARE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.2531426,,,2
+United Arab Emirates,ARE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.1139648,,,2
+United Arab Emirates,ARE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.19714189,,,2
+United Arab Emirates,ARE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.97157669,,,2
+United Arab Emirates,ARE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.46962833,,,2
+United Kingdom,GBR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,7.95685244,,,2
+United Kingdom,GBR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,7.78175926,,,2
+United Kingdom,GBR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,7.73283911,,,2
+United Kingdom,GBR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,7.90904903,,,2
+United Kingdom,GBR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,7.90739918,,,2
+United States,USA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,8.59688473,,,2
+United States,USA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,8.5214138,,,2
+United States,USA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,8.53016281,,,2
+United States,USA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,8.55800343,,,2
+United States,USA,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,8.43071175,,,2
+Uruguay,URY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,6.1543541,,,2
+Uruguay,URY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,6.15175676,,,2
+Uruguay,URY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,6.0405345,,,2
+Uruguay,URY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,6.00605679,,,2
+Uruguay,URY,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,5.64815187,,,2
+Uzbekistan,UZB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.01079655,,,2
+Uzbekistan,UZB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.73769212,,,2
+Uzbekistan,UZB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.7881006,,,2
+Uzbekistan,UZB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.05541873,,,2
+Uzbekistan,UZB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.35756874,,,2
+Vanuatu,VUT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,1.90414143,,,2
+Vanuatu,VUT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.14049673,,,2
+Vanuatu,VUT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.47122371,,,2
+Vanuatu,VUT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.28941309,,,2
+Vanuatu,VUT,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.01937246,,,2
+"Venezuela, RB",VEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.81175309,,,2
+"Venezuela, RB",VEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.24563158,,,2
+"Venezuela, RB",VEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+"Venezuela, RB",VEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+"Venezuela, RB",VEN,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+Viet Nam,VNM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.02046871,,,2
+Viet Nam,VNM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.09256196,,,2
+Viet Nam,VNM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.17300439,,,2
+Viet Nam,VNM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.1333859,,,2
+Viet Nam,VNM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.05326915,,,2
+Virgin Islands (U.S.),VIR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,,,,2
+Virgin Islands (U.S.),VIR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,,,,2
+Virgin Islands (U.S.),VIR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,,,,2
+Virgin Islands (U.S.),VIR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,,,,2
+Virgin Islands (U.S.),VIR,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,,,,2
+West Bank and Gaza,PSE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,3.66190886,,,2
+West Bank and Gaza,PSE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.84986925,,,2
+West Bank and Gaza,PSE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,3.19112968,,,2
+West Bank and Gaza,PSE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,2.66232371,,,2
+West Bank and Gaza,PSE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,3.11889291,,,2
+"Yemen, Rep.",YEM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.91137344,,,2
+"Yemen, Rep.",YEM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,0.76913458,,,2
+"Yemen, Rep.",YEM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,0.30786535,,,2
+"Yemen, Rep.",YEM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,0.54064083,,,2
+"Yemen, Rep.",YEM,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,0.4330447,,,2
+Zambia,ZMB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,2.25830793,,,2
+Zambia,ZMB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,2.08801126,,,2
+Zambia,ZMB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,2.51039147,,,2
+Zambia,ZMB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.71430743,,,2
+Zambia,ZMB,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,2.0905416,,,2
+Zimbabwe,ZWE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2019,0.46115172,,,2
+Zimbabwe,ZWE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2018,1.59526527,,,2
+Zimbabwe,ZWE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2017,1.550982,,,2
+Zimbabwe,ZWE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2016,1.37225389,,,2
+Zimbabwe,ZWE,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),2015,1.55136275,,,2

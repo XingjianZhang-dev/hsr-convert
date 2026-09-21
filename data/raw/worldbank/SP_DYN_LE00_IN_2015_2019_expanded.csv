@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,variable
+Africa Eastern and Southern,AFE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,63.8572612837043,life_expectancy
+Africa Eastern and Southern,AFE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,63.3306913582336,life_expectancy
+Africa Eastern and Southern,AFE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,62.5912750961501,life_expectancy
+Africa Eastern and Southern,AFE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,62.1679813169199,life_expectancy
+Africa Eastern and Southern,AFE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,61.713030523495,life_expectancy
+Africa Western and Central,AFW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,57.149956341607,life_expectancy
+Africa Western and Central,AFW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,57.0371042874016,life_expectancy
+Africa Western and Central,AFW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,56.6266215613676,life_expectancy
+Africa Western and Central,AFW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,56.3925982370859,life_expectancy
+Africa Western and Central,AFW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,56.0385189224052,life_expectancy
+Arab World,ARB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.8398932674972,life_expectancy
+Arab World,ARB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.4312997859137,life_expectancy
+Arab World,ARB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.1128560080646,life_expectancy
+Arab World,ARB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,70.8964881164428,life_expectancy
+Arab World,ARB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.6580123695192,life_expectancy
+Caribbean small states,CSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.1292604830284,life_expectancy
+Caribbean small states,CSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,72.2210854022703,life_expectancy
+Caribbean small states,CSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,72.1731041595093,life_expectancy
+Caribbean small states,CSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,72.0516361154512,life_expectancy
+Caribbean small states,CSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,71.8641021665476,life_expectancy
+Central Europe and the Baltics,CEB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.2659141936307,life_expectancy
+Central Europe and the Baltics,CEB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.9764380835075,life_expectancy
+Central Europe and the Baltics,CEB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.929788715597,life_expectancy
+Central Europe and the Baltics,CEB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.9703062304413,life_expectancy
+Central Europe and the Baltics,CEB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.5755119772504,life_expectancy
+Early-demographic dividend,EAR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.8424064605001,life_expectancy
+Early-demographic dividend,EAR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,70.5486659921504,life_expectancy
+Early-demographic dividend,EAR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,70.2729949393554,life_expectancy
+Early-demographic dividend,EAR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,69.9484837084835,life_expectancy
+Early-demographic dividend,EAR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.6305484421664,life_expectancy
+East Asia & Pacific,EAS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.5862412994962,life_expectancy
+East Asia & Pacific,EAS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.3914229383171,life_expectancy
+East Asia & Pacific,EAS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.0789923585537,life_expectancy
+East Asia & Pacific,EAS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.9870166732102,life_expectancy
+East Asia & Pacific,EAS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.7926010192992,life_expectancy
+East Asia & Pacific (excluding high income),EAP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.7689690321509,life_expectancy
+East Asia & Pacific (excluding high income),EAP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.57828618156,life_expectancy
+East Asia & Pacific (excluding high income),EAP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.2396714880306,life_expectancy
+East Asia & Pacific (excluding high income),EAP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.1559117663434,life_expectancy
+East Asia & Pacific (excluding high income),EAP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.9511243848739,life_expectancy
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.8042877234534,life_expectancy
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.6101241544348,life_expectancy
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.2671640185859,life_expectancy
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.1832269955477,life_expectancy
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.9777768374826,life_expectancy
+Euro area,EMU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.2804211551829,life_expectancy
+Euro area,EMU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.0027602577719,life_expectancy
+Euro area,EMU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.8838037060629,life_expectancy
+Euro area,EMU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.907455420636,life_expectancy
+Euro area,EMU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.5192696796633,life_expectancy
+Europe & Central Asia,ECS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,78.3038716113385,life_expectancy
+Europe & Central Asia,ECS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,78.0318405978087,life_expectancy
+Europe & Central Asia,ECS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.8990151719065,life_expectancy
+Europe & Central Asia,ECS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,77.6812816553928,life_expectancy
+Europe & Central Asia,ECS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,77.330938408387,life_expectancy
+Europe & Central Asia (excluding high income),ECA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,74.8158340567546,life_expectancy
+Europe & Central Asia (excluding high income),ECA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.5927989243036,life_expectancy
+Europe & Central Asia (excluding high income),ECA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.4033539029016,life_expectancy
+Europe & Central Asia (excluding high income),ECA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.0313769065099,life_expectancy
+Europe & Central Asia (excluding high income),ECA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,73.755408258866,life_expectancy
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,74.590946255432,life_expectancy
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.2976622013592,life_expectancy
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.1318681774556,life_expectancy
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,73.6902109808946,life_expectancy
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,73.3408132950813,life_expectancy
+European Union,EUU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.3194524901835,life_expectancy
+European Union,EUU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.0317510064821,life_expectancy
+European Union,EUU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,80.9301511681956,life_expectancy
+European Union,EUU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,80.9529785979391,life_expectancy
+European Union,EUU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,80.5707965259,life_expectancy
+Fragile and conflict affected situations,FCS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,62.1379545505037,life_expectancy
+Fragile and conflict affected situations,FCS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,61.7825083062786,life_expectancy
+Fragile and conflict affected situations,FCS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,61.2296826870125,life_expectancy
+Fragile and conflict affected situations,FCS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,60.9861836667017,life_expectancy
+Fragile and conflict affected situations,FCS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,60.7449931085508,life_expectancy
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,63.089861994107,life_expectancy
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,62.7986163404611,life_expectancy
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,62.3152990434581,life_expectancy
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,62.0038914309195,life_expectancy
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,61.5618981364159,life_expectancy
+High income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,80.1992640609664,life_expectancy
+High income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,79.9666388096738,life_expectancy
+High income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,79.8536254138921,life_expectancy
+High income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,79.7243121172073,life_expectancy
+High income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,79.5243189639773,life_expectancy
+IBRD only,IBD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,74.031271888226,life_expectancy
+IBRD only,IBD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,73.794943952938,life_expectancy
+IBRD only,IBD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,73.4857607809887,life_expectancy
+IBRD only,IBD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,73.2592309044272,life_expectancy
+IBRD only,IBD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,73.0328490236397,life_expectancy
+IDA & IBRD total,IBT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.3939314839846,life_expectancy
+IDA & IBRD total,IBT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.1530163508746,life_expectancy
+IDA & IBRD total,IBT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,70.8308974097559,life_expectancy
+IDA & IBRD total,IBT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,70.6140486514544,life_expectancy
+IDA & IBRD total,IBT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.3717214077022,life_expectancy
+IDA blend,IDB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,61.3259973798573,life_expectancy
+IDA blend,IDB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,61.0740542759518,life_expectancy
+IDA blend,IDB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,60.818392907263,life_expectancy
+IDA blend,IDB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,60.5761664527178,life_expectancy
+IDA blend,IDB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,60.2944946354402,life_expectancy
+IDA only,IDX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,65.582913848475,life_expectancy
+IDA only,IDX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,65.1729422228289,life_expectancy
+IDA only,IDX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,64.6099332119955,life_expectancy
+IDA only,IDX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,64.3102000912619,life_expectancy
+IDA only,IDX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,63.8821918937357,life_expectancy
+IDA total,IDA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,64.0885690256803,life_expectancy
+IDA total,IDA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,63.7309649694635,life_expectancy
+IDA total,IDA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,63.2737435487005,life_expectancy
+IDA total,IDA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,62.9919892121429,life_expectancy
+IDA total,IDA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,62.613597618261,life_expectancy
+Late-demographic dividend,LTE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.9979606258316,life_expectancy
+Late-demographic dividend,LTE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.7781489421434,life_expectancy
+Late-demographic dividend,LTE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.4174343501022,life_expectancy
+Late-demographic dividend,LTE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.2928997245812,life_expectancy
+Late-demographic dividend,LTE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.0762328807769,life_expectancy
+Latin America & Caribbean,LCN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.2042598654921,life_expectancy
+Latin America & Caribbean,LCN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.052717198381,life_expectancy
+Latin America & Caribbean,LCN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.8318087892113,life_expectancy
+Latin America & Caribbean,LCN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.6774848833781,life_expectancy
+Latin America & Caribbean,LCN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.7432221893097,life_expectancy
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.0513524613511,life_expectancy
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.8906731016397,life_expectancy
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.7006534427421,life_expectancy
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.5306460760941,life_expectancy
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.5553955667316,life_expectancy
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.1319711493442,life_expectancy
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.9760978010797,life_expectancy
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.7614101353626,life_expectancy
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.5894794269073,life_expectancy
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.6505904118153,life_expectancy
+Least developed countries: UN classification,LDC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,64.9725014356556,life_expectancy
+Least developed countries: UN classification,LDC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,64.6023317246507,life_expectancy
+Least developed countries: UN classification,LDC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,64.0340553688659,life_expectancy
+Least developed countries: UN classification,LDC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,63.7237908648278,life_expectancy
+Least developed countries: UN classification,LDC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,63.3049798787451,life_expectancy
+Low & middle income,LMY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.3694923345361,life_expectancy
+Low & middle income,LMY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.1341707290628,life_expectancy
+Low & middle income,LMY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,70.8080047482829,life_expectancy
+Low & middle income,LMY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,70.6059453671367,life_expectancy
+Low & middle income,LMY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.3675172346245,life_expectancy
+Low income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,62.7975396947089,life_expectancy
+Low income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,62.3400968181546,life_expectancy
+Low income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,61.5796648683271,life_expectancy
+Low income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,61.4018192735169,life_expectancy
+Low income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,60.9922916353431,life_expectancy
+Lower middle income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,68.5574256254118,life_expectancy
+Lower middle income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,68.2810033644819,life_expectancy
+Lower middle income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,67.9952915350318,life_expectancy
+Lower middle income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,67.679193904199,life_expectancy
+Lower middle income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,67.3495071977304,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.2438695042576,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,70.9403213532696,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,70.7096592741194,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,70.4288635225293,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.1510409297575,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.417484585256,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,70.0733668958653,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,69.8141316373328,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,69.5328376363007,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.2873263613117,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.3800917806817,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,70.0368444388331,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,69.7772409464567,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,69.4961826399098,life_expectancy
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.2515348606398,life_expectancy
+Middle income,MIC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.1892666738243,life_expectancy
+Middle income,MIC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.9597989462594,life_expectancy
+Middle income,MIC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.6596834645843,life_expectancy
+Middle income,MIC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.4421804907716,life_expectancy
+Middle income,MIC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,71.2070683012016,life_expectancy
+North America,NAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,79.1328897249464,life_expectancy
+North America,NAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,78.960276789842,life_expectancy
+North America,NAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,78.868288279967,life_expectancy
+North America,NAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,78.8800103845064,life_expectancy
+North America,NAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,79.0036254654542,life_expectancy
+Not classified,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,,life_expectancy
+Not classified,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,,life_expectancy
+Not classified,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,,life_expectancy
+Not classified,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,,life_expectancy
+Not classified,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,,life_expectancy
+OECD members,OED,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,80.2449246601415,life_expectancy
+OECD members,OED,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,80.0280311277289,life_expectancy
+OECD members,OED,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,79.9309195257905,life_expectancy
+OECD members,OED,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,79.8914226918913,life_expectancy
+OECD members,OED,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,79.761947694534,life_expectancy
+Other small states,OSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.6570116424877,life_expectancy
+Other small states,OSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,72.4217850423792,life_expectancy
+Other small states,OSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,72.1178742995091,life_expectancy
+Other small states,OSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.7707341897413,life_expectancy
+Other small states,OSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,71.4757935597765,life_expectancy
+Pacific island small states,PSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,68.6421578303985,life_expectancy
+Pacific island small states,PSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,68.5825887890247,life_expectancy
+Pacific island small states,PSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,68.5192875005129,life_expectancy
+Pacific island small states,PSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,68.2856508563666,life_expectancy
+Pacific island small states,PSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,68.1166096033138,life_expectancy
+Post-demographic dividend,PST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,80.9699118452096,life_expectancy
+Post-demographic dividend,PST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,80.7441118099251,life_expectancy
+Post-demographic dividend,PST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,80.6648225207994,life_expectancy
+Post-demographic dividend,PST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,80.6111999426604,life_expectancy
+Post-demographic dividend,PST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,80.4400592700903,life_expectancy
+Pre-demographic dividend,PRE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,60.5568531204624,life_expectancy
+Pre-demographic dividend,PRE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,60.2075335712172,life_expectancy
+Pre-demographic dividend,PRE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,59.5403225971681,life_expectancy
+Pre-demographic dividend,PRE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,59.2364264629514,life_expectancy
+Pre-demographic dividend,PRE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,58.9363545235598,life_expectancy
+Small states,SST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.0009607335469,life_expectancy
+Small states,SST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.8640735615265,life_expectancy
+Small states,SST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.6518752446228,life_expectancy
+Small states,SST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.3735507555474,life_expectancy
+Small states,SST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,71.1218770493238,life_expectancy
+South Asia,SAS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.9975623145981,life_expectancy
+South Asia,SAS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,70.6523573971364,life_expectancy
+South Asia,SAS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,70.2904723380061,life_expectancy
+South Asia,SAS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,69.9184707063298,life_expectancy
+South Asia,SAS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.5110334122263,life_expectancy
+South Asia (IDA & IBRD),TSA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.9975623145981,life_expectancy
+South Asia (IDA & IBRD),TSA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,70.6523573971364,life_expectancy
+South Asia (IDA & IBRD),TSA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,70.2904723380061,life_expectancy
+South Asia (IDA & IBRD),TSA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,69.9184707063299,life_expectancy
+South Asia (IDA & IBRD),TSA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.5110334122263,life_expectancy
+Sub-Saharan Africa,SSF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,61.1293664117069,life_expectancy
+Sub-Saharan Africa,SSF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,60.7667795961955,life_expectancy
+Sub-Saharan Africa,SSF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,60.1584760722652,life_expectancy
+Sub-Saharan Africa,SSF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,59.8121599098867,life_expectancy
+Sub-Saharan Africa,SSF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,59.3987962107574,life_expectancy
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,60.6066409029614,life_expectancy
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,60.25831901022,life_expectancy
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,59.6367945564451,life_expectancy
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,59.3200098416324,life_expectancy
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,58.9245401151408,life_expectancy
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,61.1293664117069,life_expectancy
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,60.7667795961954,life_expectancy
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,60.1584760722652,life_expectancy
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,59.8121599098867,life_expectancy
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,59.3987962107574,life_expectancy
+Upper middle income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.0291253616976,life_expectancy
+Upper middle income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.8217431147146,life_expectancy
+Upper middle income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.4807608424492,life_expectancy
+Upper middle income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.3401910593772,life_expectancy
+Upper middle income,,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.1752922690271,life_expectancy
+World,WLD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.8686343875761,life_expectancy
+World,WLD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,72.6433686298045,life_expectancy
+World,WLD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,72.3651230321768,life_expectancy
+World,WLD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,72.1847318478467,life_expectancy
+World,WLD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,71.9646262286432,life_expectancy
+Afghanistan,AFG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,62.941,life_expectancy
+Afghanistan,AFG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,62.443,life_expectancy
+Afghanistan,AFG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,62.406,life_expectancy
+Afghanistan,AFG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,62.646,life_expectancy
+Afghanistan,AFG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,62.27,life_expectancy
+Albania,ALB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,79.467,life_expectancy
+Albania,ALB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,79.238,life_expectancy
+Albania,ALB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,78.9,life_expectancy
+Albania,ALB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,78.643,life_expectancy
+Albania,ALB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,78.358,life_expectancy
+Algeria,DZA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.682,life_expectancy
+Algeria,DZA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.555,life_expectancy
+Algeria,DZA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.431,life_expectancy
+Algeria,DZA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.31,life_expectancy
+Algeria,DZA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.159,life_expectancy
+American Samoa,ASM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.751,life_expectancy
+American Samoa,ASM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,72.794,life_expectancy
+American Samoa,ASM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,72.801,life_expectancy
+American Samoa,ASM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,72.64,life_expectancy
+American Samoa,ASM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,72.654,life_expectancy
+Andorra,AND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,84.098,life_expectancy
+Andorra,AND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,84.242,life_expectancy
+Andorra,AND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,84.359,life_expectancy
+Andorra,AND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,84.489,life_expectancy
+Andorra,AND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,84.532,life_expectancy
+Angola,AGO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,63.051,life_expectancy
+Angola,AGO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,62.622,life_expectancy
+Angola,AGO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,62.122,life_expectancy
+Angola,AGO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,61.619,life_expectancy
+Angola,AGO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,61.042,life_expectancy
+Antigua and Barbuda,ATG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.168,life_expectancy
+Antigua and Barbuda,ATG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.132,life_expectancy
+Antigua and Barbuda,ATG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.03,life_expectancy
+Antigua and Barbuda,ATG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.968,life_expectancy
+Antigua and Barbuda,ATG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.892,life_expectancy
+Argentina,ARG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.847,life_expectancy
+Argentina,ARG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.77,life_expectancy
+Argentina,ARG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.543,life_expectancy
+Argentina,ARG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.105,life_expectancy
+Argentina,ARG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.6,life_expectancy
+Armenia,ARM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.2219512195122,life_expectancy
+Armenia,ARM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.619512195122,life_expectancy
+Armenia,ARM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.2170731707317,life_expectancy
+Armenia,ARM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.8682926829268,life_expectancy
+Armenia,ARM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.8707317073171,life_expectancy
+Aruba,ABW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.019,life_expectancy
+Aruba,ABW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.88,life_expectancy
+Aruba,ABW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.62,life_expectancy
+Aruba,ABW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.54,life_expectancy
+Aruba,ABW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.405,life_expectancy
+Australia,AUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.9,life_expectancy
+Australia,AUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.7487804878049,life_expectancy
+Australia,AUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.5,life_expectancy
+Australia,AUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.4487804878049,life_expectancy
+Australia,AUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.4,life_expectancy
+Austria,AUT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.8951219512195,life_expectancy
+Austria,AUT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.6926829268293,life_expectancy
+Austria,AUT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.6439024390244,life_expectancy
+Austria,AUT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.6414634146342,life_expectancy
+Austria,AUT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.190243902439,life_expectancy
+Azerbaijan,AZE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,73.29,life_expectancy
+Azerbaijan,AZE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,73.016,life_expectancy
+Azerbaijan,AZE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,72.694,life_expectancy
+Azerbaijan,AZE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,72.568,life_expectancy
+Azerbaijan,AZE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,72.349,life_expectancy
+"Bahamas, The",BHS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.408,life_expectancy
+"Bahamas, The",BHS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.062,life_expectancy
+"Bahamas, The",BHS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.031,life_expectancy
+"Bahamas, The",BHS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.042,life_expectancy
+"Bahamas, The",BHS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,73.805,life_expectancy
+Bahrain,BHR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,80.471,life_expectancy
+Bahrain,BHR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,80.412,life_expectancy
+Bahrain,BHR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,80.407,life_expectancy
+Bahrain,BHR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,80.407,life_expectancy
+Bahrain,BHR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,80.338,life_expectancy
+Bangladesh,BGD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.625,life_expectancy
+Bangladesh,BGD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,72.122,life_expectancy
+Bangladesh,BGD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.606,life_expectancy
+Bangladesh,BGD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.075,life_expectancy
+Bangladesh,BGD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.543,life_expectancy
+Barbados,BRB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.495,life_expectancy
+Barbados,BRB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.378,life_expectancy
+Barbados,BRB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.237,life_expectancy
+Barbados,BRB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.168,life_expectancy
+Barbados,BRB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.055,life_expectancy
+Belarus,BLR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,74.2268292682927,life_expectancy
+Belarus,BLR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.1756097560976,life_expectancy
+Belarus,BLR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.1292682926829,life_expectancy
+Belarus,BLR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,73.8268292682927,life_expectancy
+Belarus,BLR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,73.6243902439025,life_expectancy
+Belgium,BEL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.9951219512195,life_expectancy
+Belgium,BEL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.5951219512195,life_expectancy
+Belgium,BEL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.4926829268293,life_expectancy
+Belgium,BEL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.4390243902439,life_expectancy
+Belgium,BEL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,80.9926829268293,life_expectancy
+Belize,BLZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.577,life_expectancy
+Belize,BLZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,72.322,life_expectancy
+Belize,BLZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,72.062,life_expectancy
+Belize,BLZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.843,life_expectancy
+Belize,BLZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,71.647,life_expectancy
+Benin,BEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,59.888,life_expectancy
+Benin,BEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,59.71,life_expectancy
+Benin,BEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,59.528,life_expectancy
+Benin,BEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,59.283,life_expectancy
+Benin,BEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,59.123,life_expectancy
+Bermuda,BMU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.251,life_expectancy
+Bermuda,BMU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,80.986,life_expectancy
+Bermuda,BMU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,80.686,life_expectancy
+Bermuda,BMU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,80.476,life_expectancy
+Bermuda,BMU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,80.338,life_expectancy
+Bhutan,BTN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.005,life_expectancy
+Bhutan,BTN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.711,life_expectancy
+Bhutan,BTN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.413,life_expectancy
+Bhutan,BTN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.119,life_expectancy
+Bhutan,BTN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.797,life_expectancy
+Bolivia,BOL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,67.82,life_expectancy
+Bolivia,BOL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,67.699,life_expectancy
+Bolivia,BOL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,67.536,life_expectancy
+Bolivia,BOL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,67.392,life_expectancy
+Bolivia,BOL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,67.205,life_expectancy
+Bosnia and Herzegovina,BIH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.394,life_expectancy
+Bosnia and Herzegovina,BIH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.942,life_expectancy
+Bosnia and Herzegovina,BIH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.385,life_expectancy
+Bosnia and Herzegovina,BIH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,77.124,life_expectancy
+Bosnia and Herzegovina,BIH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,77.073,life_expectancy
+Botswana,BWA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,67.167,life_expectancy
+Botswana,BWA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,66.371,life_expectancy
+Botswana,BWA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,65.42,life_expectancy
+Botswana,BWA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,64.32,life_expectancy
+Botswana,BWA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,63.215,life_expectancy
+Brazil,BRA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.809,life_expectancy
+Brazil,BRA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.633,life_expectancy
+Brazil,BRA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.383,life_expectancy
+Brazil,BRA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.081,life_expectancy
+Brazil,BRA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.106,life_expectancy
+British Virgin Islands,VGB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.845,life_expectancy
+British Virgin Islands,VGB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.728,life_expectancy
+British Virgin Islands,VGB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.67,life_expectancy
+British Virgin Islands,VGB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.624,life_expectancy
+British Virgin Islands,VGB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.558,life_expectancy
+Brunei Darussalam,BRN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.049,life_expectancy
+Brunei Darussalam,BRN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.992,life_expectancy
+Brunei Darussalam,BRN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.943,life_expectancy
+Brunei Darussalam,BRN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.905,life_expectancy
+Brunei Darussalam,BRN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.88,life_expectancy
+Bulgaria,BGR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.1121951219512,life_expectancy
+Bulgaria,BGR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.9634146341464,life_expectancy
+Bulgaria,BGR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.8146341463415,life_expectancy
+Bulgaria,BGR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.8121951219512,life_expectancy
+Bulgaria,BGR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.6146341463415,life_expectancy
+Burkina Faso,BFA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,60.184,life_expectancy
+Burkina Faso,BFA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,59.972,life_expectancy
+Burkina Faso,BFA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,59.578,life_expectancy
+Burkina Faso,BFA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,59.173,life_expectancy
+Burkina Faso,BFA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,58.778,life_expectancy
+Burundi,BDI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,62.18,life_expectancy
+Burundi,BDI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,61.806,life_expectancy
+Burundi,BDI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,61.345,life_expectancy
+Burundi,BDI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,60.789,life_expectancy
+Burundi,BDI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,60.107,life_expectancy
+Cabo Verde,CPV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.449,life_expectancy
+Cabo Verde,CPV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.84,life_expectancy
+Cabo Verde,CPV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.71,life_expectancy
+Cabo Verde,CPV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.35,life_expectancy
+Cabo Verde,CPV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.096,life_expectancy
+Cambodia,KHM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.127,life_expectancy
+Cambodia,KHM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,69.993,life_expectancy
+Cambodia,KHM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,69.842,life_expectancy
+Cambodia,KHM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,69.635,life_expectancy
+Cambodia,KHM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.398,life_expectancy
+Cameroon,CMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,61.695,life_expectancy
+Cameroon,CMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,61.189,life_expectancy
+Cameroon,CMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,60.817,life_expectancy
+Cameroon,CMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,60.293,life_expectancy
+Cameroon,CMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,59.687,life_expectancy
+Canada,CAN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.1585365853659,life_expectancy
+Canada,CAN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.8036585365854,life_expectancy
+Canada,CAN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.8078048780488,life_expectancy
+Canada,CAN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.94,life_expectancy
+Canada,CAN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.8258536585366,life_expectancy
+Cayman Islands,CYM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,79.052,life_expectancy
+Cayman Islands,CYM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,78.835,life_expectancy
+Cayman Islands,CYM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,78.615,life_expectancy
+Cayman Islands,CYM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,78.367,life_expectancy
+Cayman Islands,CYM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,78.119,life_expectancy
+Central African Republic,CAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,31.53,life_expectancy
+Central African Republic,CAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,52.297,life_expectancy
+Central African Republic,CAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,45.231,life_expectancy
+Central African Republic,CAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,50.999,life_expectancy
+Central African Republic,CAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,51.934,life_expectancy
+Chad,TCD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,52.993,life_expectancy
+Chad,TCD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,52.447,life_expectancy
+Chad,TCD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,51.875,life_expectancy
+Chad,TCD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,51.603,life_expectancy
+Chad,TCD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,51.32,life_expectancy
+Channel Islands,CHI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.2,life_expectancy
+Channel Islands,CHI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.1,life_expectancy
+Channel Islands,CHI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.0,life_expectancy
+Channel Islands,CHI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.2,life_expectancy
+Channel Islands,CHI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.4,life_expectancy
+Chile,CHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,80.324,life_expectancy
+Chile,CHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,80.559,life_expectancy
+Chile,CHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,80.61,life_expectancy
+Chile,CHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,80.295,life_expectancy
+Chile,CHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,80.008,life_expectancy
+China,CHN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.94,life_expectancy
+China,CHN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.709,life_expectancy
+China,CHN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.235,life_expectancy
+China,CHN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,77.214,life_expectancy
+China,CHN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.975,life_expectancy
+Colombia,COL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.793,life_expectancy
+Colombia,COL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.579,life_expectancy
+Colombia,COL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.418,life_expectancy
+Colombia,COL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.228,life_expectancy
+Colombia,COL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.067,life_expectancy
+Comoros,COM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,65.662,life_expectancy
+Comoros,COM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,65.401,life_expectancy
+Comoros,COM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,65.127,life_expectancy
+Comoros,COM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,64.792,life_expectancy
+Comoros,COM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,64.473,life_expectancy
+"Congo, Dem. Rep.",COD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,60.242,life_expectancy
+"Congo, Dem. Rep.",COD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,59.926,life_expectancy
+"Congo, Dem. Rep.",COD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,59.495,life_expectancy
+"Congo, Dem. Rep.",COD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,59.081,life_expectancy
+"Congo, Dem. Rep.",COD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,58.658,life_expectancy
+"Congo, Rep.",COG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,63.152,life_expectancy
+"Congo, Rep.",COG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,64.472,life_expectancy
+"Congo, Rep.",COG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,64.203,life_expectancy
+"Congo, Rep.",COG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,63.911,life_expectancy
+"Congo, Rep.",COG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,63.662,life_expectancy
+Costa Rica,CRI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,80.296,life_expectancy
+Costa Rica,CRI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,80.09,life_expectancy
+Costa Rica,CRI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,79.994,life_expectancy
+Costa Rica,CRI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,79.988,life_expectancy
+Costa Rica,CRI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,80.407,life_expectancy
+Cote d'Ivoire,CIV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,60.274,life_expectancy
+Cote d'Ivoire,CIV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,59.795,life_expectancy
+Cote d'Ivoire,CIV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,59.315,life_expectancy
+Cote d'Ivoire,CIV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,58.814,life_expectancy
+Cote d'Ivoire,CIV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,58.281,life_expectancy
+Croatia,HRV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,78.2243902439024,life_expectancy
+Croatia,HRV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.919512195122,life_expectancy
+Croatia,HRV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.7268292682927,life_expectancy
+Croatia,HRV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,77.9219512195122,life_expectancy
+Croatia,HRV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,77.2756097560976,life_expectancy
+Cuba,CUB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.413,life_expectancy
+Cuba,CUB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.426,life_expectancy
+Cuba,CUB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.3,life_expectancy
+Cuba,CUB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,77.571,life_expectancy
+Cuba,CUB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,77.745,life_expectancy
+Curacao,CUW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.492,life_expectancy
+Curacao,CUW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.493,life_expectancy
+Curacao,CUW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.423,life_expectancy
+Curacao,CUW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.322,life_expectancy
+Curacao,CUW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.482,life_expectancy
+Cyprus,CYP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.454,life_expectancy
+Cyprus,CYP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.556,life_expectancy
+Cyprus,CYP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.543,life_expectancy
+Cyprus,CYP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.534,life_expectancy
+Cyprus,CYP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.464,life_expectancy
+Czechia,CZE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,79.2292682926829,life_expectancy
+Czechia,CZE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,79.0292682926829,life_expectancy
+Czechia,CZE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,78.9780487804878,life_expectancy
+Czechia,CZE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,79.0268292682927,life_expectancy
+Czechia,CZE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,78.5780487804878,life_expectancy
+Denmark,DNK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.4512195121951,life_expectancy
+Denmark,DNK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,80.9536585365854,life_expectancy
+Denmark,DNK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.1024390243903,life_expectancy
+Denmark,DNK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,80.8536585365854,life_expectancy
+Denmark,DNK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,80.7024390243902,life_expectancy
+Djibouti,DJI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,64.381,life_expectancy
+Djibouti,DJI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,64.105,life_expectancy
+Djibouti,DJI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,63.71,life_expectancy
+Djibouti,DJI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,63.335,life_expectancy
+Djibouti,DJI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,62.833,life_expectancy
+Dominica,DMA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.305,life_expectancy
+Dominica,DMA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.378,life_expectancy
+Dominica,DMA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,68.62,life_expectancy
+Dominica,DMA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.189,life_expectancy
+Dominica,DMA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.968,life_expectancy
+Dominican Republic,DOM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,73.112,life_expectancy
+Dominican Republic,DOM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,73.555,life_expectancy
+Dominican Republic,DOM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,73.37,life_expectancy
+Dominican Republic,DOM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,72.889,life_expectancy
+Dominican Republic,DOM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,72.982,life_expectancy
+Ecuador,ECU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.286,life_expectancy
+Ecuador,ECU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.248,life_expectancy
+Ecuador,ECU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.22,life_expectancy
+Ecuador,ECU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.094,life_expectancy
+Ecuador,ECU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.222,life_expectancy
+"Egypt, Arab Rep.",EGY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.213,life_expectancy
+"Egypt, Arab Rep.",EGY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,70.974,life_expectancy
+"Egypt, Arab Rep.",EGY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,70.709,life_expectancy
+"Egypt, Arab Rep.",EGY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,70.437,life_expectancy
+"Egypt, Arab Rep.",EGY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.135,life_expectancy
+El Salvador,SLV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.725,life_expectancy
+El Salvador,SLV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.384,life_expectancy
+El Salvador,SLV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.007,life_expectancy
+El Salvador,SLV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,70.908,life_expectancy
+El Salvador,SLV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.952,life_expectancy
+Equatorial Guinea,GNQ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,62.297,life_expectancy
+Equatorial Guinea,GNQ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,61.915,life_expectancy
+Equatorial Guinea,GNQ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,61.481,life_expectancy
+Equatorial Guinea,GNQ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,61.081,life_expectancy
+Equatorial Guinea,GNQ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,60.635,life_expectancy
+Eritrea,ERI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,67.306,life_expectancy
+Eritrea,ERI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,66.979,life_expectancy
+Eritrea,ERI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,66.612,life_expectancy
+Eritrea,ERI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,66.242,life_expectancy
+Eritrea,ERI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,65.909,life_expectancy
+Estonia,EST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,78.6463414634147,life_expectancy
+Estonia,EST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,78.2439024390244,life_expectancy
+Estonia,EST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,78.0926829268293,life_expectancy
+Estonia,EST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,77.6414634146342,life_expectancy
+Estonia,EST,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,77.590243902439,life_expectancy
+Eswatini,SWZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,59.85,life_expectancy
+Eswatini,SWZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,58.707,life_expectancy
+Eswatini,SWZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,57.574,life_expectancy
+Eswatini,SWZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,56.228,life_expectancy
+Eswatini,SWZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,54.941,life_expectancy
+Ethiopia,ETH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,65.741,life_expectancy
+Ethiopia,ETH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,65.257,life_expectancy
+Ethiopia,ETH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,64.766,life_expectancy
+Ethiopia,ETH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,64.162,life_expectancy
+Ethiopia,ETH,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,63.592,life_expectancy
+Faroe Islands,FRO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.3912829268293,life_expectancy
+Faroe Islands,FRO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.2486024390244,life_expectancy
+Faroe Islands,FRO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.1062926829268,life_expectancy
+Faroe Islands,FRO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.962112195122,life_expectancy
+Faroe Islands,FRO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.7995975609756,life_expectancy
+Fiji,FJI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,67.009,life_expectancy
+Fiji,FJI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,66.965,life_expectancy
+Fiji,FJI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,67.06,life_expectancy
+Fiji,FJI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,66.657,life_expectancy
+Fiji,FJI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,66.48,life_expectancy
+Finland,FIN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.9829268292683,life_expectancy
+Finland,FIN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.7341463414634,life_expectancy
+Finland,FIN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.6317073170732,life_expectancy
+Finland,FIN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.4292682926829,life_expectancy
+Finland,FIN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.4804878048781,life_expectancy
+France,FRA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.8268292682927,life_expectancy
+France,FRA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.6756097560976,life_expectancy
+France,FRA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.5756097560976,life_expectancy
+France,FRA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.5731707317073,life_expectancy
+France,FRA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.3219512195122,life_expectancy
+French Polynesia,PYF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,83.195,life_expectancy
+French Polynesia,PYF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.985,life_expectancy
+French Polynesia,PYF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.774,life_expectancy
+French Polynesia,PYF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.555,life_expectancy
+French Polynesia,PYF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.339,life_expectancy
+Gabon,GAB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,67.337,life_expectancy
+Gabon,GAB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,67.043,life_expectancy
+Gabon,GAB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,66.816,life_expectancy
+Gabon,GAB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,66.583,life_expectancy
+Gabon,GAB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,66.336,life_expectancy
+"Gambia, The",GMB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,64.427,life_expectancy
+"Gambia, The",GMB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,64.034,life_expectancy
+"Gambia, The",GMB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,63.708,life_expectancy
+"Gambia, The",GMB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,63.386,life_expectancy
+"Gambia, The",GMB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,62.971,life_expectancy
+Georgia,GEO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,74.165,life_expectancy
+Georgia,GEO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,73.985,life_expectancy
+Georgia,GEO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,73.435,life_expectancy
+Georgia,GEO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,73.136,life_expectancy
+Georgia,GEO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,73.241,life_expectancy
+Germany,DEU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.2926829268293,life_expectancy
+Germany,DEU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,80.8926829268293,life_expectancy
+Germany,DEU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,80.9926829268293,life_expectancy
+Germany,DEU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,80.990243902439,life_expectancy
+Germany,DEU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,80.6414634146341,life_expectancy
+Ghana,GHA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,64.455,life_expectancy
+Ghana,GHA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,64.138,life_expectancy
+Ghana,GHA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,63.829,life_expectancy
+Ghana,GHA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,63.522,life_expectancy
+Ghana,GHA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,63.175,life_expectancy
+Gibraltar,GIB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,83.183,life_expectancy
+Gibraltar,GIB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,83.028,life_expectancy
+Gibraltar,GIB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.858,life_expectancy
+Gibraltar,GIB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.741,life_expectancy
+Gibraltar,GIB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.668,life_expectancy
+Greece,GRC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.6390243902439,life_expectancy
+Greece,GRC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.7878048780488,life_expectancy
+Greece,GRC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.2878048780488,life_expectancy
+Greece,GRC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.3878048780488,life_expectancy
+Greece,GRC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.0365853658537,life_expectancy
+Greenland,GRL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.4092682926829,life_expectancy
+Greenland,GRL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.3609756097561,life_expectancy
+Greenland,GRL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.2563414634146,life_expectancy
+Greenland,GRL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.1990243902439,life_expectancy
+Greenland,GRL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.909756097561,life_expectancy
+Grenada,GRD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,74.971,life_expectancy
+Grenada,GRD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.957,life_expectancy
+Grenada,GRD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.977,life_expectancy
+Grenada,GRD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.01,life_expectancy
+Grenada,GRD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.037,life_expectancy
+Guam,GUM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.645,life_expectancy
+Guam,GUM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.561,life_expectancy
+Guam,GUM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.463,life_expectancy
+Guam,GUM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.449,life_expectancy
+Guam,GUM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.444,life_expectancy
+Guatemala,GTM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.639,life_expectancy
+Guatemala,GTM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.496,life_expectancy
+Guatemala,GTM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.583,life_expectancy
+Guatemala,GTM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.215,life_expectancy
+Guatemala,GTM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.915,life_expectancy
+Guinea,GIN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,59.379,life_expectancy
+Guinea,GIN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,59.043,life_expectancy
+Guinea,GIN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,58.715,life_expectancy
+Guinea,GIN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,58.49,life_expectancy
+Guinea,GIN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,57.899,life_expectancy
+Guinea-Bissau,GNB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,62.161,life_expectancy
+Guinea-Bissau,GNB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,61.652,life_expectancy
+Guinea-Bissau,GNB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,61.148,life_expectancy
+Guinea-Bissau,GNB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,60.619,life_expectancy
+Guinea-Bissau,GNB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,60.071,life_expectancy
+Guyana,GUY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,69.067,life_expectancy
+Guyana,GUY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,68.829,life_expectancy
+Guyana,GUY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,68.543,life_expectancy
+Guyana,GUY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,68.069,life_expectancy
+Guyana,GUY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,67.719,life_expectancy
+Haiti,HTI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,64.328,life_expectancy
+Haiti,HTI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,64.077,life_expectancy
+Haiti,HTI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,63.832,life_expectancy
+Haiti,HTI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,63.325,life_expectancy
+Haiti,HTI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,63.224,life_expectancy
+Honduras,HND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.124,life_expectancy
+Honduras,HND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,72.001,life_expectancy
+Honduras,HND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.805,life_expectancy
+Honduras,HND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.615,life_expectancy
+Honduras,HND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,71.323,life_expectancy
+"Hong Kong SAR, China",HKG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,85.1558536585366,life_expectancy
+"Hong Kong SAR, China",HKG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,84.869756097561,life_expectancy
+"Hong Kong SAR, China",HKG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,84.6956097560976,life_expectancy
+"Hong Kong SAR, China",HKG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,84.2114634146342,life_expectancy
+"Hong Kong SAR, China",HKG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,84.2526829268293,life_expectancy
+Hungary,HUN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.3195121951219,life_expectancy
+Hungary,HUN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.0658536585366,life_expectancy
+Hungary,HUN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.8170731707317,life_expectancy
+Hungary,HUN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.0634146341464,life_expectancy
+Hungary,HUN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.5682926829269,life_expectancy
+Iceland,ISL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,83.1634146341463,life_expectancy
+Iceland,ISL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.8609756097561,life_expectancy
+Iceland,ISL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.6609756097561,life_expectancy
+Iceland,ISL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.2048780487805,life_expectancy
+Iceland,ISL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.4682926829268,life_expectancy
+India,IND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.746,life_expectancy
+India,IND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,70.415,life_expectancy
+India,IND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,70.068,life_expectancy
+India,IND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,69.709,life_expectancy
+India,IND,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.326,life_expectancy
+Indonesia,IDN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.349,life_expectancy
+Indonesia,IDN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,70.08,life_expectancy
+Indonesia,IDN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,69.953,life_expectancy
+Indonesia,IDN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,69.733,life_expectancy
+Indonesia,IDN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.52,life_expectancy
+"Iran, Islamic Rep.",IRN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.855,life_expectancy
+"Iran, Islamic Rep.",IRN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.621,life_expectancy
+"Iran, Islamic Rep.",IRN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.396,life_expectancy
+"Iran, Islamic Rep.",IRN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.155,life_expectancy
+"Iran, Islamic Rep.",IRN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.907,life_expectancy
+Iraq,IRQ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.245,life_expectancy
+Iraq,IRQ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.116,life_expectancy
+Iraq,IRQ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,69.788,life_expectancy
+Iraq,IRQ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,68.683,life_expectancy
+Iraq,IRQ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.977,life_expectancy
+Ireland,IRL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.7024390243903,life_expectancy
+Ireland,IRL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.2048780487805,life_expectancy
+Ireland,IRL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.1560975609756,life_expectancy
+Ireland,IRL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.6536585365854,life_expectancy
+Ireland,IRL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.4536585365854,life_expectancy
+Isle of Man,IMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,80.74,life_expectancy
+Isle of Man,IMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,80.614,life_expectancy
+Isle of Man,IMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,80.506,life_expectancy
+Isle of Man,IMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,80.391,life_expectancy
+Isle of Man,IMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,80.267,life_expectancy
+Israel,ISR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.8048780487805,life_expectancy
+Israel,ISR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.8024390243903,life_expectancy
+Israel,ISR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.5512195121951,life_expectancy
+Israel,ISR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.4073170731707,life_expectancy
+Israel,ISR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.0512195121951,life_expectancy
+Italy,ITA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,83.4975609756098,life_expectancy
+Italy,ITA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,83.3463414634146,life_expectancy
+Italy,ITA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.9463414634147,life_expectancy
+Italy,ITA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,83.2439024390244,life_expectancy
+Italy,ITA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.5439024390244,life_expectancy
+Jamaica,JAM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.532,life_expectancy
+Jamaica,JAM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.606,life_expectancy
+Jamaica,JAM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.879,life_expectancy
+Jamaica,JAM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,72.052,life_expectancy
+Jamaica,JAM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,72.214,life_expectancy
+Japan,JPN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,84.3563414634146,life_expectancy
+Japan,JPN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,84.2109756097561,life_expectancy
+Japan,JPN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,84.099756097561,life_expectancy
+Japan,JPN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,83.9848780487805,life_expectancy
+Japan,JPN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,83.7939024390244,life_expectancy
+Jordan,JOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.865,life_expectancy
+Jordan,JOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.491,life_expectancy
+Jordan,JOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.071,life_expectancy
+Jordan,JOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.55,life_expectancy
+Jordan,JOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.06,life_expectancy
+Kazakhstan,KAZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,73.658,life_expectancy
+Kazakhstan,KAZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,73.369,life_expectancy
+Kazakhstan,KAZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,72.996,life_expectancy
+Kazakhstan,KAZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,72.549,life_expectancy
+Kazakhstan,KAZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,72.024,life_expectancy
+Kenya,KEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,62.939,life_expectancy
+Kenya,KEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,62.825,life_expectancy
+Kenya,KEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,62.725,life_expectancy
+Kenya,KEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,62.526,life_expectancy
+Kenya,KEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,62.279,life_expectancy
+Kiribati,KIR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,65.866,life_expectancy
+Kiribati,KIR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,65.807,life_expectancy
+Kiribati,KIR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,65.787,life_expectancy
+Kiribati,KIR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,65.799,life_expectancy
+Kiribati,KIR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,65.831,life_expectancy
+"Korea, Dem. People's Rep.",PRK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.928,life_expectancy
+"Korea, Dem. People's Rep.",PRK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,73.02,life_expectancy
+"Korea, Dem. People's Rep.",PRK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,73.034,life_expectancy
+"Korea, Dem. People's Rep.",PRK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,72.971,life_expectancy
+"Korea, Dem. People's Rep.",PRK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,72.825,life_expectancy
+"Korea, Rep.",KOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,83.2268292682927,life_expectancy
+"Korea, Rep.",KOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.6268292682927,life_expectancy
+"Korea, Rep.",KOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.6268292682927,life_expectancy
+"Korea, Rep.",KOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.2756097560976,life_expectancy
+"Korea, Rep.",KOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.0243902439024,life_expectancy
+Kosovo,XKX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.249,life_expectancy
+Kosovo,XKX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.117,life_expectancy
+Kosovo,XKX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.105,life_expectancy
+Kosovo,XKX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.748,life_expectancy
+Kosovo,XKX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.024,life_expectancy
+Kuwait,KWT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.969756097561,life_expectancy
+Kuwait,KWT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,80.1063658536585,life_expectancy
+Kuwait,KWT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,79.9160731707317,life_expectancy
+Kuwait,KWT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,79.6775853658537,life_expectancy
+Kuwait,KWT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,79.3765609756098,life_expectancy
+Kyrgyz Republic,KGZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.6,life_expectancy
+Kyrgyz Republic,KGZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.4,life_expectancy
+Kyrgyz Republic,KGZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.2,life_expectancy
+Kyrgyz Republic,KGZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,70.9512195121951,life_expectancy
+Kyrgyz Republic,KGZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.6512195121951,life_expectancy
+Lao PDR,LAO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,67.911,life_expectancy
+Lao PDR,LAO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,67.594,life_expectancy
+Lao PDR,LAO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,67.345,life_expectancy
+Lao PDR,LAO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,67.014,life_expectancy
+Lao PDR,LAO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,66.688,life_expectancy
+Latvia,LVA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.3878048780488,life_expectancy
+Latvia,LVA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.7829268292683,life_expectancy
+Latvia,LVA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.6292682926829,life_expectancy
+Latvia,LVA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.580487804878,life_expectancy
+Latvia,LVA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.4804878048781,life_expectancy
+Lebanon,LBN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,78.208,life_expectancy
+Lebanon,LBN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,78.263,life_expectancy
+Lebanon,LBN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,78.192,life_expectancy
+Lebanon,LBN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,78.306,life_expectancy
+Lebanon,LBN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,78.275,life_expectancy
+Lesotho,LSO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,55.249,life_expectancy
+Lesotho,LSO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,54.638,life_expectancy
+Lesotho,LSO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,53.874,life_expectancy
+Lesotho,LSO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,52.908,life_expectancy
+Lesotho,LSO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,51.83,life_expectancy
+Liberia,LBR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,61.232,life_expectancy
+Liberia,LBR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,60.999,life_expectancy
+Liberia,LBR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,60.777,life_expectancy
+Liberia,LBR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,60.483,life_expectancy
+Liberia,LBR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,59.248,life_expectancy
+Libya,LBY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.941,life_expectancy
+Libya,LBY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,73.151,life_expectancy
+Libya,LBY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,72.721,life_expectancy
+Libya,LBY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.799,life_expectancy
+Libya,LBY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,71.644,life_expectancy
+Liechtenstein,LIE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,84.1609756097561,life_expectancy
+Liechtenstein,LIE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,83.0414634146342,life_expectancy
+Liechtenstein,LIE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,83.7463414634147,life_expectancy
+Liechtenstein,LIE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.2585365853659,life_expectancy
+Liechtenstein,LIE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.6560975609756,life_expectancy
+Lithuania,LTU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.2829268292683,life_expectancy
+Lithuania,LTU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.6804878048781,life_expectancy
+Lithuania,LTU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.4804878048781,life_expectancy
+Lithuania,LTU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.6707317073171,life_expectancy
+Lithuania,LTU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.3219512195122,life_expectancy
+Luxembourg,LUX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.6390243902439,life_expectancy
+Luxembourg,LUX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.2951219512195,life_expectancy
+Luxembourg,LUX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.0951219512195,life_expectancy
+Luxembourg,LUX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.6853658536585,life_expectancy
+Luxembourg,LUX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.2926829268293,life_expectancy
+"Macao SAR, China",MAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,83.9292682926829,life_expectancy
+"Macao SAR, China",MAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,83.6780487804878,life_expectancy
+"Macao SAR, China",MAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,83.5268292682927,life_expectancy
+"Macao SAR, China",MAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,83.2756097560976,life_expectancy
+"Macao SAR, China",MAC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,83.2243902439024,life_expectancy
+Madagascar,MDG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,63.504,life_expectancy
+Madagascar,MDG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,63.491,life_expectancy
+Madagascar,MDG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,63.433,life_expectancy
+Madagascar,MDG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,63.431,life_expectancy
+Madagascar,MDG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,63.362,life_expectancy
+Malawi,MWI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,64.995,life_expectancy
+Malawi,MWI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,64.464,life_expectancy
+Malawi,MWI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,63.914,life_expectancy
+Malawi,MWI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,63.163,life_expectancy
+Malawi,MWI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,62.324,life_expectancy
+Malaysia,MYS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.9,life_expectancy
+Malaysia,MYS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.734,life_expectancy
+Malaysia,MYS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.542,life_expectancy
+Malaysia,MYS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.371,life_expectancy
+Malaysia,MYS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.288,life_expectancy
+Maldives,MDV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,79.707,life_expectancy
+Maldives,MDV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,79.433,life_expectancy
+Maldives,MDV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,79.228,life_expectancy
+Maldives,MDV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,78.913,life_expectancy
+Maldives,MDV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,78.607,life_expectancy
+Mali,MLI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,59.217,life_expectancy
+Mali,MLI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,58.873,life_expectancy
+Mali,MLI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,58.562,life_expectancy
+Mali,MLI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,58.286,life_expectancy
+Mali,MLI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,57.852,life_expectancy
+Malta,MLT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.6585365853659,life_expectancy
+Malta,MLT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.2487804878049,life_expectancy
+Malta,MLT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.1951219512195,life_expectancy
+Malta,MLT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.3536585365854,life_expectancy
+Malta,MLT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.7975609756098,life_expectancy
+Marshall Islands,MHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,66.047,life_expectancy
+Marshall Islands,MHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,65.87,life_expectancy
+Marshall Islands,MHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,65.673,life_expectancy
+Marshall Islands,MHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,65.477,life_expectancy
+Marshall Islands,MHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,65.292,life_expectancy
+Mauritania,MRT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,67.64,life_expectancy
+Mauritania,MRT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,67.419,life_expectancy
+Mauritania,MRT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,67.088,life_expectancy
+Mauritania,MRT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,66.823,life_expectancy
+Mauritania,MRT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,66.498,life_expectancy
+Mauritius,MUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,74.2358536585366,life_expectancy
+Mauritius,MUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.4163414634146,life_expectancy
+Mauritius,MUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.5146341463415,life_expectancy
+Mauritius,MUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.3948780487805,life_expectancy
+Mauritius,MUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.3531707317073,life_expectancy
+Mexico,MEX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,74.53,life_expectancy
+Mexico,MEX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.301,life_expectancy
+Mexico,MEX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.261,life_expectancy
+Mexico,MEX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.376,life_expectancy
+Mexico,MEX,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.431,life_expectancy
+"Micronesia, Fed. Sts.",FSM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,66.196,life_expectancy
+"Micronesia, Fed. Sts.",FSM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,65.943,life_expectancy
+"Micronesia, Fed. Sts.",FSM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,65.761,life_expectancy
+"Micronesia, Fed. Sts.",FSM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,65.576,life_expectancy
+"Micronesia, Fed. Sts.",FSM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,65.306,life_expectancy
+Moldova,MDA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.181,life_expectancy
+Moldova,MDA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,70.236,life_expectancy
+Moldova,MDA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,70.375,life_expectancy
+Moldova,MDA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,70.179,life_expectancy
+Moldova,MDA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.118,life_expectancy
+Monaco,MCO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,86.151,life_expectancy
+Monaco,MCO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,86.084,life_expectancy
+Monaco,MCO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,85.878,life_expectancy
+Monaco,MCO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,85.63,life_expectancy
+Monaco,MCO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,85.323,life_expectancy
+Mongolia,MNG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.0531707317073,life_expectancy
+Mongolia,MNG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,70.8270731707317,life_expectancy
+Mongolia,MNG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,70.5434146341463,life_expectancy
+Mongolia,MNG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,70.2239024390244,life_expectancy
+Mongolia,MNG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.810243902439,life_expectancy
+Montenegro,MNE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.6829268292683,life_expectancy
+Montenegro,MNE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.8853658536585,life_expectancy
+Montenegro,MNE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.6853658536585,life_expectancy
+Montenegro,MNE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.5414634146342,life_expectancy
+Montenegro,MNE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.6024390243903,life_expectancy
+Morocco,MAR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,74.245,life_expectancy
+Morocco,MAR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,73.946,life_expectancy
+Morocco,MAR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,73.608,life_expectancy
+Morocco,MAR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,73.228,life_expectancy
+Morocco,MAR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,72.894,life_expectancy
+Mozambique,MOZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,61.306,life_expectancy
+Mozambique,MOZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,60.79,life_expectancy
+Mozambique,MOZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,60.148,life_expectancy
+Mozambique,MOZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,59.455,life_expectancy
+Mozambique,MOZ,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,58.711,life_expectancy
+Myanmar,MMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,66.457,life_expectancy
+Myanmar,MMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,66.232,life_expectancy
+Myanmar,MMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,65.909,life_expectancy
+Myanmar,MMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,65.64,life_expectancy
+Myanmar,MMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,65.288,life_expectancy
+Namibia,NAM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,63.546,life_expectancy
+Namibia,NAM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,62.579,life_expectancy
+Namibia,NAM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,61.661,life_expectancy
+Namibia,NAM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,60.81,life_expectancy
+Namibia,NAM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,60.008,life_expectancy
+Nauru,NRU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,61.393,life_expectancy
+Nauru,NRU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,61.238,life_expectancy
+Nauru,NRU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,61.101,life_expectancy
+Nauru,NRU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,60.996,life_expectancy
+Nauru,NRU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,60.897,life_expectancy
+Nepal,NPL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,69.299,life_expectancy
+Nepal,NPL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,69.036,life_expectancy
+Nepal,NPL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,68.74,life_expectancy
+Nepal,NPL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,68.444,life_expectancy
+Nepal,NPL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,67.374,life_expectancy
+Netherlands,NLD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.1121951219512,life_expectancy
+Netherlands,NLD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.8121951219512,life_expectancy
+Netherlands,NLD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.7609756097561,life_expectancy
+Netherlands,NLD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.5609756097561,life_expectancy
+Netherlands,NLD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.509756097561,life_expectancy
+New Caledonia,NCL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.262,life_expectancy
+New Caledonia,NCL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.557,life_expectancy
+New Caledonia,NCL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.504,life_expectancy
+New Caledonia,NCL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,77.359,life_expectancy
+New Caledonia,NCL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,77.206,life_expectancy
+New Zealand,NZL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.0560975609756,life_expectancy
+New Zealand,NZL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.7073170731707,life_expectancy
+New Zealand,NZL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.8585365853659,life_expectancy
+New Zealand,NZL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.6585365853659,life_expectancy
+New Zealand,NZL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.6124390243903,life_expectancy
+Nicaragua,NIC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,73.764,life_expectancy
+Nicaragua,NIC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,73.879,life_expectancy
+Nicaragua,NIC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,73.389,life_expectancy
+Nicaragua,NIC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,73.18,life_expectancy
+Nicaragua,NIC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,72.899,life_expectancy
+Niger,NER,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,60.031,life_expectancy
+Niger,NER,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,59.765,life_expectancy
+Niger,NER,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,59.524,life_expectancy
+Niger,NER,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,59.228,life_expectancy
+Niger,NER,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,58.85,life_expectancy
+Nigeria,NGA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,53.009,life_expectancy
+Nigeria,NGA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,52.669,life_expectancy
+Nigeria,NGA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,52.397,life_expectancy
+Nigeria,NGA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,52.189,life_expectancy
+Nigeria,NGA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,51.939,life_expectancy
+North Macedonia,MKD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.6024390243903,life_expectancy
+North Macedonia,MKD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.6487804878049,life_expectancy
+North Macedonia,MKD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.9536585365854,life_expectancy
+North Macedonia,MKD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.4,life_expectancy
+North Macedonia,MKD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.4024390243902,life_expectancy
+Northern Mariana Islands,MNP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.844,life_expectancy
+Northern Mariana Islands,MNP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.51,life_expectancy
+Northern Mariana Islands,MNP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.47,life_expectancy
+Northern Mariana Islands,MNP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,77.392,life_expectancy
+Northern Mariana Islands,MNP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,77.36,life_expectancy
+Norway,NOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.9585365853659,life_expectancy
+Norway,NOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.7585365853659,life_expectancy
+Norway,NOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.609756097561,life_expectancy
+Norway,NOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.4073170731707,life_expectancy
+Norway,NOR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.3048780487805,life_expectancy
+Oman,OMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,79.946,life_expectancy
+Oman,OMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,79.864,life_expectancy
+Oman,OMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,79.748,life_expectancy
+Oman,OMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,79.581,life_expectancy
+Oman,OMN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,79.346,life_expectancy
+Pakistan,PAK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,66.729,life_expectancy
+Pakistan,PAK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,66.481,life_expectancy
+Pakistan,PAK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,66.223,life_expectancy
+Pakistan,PAK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,65.943,life_expectancy
+Pakistan,PAK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,65.641,life_expectancy
+Palau,PLW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,68.982,life_expectancy
+Palau,PLW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,68.989,life_expectancy
+Palau,PLW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,69.019,life_expectancy
+Palau,PLW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,69.046,life_expectancy
+Palau,PLW,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.07,life_expectancy
+Panama,PAN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,78.514,life_expectancy
+Panama,PAN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,78.266,life_expectancy
+Panama,PAN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.901,life_expectancy
+Panama,PAN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,77.772,life_expectancy
+Panama,PAN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,77.583,life_expectancy
+Papua New Guinea,PNG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,65.331,life_expectancy
+Papua New Guinea,PNG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,65.114,life_expectancy
+Papua New Guinea,PNG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,64.923,life_expectancy
+Papua New Guinea,PNG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,64.7,life_expectancy
+Papua New Guinea,PNG,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,64.473,life_expectancy
+Paraguay,PRY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,73.668,life_expectancy
+Paraguay,PRY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,73.627,life_expectancy
+Paraguay,PRY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,73.45,life_expectancy
+Paraguay,PRY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,73.487,life_expectancy
+Paraguay,PRY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,73.454,life_expectancy
+Peru,PER,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.275,life_expectancy
+Peru,PER,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.018,life_expectancy
+Peru,PER,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.958,life_expectancy
+Peru,PER,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.951,life_expectancy
+Peru,PER,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.732,life_expectancy
+Philippines,PHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,69.68,life_expectancy
+Philippines,PHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,69.761,life_expectancy
+Philippines,PHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,69.966,life_expectancy
+Philippines,PHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,69.49,life_expectancy
+Philippines,PHL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.45,life_expectancy
+Poland,POL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.9048780487805,life_expectancy
+Poland,POL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.6024390243903,life_expectancy
+Poland,POL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.7536585365854,life_expectancy
+Poland,POL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,77.8512195121951,life_expectancy
+Poland,POL,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,77.4512195121951,life_expectancy
+Portugal,PRT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.6756097560976,life_expectancy
+Portugal,PRT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.3243902439024,life_expectancy
+Portugal,PRT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.4243902439025,life_expectancy
+Portugal,PRT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.1243902439025,life_expectancy
+Portugal,PRT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.1243902439025,life_expectancy
+Puerto Rico (US),PRI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.438,life_expectancy
+Puerto Rico (US),PRI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.086,life_expectancy
+Puerto Rico (US),PRI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,79.07,life_expectancy
+Puerto Rico (US),PRI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,80.355,life_expectancy
+Puerto Rico (US),PRI,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,80.677,life_expectancy
+Qatar,QAT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.945,life_expectancy
+Qatar,QAT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.714,life_expectancy
+Qatar,QAT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.458,life_expectancy
+Qatar,QAT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.147,life_expectancy
+Qatar,QAT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,81.785,life_expectancy
+Romania,ROU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.6073170731707,life_expectancy
+Romania,ROU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.3585365853659,life_expectancy
+Romania,ROU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.209756097561,life_expectancy
+Romania,ROU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.209756097561,life_expectancy
+Romania,ROU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.9121951219512,life_expectancy
+Russian Federation,RUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,73.0839024390244,life_expectancy
+Russian Federation,RUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,72.6621951219512,life_expectancy
+Russian Federation,RUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,72.4514634146342,life_expectancy
+Russian Federation,RUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.6512195121951,life_expectancy
+Russian Federation,RUS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,71.1834146341463,life_expectancy
+Rwanda,RWA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,66.691,life_expectancy
+Rwanda,RWA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,66.354,life_expectancy
+Rwanda,RWA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,66.14,life_expectancy
+Rwanda,RWA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,65.733,life_expectancy
+Rwanda,RWA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,65.419,life_expectancy
+Samoa,WSM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.269,life_expectancy
+Samoa,WSM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.052,life_expectancy
+Samoa,WSM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,70.991,life_expectancy
+Samoa,WSM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.003,life_expectancy
+Samoa,WSM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,71.06,life_expectancy
+San Marino,SMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,85.257,life_expectancy
+San Marino,SMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,85.095,life_expectancy
+San Marino,SMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,84.933,life_expectancy
+San Marino,SMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,84.775,life_expectancy
+San Marino,SMR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,84.596,life_expectancy
+Sao Tome and Principe,STP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,68.043,life_expectancy
+Sao Tome and Principe,STP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,67.602,life_expectancy
+Sao Tome and Principe,STP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,67.074,life_expectancy
+Sao Tome and Principe,STP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,66.563,life_expectancy
+Sao Tome and Principe,STP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,66.023,life_expectancy
+Saudi Arabia,SAU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,78.313,life_expectancy
+Saudi Arabia,SAU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,78.75,life_expectancy
+Saudi Arabia,SAU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,78.721,life_expectancy
+Saudi Arabia,SAU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,78.354,life_expectancy
+Saudi Arabia,SAU,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,77.776,life_expectancy
+Senegal,SEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,67.668,life_expectancy
+Senegal,SEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,67.379,life_expectancy
+Senegal,SEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,67.059,life_expectancy
+Senegal,SEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,66.724,life_expectancy
+Senegal,SEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,66.451,life_expectancy
+Serbia,SRB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.9365853658537,life_expectancy
+Serbia,SRB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.890243902439,life_expectancy
+Serbia,SRB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.5390243902439,life_expectancy
+Serbia,SRB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.6878048780488,life_expectancy
+Serbia,SRB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.2878048780488,life_expectancy
+Seychelles,SYC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,74.0463414634146,life_expectancy
+Seychelles,SYC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,72.8414634146341,life_expectancy
+Seychelles,SYC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.3,life_expectancy
+Seychelles,SYC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.309756097561,life_expectancy
+Seychelles,SYC,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.2951219512195,life_expectancy
+Sierra Leone,SLE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,59.593,life_expectancy
+Sierra Leone,SLE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,59.059,life_expectancy
+Sierra Leone,SLE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,57.761,life_expectancy
+Sierra Leone,SLE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,56.937,life_expectancy
+Sierra Leone,SLE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,55.454,life_expectancy
+Singapore,SGP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,83.5951219512195,life_expectancy
+Singapore,SGP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,83.2975609756098,life_expectancy
+Singapore,SGP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,83.0951219512195,life_expectancy
+Singapore,SGP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.8463414634146,life_expectancy
+Singapore,SGP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.7439024390244,life_expectancy
+Sint Maarten (Dutch part),SXM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.68,life_expectancy
+Sint Maarten (Dutch part),SXM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.693,life_expectancy
+Sint Maarten (Dutch part),SXM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.455,life_expectancy
+Sint Maarten (Dutch part),SXM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.952,life_expectancy
+Sint Maarten (Dutch part),SXM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.899,life_expectancy
+Slovak Republic,SVK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.6658536585366,life_expectancy
+Slovak Republic,SVK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.2658536585366,life_expectancy
+Slovak Republic,SVK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.1658536585366,life_expectancy
+Slovak Republic,SVK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,77.1658536585366,life_expectancy
+Slovak Republic,SVK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.5634146341463,life_expectancy
+Slovenia,SVN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.5292682926829,life_expectancy
+Slovenia,SVN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.3780487804878,life_expectancy
+Slovenia,SVN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.0292682926829,life_expectancy
+Slovenia,SVN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.1756097560976,life_expectancy
+Slovenia,SVN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,80.7756097560976,life_expectancy
+Solomon Islands,SLB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,69.981,life_expectancy
+Solomon Islands,SLB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,69.806,life_expectancy
+Solomon Islands,SLB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,69.652,life_expectancy
+Solomon Islands,SLB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,69.501,life_expectancy
+Solomon Islands,SLB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.323,life_expectancy
+"Somalia, Fed. Rep.",SOM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,57.249,life_expectancy
+"Somalia, Fed. Rep.",SOM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,54.767,life_expectancy
+"Somalia, Fed. Rep.",SOM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,52.19,life_expectancy
+"Somalia, Fed. Rep.",SOM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,55.283,life_expectancy
+"Somalia, Fed. Rep.",SOM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,55.056,life_expectancy
+South Africa,ZAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,66.071,life_expectancy
+South Africa,ZAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,65.726,life_expectancy
+South Africa,ZAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,65.422,life_expectancy
+South Africa,ZAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,64.749,life_expectancy
+South Africa,ZAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,64.053,life_expectancy
+South Sudan,SSD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,58.129,life_expectancy
+South Sudan,SSD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,51.905,life_expectancy
+South Sudan,SSD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,35.351,life_expectancy
+South Sudan,SSD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,36.72,life_expectancy
+South Sudan,SSD,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,39.757,life_expectancy
+Spain,ESP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,83.8317073170732,life_expectancy
+Spain,ESP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,83.4317073170732,life_expectancy
+Spain,ESP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,83.2829268292683,life_expectancy
+Spain,ESP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,83.3292682926829,life_expectancy
+Spain,ESP,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.8317073170732,life_expectancy
+Sri Lanka,LKA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,76.698,life_expectancy
+Sri Lanka,LKA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,76.485,life_expectancy
+Sri Lanka,LKA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.239,life_expectancy
+Sri Lanka,LKA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.136,life_expectancy
+Sri Lanka,LKA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,75.99,life_expectancy
+St. Kitts and Nevis,KNA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.54,life_expectancy
+St. Kitts and Nevis,KNA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.336,life_expectancy
+St. Kitts and Nevis,KNA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.284,life_expectancy
+St. Kitts and Nevis,KNA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.227,life_expectancy
+St. Kitts and Nevis,KNA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,71.211,life_expectancy
+St. Lucia,LCA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.249,life_expectancy
+St. Lucia,LCA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,72.655,life_expectancy
+St. Lucia,LCA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,72.522,life_expectancy
+St. Lucia,LCA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,72.552,life_expectancy
+St. Lucia,LCA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,72.932,life_expectancy
+St. Martin (French part),MAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,80.078,life_expectancy
+St. Martin (French part),MAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,80.029,life_expectancy
+St. Martin (French part),MAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,78.762,life_expectancy
+St. Martin (French part),MAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,79.885,life_expectancy
+St. Martin (French part),MAF,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,79.829,life_expectancy
+St. Vincent and the Grenadines,VCT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.994,life_expectancy
+St. Vincent and the Grenadines,VCT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.017,life_expectancy
+St. Vincent and the Grenadines,VCT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.013,life_expectancy
+St. Vincent and the Grenadines,VCT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,70.7,life_expectancy
+St. Vincent and the Grenadines,VCT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.463,life_expectancy
+Sudan,SDN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,65.803,life_expectancy
+Sudan,SDN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,65.501,life_expectancy
+Sudan,SDN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,65.146,life_expectancy
+Sudan,SDN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,64.677,life_expectancy
+Sudan,SDN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,64.375,life_expectancy
+Suriname,SUR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,71.773,life_expectancy
+Suriname,SUR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.468,life_expectancy
+Suriname,SUR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.247,life_expectancy
+Suriname,SUR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,70.979,life_expectancy
+Suriname,SUR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.567,life_expectancy
+Sweden,SWE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,83.109756097561,life_expectancy
+Sweden,SWE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.5585365853659,life_expectancy
+Sweden,SWE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.409756097561,life_expectancy
+Sweden,SWE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.3073170731707,life_expectancy
+Sweden,SWE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.2048780487805,life_expectancy
+Switzerland,CHE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,83.9048780487805,life_expectancy
+Switzerland,CHE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,83.7536585365854,life_expectancy
+Switzerland,CHE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,83.5512195121951,life_expectancy
+Switzerland,CHE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,83.6024390243903,life_expectancy
+Switzerland,CHE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.8975609756098,life_expectancy
+Syrian Arab Republic,SYR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.97,life_expectancy
+Syrian Arab Republic,SYR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,67.371,life_expectancy
+Syrian Arab Republic,SYR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,65.651,life_expectancy
+Syrian Arab Republic,SYR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,65.19,life_expectancy
+Syrian Arab Republic,SYR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,63.265,life_expectancy
+Tajikistan,TJK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.962,life_expectancy
+Tajikistan,TJK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,70.737,life_expectancy
+Tajikistan,TJK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,70.524,life_expectancy
+Tajikistan,TJK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,69.982,life_expectancy
+Tajikistan,TJK,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.665,life_expectancy
+Tanzania,TZA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,66.007,life_expectancy
+Tanzania,TZA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,65.488,life_expectancy
+Tanzania,TZA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,64.963,life_expectancy
+Tanzania,TZA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,64.404,life_expectancy
+Tanzania,TZA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,63.928,life_expectancy
+Thailand,THA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.197,life_expectancy
+Thailand,THA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.19,life_expectancy
+Thailand,THA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,76.989,life_expectancy
+Thailand,THA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.769,life_expectancy
+Thailand,THA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.563,life_expectancy
+Timor-Leste,TLS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,66.496,life_expectancy
+Timor-Leste,TLS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,66.204,life_expectancy
+Timor-Leste,TLS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,65.898,life_expectancy
+Timor-Leste,TLS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,65.61,life_expectancy
+Timor-Leste,TLS,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,65.326,life_expectancy
+Togo,TGO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,61.061,life_expectancy
+Togo,TGO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,60.608,life_expectancy
+Togo,TGO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,60.145,life_expectancy
+Togo,TGO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,59.677,life_expectancy
+Togo,TGO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,59.23,life_expectancy
+Tonga,TON,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.292,life_expectancy
+Tonga,TON,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,72.169,life_expectancy
+Tonga,TON,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,72.066,life_expectancy
+Tonga,TON,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.951,life_expectancy
+Tonga,TON,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,71.851,life_expectancy
+Trinidad and Tobago,TTO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.836,life_expectancy
+Trinidad and Tobago,TTO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,72.658,life_expectancy
+Trinidad and Tobago,TTO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,72.984,life_expectancy
+Trinidad and Tobago,TTO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,72.935,life_expectancy
+Trinidad and Tobago,TTO,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,72.882,life_expectancy
+Tunisia,TUN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.599,life_expectancy
+Tunisia,TUN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.37,life_expectancy
+Tunisia,TUN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.177,life_expectancy
+Tunisia,TUN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,75.007,life_expectancy
+Tunisia,TUN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.875,life_expectancy
+Turkiye,TUR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.737,life_expectancy
+Turkiye,TUR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.454,life_expectancy
+Turkiye,TUR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.037,life_expectancy
+Turkiye,TUR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,76.595,life_expectancy
+Turkiye,TUR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,76.539,life_expectancy
+Turkmenistan,TKM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,69.405,life_expectancy
+Turkmenistan,TKM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,69.272,life_expectancy
+Turkmenistan,TKM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,69.19,life_expectancy
+Turkmenistan,TKM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,69.142,life_expectancy
+Turkmenistan,TKM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,69.061,life_expectancy
+Turks and Caicos Islands,TCA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.691,life_expectancy
+Turks and Caicos Islands,TCA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.596,life_expectancy
+Turks and Caicos Islands,TCA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.505,life_expectancy
+Turks and Caicos Islands,TCA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,77.437,life_expectancy
+Turks and Caicos Islands,TCA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,77.321,life_expectancy
+Tuvalu,TUV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,66.109,life_expectancy
+Tuvalu,TUV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,65.871,life_expectancy
+Tuvalu,TUV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,65.683,life_expectancy
+Tuvalu,TUV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,65.51,life_expectancy
+Tuvalu,TUV,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,65.365,life_expectancy
+Uganda,UGA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,66.354,life_expectancy
+Uganda,UGA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,65.775,life_expectancy
+Uganda,UGA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,65.174,life_expectancy
+Uganda,UGA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,64.494,life_expectancy
+Uganda,UGA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,63.831,life_expectancy
+Ukraine,UKR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,73.92,life_expectancy
+Ukraine,UKR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,73.569,life_expectancy
+Ukraine,UKR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,73.993,life_expectancy
+Ukraine,UKR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,73.389,life_expectancy
+Ukraine,UKR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,72.686,life_expectancy
+United Arab Emirates,ARE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,82.596,life_expectancy
+United Arab Emirates,ARE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,82.449,life_expectancy
+United Arab Emirates,ARE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,82.388,life_expectancy
+United Arab Emirates,ARE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,82.195,life_expectancy
+United Arab Emirates,ARE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,82.076,life_expectancy
+United Kingdom,GBR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,81.3691219512195,life_expectancy
+United Kingdom,GBR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,81.2560975609756,life_expectancy
+United Kingdom,GBR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,81.2560975609756,life_expectancy
+United Kingdom,GBR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,81.1560975609756,life_expectancy
+United Kingdom,GBR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,80.9560975609756,life_expectancy
+United States,USA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,78.7878048780488,life_expectancy
+United States,USA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,78.6390243902439,life_expectancy
+United States,USA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,78.5390243902439,life_expectancy
+United States,USA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,78.5390243902439,life_expectancy
+United States,USA,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,78.690243902439,life_expectancy
+Uruguay,URY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,77.503,life_expectancy
+Uruguay,URY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,77.527,life_expectancy
+Uruguay,URY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,77.618,life_expectancy
+Uruguay,URY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,77.351,life_expectancy
+Uruguay,URY,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,77.285,life_expectancy
+Uzbekistan,UZB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.093,life_expectancy
+Uzbekistan,UZB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,71.999,life_expectancy
+Uzbekistan,UZB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.737,life_expectancy
+Uzbekistan,UZB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,71.58,life_expectancy
+Uzbekistan,UZB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,71.33,life_expectancy
+Vanuatu,VUT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,70.783,life_expectancy
+Vanuatu,VUT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,70.626,life_expectancy
+Vanuatu,VUT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,70.5,life_expectancy
+Vanuatu,VUT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,70.397,life_expectancy
+Vanuatu,VUT,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,70.163,life_expectancy
+"Venezuela, RB",VEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,72.766,life_expectancy
+"Venezuela, RB",VEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,72.641,life_expectancy
+"Venezuela, RB",VEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,71.903,life_expectancy
+"Venezuela, RB",VEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,72.002,life_expectancy
+"Venezuela, RB",VEN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,73.004,life_expectancy
+Viet Nam,VNM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,74.211,life_expectancy
+Viet Nam,VNM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,74.1,life_expectancy
+Viet Nam,VNM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,74.026,life_expectancy
+Viet Nam,VNM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,73.984,life_expectancy
+Viet Nam,VNM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,73.955,life_expectancy
+Virgin Islands (U.S.),VIR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,79.6682926829268,life_expectancy
+Virgin Islands (U.S.),VIR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,79.5195121951219,life_expectancy
+Virgin Islands (U.S.),VIR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,79.3682926829268,life_expectancy
+Virgin Islands (U.S.),VIR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,79.1682926829268,life_expectancy
+Virgin Islands (U.S.),VIR,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,79.0170731707317,life_expectancy
+West Bank and Gaza,PSE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,75.811,life_expectancy
+West Bank and Gaza,PSE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,75.38,life_expectancy
+West Bank and Gaza,PSE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,75.216,life_expectancy
+West Bank and Gaza,PSE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,74.917,life_expectancy
+West Bank and Gaza,PSE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,74.577,life_expectancy
+"Yemen, Rep.",YEM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,66.567,life_expectancy
+"Yemen, Rep.",YEM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,65.915,life_expectancy
+"Yemen, Rep.",YEM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,67.12,life_expectancy
+"Yemen, Rep.",YEM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,67.105,life_expectancy
+"Yemen, Rep.",YEM,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,66.761,life_expectancy
+Zambia,ZMB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,62.914,life_expectancy
+Zambia,ZMB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,62.138,life_expectancy
+Zambia,ZMB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,61.564,life_expectancy
+Zambia,ZMB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,61.129,life_expectancy
+Zambia,ZMB,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,60.728,life_expectancy
+Zimbabwe,ZWE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,61.06,life_expectancy
+Zimbabwe,ZWE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,60.906,life_expectancy
+Zimbabwe,ZWE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,60.263,life_expectancy
+Zimbabwe,ZWE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,59.76,life_expectancy
+Zimbabwe,ZWE,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,58.989,life_expectancy

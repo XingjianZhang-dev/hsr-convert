@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,variable
+Africa Eastern and Southern,AFE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,26.2482004644559,air_pollution_pm25
+Africa Eastern and Southern,AFE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,27.4042948742715,air_pollution_pm25
+Africa Eastern and Southern,AFE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,27.3113771648908,air_pollution_pm25
+Africa Eastern and Southern,AFE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,28.8772739849101,air_pollution_pm25
+Africa Eastern and Southern,AFE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,29.5154675697179,air_pollution_pm25
+Africa Western and Central,AFW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,50.7719620968246,air_pollution_pm25
+Africa Western and Central,AFW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,56.0999508285847,air_pollution_pm25
+Africa Western and Central,AFW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,60.3446180405013,air_pollution_pm25
+Africa Western and Central,AFW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,62.8941317032516,air_pollution_pm25
+Africa Western and Central,AFW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,71.2950510903224,air_pollution_pm25
+Arab World,ARB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,44.547409419695,air_pollution_pm25
+Arab World,ARB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,46.3463472893316,air_pollution_pm25
+Arab World,ARB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,44.2491913615177,air_pollution_pm25
+Arab World,ARB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,44.5857989598965,air_pollution_pm25
+Arab World,ARB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,47.8180208835518,air_pollution_pm25
+Caribbean small states,CSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,24.7914879127927,air_pollution_pm25
+Caribbean small states,CSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,24.5180353908421,air_pollution_pm25
+Caribbean small states,CSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,24.2910078510874,air_pollution_pm25
+Caribbean small states,CSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,24.4503971569706,air_pollution_pm25
+Caribbean small states,CSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,25.0874236712079,air_pollution_pm25
+Central Europe and the Baltics,CEB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,16.2302813190693,air_pollution_pm25
+Central Europe and the Baltics,CEB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,19.2032082437593,air_pollution_pm25
+Central Europe and the Baltics,CEB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,18.8413210214867,air_pollution_pm25
+Central Europe and the Baltics,CEB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,18.3006726976986,air_pollution_pm25
+Central Europe and the Baltics,CEB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,19.4332167138755,air_pollution_pm25
+Early-demographic dividend,EAR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,44.1495122168698,air_pollution_pm25
+Early-demographic dividend,EAR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,48.9706788507683,air_pollution_pm25
+Early-demographic dividend,EAR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,48.0782735412804,air_pollution_pm25
+Early-demographic dividend,EAR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,53.0250907734294,air_pollution_pm25
+Early-demographic dividend,EAR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,52.634264149191,air_pollution_pm25
+East Asia & Pacific,EAS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,30.8216942002688,air_pollution_pm25
+East Asia & Pacific,EAS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,32.2676934652667,air_pollution_pm25
+East Asia & Pacific,EAS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,35.1596789432553,air_pollution_pm25
+East Asia & Pacific,EAS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,36.369601113891,air_pollution_pm25
+East Asia & Pacific,EAS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,38.662681585848,air_pollution_pm25
+East Asia & Pacific (excluding high income),EAP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,32.5213604698266,air_pollution_pm25
+East Asia & Pacific (excluding high income),EAP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,34.1392898734206,air_pollution_pm25
+East Asia & Pacific (excluding high income),EAP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,37.3351290826327,air_pollution_pm25
+East Asia & Pacific (excluding high income),EAP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,38.7050639380817,air_pollution_pm25
+East Asia & Pacific (excluding high income),EAP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,41.247982713486,air_pollution_pm25
+East Asia & Pacific (IDA & IBRD countries),TEA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,32.5384445958213,air_pollution_pm25
+East Asia & Pacific (IDA & IBRD countries),TEA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,34.1381780146109,air_pollution_pm25
+East Asia & Pacific (IDA & IBRD countries),TEA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,37.3117392961056,air_pollution_pm25
+East Asia & Pacific (IDA & IBRD countries),TEA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,38.7056534681092,air_pollution_pm25
+East Asia & Pacific (IDA & IBRD countries),TEA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,41.2312562979365,air_pollution_pm25
+Euro area,EMU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,11.2159499272294,air_pollution_pm25
+Euro area,EMU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,12.2595766003562,air_pollution_pm25
+Euro area,EMU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,12.2622909546395,air_pollution_pm25
+Euro area,EMU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,12.1345572421332,air_pollution_pm25
+Euro area,EMU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,13.3172582803667,air_pollution_pm25
+Europe & Central Asia,ECS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,14.88622168831,air_pollution_pm25
+Europe & Central Asia,ECS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,15.8466866698466,air_pollution_pm25
+Europe & Central Asia,ECS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,15.5673478939838,air_pollution_pm25
+Europe & Central Asia,ECS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,15.8861861980422,air_pollution_pm25
+Europe & Central Asia,ECS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,16.7917782026538,air_pollution_pm25
+Europe & Central Asia (excluding high income),ECA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,23.5029340389912,air_pollution_pm25
+Europe & Central Asia (excluding high income),ECA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,24.1154036682319,air_pollution_pm25
+Europe & Central Asia (excluding high income),ECA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,23.4907223556572,air_pollution_pm25
+Europe & Central Asia (excluding high income),ECA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,24.8068246830837,air_pollution_pm25
+Europe & Central Asia (excluding high income),ECA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,25.6953593237258,air_pollution_pm25
+Europe & Central Asia (IDA & IBRD countries),TEC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,18.865927743613,air_pollution_pm25
+Europe & Central Asia (IDA & IBRD countries),TEC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,19.8337542471302,air_pollution_pm25
+Europe & Central Asia (IDA & IBRD countries),TEC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,19.2757501706551,air_pollution_pm25
+Europe & Central Asia (IDA & IBRD countries),TEC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,20.0832449289886,air_pollution_pm25
+Europe & Central Asia (IDA & IBRD countries),TEC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,20.8503082385147,air_pollution_pm25
+European Union,EUU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,12.1227436851835,air_pollution_pm25
+European Union,EUU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,13.5239533882488,air_pollution_pm25
+European Union,EUU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,13.4914719266257,air_pollution_pm25
+European Union,EUU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,13.2567071042758,air_pollution_pm25
+European Union,EUU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,14.4154231988792,air_pollution_pm25
+Fragile and conflict affected situations,FCS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,37.8540098347409,air_pollution_pm25
+Fragile and conflict affected situations,FCS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,40.8860514086013,air_pollution_pm25
+Fragile and conflict affected situations,FCS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,41.9840749636173,air_pollution_pm25
+Fragile and conflict affected situations,FCS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,43.6296031974678,air_pollution_pm25
+Fragile and conflict affected situations,FCS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,47.3622831035329,air_pollution_pm25
+Heavily indebted poor countries (HIPC),HPC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,35.5686496689578,air_pollution_pm25
+Heavily indebted poor countries (HIPC),HPC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,38.5048262502028,air_pollution_pm25
+Heavily indebted poor countries (HIPC),HPC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,39.3143032713362,air_pollution_pm25
+Heavily indebted poor countries (HIPC),HPC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,41.3867077775278,air_pollution_pm25
+Heavily indebted poor countries (HIPC),HPC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,43.5867398626593,air_pollution_pm25
+High income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,13.0657851467942,air_pollution_pm25
+High income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,13.9927756761964,air_pollution_pm25
+High income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,13.8840947254983,air_pollution_pm25
+High income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,13.6798632007826,air_pollution_pm25
+High income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,14.6228154837683,air_pollution_pm25
+IBRD only,IBD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,37.5215266322461,air_pollution_pm25
+IBRD only,IBD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,40.8133761258392,air_pollution_pm25
+IBRD only,IBD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,41.8172103482547,air_pollution_pm25
+IBRD only,IBD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,44.9705331809838,air_pollution_pm25
+IBRD only,IBD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,45.7884899014967,air_pollution_pm25
+IDA & IBRD total,IBT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,38.2582686933112,air_pollution_pm25
+IDA & IBRD total,IBT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,41.8336248484011,air_pollution_pm25
+IDA & IBRD total,IBT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,42.7505543446415,air_pollution_pm25
+IDA & IBRD total,IBT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,45.8979624594539,air_pollution_pm25
+IDA & IBRD total,IBT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,47.1276568166284,air_pollution_pm25
+IDA blend,IDB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,45.8883209384769,air_pollution_pm25
+IDA blend,IDB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,51.7473354401821,air_pollution_pm25
+IDA blend,IDB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,53.6160841411225,air_pollution_pm25
+IDA blend,IDB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,57.7976047233912,air_pollution_pm25
+IDA blend,IDB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,62.2537310344528,air_pollution_pm25
+IDA only,IDX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,37.2740818027124,air_pollution_pm25
+IDA only,IDX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,40.8734211500277,air_pollution_pm25
+IDA only,IDX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,40.9371989553367,air_pollution_pm25
+IDA only,IDX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,43.5314466112027,air_pollution_pm25
+IDA only,IDX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,44.8893258291093,air_pollution_pm25
+IDA total,IDA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,40.3011137881686,air_pollution_pm25
+IDA total,IDA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,44.7028555449801,air_pollution_pm25
+IDA total,IDA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,45.4101931621217,air_pollution_pm25
+IDA total,IDA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,48.5732404663417,air_pollution_pm25
+IDA total,IDA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,51.0361568100881,air_pollution_pm25
+Late-demographic dividend,LTE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,30.0405840393293,air_pollution_pm25
+Late-demographic dividend,LTE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,31.9890231861905,air_pollution_pm25
+Late-demographic dividend,LTE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,35.2587900431779,air_pollution_pm25
+Late-demographic dividend,LTE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,36.0750563117696,air_pollution_pm25
+Late-demographic dividend,LTE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,38.6299466644001,air_pollution_pm25
+Latin America & Caribbean,LCN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,15.6088004621928,air_pollution_pm25
+Latin America & Caribbean,LCN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,16.4492061507637,air_pollution_pm25
+Latin America & Caribbean,LCN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,17.2001313207583,air_pollution_pm25
+Latin America & Caribbean,LCN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,17.4280992975449,air_pollution_pm25
+Latin America & Caribbean,LCN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.8278668027139,air_pollution_pm25
+Latin America & Caribbean (excluding high income),LAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,15.497075252752,air_pollution_pm25
+Latin America & Caribbean (excluding high income),LAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,16.3297687093026,air_pollution_pm25
+Latin America & Caribbean (excluding high income),LAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,16.98920083434,air_pollution_pm25
+Latin America & Caribbean (excluding high income),LAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,17.2341639605082,air_pollution_pm25
+Latin America & Caribbean (excluding high income),LAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.6413126814833,air_pollution_pm25
+Latin America & the Caribbean (IDA & IBRD countries),TLA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,15.5706987279673,air_pollution_pm25
+Latin America & the Caribbean (IDA & IBRD countries),TLA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,16.4202036623497,air_pollution_pm25
+Latin America & the Caribbean (IDA & IBRD countries),TLA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,17.2031574893667,air_pollution_pm25
+Latin America & the Caribbean (IDA & IBRD countries),TLA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,17.446059380614,air_pollution_pm25
+Latin America & the Caribbean (IDA & IBRD countries),TLA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.8269616319536,air_pollution_pm25
+Least developed countries: UN classification,LDC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,37.4649677877049,air_pollution_pm25
+Least developed countries: UN classification,LDC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,41.0561153778213,air_pollution_pm25
+Least developed countries: UN classification,LDC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,41.0557055739165,air_pollution_pm25
+Least developed countries: UN classification,LDC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,43.7317610401117,air_pollution_pm25
+Least developed countries: UN classification,LDC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,45.0317600641589,air_pollution_pm25
+Low & middle income,LMY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,39.4291491292704,air_pollution_pm25
+Low & middle income,LMY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,43.14389519273,air_pollution_pm25
+Low & middle income,LMY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,44.1394159148278,air_pollution_pm25
+Low & middle income,LMY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,47.4541262382715,air_pollution_pm25
+Low & middle income,LMY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,48.7496729763595,air_pollution_pm25
+Low income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,37.0987478676556,air_pollution_pm25
+Low income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,40.261494035503,air_pollution_pm25
+Low income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,40.7570853499682,air_pollution_pm25
+Low income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,42.8031041279467,air_pollution_pm25
+Low income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,44.9279552924564,air_pollution_pm25
+Lower middle income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,49.5946039090667,air_pollution_pm25
+Lower middle income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,55.40241525585,air_pollution_pm25
+Lower middle income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,55.0479453244675,air_pollution_pm25
+Lower middle income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,60.7717815168797,air_pollution_pm25
+Lower middle income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,61.1144589246858,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,46.1568632964845,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,50.5448634555908,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,48.6324222751108,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,51.6291694822837,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,53.4997565186542,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,45.8432295861506,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,50.2268614948156,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,48.3654595914956,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,51.782618938572,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,53.2102621908258,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,45.9552723501623,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,50.3720311978687,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,48.5135885247852,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,51.9543574577219,air_pollution_pm25
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,53.3641867173599,air_pollution_pm25
+Middle income,MIC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,39.6520858549232,air_pollution_pm25
+Middle income,MIC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,43.4145945585241,air_pollution_pm25
+Middle income,MIC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,44.4516696948918,air_pollution_pm25
+Middle income,MIC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,47.8768281646654,air_pollution_pm25
+Middle income,MIC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,49.0920199097626,air_pollution_pm25
+North America,NAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,7.07896959072821,air_pollution_pm25
+North America,NAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,7.74789633616792,air_pollution_pm25
+North America,NAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,7.71537801487198,air_pollution_pm25
+North America,NAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,7.30805263494774,air_pollution_pm25
+North America,NAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,8.08318973903406,air_pollution_pm25
+Not classified,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+Not classified,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+Not classified,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+Not classified,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+Not classified,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+OECD members,OED,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,12.2974212282563,air_pollution_pm25
+OECD members,OED,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,13.0757295843327,air_pollution_pm25
+OECD members,OED,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,13.2169830118644,air_pollution_pm25
+OECD members,OED,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,13.1674367904382,air_pollution_pm25
+OECD members,OED,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,13.8881671718144,air_pollution_pm25
+Other small states,OSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,17.74381796293,air_pollution_pm25
+Other small states,OSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,18.2395328707061,air_pollution_pm25
+Other small states,OSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,18.6715070500379,air_pollution_pm25
+Other small states,OSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,18.5839861042619,air_pollution_pm25
+Other small states,OSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,19.6115523816312,air_pollution_pm25
+Pacific island small states,PSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,13.2360653228674,air_pollution_pm25
+Pacific island small states,PSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,13.1563320501503,air_pollution_pm25
+Pacific island small states,PSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,12.5113266643808,air_pollution_pm25
+Pacific island small states,PSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,12.5800998210283,air_pollution_pm25
+Pacific island small states,PSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,12.3695082529369,air_pollution_pm25
+Post-demographic dividend,PST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,10.9758221754856,air_pollution_pm25
+Post-demographic dividend,PST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,11.6803160111327,air_pollution_pm25
+Post-demographic dividend,PST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,11.6030414541345,air_pollution_pm25
+Post-demographic dividend,PST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,11.4183427703348,air_pollution_pm25
+Post-demographic dividend,PST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,12.223838361995,air_pollution_pm25
+Pre-demographic dividend,PRE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,38.9439660966704,air_pollution_pm25
+Pre-demographic dividend,PRE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,42.3933399914638,air_pollution_pm25
+Pre-demographic dividend,PRE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,44.1113378923346,air_pollution_pm25
+Pre-demographic dividend,PRE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,46.5479892674458,air_pollution_pm25
+Pre-demographic dividend,PRE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,50.9041075965194,air_pollution_pm25
+Small states,SST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,18.7666844518979,air_pollution_pm25
+Small states,SST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,19.0124959643295,air_pollution_pm25
+Small states,SST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,19.1524631727984,air_pollution_pm25
+Small states,SST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,19.1512628948974,air_pollution_pm25
+Small states,SST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,19.9313126639008,air_pollution_pm25
+South Asia,SAS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,58.2935425668225,air_pollution_pm25
+South Asia,SAS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,66.4887236040748,air_pollution_pm25
+South Asia,SAS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,65.6394173638382,air_pollution_pm25
+South Asia,SAS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,73.6717257879879,air_pollution_pm25
+South Asia,SAS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,71.9555511289278,air_pollution_pm25
+South Asia (IDA & IBRD),TSA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,58.2935425668224,air_pollution_pm25
+South Asia (IDA & IBRD),TSA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,66.4887236040748,air_pollution_pm25
+South Asia (IDA & IBRD),TSA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,65.6394173638382,air_pollution_pm25
+South Asia (IDA & IBRD),TSA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,73.6717257879879,air_pollution_pm25
+South Asia (IDA & IBRD),TSA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,71.9555511289278,air_pollution_pm25
+Sub-Saharan Africa,SSF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,36.2221384584107,air_pollution_pm25
+Sub-Saharan Africa,SSF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,39.0944691727479,air_pollution_pm25
+Sub-Saharan Africa,SSF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,40.7846217866119,air_pollution_pm25
+Sub-Saharan Africa,SSF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,42.7530014483733,air_pollution_pm25
+Sub-Saharan Africa,SSF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,46.5544222062187,air_pollution_pm25
+Sub-Saharan Africa (excluding high income),SSA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,37.0767047127315,air_pollution_pm25
+Sub-Saharan Africa (excluding high income),SSA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,40.0951770367791,air_pollution_pm25
+Sub-Saharan Africa (excluding high income),SSA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,41.9589535225616,air_pollution_pm25
+Sub-Saharan Africa (excluding high income),SSA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,44.0903480367729,air_pollution_pm25
+Sub-Saharan Africa (excluding high income),SSA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,48.2618368644143,air_pollution_pm25
+Sub-Saharan Africa (IDA & IBRD countries),TSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,36.2221384584107,air_pollution_pm25
+Sub-Saharan Africa (IDA & IBRD countries),TSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,39.0944691727479,air_pollution_pm25
+Sub-Saharan Africa (IDA & IBRD countries),TSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,40.7846217866119,air_pollution_pm25
+Sub-Saharan Africa (IDA & IBRD countries),TSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,42.7530014483733,air_pollution_pm25
+Sub-Saharan Africa (IDA & IBRD countries),TSS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,46.5544222062187,air_pollution_pm25
+Upper middle income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,29.133306073931,air_pollution_pm25
+Upper middle income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,30.8217364826887,air_pollution_pm25
+Upper middle income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,33.3950580976345,air_pollution_pm25
+Upper middle income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,34.5104069350176,air_pollution_pm25
+Upper middle income,,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,36.7164565239054,air_pollution_pm25
+World,WLD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,34.4926075995231,air_pollution_pm25
+World,WLD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,37.6338719238109,air_pollution_pm25
+World,WLD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,38.3856772409041,air_pollution_pm25
+World,WLD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,40.9705092247096,air_pollution_pm25
+World,WLD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,42.1556505072571,air_pollution_pm25
+Afghanistan,AFG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,58.3308722306744,air_pollution_pm25
+Afghanistan,AFG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,67.2271774798558,air_pollution_pm25
+Afghanistan,AFG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,65.8623470043896,air_pollution_pm25
+Afghanistan,AFG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,72.7659101386992,air_pollution_pm25
+Afghanistan,AFG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,73.4908176326415,air_pollution_pm25
+Albania,ALB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,15.70470712234,air_pollution_pm25
+Albania,ALB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,19.0461862321065,air_pollution_pm25
+Albania,ALB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,18.5552438171978,air_pollution_pm25
+Albania,ALB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,17.602163992984,air_pollution_pm25
+Albania,ALB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,19.121557306579,air_pollution_pm25
+Algeria,DZA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,24.3886086444981,air_pollution_pm25
+Algeria,DZA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,24.9335900639775,air_pollution_pm25
+Algeria,DZA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,24.7521457818965,air_pollution_pm25
+Algeria,DZA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,25.5531525527547,air_pollution_pm25
+Algeria,DZA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,25.6188658260447,air_pollution_pm25
+American Samoa,ASM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,6.72853173807719,air_pollution_pm25
+American Samoa,ASM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,6.98174556652016,air_pollution_pm25
+American Samoa,ASM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,6.92339918062073,air_pollution_pm25
+American Samoa,ASM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,6.92969282658657,air_pollution_pm25
+American Samoa,ASM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,6.34587688465646,air_pollution_pm25
+Andorra,AND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,9.01087465277866,air_pollution_pm25
+Andorra,AND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,9.89580638748632,air_pollution_pm25
+Andorra,AND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,10.0219190390452,air_pollution_pm25
+Andorra,AND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,10.1068248002358,air_pollution_pm25
+Andorra,AND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,11.1088936507291,air_pollution_pm25
+Angola,AGO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,24.5988113283925,air_pollution_pm25
+Angola,AGO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,24.2650153621146,air_pollution_pm25
+Angola,AGO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,23.9591508117097,air_pollution_pm25
+Angola,AGO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,25.1807008149163,air_pollution_pm25
+Angola,AGO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,25.0021502571501,air_pollution_pm25
+Antigua and Barbuda,ATG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,19.0584631585727,air_pollution_pm25
+Antigua and Barbuda,ATG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,18.9233007168875,air_pollution_pm25
+Antigua and Barbuda,ATG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,19.0159494088973,air_pollution_pm25
+Antigua and Barbuda,ATG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,19.9208792974299,air_pollution_pm25
+Antigua and Barbuda,ATG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,19.7963197860936,air_pollution_pm25
+Argentina,ARG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,14.3996238920365,air_pollution_pm25
+Argentina,ARG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,14.1850800443346,air_pollution_pm25
+Argentina,ARG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,13.9690174802422,air_pollution_pm25
+Argentina,ARG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,14.2700594540808,air_pollution_pm25
+Argentina,ARG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,14.6245514656634,air_pollution_pm25
+Armenia,ARM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,32.6618235324139,air_pollution_pm25
+Armenia,ARM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,34.201366074335,air_pollution_pm25
+Armenia,ARM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,34.0153569947094,air_pollution_pm25
+Armenia,ARM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,35.8609078798257,air_pollution_pm25
+Armenia,ARM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,38.1148586893988,air_pollution_pm25
+Aruba,ABW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+Aruba,ABW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+Aruba,ABW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+Aruba,ABW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+Aruba,ABW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Australia,AUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,9.33099031566264,air_pollution_pm25
+Australia,AUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,7.74121920379958,air_pollution_pm25
+Australia,AUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,7.4285359593217,air_pollution_pm25
+Australia,AUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,7.20069562395068,air_pollution_pm25
+Australia,AUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,7.18466162026884,air_pollution_pm25
+Austria,AUT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,11.4645937760057,air_pollution_pm25
+Austria,AUT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,12.5861934480679,air_pollution_pm25
+Austria,AUT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,12.1557592255042,air_pollution_pm25
+Austria,AUT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,12.5143795701306,air_pollution_pm25
+Austria,AUT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,13.5999635409,air_pollution_pm25
+Azerbaijan,AZE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,22.023834941184,air_pollution_pm25
+Azerbaijan,AZE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,23.2360923544978,air_pollution_pm25
+Azerbaijan,AZE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,23.2421881518978,air_pollution_pm25
+Azerbaijan,AZE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,24.3527968807853,air_pollution_pm25
+Azerbaijan,AZE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,25.1867220505416,air_pollution_pm25
+"Bahamas, The",BHS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,18.5659528939643,air_pollution_pm25
+"Bahamas, The",BHS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,18.5796799431178,air_pollution_pm25
+"Bahamas, The",BHS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,18.3612464143857,air_pollution_pm25
+"Bahamas, The",BHS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,18.49778336767,air_pollution_pm25
+"Bahamas, The",BHS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,19.1256311837319,air_pollution_pm25
+Bahrain,BHR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,59.9655174851019,air_pollution_pm25
+Bahrain,BHR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,71.8872328410934,air_pollution_pm25
+Bahrain,BHR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,61.237494601176,air_pollution_pm25
+Bahrain,BHR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,64.2193035294402,air_pollution_pm25
+Bahrain,BHR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,71.5594978371491,air_pollution_pm25
+Bangladesh,BGD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,50.3645265388691,air_pollution_pm25
+Bangladesh,BGD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,59.513577848333,air_pollution_pm25
+Bangladesh,BGD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,58.3439766448258,air_pollution_pm25
+Bangladesh,BGD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,63.6784141329752,air_pollution_pm25
+Bangladesh,BGD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,64.1084295201163,air_pollution_pm25
+Barbados,BRB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,23.3255430894091,air_pollution_pm25
+Barbados,BRB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,23.2651852221243,air_pollution_pm25
+Barbados,BRB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,23.2878109296981,air_pollution_pm25
+Barbados,BRB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,24.4150757393389,air_pollution_pm25
+Barbados,BRB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,24.1787536225197,air_pollution_pm25
+Belarus,BLR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,15.6177925850738,air_pollution_pm25
+Belarus,BLR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,16.9825400264261,air_pollution_pm25
+Belarus,BLR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,15.7775132293532,air_pollution_pm25
+Belarus,BLR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,15.8319434819688,air_pollution_pm25
+Belarus,BLR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.6059281150121,air_pollution_pm25
+Belgium,BEL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,11.2143791835506,air_pollution_pm25
+Belgium,BEL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,12.4925874999047,air_pollution_pm25
+Belgium,BEL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,12.7691577876359,air_pollution_pm25
+Belgium,BEL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,12.3939007132505,air_pollution_pm25
+Belgium,BEL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,13.3390429399775,air_pollution_pm25
+Belize,BLZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,26.1465334719171,air_pollution_pm25
+Belize,BLZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,26.7474102969967,air_pollution_pm25
+Belize,BLZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,26.1751165590281,air_pollution_pm25
+Belize,BLZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,25.608806996967,air_pollution_pm25
+Belize,BLZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,27.5566748212023,air_pollution_pm25
+Benin,BEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,46.5625275293874,air_pollution_pm25
+Benin,BEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,54.0562679352757,air_pollution_pm25
+Benin,BEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,58.3879587239383,air_pollution_pm25
+Benin,BEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,59.4793406242621,air_pollution_pm25
+Benin,BEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,66.6561284323416,air_pollution_pm25
+Bermuda,BMU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,7.20679905172813,air_pollution_pm25
+Bermuda,BMU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,7.39756678060384,air_pollution_pm25
+Bermuda,BMU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,7.67124972072296,air_pollution_pm25
+Bermuda,BMU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,7.54273526156963,air_pollution_pm25
+Bermuda,BMU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,6.97448269449194,air_pollution_pm25
+Bhutan,BTN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,30.051897764158,air_pollution_pm25
+Bhutan,BTN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,34.0838819368766,air_pollution_pm25
+Bhutan,BTN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,33.8115150358203,air_pollution_pm25
+Bhutan,BTN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,36.9416122831151,air_pollution_pm25
+Bhutan,BTN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,37.4856911286561,air_pollution_pm25
+Bolivia,BOL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,24.4849924422413,air_pollution_pm25
+Bolivia,BOL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,25.1667590386614,air_pollution_pm25
+Bolivia,BOL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,26.5418633872389,air_pollution_pm25
+Bolivia,BOL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,28.0546140290721,air_pollution_pm25
+Bolivia,BOL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,27.4574711709407,air_pollution_pm25
+Bosnia and Herzegovina,BIH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,26.7157922521039,air_pollution_pm25
+Bosnia and Herzegovina,BIH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,32.4989922059154,air_pollution_pm25
+Bosnia and Herzegovina,BIH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,30.9018207776211,air_pollution_pm25
+Bosnia and Herzegovina,BIH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,30.384676952561,air_pollution_pm25
+Bosnia and Herzegovina,BIH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,33.8055310132726,air_pollution_pm25
+Botswana,BWA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,19.2035484352255,air_pollution_pm25
+Botswana,BWA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,19.9110410814922,air_pollution_pm25
+Botswana,BWA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,19.9663232166838,air_pollution_pm25
+Botswana,BWA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,21.2522533064009,air_pollution_pm25
+Botswana,BWA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,22.0461450923733,air_pollution_pm25
+Brazil,BRA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,12.3488400923542,air_pollution_pm25
+Brazil,BRA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,12.2516401526844,air_pollution_pm25
+Brazil,BRA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,12.2193388464901,air_pollution_pm25
+Brazil,BRA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,12.1085038135727,air_pollution_pm25
+Brazil,BRA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,12.4042007642389,air_pollution_pm25
+British Virgin Islands,VGB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+British Virgin Islands,VGB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+British Virgin Islands,VGB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+British Virgin Islands,VGB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+British Virgin Islands,VGB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Brunei Darussalam,BRN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,7.94585811311948,air_pollution_pm25
+Brunei Darussalam,BRN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,7.49485587718805,air_pollution_pm25
+Brunei Darussalam,BRN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,7.23064895379441,air_pollution_pm25
+Brunei Darussalam,BRN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,7.70809372713425,air_pollution_pm25
+Brunei Darussalam,BRN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,7.76801290951484,air_pollution_pm25
+Bulgaria,BGR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,17.5380256575647,air_pollution_pm25
+Bulgaria,BGR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,19.7159830127087,air_pollution_pm25
+Bulgaria,BGR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,20.0337858184501,air_pollution_pm25
+Bulgaria,BGR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,19.979167405734,air_pollution_pm25
+Bulgaria,BGR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,20.7936901250081,air_pollution_pm25
+Burkina Faso,BFA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,50.7057233570721,air_pollution_pm25
+Burkina Faso,BFA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,58.1036119011901,air_pollution_pm25
+Burkina Faso,BFA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,60.3100692778775,air_pollution_pm25
+Burkina Faso,BFA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,66.0917117316937,air_pollution_pm25
+Burkina Faso,BFA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,71.873244459767,air_pollution_pm25
+Burundi,BDI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,28.7747369895123,air_pollution_pm25
+Burundi,BDI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,28.3384994863636,air_pollution_pm25
+Burundi,BDI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,29.3039698472733,air_pollution_pm25
+Burundi,BDI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,30.7630623664928,air_pollution_pm25
+Burundi,BDI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,30.120746318795,air_pollution_pm25
+Cabo Verde,CPV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,39.3519135244555,air_pollution_pm25
+Cabo Verde,CPV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,31.7384229474609,air_pollution_pm25
+Cabo Verde,CPV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,53.8692623569653,air_pollution_pm25
+Cabo Verde,CPV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,43.0314900855625,air_pollution_pm25
+Cabo Verde,CPV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,51.4204136901671,air_pollution_pm25
+Cambodia,KHM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,22.9738017157091,air_pollution_pm25
+Cambodia,KHM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,22.9919425508182,air_pollution_pm25
+Cambodia,KHM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,20.7075312769695,air_pollution_pm25
+Cambodia,KHM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,22.4071810127085,air_pollution_pm25
+Cambodia,KHM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,21.599028896344,air_pollution_pm25
+Cameroon,CMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,40.7355761870464,air_pollution_pm25
+Cameroon,CMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,40.8875596706757,air_pollution_pm25
+Cameroon,CMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,43.2149077099804,air_pollution_pm25
+Cameroon,CMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,44.7692534342126,air_pollution_pm25
+Cameroon,CMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,51.9499452409616,air_pollution_pm25
+Canada,CAN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,6.22680169266749,air_pollution_pm25
+Canada,CAN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,7.09175111254794,air_pollution_pm25
+Canada,CAN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,7.04492025305158,air_pollution_pm25
+Canada,CAN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,6.40675155079521,air_pollution_pm25
+Canada,CAN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,7.11576183142395,air_pollution_pm25
+Cayman Islands,CYM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+Cayman Islands,CYM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+Cayman Islands,CYM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+Cayman Islands,CYM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+Cayman Islands,CYM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Central African Republic,CAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,34.9143760112605,air_pollution_pm25
+Central African Republic,CAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,31.9740977574518,air_pollution_pm25
+Central African Republic,CAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,33.885383156685,air_pollution_pm25
+Central African Republic,CAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,34.4108147859314,air_pollution_pm25
+Central African Republic,CAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,38.5999376665904,air_pollution_pm25
+Chad,TCD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,51.8673577081314,air_pollution_pm25
+Chad,TCD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,54.3808173498018,air_pollution_pm25
+Chad,TCD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,56.2506214671266,air_pollution_pm25
+Chad,TCD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,58.3859502502274,air_pollution_pm25
+Chad,TCD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,64.3827504839855,air_pollution_pm25
+Channel Islands,CHI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+Channel Islands,CHI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+Channel Islands,CHI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+Channel Islands,CHI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+Channel Islands,CHI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Chile,CHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,22.7323927701622,air_pollution_pm25
+Chile,CHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,23.0512130318909,air_pollution_pm25
+Chile,CHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,23.4116041349236,air_pollution_pm25
+Chile,CHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,24.2218424802596,air_pollution_pm25
+Chile,CHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,24.2782298076617,air_pollution_pm25
+China,CHN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,37.5475753654351,air_pollution_pm25
+China,CHN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,40.2663875187565,air_pollution_pm25
+China,CHN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,45.8369336166997,air_pollution_pm25
+China,CHN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,46.8324682508133,air_pollution_pm25
+China,CHN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,50.832537964484,air_pollution_pm25
+Colombia,COL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,14.5158658042874,air_pollution_pm25
+Colombia,COL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,16.0492875724803,air_pollution_pm25
+Colombia,COL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,17.2528522521135,air_pollution_pm25
+Colombia,COL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,17.312215487627,air_pollution_pm25
+Colombia,COL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.6079787372288,air_pollution_pm25
+Comoros,COM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,10.4127200490569,air_pollution_pm25
+Comoros,COM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,11.6282907601438,air_pollution_pm25
+Comoros,COM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,10.8598778552179,air_pollution_pm25
+Comoros,COM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,12.204174846154,air_pollution_pm25
+Comoros,COM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,11.9089280291946,air_pollution_pm25
+"Congo, Dem. Rep.",COD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,26.3379328931586,air_pollution_pm25
+"Congo, Dem. Rep.",COD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,26.7227743114458,air_pollution_pm25
+"Congo, Dem. Rep.",COD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,26.8446579950641,air_pollution_pm25
+"Congo, Dem. Rep.",COD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,26.7550295099953,air_pollution_pm25
+"Congo, Dem. Rep.",COD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,28.461870876218,air_pollution_pm25
+"Congo, Rep.",COG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,28.7484172141318,air_pollution_pm25
+"Congo, Rep.",COG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,27.9644662335483,air_pollution_pm25
+"Congo, Rep.",COG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,28.5831067984323,air_pollution_pm25
+"Congo, Rep.",COG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,28.2160787153425,air_pollution_pm25
+"Congo, Rep.",COG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,30.5591063026375,air_pollution_pm25
+Costa Rica,CRI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,13.3766440949763,air_pollution_pm25
+Costa Rica,CRI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,15.1307436338713,air_pollution_pm25
+Costa Rica,CRI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,17.165875341513,air_pollution_pm25
+Costa Rica,CRI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,16.8973562895418,air_pollution_pm25
+Costa Rica,CRI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.6636155108417,air_pollution_pm25
+Cote d'Ivoire,CIV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,44.3324266688486,air_pollution_pm25
+Cote d'Ivoire,CIV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,50.8958061004876,air_pollution_pm25
+Cote d'Ivoire,CIV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,50.6654421695962,air_pollution_pm25
+Cote d'Ivoire,CIV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,55.6539855341019,air_pollution_pm25
+Cote d'Ivoire,CIV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,61.954609777616,air_pollution_pm25
+Croatia,HRV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,15.914853988952,air_pollution_pm25
+Croatia,HRV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,20.0014497847215,air_pollution_pm25
+Croatia,HRV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,18.7613905967833,air_pollution_pm25
+Croatia,HRV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,18.1778313300349,air_pollution_pm25
+Croatia,HRV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,20.1718710437292,air_pollution_pm25
+Cuba,CUB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,20.3431122356184,air_pollution_pm25
+Cuba,CUB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,20.9153664764928,air_pollution_pm25
+Cuba,CUB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,20.1327865141339,air_pollution_pm25
+Cuba,CUB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,19.7476038869862,air_pollution_pm25
+Cuba,CUB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,21.4005165459257,air_pollution_pm25
+Curacao,CUW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+Curacao,CUW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+Curacao,CUW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+Curacao,CUW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+Curacao,CUW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Cyprus,CYP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,15.0066614653737,air_pollution_pm25
+Cyprus,CYP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,15.24949999422,air_pollution_pm25
+Cyprus,CYP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,15.1071226081124,air_pollution_pm25
+Cyprus,CYP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,14.4813342529054,air_pollution_pm25
+Cyprus,CYP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,16.9122147785325,air_pollution_pm25
+Czechia,CZE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,14.2336874017967,air_pollution_pm25
+Czechia,CZE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,17.3467438168398,air_pollution_pm25
+Czechia,CZE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,16.9432784272519,air_pollution_pm25
+Czechia,CZE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,16.9928991704268,air_pollution_pm25
+Czechia,CZE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.8128111083862,air_pollution_pm25
+Denmark,DNK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,9.61197285377196,air_pollution_pm25
+Denmark,DNK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,10.3539340590391,air_pollution_pm25
+Denmark,DNK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,10.0945595167367,air_pollution_pm25
+Denmark,DNK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,9.23431703209402,air_pollution_pm25
+Denmark,DNK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,10.2267270069046,air_pollution_pm25
+Djibouti,DJI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,39.7218573893781,air_pollution_pm25
+Djibouti,DJI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,43.0573056895078,air_pollution_pm25
+Djibouti,DJI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,44.0854038430172,air_pollution_pm25
+Djibouti,DJI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,44.0959715411584,air_pollution_pm25
+Djibouti,DJI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,45.1648934739259,air_pollution_pm25
+Dominica,DMA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,20.0434244381572,air_pollution_pm25
+Dominica,DMA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,20.3127256712935,air_pollution_pm25
+Dominica,DMA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,20.1703226562748,air_pollution_pm25
+Dominica,DMA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,21.0269310891431,air_pollution_pm25
+Dominica,DMA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,21.0213905070044,air_pollution_pm25
+Dominican Republic,DOM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,19.4968181870994,air_pollution_pm25
+Dominican Republic,DOM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,19.5892802619564,air_pollution_pm25
+Dominican Republic,DOM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,19.1203299259262,air_pollution_pm25
+Dominican Republic,DOM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,19.2491722418682,air_pollution_pm25
+Dominican Republic,DOM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,19.9571847572804,air_pollution_pm25
+Ecuador,ECU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,17.769931645036,air_pollution_pm25
+Ecuador,ECU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,18.386683414634,air_pollution_pm25
+Ecuador,ECU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,19.2459328647667,air_pollution_pm25
+Ecuador,ECU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,20.7399169622061,air_pollution_pm25
+Ecuador,ECU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,20.1729639726852,air_pollution_pm25
+"Egypt, Arab Rep.",EGY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,67.7529020891301,air_pollution_pm25
+"Egypt, Arab Rep.",EGY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,65.4631301601869,air_pollution_pm25
+"Egypt, Arab Rep.",EGY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,58.9353384135579,air_pollution_pm25
+"Egypt, Arab Rep.",EGY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,61.4577552982506,air_pollution_pm25
+"Egypt, Arab Rep.",EGY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,67.6489631610219,air_pollution_pm25
+El Salvador,SLV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,18.2675885826061,air_pollution_pm25
+El Salvador,SLV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,21.0853412269847,air_pollution_pm25
+El Salvador,SLV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,22.1065954946575,air_pollution_pm25
+El Salvador,SLV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,22.7554051143461,air_pollution_pm25
+El Salvador,SLV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,23.9410831694199,air_pollution_pm25
+Equatorial Guinea,GNQ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,31.5523784625482,air_pollution_pm25
+Equatorial Guinea,GNQ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,31.3913053457764,air_pollution_pm25
+Equatorial Guinea,GNQ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,32.7521931809298,air_pollution_pm25
+Equatorial Guinea,GNQ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,36.5313373748734,air_pollution_pm25
+Equatorial Guinea,GNQ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,38.4946753401213,air_pollution_pm25
+Eritrea,ERI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,36.2661285542054,air_pollution_pm25
+Eritrea,ERI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,41.5613821480188,air_pollution_pm25
+Eritrea,ERI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,41.4045411789422,air_pollution_pm25
+Eritrea,ERI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,39.6073262193782,air_pollution_pm25
+Eritrea,ERI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,41.1496360897538,air_pollution_pm25
+Estonia,EST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,6.84482514683862,air_pollution_pm25
+Estonia,EST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,7.7966811057876,air_pollution_pm25
+Estonia,EST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,6.15485238171865,air_pollution_pm25
+Estonia,EST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,6.87835279660374,air_pollution_pm25
+Estonia,EST,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,7.18496063252666,air_pollution_pm25
+Eswatini,SWZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,21.1666365348853,air_pollution_pm25
+Eswatini,SWZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,20.4243293115739,air_pollution_pm25
+Eswatini,SWZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,20.2613215828667,air_pollution_pm25
+Eswatini,SWZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,18.9203780644377,air_pollution_pm25
+Eswatini,SWZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,21.048617578007,air_pollution_pm25
+Ethiopia,ETH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,28.6876946331346,air_pollution_pm25
+Ethiopia,ETH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,30.2623392192692,air_pollution_pm25
+Ethiopia,ETH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,30.4120665058652,air_pollution_pm25
+Ethiopia,ETH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,30.9271256840247,air_pollution_pm25
+Ethiopia,ETH,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,31.4436090208599,air_pollution_pm25
+Faroe Islands,FRO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+Faroe Islands,FRO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+Faroe Islands,FRO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+Faroe Islands,FRO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+Faroe Islands,FRO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Fiji,FJI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,12.9123773053208,air_pollution_pm25
+Fiji,FJI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,12.7353038744821,air_pollution_pm25
+Fiji,FJI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,12.3080401904933,air_pollution_pm25
+Fiji,FJI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,12.3284242671983,air_pollution_pm25
+Fiji,FJI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,11.9373871022014,air_pollution_pm25
+Finland,FIN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,5.37867032806067,air_pollution_pm25
+Finland,FIN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,5.49695736300986,air_pollution_pm25
+Finland,FIN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,5.12673961318144,air_pollution_pm25
+Finland,FIN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,5.27813456745499,air_pollution_pm25
+Finland,FIN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,5.62500854589343,air_pollution_pm25
+France,FRA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,9.82524600527018,air_pollution_pm25
+France,FRA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,10.4599453286038,air_pollution_pm25
+France,FRA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,10.4583123660264,air_pollution_pm25
+France,FRA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,10.508154814077,air_pollution_pm25
+France,FRA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,11.3442976642006,air_pollution_pm25
+French Polynesia,PYF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+French Polynesia,PYF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+French Polynesia,PYF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+French Polynesia,PYF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+French Polynesia,PYF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Gabon,GAB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,27.5241895785238,air_pollution_pm25
+Gabon,GAB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,27.0383051447292,air_pollution_pm25
+Gabon,GAB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,27.1691084203468,air_pollution_pm25
+Gabon,GAB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,29.7679660664056,air_pollution_pm25
+Gabon,GAB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,30.7390246342706,air_pollution_pm25
+"Gambia, The",GMB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,54.8732916241171,air_pollution_pm25
+"Gambia, The",GMB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,59.2734928704383,air_pollution_pm25
+"Gambia, The",GMB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,64.5390631748347,air_pollution_pm25
+"Gambia, The",GMB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,58.7910560945535,air_pollution_pm25
+"Gambia, The",GMB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,63.7503934261079,air_pollution_pm25
+Georgia,GEO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,17.6183021493385,air_pollution_pm25
+Georgia,GEO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,18.4542384404894,air_pollution_pm25
+Georgia,GEO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,18.5342689563052,air_pollution_pm25
+Georgia,GEO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,19.3139668885259,air_pollution_pm25
+Georgia,GEO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,20.3304736500391,air_pollution_pm25
+Germany,DEU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,10.6378495266542,air_pollution_pm25
+Germany,DEU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,11.6526030992972,air_pollution_pm25
+Germany,DEU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,11.8978451129639,air_pollution_pm25
+Germany,DEU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,11.7806958987308,air_pollution_pm25
+Germany,DEU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,12.8253525089793,air_pollution_pm25
+Ghana,GHA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,49.6566317016668,air_pollution_pm25
+Ghana,GHA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,56.0041825783104,air_pollution_pm25
+Ghana,GHA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,60.3590341738153,air_pollution_pm25
+Ghana,GHA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,62.8889642906448,air_pollution_pm25
+Ghana,GHA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,68.0112284884927,air_pollution_pm25
+Gibraltar,GIB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+Gibraltar,GIB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+Gibraltar,GIB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+Gibraltar,GIB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+Gibraltar,GIB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Greece,GRC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,14.9419055519621,air_pollution_pm25
+Greece,GRC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,15.5840100248101,air_pollution_pm25
+Greece,GRC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,15.6724100278411,air_pollution_pm25
+Greece,GRC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,15.7750345686768,air_pollution_pm25
+Greece,GRC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.2372072771469,air_pollution_pm25
+Greenland,GRL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,6.48950745924949,air_pollution_pm25
+Greenland,GRL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,6.75630549235812,air_pollution_pm25
+Greenland,GRL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,7.4921548326333,air_pollution_pm25
+Greenland,GRL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,6.46724827436704,air_pollution_pm25
+Greenland,GRL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,6.14469039341254,air_pollution_pm25
+Grenada,GRD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,24.2647371353562,air_pollution_pm25
+Grenada,GRD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,24.0969881609342,air_pollution_pm25
+Grenada,GRD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,24.3014719560486,air_pollution_pm25
+Grenada,GRD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,25.0768814910495,air_pollution_pm25
+Grenada,GRD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,25.177742151728,air_pollution_pm25
+Guam,GUM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,9.88784013723531,air_pollution_pm25
+Guam,GUM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,10.0065645243546,air_pollution_pm25
+Guam,GUM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,8.62061947259407,air_pollution_pm25
+Guam,GUM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,8.95124087366923,air_pollution_pm25
+Guam,GUM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,10.7767958943295,air_pollution_pm25
+Guatemala,GTM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,20.2102810509295,air_pollution_pm25
+Guatemala,GTM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,23.2233964899274,air_pollution_pm25
+Guatemala,GTM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,25.1845452119376,air_pollution_pm25
+Guatemala,GTM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,25.2167964925021,air_pollution_pm25
+Guatemala,GTM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,27.4004163899267,air_pollution_pm25
+Guinea,GIN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,42.8781068854259,air_pollution_pm25
+Guinea,GIN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,48.4123967434209,air_pollution_pm25
+Guinea,GIN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,49.7395461030353,air_pollution_pm25
+Guinea,GIN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,49.6336310986966,air_pollution_pm25
+Guinea,GIN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,54.2776680884158,air_pollution_pm25
+Guinea-Bissau,GNB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,48.5028970455265,air_pollution_pm25
+Guinea-Bissau,GNB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,54.1409784310321,air_pollution_pm25
+Guinea-Bissau,GNB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,56.7814512632763,air_pollution_pm25
+Guinea-Bissau,GNB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,52.6997265729536,air_pollution_pm25
+Guinea-Bissau,GNB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,56.920191943344,air_pollution_pm25
+Guyana,GUY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,26.0920734823741,air_pollution_pm25
+Guyana,GUY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,25.7636448984049,air_pollution_pm25
+Guyana,GUY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,25.2164770735339,air_pollution_pm25
+Guyana,GUY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,25.3854930398264,air_pollution_pm25
+Guyana,GUY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,25.8352498994325,air_pollution_pm25
+Haiti,HTI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,20.938501996786,air_pollution_pm25
+Haiti,HTI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,21.5479155500506,air_pollution_pm25
+Haiti,HTI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,20.7108631691211,air_pollution_pm25
+Haiti,HTI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,20.5277983755891,air_pollution_pm25
+Haiti,HTI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,21.5058632915395,air_pollution_pm25
+Honduras,HND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,18.1436603524166,air_pollution_pm25
+Honduras,HND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,20.5175969852982,air_pollution_pm25
+Honduras,HND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,22.0571250886782,air_pollution_pm25
+Honduras,HND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,22.8829846790784,air_pollution_pm25
+Honduras,HND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,24.6931989438968,air_pollution_pm25
+"Hong Kong SAR, China",HKG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+"Hong Kong SAR, China",HKG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+"Hong Kong SAR, China",HKG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+"Hong Kong SAR, China",HKG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+"Hong Kong SAR, China",HKG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Hungary,HUN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,14.6412354449754,air_pollution_pm25
+Hungary,HUN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,17.5018535227019,air_pollution_pm25
+Hungary,HUN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,17.0236884271225,air_pollution_pm25
+Hungary,HUN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,16.2389389235353,air_pollution_pm25
+Hungary,HUN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.9802501362595,air_pollution_pm25
+Iceland,ISL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,5.48155807169081,air_pollution_pm25
+Iceland,ISL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,5.55924065638007,air_pollution_pm25
+Iceland,ISL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,5.83996279608708,air_pollution_pm25
+Iceland,ISL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,5.27717772615425,air_pollution_pm25
+Iceland,ISL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,5.73328095255678,air_pollution_pm25
+India,IND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,59.8919808842351,air_pollution_pm25
+India,IND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,68.1209525065052,air_pollution_pm25
+India,IND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,67.3122713926644,air_pollution_pm25
+India,IND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,75.7890035327013,air_pollution_pm25
+India,IND,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,73.810991410386,air_pollution_pm25
+Indonesia,IDN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,19.4270918962783,air_pollution_pm25
+Indonesia,IDN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,18.4371895829409,air_pollution_pm25
+Indonesia,IDN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,16.9555634840925,air_pollution_pm25
+Indonesia,IDN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,19.1310042759597,air_pollution_pm25
+Indonesia,IDN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,18.6712786457665,air_pollution_pm25
+"Iran, Islamic Rep.",IRN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,34.0157895718045,air_pollution_pm25
+"Iran, Islamic Rep.",IRN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,37.6762291896797,air_pollution_pm25
+"Iran, Islamic Rep.",IRN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,35.0159582592188,air_pollution_pm25
+"Iran, Islamic Rep.",IRN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,37.4838145441593,air_pollution_pm25
+"Iran, Islamic Rep.",IRN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,38.6980329606897,air_pollution_pm25
+Iraq,IRQ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,37.7315693030309,air_pollution_pm25
+Iraq,IRQ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,41.7558636075287,air_pollution_pm25
+Iraq,IRQ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,40.02670906993,air_pollution_pm25
+Iraq,IRQ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,42.3367851899463,air_pollution_pm25
+Iraq,IRQ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,44.6439888371463,air_pollution_pm25
+Ireland,IRL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,7.8923946735653,air_pollution_pm25
+Ireland,IRL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,8.2986369369357,air_pollution_pm25
+Ireland,IRL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,8.38429636583274,air_pollution_pm25
+Ireland,IRL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,8.11019374827621,air_pollution_pm25
+Ireland,IRL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,8.81158216131006,air_pollution_pm25
+Isle of Man,IMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+Isle of Man,IMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+Isle of Man,IMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+Isle of Man,IMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+Isle of Man,IMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Israel,ISR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,19.5556432093837,air_pollution_pm25
+Israel,ISR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,20.5625974806507,air_pollution_pm25
+Israel,ISR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,20.0293441275017,air_pollution_pm25
+Israel,ISR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,18.8170113677762,air_pollution_pm25
+Israel,ISR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,22.1043027343095,air_pollution_pm25
+Italy,ITA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,14.8936858575121,air_pollution_pm25
+Italy,ITA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,16.3354361294692,air_pollution_pm25
+Italy,ITA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,15.9660261772019,air_pollution_pm25
+Italy,ITA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,15.7011486972657,air_pollution_pm25
+Italy,ITA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.7600165229672,air_pollution_pm25
+Jamaica,JAM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,17.0706325020849,air_pollution_pm25
+Jamaica,JAM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,16.8426821458431,air_pollution_pm25
+Jamaica,JAM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,16.6566414571584,air_pollution_pm25
+Jamaica,JAM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,15.9558447798912,air_pollution_pm25
+Jamaica,JAM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,16.8646376023948,air_pollution_pm25
+Japan,JPN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,12.9378727869587,air_pollution_pm25
+Japan,JPN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,13.0790330283313,air_pollution_pm25
+Japan,JPN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,13.1198276213348,air_pollution_pm25
+Japan,JPN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,12.799061198144,air_pollution_pm25
+Japan,JPN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,12.8685359282927,air_pollution_pm25
+Jordan,JOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,31.2597313487439,air_pollution_pm25
+Jordan,JOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,30.8911213683016,air_pollution_pm25
+Jordan,JOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,28.3831683592571,air_pollution_pm25
+Jordan,JOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,28.3754804489745,air_pollution_pm25
+Jordan,JOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,32.1142375115077,air_pollution_pm25
+Kazakhstan,KAZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,20.8569853852639,air_pollution_pm25
+Kazakhstan,KAZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,20.5938700993782,air_pollution_pm25
+Kazakhstan,KAZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,21.0166106765309,air_pollution_pm25
+Kazakhstan,KAZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,22.7637525232887,air_pollution_pm25
+Kazakhstan,KAZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,22.5590495991917,air_pollution_pm25
+Kenya,KEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,19.5705272264405,air_pollution_pm25
+Kenya,KEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,20.9875653334569,air_pollution_pm25
+Kenya,KEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,19.9015512654464,air_pollution_pm25
+Kenya,KEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,24.0211862534612,air_pollution_pm25
+Kenya,KEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,24.7760612569464,air_pollution_pm25
+Kiribati,KIR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,11.5481206795464,air_pollution_pm25
+Kiribati,KIR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,11.3366995948348,air_pollution_pm25
+Kiribati,KIR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,10.970038581704,air_pollution_pm25
+Kiribati,KIR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,11.1067056212411,air_pollution_pm25
+Kiribati,KIR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,10.6201442272271,air_pollution_pm25
+"Korea, Dem. People's Rep.",PRK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,31.1237582148846,air_pollution_pm25
+"Korea, Dem. People's Rep.",PRK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,34.1978293742031,air_pollution_pm25
+"Korea, Dem. People's Rep.",PRK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,39.168240982399,air_pollution_pm25
+"Korea, Dem. People's Rep.",PRK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,38.6220301922284,air_pollution_pm25
+"Korea, Dem. People's Rep.",PRK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,42.5382454893687,air_pollution_pm25
+"Korea, Rep.",KOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,26.0153634264606,air_pollution_pm25
+"Korea, Rep.",KOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,25.9343920098722,air_pollution_pm25
+"Korea, Rep.",KOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,26.0043671138493,air_pollution_pm25
+"Korea, Rep.",KOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,26.6704344134095,air_pollution_pm25
+"Korea, Rep.",KOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,26.2899620146574,air_pollution_pm25
+Kosovo,XKX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+Kosovo,XKX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+Kosovo,XKX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+Kosovo,XKX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+Kosovo,XKX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Kuwait,KWT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,52.7825054963873,air_pollution_pm25
+Kuwait,KWT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,63.4583554482098,air_pollution_pm25
+Kuwait,KWT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,58.1291719707309,air_pollution_pm25
+Kuwait,KWT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,59.2319560603482,air_pollution_pm25
+Kuwait,KWT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,64.5479644305319,air_pollution_pm25
+Kyrgyz Republic,KGZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,26.7613844313409,air_pollution_pm25
+Kyrgyz Republic,KGZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,27.4518144818682,air_pollution_pm25
+Kyrgyz Republic,KGZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,26.8562254174832,air_pollution_pm25
+Kyrgyz Republic,KGZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,29.0193222002259,air_pollution_pm25
+Kyrgyz Republic,KGZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,29.7484121402712,air_pollution_pm25
+Lao PDR,LAO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,22.4289603771825,air_pollution_pm25
+Lao PDR,LAO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,20.9840690040935,air_pollution_pm25
+Lao PDR,LAO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,19.1515982168711,air_pollution_pm25
+Lao PDR,LAO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,22.463787282601,air_pollution_pm25
+Lao PDR,LAO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,20.1670988613747,air_pollution_pm25
+Latvia,LVA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,12.4865833165492,air_pollution_pm25
+Latvia,LVA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,14.2076039693657,air_pollution_pm25
+Latvia,LVA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,11.6679973108454,air_pollution_pm25
+Latvia,LVA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,12.6030729844024,air_pollution_pm25
+Latvia,LVA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,13.6554000536401,air_pollution_pm25
+Lebanon,LBN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,20.5970090578064,air_pollution_pm25
+Lebanon,LBN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,19.9808899582131,air_pollution_pm25
+Lebanon,LBN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,18.8914613898948,air_pollution_pm25
+Lebanon,LBN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,19.360236111926,air_pollution_pm25
+Lebanon,LBN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,20.6861467732003,air_pollution_pm25
+Lesotho,LSO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,21.1810593859544,air_pollution_pm25
+Lesotho,LSO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,23.0240026773582,air_pollution_pm25
+Lesotho,LSO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,22.4347012157399,air_pollution_pm25
+Lesotho,LSO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,25.3734080229079,air_pollution_pm25
+Lesotho,LSO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,25.8911063728927,air_pollution_pm25
+Liberia,LBR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,37.1591253581791,air_pollution_pm25
+Liberia,LBR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,42.0381017982909,air_pollution_pm25
+Liberia,LBR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,41.5068237111279,air_pollution_pm25
+Liberia,LBR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,48.301426780699,air_pollution_pm25
+Liberia,LBR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,51.1180873244019,air_pollution_pm25
+Libya,LBY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,36.4844732200514,air_pollution_pm25
+Libya,LBY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,41.4209740874326,air_pollution_pm25
+Libya,LBY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,33.6859220495799,air_pollution_pm25
+Libya,LBY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,38.1668032978199,air_pollution_pm25
+Libya,LBY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,36.08680012119,air_pollution_pm25
+Liechtenstein,LIE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+Liechtenstein,LIE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+Liechtenstein,LIE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+Liechtenstein,LIE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+Liechtenstein,LIE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Lithuania,LTU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,10.2465023749528,air_pollution_pm25
+Lithuania,LTU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,11.0838572805935,air_pollution_pm25
+Lithuania,LTU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,9.79993642739852,air_pollution_pm25
+Lithuania,LTU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,10.2329418108878,air_pollution_pm25
+Lithuania,LTU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,11.3028578201847,air_pollution_pm25
+Luxembourg,LUX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,8.4591046194554,air_pollution_pm25
+Luxembourg,LUX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,9.29178826573985,air_pollution_pm25
+Luxembourg,LUX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,9.60846654630366,air_pollution_pm25
+Luxembourg,LUX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,9.61318538725802,air_pollution_pm25
+Luxembourg,LUX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,10.3915303158858,air_pollution_pm25
+"Macao SAR, China",MAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+"Macao SAR, China",MAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+"Macao SAR, China",MAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+"Macao SAR, China",MAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+"Macao SAR, China",MAC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Madagascar,MDG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,12.7945386496097,air_pollution_pm25
+Madagascar,MDG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,12.7238095692816,air_pollution_pm25
+Madagascar,MDG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,12.5514997924024,air_pollution_pm25
+Madagascar,MDG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,16.138736457425,air_pollution_pm25
+Madagascar,MDG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,16.0777176618248,air_pollution_pm25
+Malawi,MWI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,22.3370229833525,air_pollution_pm25
+Malawi,MWI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,21.1973847101807,air_pollution_pm25
+Malawi,MWI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,21.2909459360983,air_pollution_pm25
+Malawi,MWI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,24.9604610605181,air_pollution_pm25
+Malawi,MWI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,25.0076393017599,air_pollution_pm25
+Malaysia,MYS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,17.8197510834605,air_pollution_pm25
+Malaysia,MYS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,16.6541753286852,air_pollution_pm25
+Malaysia,MYS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,14.9450075810201,air_pollution_pm25
+Malaysia,MYS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,16.3864419259472,air_pollution_pm25
+Malaysia,MYS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,16.9297330913892,air_pollution_pm25
+Maldives,MDV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,12.3139819141366,air_pollution_pm25
+Maldives,MDV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,12.5034619255463,air_pollution_pm25
+Maldives,MDV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,11.3333706146388,air_pollution_pm25
+Maldives,MDV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,12.3754871852488,air_pollution_pm25
+Maldives,MDV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,10.8085614263778,air_pollution_pm25
+Mali,MLI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,57.3904374306355,air_pollution_pm25
+Mali,MLI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,63.6849309047317,air_pollution_pm25
+Mali,MLI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,66.774344334826,air_pollution_pm25
+Mali,MLI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,66.1872302945193,air_pollution_pm25
+Mali,MLI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,74.1479908356132,air_pollution_pm25
+Malta,MLT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,12.5909175285117,air_pollution_pm25
+Malta,MLT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,13.1132959646537,air_pollution_pm25
+Malta,MLT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,12.9026022733936,air_pollution_pm25
+Malta,MLT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,12.5325633579629,air_pollution_pm25
+Malta,MLT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,13.6814730924333,air_pollution_pm25
+Marshall Islands,MHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,10.8031103210849,air_pollution_pm25
+Marshall Islands,MHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,10.5429075377745,air_pollution_pm25
+Marshall Islands,MHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,10.3834288658063,air_pollution_pm25
+Marshall Islands,MHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,10.3445553141009,air_pollution_pm25
+Marshall Islands,MHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,10.2729137216564,air_pollution_pm25
+Mauritania,MRT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,72.1994109024446,air_pollution_pm25
+Mauritania,MRT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,75.8344786877967,air_pollution_pm25
+Mauritania,MRT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,79.9744180761698,air_pollution_pm25
+Mauritania,MRT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,76.5480652857383,air_pollution_pm25
+Mauritania,MRT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,83.0276343912381,air_pollution_pm25
+Mauritius,MUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,9.27666690706869,air_pollution_pm25
+Mauritius,MUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,9.64568180967703,air_pollution_pm25
+Mauritius,MUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,8.99594985085889,air_pollution_pm25
+Mauritius,MUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,8.98829540881102,air_pollution_pm25
+Mauritius,MUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,9.13027374403697,air_pollution_pm25
+Mexico,MEX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,14.7051077997851,air_pollution_pm25
+Mexico,MEX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,16.652186272493,air_pollution_pm25
+Mexico,MEX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,18.3002285485373,air_pollution_pm25
+Mexico,MEX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,18.8449182383899,air_pollution_pm25
+Mexico,MEX,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,19.4864853369113,air_pollution_pm25
+"Micronesia, Fed. Sts.",FSM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,12.3358791142647,air_pollution_pm25
+"Micronesia, Fed. Sts.",FSM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,12.0885596987462,air_pollution_pm25
+"Micronesia, Fed. Sts.",FSM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,11.4423848946993,air_pollution_pm25
+"Micronesia, Fed. Sts.",FSM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,11.5649676332846,air_pollution_pm25
+"Micronesia, Fed. Sts.",FSM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,12.6065611670905,air_pollution_pm25
+Moldova,MDA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,15.7728170076841,air_pollution_pm25
+Moldova,MDA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,17.080793755092,air_pollution_pm25
+Moldova,MDA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,15.1423919470871,air_pollution_pm25
+Moldova,MDA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,17.0561198558818,air_pollution_pm25
+Moldova,MDA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,18.1478989162811,air_pollution_pm25
+Monaco,MCO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,9.65907893202952,air_pollution_pm25
+Monaco,MCO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,10.6954915739758,air_pollution_pm25
+Monaco,MCO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,10.376456634887,air_pollution_pm25
+Monaco,MCO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,10.4725197097017,air_pollution_pm25
+Monaco,MCO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,11.8411028968318,air_pollution_pm25
+Mongolia,MNG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,31.0839271991388,air_pollution_pm25
+Mongolia,MNG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,30.340789040395,air_pollution_pm25
+Mongolia,MNG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,31.4066965937798,air_pollution_pm25
+Mongolia,MNG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,34.394850770545,air_pollution_pm25
+Mongolia,MNG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,33.6018162552522,air_pollution_pm25
+Montenegro,MNE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,18.3231957596321,air_pollution_pm25
+Montenegro,MNE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,22.0010575045609,air_pollution_pm25
+Montenegro,MNE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,21.1885834911776,air_pollution_pm25
+Montenegro,MNE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,20.7818361159159,air_pollution_pm25
+Montenegro,MNE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,22.5226135295586,air_pollution_pm25
+Morocco,MAR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,20.9299059936918,air_pollution_pm25
+Morocco,MAR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,23.1856283839847,air_pollution_pm25
+Morocco,MAR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,28.0161565066814,air_pollution_pm25
+Morocco,MAR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,24.7545943744621,air_pollution_pm25
+Morocco,MAR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,25.6535487891636,air_pollution_pm25
+Mozambique,MOZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,19.5945644695986,air_pollution_pm25
+Mozambique,MOZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,18.8259193532117,air_pollution_pm25
+Mozambique,MOZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,18.7547986602318,air_pollution_pm25
+Mozambique,MOZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,21.069117727762,air_pollution_pm25
+Mozambique,MOZ,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,21.5758950473476,air_pollution_pm25
+Myanmar,MMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,32.1642279603857,air_pollution_pm25
+Myanmar,MMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,31.5559916967562,air_pollution_pm25
+Myanmar,MMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,28.1336717956987,air_pollution_pm25
+Myanmar,MMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,31.1703866445543,air_pollution_pm25
+Myanmar,MMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,29.9150539220144,air_pollution_pm25
+Namibia,NAM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,19.3878496864904,air_pollution_pm25
+Namibia,NAM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,19.9748546561693,air_pollution_pm25
+Namibia,NAM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,19.7391225085732,air_pollution_pm25
+Namibia,NAM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,21.0604148441707,air_pollution_pm25
+Namibia,NAM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,22.11922822913,air_pollution_pm25
+Nauru,NRU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,6.02606444596139,air_pollution_pm25
+Nauru,NRU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,6.14206344633958,air_pollution_pm25
+Nauru,NRU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,6.44256644272133,air_pollution_pm25
+Nauru,NRU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,6.08542537261406,air_pollution_pm25
+Nauru,NRU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,5.64757051079538,air_pollution_pm25
+Nepal,NPL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,57.2750179345088,air_pollution_pm25
+Nepal,NPL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,64.2108322791754,air_pollution_pm25
+Nepal,NPL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,64.6442716077629,air_pollution_pm25
+Nepal,NPL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,72.4074854195922,air_pollution_pm25
+Nepal,NPL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,70.9361955250807,air_pollution_pm25
+Netherlands,NLD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,11.3641419467189,air_pollution_pm25
+Netherlands,NLD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,12.0708917579666,air_pollution_pm25
+Netherlands,NLD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,12.7176558041706,air_pollution_pm25
+Netherlands,NLD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,11.9585215795702,air_pollution_pm25
+Netherlands,NLD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,13.1341450114978,air_pollution_pm25
+New Caledonia,NCL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+New Caledonia,NCL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+New Caledonia,NCL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+New Caledonia,NCL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+New Caledonia,NCL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+New Zealand,NZL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,7.42296671535298,air_pollution_pm25
+New Zealand,NZL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,7.21258721355312,air_pollution_pm25
+New Zealand,NZL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,6.82907618571061,air_pollution_pm25
+New Zealand,NZL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,6.63410190310228,air_pollution_pm25
+New Zealand,NZL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,6.57020164227168,air_pollution_pm25
+Nicaragua,NIC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,14.9843484599445,air_pollution_pm25
+Nicaragua,NIC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,17.5246038706428,air_pollution_pm25
+Nicaragua,NIC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,19.1972180629137,air_pollution_pm25
+Nicaragua,NIC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,19.6627564192395,air_pollution_pm25
+Nicaragua,NIC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,20.8100394575554,air_pollution_pm25
+Niger,NER,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,72.4703210969872,air_pollution_pm25
+Niger,NER,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,86.0227651747159,air_pollution_pm25
+Niger,NER,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,88.7878831964248,air_pollution_pm25
+Niger,NER,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,104.911460730569,air_pollution_pm25
+Niger,NER,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,107.144665250434,air_pollution_pm25
+Nigeria,NGA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,51.7218388551219,air_pollution_pm25
+Nigeria,NGA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,57.0231990642382,air_pollution_pm25
+Nigeria,NGA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,63.2053051290842,air_pollution_pm25
+Nigeria,NGA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,65.4340626973271,air_pollution_pm25
+Nigeria,NGA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,77.1229282609024,air_pollution_pm25
+North Macedonia,MKD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,25.8786881284068,air_pollution_pm25
+North Macedonia,MKD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,31.0045303573284,air_pollution_pm25
+North Macedonia,MKD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,30.4645094005313,air_pollution_pm25
+North Macedonia,MKD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,30.0799243464009,air_pollution_pm25
+North Macedonia,MKD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,31.8724776060607,air_pollution_pm25
+Northern Mariana Islands,MNP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,9.84143557608585,air_pollution_pm25
+Northern Mariana Islands,MNP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,9.62412986327666,air_pollution_pm25
+Northern Mariana Islands,MNP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,8.66444820035672,air_pollution_pm25
+Northern Mariana Islands,MNP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,8.84992578196304,air_pollution_pm25
+Northern Mariana Islands,MNP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,10.0354064990389,air_pollution_pm25
+Norway,NOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,6.38122446338577,air_pollution_pm25
+Norway,NOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,6.69607752509394,air_pollution_pm25
+Norway,NOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,6.52155808218128,air_pollution_pm25
+Norway,NOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,6.23059189808068,air_pollution_pm25
+Norway,NOR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,6.75214227846257,air_pollution_pm25
+Oman,OMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,44.8977643665473,air_pollution_pm25
+Oman,OMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,49.6250528984572,air_pollution_pm25
+Oman,OMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,48.7046852088573,air_pollution_pm25
+Oman,OMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,45.4803385490064,air_pollution_pm25
+Oman,OMN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,47.9189950499705,air_pollution_pm25
+Pakistan,PAK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,52.8571976958305,air_pollution_pm25
+Pakistan,PAK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,62.3894976390133,air_pollution_pm25
+Pakistan,PAK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,61.7967274713574,air_pollution_pm25
+Pakistan,PAK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,68.5228297189002,air_pollution_pm25
+Pakistan,PAK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,68.0068767608943,air_pollution_pm25
+Palau,PLW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,7.7458949684632,air_pollution_pm25
+Palau,PLW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,7.89247642068436,air_pollution_pm25
+Palau,PLW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,7.00179922406389,air_pollution_pm25
+Palau,PLW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,7.01158253537855,air_pollution_pm25
+Palau,PLW,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,8.9368293884579,air_pollution_pm25
+Panama,PAN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,11.8842931085395,air_pollution_pm25
+Panama,PAN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,13.2136956449094,air_pollution_pm25
+Panama,PAN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,13.844753026596,air_pollution_pm25
+Panama,PAN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,13.8724498973293,air_pollution_pm25
+Panama,PAN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,14.7706187901647,air_pollution_pm25
+Papua New Guinea,PNG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,16.8882962616477,air_pollution_pm25
+Papua New Guinea,PNG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,16.9173285412659,air_pollution_pm25
+Papua New Guinea,PNG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,15.9304225286163,air_pollution_pm25
+Papua New Guinea,PNG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,16.1543562654462,air_pollution_pm25
+Papua New Guinea,PNG,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,16.8683385698187,air_pollution_pm25
+Paraguay,PRY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,10.1222564891858,air_pollution_pm25
+Paraguay,PRY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,10.4898126276478,air_pollution_pm25
+Paraguay,PRY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,10.2879780314547,air_pollution_pm25
+Paraguay,PRY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,10.4105012225018,air_pollution_pm25
+Paraguay,PRY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,10.4338184152061,air_pollution_pm25
+Peru,PER,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,29.1117854585642,air_pollution_pm25
+Peru,PER,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,30.6265686811297,air_pollution_pm25
+Peru,PER,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,32.7083066880238,air_pollution_pm25
+Peru,PER,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,33.739432290958,air_pollution_pm25
+Peru,PER,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,32.8751693157181,air_pollution_pm25
+Philippines,PHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,21.5254371973976,air_pollution_pm25
+Philippines,PHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,20.5885077839401,air_pollution_pm25
+Philippines,PHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,18.3327018141416,air_pollution_pm25
+Philippines,PHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,19.9069716374648,air_pollution_pm25
+Philippines,PHL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,19.7079275985218,air_pollution_pm25
+Poland,POL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,18.7701954101512,air_pollution_pm25
+Poland,POL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,22.4094051941271,air_pollution_pm25
+Poland,POL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,22.2631718698092,air_pollution_pm25
+Poland,POL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,21.2485092459447,air_pollution_pm25
+Poland,POL,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,22.4139830731908,air_pollution_pm25
+Portugal,PRT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,7.98256121876526,air_pollution_pm25
+Portugal,PRT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,9.02601451562929,air_pollution_pm25
+Portugal,PRT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,9.2551980440464,air_pollution_pm25
+Portugal,PRT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,8.83773210008347,air_pollution_pm25
+Portugal,PRT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,9.64253451834766,air_pollution_pm25
+Puerto Rico (US),PRI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,6.66040483872952,air_pollution_pm25
+Puerto Rico (US),PRI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,6.70118543618258,air_pollution_pm25
+Puerto Rico (US),PRI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,7.12296710513583,air_pollution_pm25
+Puerto Rico (US),PRI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,6.94033673792726,air_pollution_pm25
+Puerto Rico (US),PRI,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,6.74532317404656,air_pollution_pm25
+Qatar,QAT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,81.0088337801126,air_pollution_pm25
+Qatar,QAT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,93.3069571843647,air_pollution_pm25
+Qatar,QAT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,83.268990615565,air_pollution_pm25
+Qatar,QAT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,83.6854921169063,air_pollution_pm25
+Qatar,QAT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,97.7000280042596,air_pollution_pm25
+Romania,ROU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,15.0073403663299,air_pollution_pm25
+Romania,ROU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,17.1719925973938,air_pollution_pm25
+Romania,ROU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,17.0446117524786,air_pollution_pm25
+Romania,ROU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,16.5983385295736,air_pollution_pm25
+Romania,ROU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.4955175712912,air_pollution_pm25
+Russian Federation,RUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,11.6778230257169,air_pollution_pm25
+Russian Federation,RUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,12.3153675046294,air_pollution_pm25
+Russian Federation,RUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,11.739094414375,air_pollution_pm25
+Russian Federation,RUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,12.4784655225055,air_pollution_pm25
+Russian Federation,RUS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,12.9392509421972,air_pollution_pm25
+Rwanda,RWA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,30.0071642427631,air_pollution_pm25
+Rwanda,RWA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,30.1816687853678,air_pollution_pm25
+Rwanda,RWA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,30.3553527446531,air_pollution_pm25
+Rwanda,RWA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,31.6862299869281,air_pollution_pm25
+Rwanda,RWA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,31.2574810856465,air_pollution_pm25
+Samoa,WSM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,12.8726726678327,air_pollution_pm25
+Samoa,WSM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,12.8245995074982,air_pollution_pm25
+Samoa,WSM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,12.0891380416294,air_pollution_pm25
+Samoa,WSM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,12.5098893074638,air_pollution_pm25
+Samoa,WSM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,12.4224418408037,air_pollution_pm25
+San Marino,SMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,10.4938237574833,air_pollution_pm25
+San Marino,SMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,11.7160220114158,air_pollution_pm25
+San Marino,SMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,11.1378783583043,air_pollution_pm25
+San Marino,SMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,10.7965188044346,air_pollution_pm25
+San Marino,SMR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,11.0341756272191,air_pollution_pm25
+Sao Tome and Principe,STP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,21.6556728259824,air_pollution_pm25
+Sao Tome and Principe,STP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,20.0156978980911,air_pollution_pm25
+Sao Tome and Principe,STP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,21.3075202387728,air_pollution_pm25
+Sao Tome and Principe,STP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,25.7342366868061,air_pollution_pm25
+Sao Tome and Principe,STP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,26.1500664634377,air_pollution_pm25
+Saudi Arabia,SAU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,58.6225928552836,air_pollution_pm25
+Saudi Arabia,SAU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,61.9886640504678,air_pollution_pm25
+Saudi Arabia,SAU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,59.4402484783372,air_pollution_pm25
+Saudi Arabia,SAU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,57.2721294327821,air_pollution_pm25
+Saudi Arabia,SAU,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,65.6121801282607,air_pollution_pm25
+Senegal,SEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,60.3429016299635,air_pollution_pm25
+Senegal,SEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,61.8009740540162,air_pollution_pm25
+Senegal,SEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,68.9961611199396,air_pollution_pm25
+Senegal,SEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,62.2452907130405,air_pollution_pm25
+Senegal,SEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,70.740985096638,air_pollution_pm25
+Serbia,SRB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,22.6362588980641,air_pollution_pm25
+Serbia,SRB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,27.1283419584164,air_pollution_pm25
+Serbia,SRB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,26.2823086047504,air_pollution_pm25
+Serbia,SRB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,25.5339499000416,air_pollution_pm25
+Serbia,SRB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,27.8632692496949,air_pollution_pm25
+Seychelles,SYC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,9.43411735985982,air_pollution_pm25
+Seychelles,SYC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,9.35591484940797,air_pollution_pm25
+Seychelles,SYC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,9.84794743856559,air_pollution_pm25
+Seychelles,SYC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,9.9122300080876,air_pollution_pm25
+Seychelles,SYC,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,9.00174536475684,air_pollution_pm25
+Sierra Leone,SLE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,38.5920982937814,air_pollution_pm25
+Sierra Leone,SLE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,44.3351501101334,air_pollution_pm25
+Sierra Leone,SLE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,44.7073767568936,air_pollution_pm25
+Sierra Leone,SLE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,48.7036743850653,air_pollution_pm25
+Sierra Leone,SLE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,51.8061671080408,air_pollution_pm25
+Singapore,SGP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,17.0759063187283,air_pollution_pm25
+Singapore,SGP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,15.9768571619193,air_pollution_pm25
+Singapore,SGP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,16.0768840541767,air_pollution_pm25
+Singapore,SGP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,15.900294890346,air_pollution_pm25
+Singapore,SGP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.1833032960407,air_pollution_pm25
+Sint Maarten (Dutch part),SXM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+Sint Maarten (Dutch part),SXM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+Sint Maarten (Dutch part),SXM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+Sint Maarten (Dutch part),SXM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+Sint Maarten (Dutch part),SXM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Slovak Republic,SVK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,15.8371166474072,air_pollution_pm25
+Slovak Republic,SVK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,18.678784905987,air_pollution_pm25
+Slovak Republic,SVK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,18.1847497519631,air_pollution_pm25
+Slovak Republic,SVK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,17.8788004543361,air_pollution_pm25
+Slovak Republic,SVK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,19.1867476350431,air_pollution_pm25
+Slovenia,SVN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,13.9082165762349,air_pollution_pm25
+Slovenia,SVN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,18.1801552844915,air_pollution_pm25
+Slovenia,SVN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,16.502696435309,air_pollution_pm25
+Slovenia,SVN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,16.4517774590328,air_pollution_pm25
+Slovenia,SVN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.7209260643327,air_pollution_pm25
+Solomon Islands,SLB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,14.3002352896823,air_pollution_pm25
+Solomon Islands,SLB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,14.2731157049398,air_pollution_pm25
+Solomon Islands,SLB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,13.434058342961,air_pollution_pm25
+Solomon Islands,SLB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,13.4720259543338,air_pollution_pm25
+Solomon Islands,SLB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,13.388977783012,air_pollution_pm25
+"Somalia, Fed. Rep.",SOM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,22.8360439242082,air_pollution_pm25
+"Somalia, Fed. Rep.",SOM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,27.0888470741344,air_pollution_pm25
+"Somalia, Fed. Rep.",SOM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,26.6404683683977,air_pollution_pm25
+"Somalia, Fed. Rep.",SOM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,25.3011395270495,air_pollution_pm25
+"Somalia, Fed. Rep.",SOM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,24.732373356369,air_pollution_pm25
+South Africa,ZAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,23.1897720637682,air_pollution_pm25
+South Africa,ZAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,23.8122504048776,air_pollution_pm25
+South Africa,ZAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,23.754937395964,air_pollution_pm25
+South Africa,ZAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,24.1476891116721,air_pollution_pm25
+South Africa,ZAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,24.5964053006527,air_pollution_pm25
+South Sudan,SSD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,33.3599794728451,air_pollution_pm25
+South Sudan,SSD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,34.3895571040528,air_pollution_pm25
+South Sudan,SSD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,35.0660036732304,air_pollution_pm25
+South Sudan,SSD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,35.2985387463615,air_pollution_pm25
+South Sudan,SSD,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,38.2593644496253,air_pollution_pm25
+Spain,ESP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,9.35354339662499,air_pollution_pm25
+Spain,ESP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,10.1845744948112,air_pollution_pm25
+Spain,ESP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,10.4366670528408,air_pollution_pm25
+Spain,ESP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,10.338836110853,air_pollution_pm25
+Spain,ESP,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,11.2555313002962,air_pollution_pm25
+Sri Lanka,LKA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,19.779803654502,air_pollution_pm25
+Sri Lanka,LKA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,20.8478350946817,air_pollution_pm25
+Sri Lanka,LKA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,18.3492016336564,air_pollution_pm25
+Sri Lanka,LKA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,19.521371968942,air_pollution_pm25
+Sri Lanka,LKA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.9117046245301,air_pollution_pm25
+St. Kitts and Nevis,KNA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,7.87159855837596,air_pollution_pm25
+St. Kitts and Nevis,KNA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,8.01759737550583,air_pollution_pm25
+St. Kitts and Nevis,KNA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,8.59231426212322,air_pollution_pm25
+St. Kitts and Nevis,KNA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,8.69104650276459,air_pollution_pm25
+St. Kitts and Nevis,KNA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,8.17910001090095,air_pollution_pm25
+St. Lucia,LCA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,23.070500576614,air_pollution_pm25
+St. Lucia,LCA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,23.2729579590218,air_pollution_pm25
+St. Lucia,LCA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,23.0833259465748,air_pollution_pm25
+St. Lucia,LCA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,24.0761301376266,air_pollution_pm25
+St. Lucia,LCA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,23.9677087919965,air_pollution_pm25
+St. Martin (French part),MAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+St. Martin (French part),MAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+St. Martin (French part),MAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+St. Martin (French part),MAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+St. Martin (French part),MAF,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+St. Vincent and the Grenadines,VCT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,23.4062454360865,air_pollution_pm25
+St. Vincent and the Grenadines,VCT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,23.3995682726088,air_pollution_pm25
+St. Vincent and the Grenadines,VCT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,23.4527926838875,air_pollution_pm25
+St. Vincent and the Grenadines,VCT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,24.3309858655746,air_pollution_pm25
+St. Vincent and the Grenadines,VCT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,24.2045950887733,air_pollution_pm25
+Sudan,SDN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,51.9356218340372,air_pollution_pm25
+Sudan,SDN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,58.6936576687446,air_pollution_pm25
+Sudan,SDN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,59.8168448508968,air_pollution_pm25
+Sudan,SDN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,59.3119232873813,air_pollution_pm25
+Sudan,SDN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,61.1105056197826,air_pollution_pm25
+Suriname,SUR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,29.9904120028237,air_pollution_pm25
+Suriname,SUR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,29.6641934243254,air_pollution_pm25
+Suriname,SUR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,26.7797937382992,air_pollution_pm25
+Suriname,SUR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,27.0335291242088,air_pollution_pm25
+Suriname,SUR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,27.4211368815622,air_pollution_pm25
+Sweden,SWE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,6.06869269595507,air_pollution_pm25
+Sweden,SWE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,6.29086232136503,air_pollution_pm25
+Sweden,SWE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,6.06180356722068,air_pollution_pm25
+Sweden,SWE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,5.69783329212579,air_pollution_pm25
+Sweden,SWE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,6.30260504424704,air_pollution_pm25
+Switzerland,CHE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,9.45001875443382,air_pollution_pm25
+Switzerland,CHE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,10.1481592849367,air_pollution_pm25
+Switzerland,CHE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,9.91481464472654,air_pollution_pm25
+Switzerland,CHE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,10.6566460014216,air_pollution_pm25
+Switzerland,CHE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,11.7226082380351,air_pollution_pm25
+Syrian Arab Republic,SYR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,26.4725611273339,air_pollution_pm25
+Syrian Arab Republic,SYR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,25.9590823017321,air_pollution_pm25
+Syrian Arab Republic,SYR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,24.5814440559142,air_pollution_pm25
+Syrian Arab Republic,SYR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,25.5706170226563,air_pollution_pm25
+Syrian Arab Republic,SYR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,26.9795023656779,air_pollution_pm25
+Tajikistan,TJK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,40.2890496610835,air_pollution_pm25
+Tajikistan,TJK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,42.3335064710739,air_pollution_pm25
+Tajikistan,TJK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,42.5053360629934,air_pollution_pm25
+Tajikistan,TJK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,44.7655503683053,air_pollution_pm25
+Tajikistan,TJK,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,45.5749888542868,air_pollution_pm25
+Tanzania,TZA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,20.7785687915826,air_pollution_pm25
+Tanzania,TZA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,21.2944892567993,air_pollution_pm25
+Tanzania,TZA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,21.0006603142176,air_pollution_pm25
+Tanzania,TZA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,25.3938175391915,air_pollution_pm25
+Tanzania,TZA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,25.1682619442571,air_pollution_pm25
+Thailand,THA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,30.382756547172,air_pollution_pm25
+Thailand,THA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,30.0080973964844,air_pollution_pm25
+Thailand,THA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,27.1006744719071,air_pollution_pm25
+Thailand,THA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,30.3985996204755,air_pollution_pm25
+Thailand,THA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,28.1544413826202,air_pollution_pm25
+Timor-Leste,TLS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,17.627881197133,air_pollution_pm25
+Timor-Leste,TLS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,16.8164967206441,air_pollution_pm25
+Timor-Leste,TLS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,14.9818030205102,air_pollution_pm25
+Timor-Leste,TLS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,16.2081039517126,air_pollution_pm25
+Timor-Leste,TLS,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,15.7619976595415,air_pollution_pm25
+Togo,TGO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,47.6290664711767,air_pollution_pm25
+Togo,TGO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,55.1042380453434,air_pollution_pm25
+Togo,TGO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,58.2450494555721,air_pollution_pm25
+Togo,TGO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,60.2898429310496,air_pollution_pm25
+Togo,TGO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,67.316079169015,air_pollution_pm25
+Tonga,TON,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,12.7574461149445,air_pollution_pm25
+Tonga,TON,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,12.6468527417102,air_pollution_pm25
+Tonga,TON,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,12.0803698566865,air_pollution_pm25
+Tonga,TON,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,12.0170183126119,air_pollution_pm25
+Tonga,TON,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,11.7395693014278,air_pollution_pm25
+Trinidad and Tobago,TTO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,25.0102271567294,air_pollution_pm25
+Trinidad and Tobago,TTO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,24.3138532652664,air_pollution_pm25
+Trinidad and Tobago,TTO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,25.3988915846271,air_pollution_pm25
+Trinidad and Tobago,TTO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,25.2326491282107,air_pollution_pm25
+Trinidad and Tobago,TTO,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,26.2592962743436,air_pollution_pm25
+Tunisia,TUN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,23.7714034054098,air_pollution_pm25
+Tunisia,TUN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,25.5228520953696,air_pollution_pm25
+Tunisia,TUN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,22.571757071458,air_pollution_pm25
+Tunisia,TUN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,24.8089216632322,air_pollution_pm25
+Tunisia,TUN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,23.6344412527314,air_pollution_pm25
+Turkiye,TUR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,23.6946115800374,air_pollution_pm25
+Turkiye,TUR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,22.8252290987339,air_pollution_pm25
+Turkiye,TUR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,22.1031402126985,air_pollution_pm25
+Turkiye,TUR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,23.83379270795,air_pollution_pm25
+Turkiye,TUR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,24.5603763797256,air_pollution_pm25
+Turkmenistan,TKM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,20.2530348899106,air_pollution_pm25
+Turkmenistan,TKM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,22.4512669564059,air_pollution_pm25
+Turkmenistan,TKM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,21.6902944984074,air_pollution_pm25
+Turkmenistan,TKM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,23.1774931174981,air_pollution_pm25
+Turkmenistan,TKM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,23.6762817457625,air_pollution_pm25
+Turks and Caicos Islands,TCA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,,air_pollution_pm25
+Turks and Caicos Islands,TCA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,,air_pollution_pm25
+Turks and Caicos Islands,TCA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,,air_pollution_pm25
+Turks and Caicos Islands,TCA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,,air_pollution_pm25
+Turks and Caicos Islands,TCA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,,air_pollution_pm25
+Tuvalu,TUV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,6.00962588602958,air_pollution_pm25
+Tuvalu,TUV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,6.14959791479092,air_pollution_pm25
+Tuvalu,TUV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,6.20094627520115,air_pollution_pm25
+Tuvalu,TUV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,5.88435418632793,air_pollution_pm25
+Tuvalu,TUV,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,5.47628221924294,air_pollution_pm25
+Uganda,UGA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,31.4850134786862,air_pollution_pm25
+Uganda,UGA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,33.1279166723642,air_pollution_pm25
+Uganda,UGA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,32.2396992843572,air_pollution_pm25
+Uganda,UGA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,35.1867637433366,air_pollution_pm25
+Uganda,UGA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,36.4158643204587,air_pollution_pm25
+Ukraine,UKR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,15.5795007311465,air_pollution_pm25
+Ukraine,UKR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,17.1041368062157,air_pollution_pm25
+Ukraine,UKR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,15.6585428515819,air_pollution_pm25
+Ukraine,UKR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,16.2426825956045,air_pollution_pm25
+Ukraine,UKR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,17.7919818389331,air_pollution_pm25
+United Arab Emirates,ARE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,41.955626323257,air_pollution_pm25
+United Arab Emirates,ARE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,45.9879061419392,air_pollution_pm25
+United Arab Emirates,ARE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,44.2485056396036,air_pollution_pm25
+United Arab Emirates,ARE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,43.0819708202795,air_pollution_pm25
+United Arab Emirates,ARE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,48.347575903809,air_pollution_pm25
+United Kingdom,GBR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,9.94569869317993,air_pollution_pm25
+United Kingdom,GBR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,10.2397854923418,air_pollution_pm25
+United Kingdom,GBR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,10.3814201449701,air_pollution_pm25
+United Kingdom,GBR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,10.0359721133567,air_pollution_pm25
+United Kingdom,GBR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,10.4602728529493,air_pollution_pm25
+United States,USA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,7.17602147949022,air_pollution_pm25
+United States,USA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,7.8220065111125,air_pollution_pm25
+United States,USA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,7.79040584360488,air_pollution_pm25
+United States,USA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,7.40835009300858,air_pollution_pm25
+United States,USA,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,8.19074183499752,air_pollution_pm25
+Uruguay,URY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,10.298591147894,air_pollution_pm25
+Uruguay,URY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,10.1340724978496,air_pollution_pm25
+Uruguay,URY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,10.0613622046924,air_pollution_pm25
+Uruguay,URY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,10.2628739093634,air_pollution_pm25
+Uruguay,URY,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,10.4692129562066,air_pollution_pm25
+Uzbekistan,UZB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,34.1331992575325,air_pollution_pm25
+Uzbekistan,UZB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,34.8354317604587,air_pollution_pm25
+Uzbekistan,UZB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,35.2121570323591,air_pollution_pm25
+Uzbekistan,UZB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,37.5481850195136,air_pollution_pm25
+Uzbekistan,UZB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,37.8356286365777,air_pollution_pm25
+Vanuatu,VUT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,14.3364980888287,air_pollution_pm25
+Vanuatu,VUT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,14.6439252034392,air_pollution_pm25
+Vanuatu,VUT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,13.6713327898574,air_pollution_pm25
+Vanuatu,VUT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,13.8697381004542,air_pollution_pm25
+Vanuatu,VUT,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,13.4680414200127,air_pollution_pm25
+"Venezuela, RB",VEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,14.8507131552081,air_pollution_pm25
+"Venezuela, RB",VEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,16.3445343718253,air_pollution_pm25
+"Venezuela, RB",VEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,19.0801947101269,air_pollution_pm25
+"Venezuela, RB",VEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,18.8450274280702,air_pollution_pm25
+"Venezuela, RB",VEN,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,19.2951554205004,air_pollution_pm25
+Viet Nam,VNM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,20.8317868906878,air_pollution_pm25
+Viet Nam,VNM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,20.1630176303186,air_pollution_pm25
+Viet Nam,VNM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,18.5797797556674,air_pollution_pm25
+Viet Nam,VNM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,20.3304456216218,air_pollution_pm25
+Viet Nam,VNM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,19.377014054477,air_pollution_pm25
+Virgin Islands (U.S.),VIR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,7.9242336096145,air_pollution_pm25
+Virgin Islands (U.S.),VIR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,7.92997730802401,air_pollution_pm25
+Virgin Islands (U.S.),VIR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,8.54756993148376,air_pollution_pm25
+Virgin Islands (U.S.),VIR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,8.29655041406352,air_pollution_pm25
+Virgin Islands (U.S.),VIR,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,8.01092064615819,air_pollution_pm25
+West Bank and Gaza,PSE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,29.6822493738623,air_pollution_pm25
+West Bank and Gaza,PSE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,29.1340212387581,air_pollution_pm25
+West Bank and Gaza,PSE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,26.6750824440453,air_pollution_pm25
+West Bank and Gaza,PSE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,26.5563697979811,air_pollution_pm25
+West Bank and Gaza,PSE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,30.4615510423627,air_pollution_pm25
+"Yemen, Rep.",YEM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,41.6407934340959,air_pollution_pm25
+"Yemen, Rep.",YEM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,43.9103483345439,air_pollution_pm25
+"Yemen, Rep.",YEM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,42.1204805186376,air_pollution_pm25
+"Yemen, Rep.",YEM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,40.7241168220245,air_pollution_pm25
+"Yemen, Rep.",YEM,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,44.0661314855842,air_pollution_pm25
+Zambia,ZMB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,23.2037475947695,air_pollution_pm25
+Zambia,ZMB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,23.3367199131656,air_pollution_pm25
+Zambia,ZMB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,23.7582824070397,air_pollution_pm25
+Zambia,ZMB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,26.1659103128843,air_pollution_pm25
+Zambia,ZMB,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,25.6767422937407,air_pollution_pm25
+Zimbabwe,ZWE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2019,18.5286074615735,air_pollution_pm25
+Zimbabwe,ZWE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2018,19.1120993372982,air_pollution_pm25
+Zimbabwe,ZWE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2017,17.9977538099115,air_pollution_pm25
+Zimbabwe,ZWE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2016,22.5706982027694,air_pollution_pm25
+Zimbabwe,ZWE,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2015,23.1038790684558,air_pollution_pm25

@@ -1,0 +1,175 @@
+{
+  "permutation": {
+    "n_permutations": 10000,
+    "seed": 20260921,
+    "capacity_vs_burden_spearman": -0.18140917449681337,
+    "capacity_vs_burden_perm_p": 0.06269373062693731,
+    "cv_rmse_intercept_only": 2309.288207167517,
+    "cv_rmse_ridge_full": 1784.5278601417776,
+    "cv_rmse_gain_full_vs_intercept": 524.7603470257395,
+    "cv_rmse_gain_perm_p": 9.999000099990002e-05,
+    "cv_rmse_ridge_without_capacity": 1820.2833821817185,
+    "cv_rmse_gain_capacity_beyond_controls": 35.75552203994084,
+    "cv_rmse_gain_capacity_perm_p": 0.021597840215978402,
+    "note": "one-sided p-values for RMSE gains (H1: gain > 0); two-sided for the Spearman test; p = (count+1)/(N+1)"
+  },
+  "cross_evidence_bootstrap": {
+    "baseline_owid_excess_mortality__vs__ghs_enhanced_owid": {
+      "evidence_variant_a": "baseline_owid_excess_mortality",
+      "evidence_variant_b": "ghs_enhanced_owid",
+      "n": 106,
+      "profile_agreement": 0.9716981132075472,
+      "profile_agreement_ci_low": 0.9339622641509434,
+      "profile_agreement_ci_high": 1.0,
+      "cohen_kappa": 0.964313769498373,
+      "spearman": 0.9960400030228985,
+      "spearman_ci_low": 0.9910381250702888,
+      "spearman_ci_high": 0.9973590810613308,
+      "spearman_p": 3.828273564433717e-111
+    },
+    "baseline_owid_excess_mortality__vs__life_expectancy_loss": {
+      "evidence_variant_a": "baseline_owid_excess_mortality",
+      "evidence_variant_b": "life_expectancy_loss",
+      "n": 106,
+      "profile_agreement": 0.6415094339622641,
+      "profile_agreement_ci_low": 0.5471698113207547,
+      "profile_agreement_ci_high": 0.7358490566037735,
+      "cohen_kappa": 0.5436728220233374,
+      "spearman": 0.6604478927878681,
+      "spearman_ci_low": 0.5378341496985313,
+      "spearman_ci_high": 0.7564013065509074,
+      "spearman_p": 1.3373402202861073e-14
+    },
+    "ghs_enhanced_owid__vs__life_expectancy_loss": {
+      "evidence_variant_a": "ghs_enhanced_owid",
+      "evidence_variant_b": "life_expectancy_loss",
+      "n": 106,
+      "profile_agreement": 0.6509433962264151,
+      "profile_agreement_ci_low": 0.5566037735849056,
+      "profile_agreement_ci_high": 0.7452830188679245,
+      "cohen_kappa": 0.5544194501249715,
+      "spearman": 0.6541501876716125,
+      "spearman_ci_low": 0.5309927241418366,
+      "spearman_ci_high": 0.7544338022410949,
+      "spearman_p": 2.8802692725338255e-14
+    },
+    "n_boot": 2000,
+    "method": "country-level percentile bootstrap of the paired 106-country set, conditional on the fitted labels/scores"
+  },
+  "model_delta_bootstrap": {
+    "linear": {
+      "delta_rmse_mean": 105.51045121374071,
+      "ci_low": -118.11493500529573,
+      "ci_high": 384.90651766049365,
+      "share_resamples_alternative_better": 0.201
+    },
+    "huber": {
+      "delta_rmse_mean": 106.32079821361071,
+      "ci_low": -121.09881685118133,
+      "ci_high": 416.14127719744073,
+      "share_resamples_alternative_better": 0.237
+    },
+    "elastic_net": {
+      "delta_rmse_mean": 100.89524724754473,
+      "ci_low": -2.3010257105684895,
+      "ci_high": 202.6903479829364,
+      "share_resamples_alternative_better": 0.029
+    },
+    "random_forest": {
+      "delta_rmse_mean": -125.960588420885,
+      "ci_low": -403.06355637649665,
+      "ci_high": 131.66878818176988,
+      "share_resamples_alternative_better": 0.839
+    },
+    "gradient_boosting": {
+      "delta_rmse_mean": -61.02077239990974,
+      "ci_low": -410.2082362291989,
+      "ci_high": 266.65473639179373,
+      "share_resamples_alternative_better": 0.631
+    },
+    "n_boot": 1000,
+    "elastic_net_fixed_alpha": 5.553199633599632,
+    "elastic_net_fixed_l1_ratio": 0.9,
+    "note": "country-level percentile bootstrap (resample 106 countries with replacement; one 5-fold CV per resample with all copies of a country in the same fold; identical folds across models); positive delta = worse than ridge"
+  },
+  "calibration": {
+    "calibration_slope": 1.0788486935442942,
+    "calibration_intercept": -263.20717790027857,
+    "calibration_slope_se": 0.1323659863868747,
+    "calibration_slope_ci_low": 0.8194113602260198,
+    "calibration_slope_ci_high": 1.3382860268625687,
+    "oof_pearson_r": 0.6243244350574093,
+    "oof_r2": 0.38757481505592417,
+    "oof_rmse": 1772.938995997577,
+    "coverage_80": 0.7830188679245284,
+    "coverage_95": 0.9433962264150944,
+    "mean_width_80": 4379.50350373,
+    "mean_width_95": 7200.61774742613,
+    "interval_method": "cross-conformal residual-quantile intervals: half-width = 80%/95% quantile of |out-of-fold residual| among countries outside the country's own fold (first CV repeat)",
+    "n": 106
+  },
+  "profile_difference": {
+    "kruskal_h": 53.970853398458985,
+    "kruskal_p": 1.1382353049584064e-11,
+    "n_profiles": 4,
+    "n_countries": 79,
+    "pairwise": [
+      {
+        "profile_a": "adaptive over-performers",
+        "profile_b": "capacity under-realizers",
+        "n_a": 20,
+        "n_b": 23,
+        "mannwhitney_u": 445.0,
+        "p_raw": 1.7613159843909357e-07,
+        "p_holm": 1.0567895906345614e-06
+      },
+      {
+        "profile_a": "adaptive over-performers",
+        "profile_b": "effective converters",
+        "n_a": 20,
+        "n_b": 20,
+        "mannwhitney_u": 230.0,
+        "p_raw": 0.42488347368209856,
+        "p_holm": 0.42488347368209856
+      },
+      {
+        "profile_a": "adaptive over-performers",
+        "profile_b": "structurally vulnerable systems",
+        "n_a": 20,
+        "n_b": 16,
+        "mannwhitney_u": 320.0,
+        "p_raw": 3.818334157281001e-07,
+        "p_holm": 1.9091670786405006e-06
+      },
+      {
+        "profile_a": "capacity under-realizers",
+        "profile_b": "effective converters",
+        "n_a": 23,
+        "n_b": 20,
+        "mannwhitney_u": 25.0,
+        "p_raw": 6.377540262674133e-07,
+        "p_holm": 1.91326207880224e-06
+      },
+      {
+        "profile_a": "capacity under-realizers",
+        "profile_b": "structurally vulnerable systems",
+        "n_a": 23,
+        "n_b": 16,
+        "mannwhitney_u": 241.0,
+        "p_raw": 0.10670352203187865,
+        "p_holm": 0.2134070440637573
+      },
+      {
+        "profile_a": "effective converters",
+        "profile_b": "structurally vulnerable systems",
+        "n_a": 20,
+        "n_b": 16,
+        "mannwhitney_u": 320.0,
+        "p_raw": 3.818334157281001e-07,
+        "p_holm": 1.9091670786405006e-06
+      }
+    ],
+    "max_holm_p": 0.42488347368209856,
+    "note": "expected by construction (profiles are defined from E_i); reported as a sanity/reporting item only"
+  }
+}

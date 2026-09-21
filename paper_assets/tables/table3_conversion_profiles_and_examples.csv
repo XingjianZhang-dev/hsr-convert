@@ -1,0 +1,6 @@
+conversion_profile,n,median_efficiency,median_gap,missing_rate_mean,example_countries,coverage_count,missing_count,missing_rate,asset_source_files
+adaptive over-performers,20,0.7017389279397843,-1127.8210432060025,0.01730769230769229,"Mongolia, El Salvador",106,0,0.0,results/tables/conversion_profiles.csv;results/tables/conversion_case_studies.csv
+capacity under-realizers,23,-0.4849502246418017,779.4024907015491,0.04180602006688959,"Belarus, Slovak Republic",106,0,0.0,results/tables/conversion_profiles.csv;results/tables/conversion_case_studies.csv
+effective converters,20,0.5962253562563459,-958.2417000195314,0.0538461538461538,"Denmark, Japan",106,0,0.0,results/tables/conversion_profiles.csv;results/tables/conversion_case_studies.csv
+structurally vulnerable systems,16,-0.8110651624369087,1303.528023296627,0.024038461538461516,"North Macedonia, St. Kitts and Nevis",106,0,0.0,results/tables/conversion_profiles.csv;results/tables/conversion_case_studies.csv
+uncertain / data-limited systems,27,-0.1113311654121229,178.92926573857585,0.04700854700854697,"Malta, Belize",106,0,0.0,results/tables/conversion_profiles.csv;results/tables/conversion_case_studies.csv

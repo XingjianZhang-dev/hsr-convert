@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,unit,obs_status,decimal
+Africa Eastern and Southern,AFE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,217.181340201164,,,0
+Africa Eastern and Southern,AFE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,224.683056807704,,,0
+Africa Eastern and Southern,AFE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,234.463523589668,,,0
+Africa Eastern and Southern,AFE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,241.803244388829,,,0
+Africa Eastern and Southern,AFE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,249.530602866816,,,0
+Africa Western and Central,AFW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,292.130371035132,,,0
+Africa Western and Central,AFW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,293.755215579209,,,0
+Africa Western and Central,AFW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,298.193957119754,,,0
+Africa Western and Central,AFW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,301.257810798083,,,0
+Africa Western and Central,AFW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,304.9465642633,,,0
+Arab World,ARB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,106.766027761557,,,0
+Arab World,ARB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,109.818472534217,,,0
+Arab World,ARB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,112.391779831748,,,0
+Arab World,ARB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,114.010725914287,,,0
+Arab World,ARB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,116.699815302042,,,0
+Caribbean small states,CSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,124.874134872085,,,0
+Caribbean small states,CSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,122.461754246608,,,0
+Caribbean small states,CSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,123.212416141434,,,0
+Caribbean small states,CSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,123.85772485685,,,0
+Caribbean small states,CSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,125.182492955842,,,0
+Central Europe and the Baltics,CEB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,65.4325928099844,,,0
+Central Europe and the Baltics,CEB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,67.3026064404152,,,0
+Central Europe and the Baltics,CEB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,68.0142554262528,,,0
+Central Europe and the Baltics,CEB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,68.3393730063257,,,0
+Central Europe and the Baltics,CEB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,69.9614361937207,,,0
+Early-demographic dividend,EAR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,129.983351652188,,,0
+Early-demographic dividend,EAR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,132.443233384869,,,0
+Early-demographic dividend,EAR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,134.080277875672,,,0
+Early-demographic dividend,EAR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,136.344926296809,,,0
+Early-demographic dividend,EAR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,138.435525257438,,,0
+East Asia & Pacific,EAS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,75.1992408433318,,,0
+East Asia & Pacific,EAS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,75.9916940574492,,,0
+East Asia & Pacific,EAS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,76.6537867308403,,,0
+East Asia & Pacific,EAS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,78.1185359709768,,,0
+East Asia & Pacific,EAS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,79.2606628208634,,,0
+East Asia & Pacific (excluding high income),EAP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,79.6657729699241,,,0
+East Asia & Pacific (excluding high income),EAP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,80.478540459845,,,0
+East Asia & Pacific (excluding high income),EAP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,81.1930285024914,,,0
+East Asia & Pacific (excluding high income),EAP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,82.7103224418995,,,0
+East Asia & Pacific (excluding high income),EAP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,83.9558136756523,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,79.4006919987266,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,80.1961228155612,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,80.9121184992171,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,82.4355446199164,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,83.6861149512175,,,0
+Euro area,EMU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,43.2599375701612,,,0
+Euro area,EMU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,44.5463557673997,,,0
+Euro area,EMU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,44.9728541381949,,,0
+Euro area,EMU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,45.5783649873549,,,0
+Euro area,EMU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,46.4577406333809,,,0
+Europe & Central Asia,ECS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,66.3101765308332,,,0
+Europe & Central Asia,ECS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,67.7729257948025,,,0
+Europe & Central Asia,ECS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,68.5078980533753,,,0
+Europe & Central Asia,ECS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,71.0363226078604,,,0
+Europe & Central Asia,ECS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,72.6485959261741,,,0
+Europe & Central Asia (excluding high income),ECA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,78.2172485777982,,,0
+Europe & Central Asia (excluding high income),ECA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,80.0332852563332,,,0
+Europe & Central Asia (excluding high income),ECA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,82.0270597242778,,,0
+Europe & Central Asia (excluding high income),ECA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,84.7134819196418,,,0
+Europe & Central Asia (excluding high income),ECA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,86.4736357862127,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,86.6001453976552,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,87.7777805653848,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,88.9729472815949,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,92.9719067173414,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,95.4159149301179,,,0
+European Union,EUU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,47.6016547756253,,,0
+European Union,EUU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,49.0768036493412,,,0
+European Union,EUU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,49.5716688056554,,,0
+European Union,EUU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,50.1802869011603,,,0
+European Union,EUU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,51.2380269862235,,,0
+Fragile and conflict affected situations,FCS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,217.811475887666,,,0
+Fragile and conflict affected situations,FCS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,220.874662070836,,,0
+Fragile and conflict affected situations,FCS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,226.261933265075,,,0
+Fragile and conflict affected situations,FCS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,228.913306743547,,,0
+Fragile and conflict affected situations,FCS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,231.882708170101,,,0
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,210.85304223598,,,0
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,215.284147034818,,,0
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,221.921047171389,,,0
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,227.747406256435,,,0
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,234.069829510964,,,0
+High income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,60.5177576249956,,,0
+High income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,61.5110559292979,,,0
+High income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,62.1410706080023,,,0
+High income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,63.6188407170646,,,0
+High income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,64.1411697771945,,,0
+IBRD only,IBD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,98.4361654751129,,,0
+IBRD only,IBD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,99.7492123135447,,,0
+IBRD only,IBD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,100.890507921693,,,0
+IBRD only,IBD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,102.564813344873,,,0
+IBRD only,IBD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,103.662931868031,,,0
+IDA & IBRD total,IBT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,122.296837313268,,,0
+IDA & IBRD total,IBT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,123.721354404821,,,0
+IDA & IBRD total,IBT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,125.362888528071,,,0
+IDA & IBRD total,IBT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,127.14876828552,,,0
+IDA & IBRD total,IBT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,128.629863724011,,,0
+IDA blend,IDB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,236.930221658854,,,0
+IDA blend,IDB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,238.957167929442,,,0
+IDA blend,IDB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,241.287320824729,,,0
+IDA blend,IDB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,243.69357182015,,,0
+IDA blend,IDB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,246.412053760601,,,0
+IDA only,IDX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,178.867059582023,,,0
+IDA only,IDX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,182.933356185039,,,0
+IDA only,IDX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,188.891580993335,,,0
+IDA only,IDX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,193.032840565663,,,0
+IDA only,IDX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,197.871135656067,,,0
+IDA total,IDA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,198.746535834663,,,0
+IDA total,IDA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,202.151020576315,,,0
+IDA total,IDA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,206.89511797337,,,0
+IDA total,IDA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,210.482283042606,,,0
+IDA total,IDA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,214.641647254177,,,0
+Late-demographic dividend,LTE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,67.4819267138975,,,0
+Late-demographic dividend,LTE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,68.3104648989327,,,0
+Late-demographic dividend,LTE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,69.7424608766774,,,0
+Late-demographic dividend,LTE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,71.4748324296944,,,0
+Late-demographic dividend,LTE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,72.6967533866697,,,0
+Latin America & Caribbean,LCN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,91.7653546346891,,,0
+Latin America & Caribbean,LCN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,92.8734518135431,,,0
+Latin America & Caribbean,LCN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,93.9758735531296,,,0
+Latin America & Caribbean,LCN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,95.0653983668905,,,0
+Latin America & Caribbean,LCN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,94.4457890229295,,,0
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,92.7941829242663,,,0
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,93.9447962726022,,,0
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,94.8647223068315,,,0
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,96.5974014476788,,,0
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,96.2981453605035,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,92.2888391935851,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,93.456107835825,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,94.5212516302269,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,95.7096094238662,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,95.0730235495201,,,0
+Least developed countries: UN classification,LDC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,185.670918953222,,,0
+Least developed countries: UN classification,LDC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,189.600808262,,,0
+Least developed countries: UN classification,LDC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,195.921426628456,,,0
+Least developed countries: UN classification,LDC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,200.355776340181,,,0
+Least developed countries: UN classification,LDC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,205.34019350682,,,0
+Low & middle income,LMY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,122.678958958156,,,0
+Low & middle income,LMY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,124.104140946789,,,0
+Low & middle income,LMY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,125.767938581295,,,0
+Low & middle income,LMY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,127.429910327355,,,0
+Low & middle income,LMY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,128.849994463434,,,0
+Low income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,207.144792197834,,,0
+Low income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,211.538184446234,,,0
+Low income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,220.293157749526,,,0
+Low income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,224.294501865469,,,0
+Low income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,229.430352779813,,,0
+Lower middle income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,152.800583957546,,,0
+Lower middle income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,154.927625978783,,,0
+Lower middle income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,156.516649833192,,,0
+Lower middle income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,158.810282575716,,,0
+Lower middle income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,160.84014903831,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,106.072927150718,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,108.258693549443,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,110.166848564833,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,112.562143779421,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,115.147983158689,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,110.907496340926,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,113.2976608218,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,115.348291301577,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,117.806300189072,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,120.360589362267,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,111.167616119933,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,113.546962502326,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,115.596109210444,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,118.053233390596,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,120.603847492691,,,0
+Middle income,MIC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,115.898958840767,,,0
+Middle income,MIC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,117.262206077124,,,0
+Middle income,MIC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,118.534910996387,,,0
+Middle income,MIC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,120.167452337668,,,0
+Middle income,MIC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,121.441527361943,,,0
+North America,NAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,76.3426485665319,,,0
+North America,NAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,77.5247263384659,,,0
+North America,NAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,78.8395374154972,,,0
+North America,NAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,78.9505668891262,,,0
+North America,NAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,77.3709761888231,,,0
+Not classified,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,,,,0
+Not classified,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,,,,0
+Not classified,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,,,,0
+Not classified,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,,,,0
+Not classified,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,,,,0
+OECD members,OED,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,58.8542822419216,,,0
+OECD members,OED,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,60.0695462238645,,,0
+OECD members,OED,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,60.590943764148,,,0
+OECD members,OED,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,60.9899755852357,,,0
+OECD members,OED,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,60.8370779991066,,,0
+Other small states,OSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,121.374319331116,,,0
+Other small states,OSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,123.671016368566,,,0
+Other small states,OSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,126.942567699797,,,0
+Other small states,OSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,132.446040438724,,,0
+Other small states,OSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,136.868701920731,,,0
+Pacific island small states,PSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,172.396934789441,,,0
+Pacific island small states,PSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,173.039273696461,,,0
+Pacific island small states,PSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,172.529654355328,,,0
+Pacific island small states,PSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,177.347398235682,,,0
+Pacific island small states,PSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,175.586789913119,,,0
+Post-demographic dividend,PST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,55.6084525306751,,,0
+Post-demographic dividend,PST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,56.9703169590773,,,0
+Post-demographic dividend,PST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,57.5810017612022,,,0
+Post-demographic dividend,PST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,58.3674278288497,,,0
+Post-demographic dividend,PST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,58.3870282170147,,,0
+Pre-demographic dividend,PRE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,251.025223748547,,,0
+Pre-demographic dividend,PRE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,255.315317460777,,,0
+Pre-demographic dividend,PRE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,262.788908762447,,,0
+Pre-demographic dividend,PRE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,267.703704138163,,,0
+Pre-demographic dividend,PRE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,272.459017848149,,,0
+Small states,SST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,128.639348432566,,,0
+Small states,SST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,129.557249464207,,,0
+Small states,SST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,131.712343536281,,,0
+Small states,SST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,135.894338518723,,,0
+Small states,SST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,138.748476542182,,,0
+South Asia,SAS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,132.355496701386,,,0
+South Asia,SAS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,134.624711526468,,,0
+South Asia,SAS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,136.499559344946,,,0
+South Asia,SAS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,137.95376154773,,,0
+South Asia,SAS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,139.420168395631,,,0
+South Asia (IDA & IBRD),TSA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,132.355496701386,,,0
+South Asia (IDA & IBRD),TSA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,134.624711526468,,,0
+South Asia (IDA & IBRD),TSA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,136.499559344946,,,0
+South Asia (IDA & IBRD),TSA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,137.95376154773,,,0
+South Asia (IDA & IBRD),TSA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,139.420168395631,,,0
+Sub-Saharan Africa,SSF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,246.840726218202,,,0
+Sub-Saharan Africa,SSF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,252.053123136398,,,0
+Sub-Saharan Africa,SSF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,259.75136934369,,,0
+Sub-Saharan Africa,SSF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,265.406577613726,,,0
+Sub-Saharan Africa,SSF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,271.541868598146,,,0
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,255.862129846616,,,0
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,260.935601121244,,,0
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,268.795476806798,,,0
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,274.163919656523,,,0
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,280.050172405387,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,246.840726218202,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,252.053123136398,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,259.75136934369,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,265.406577613726,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,271.541868598146,,,0
+Upper middle income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,79.832248049198,,,0
+Upper middle income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,81.0783961767495,,,0
+Upper middle income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,82.5551189617661,,,0
+Upper middle income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,84.082043284292,,,0
+Upper middle income,,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,85.1632159910277,,,0
+World,WLD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,112.026515515895,,,0
+World,WLD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,113.31913724314,,,0
+World,WLD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,114.714696522821,,,0
+World,WLD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,116.234731950504,,,0
+World,WLD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,117.387496670629,,,0
+Afghanistan,AFG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,196.012,,,0
+Afghanistan,AFG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,198.86,,,0
+Afghanistan,AFG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,201.809,,,0
+Afghanistan,AFG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,208.853,,,0
+Afghanistan,AFG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,213.685,,,0
+Albania,ALB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,47.96,,,0
+Albania,ALB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,48.859,,,0
+Albania,ALB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,50.802,,,0
+Albania,ALB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,52.774,,,0
+Albania,ALB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,54.809,,,0
+Algeria,DZA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,72.473,,,0
+Algeria,DZA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,74.447,,,0
+Algeria,DZA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,76.059,,,0
+Algeria,DZA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,77.401,,,0
+Algeria,DZA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,78.32,,,0
+American Samoa,ASM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,118.327,,,0
+American Samoa,ASM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,117.357,,,0
+American Samoa,ASM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,118.223,,,0
+American Samoa,ASM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,125.4,,,0
+American Samoa,ASM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,123.952,,,0
+Andorra,AND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,27.419,,,0
+Andorra,AND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,27.058,,,0
+Andorra,AND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,26.583,,,0
+Andorra,AND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,26.042,,,0
+Andorra,AND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,25.62,,,0
+Angola,AGO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,201.372,,,0
+Angola,AGO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,205.85,,,0
+Angola,AGO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,211.516,,,0
+Angola,AGO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,216.301,,,0
+Angola,AGO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,222.12,,,0
+Antigua and Barbuda,ATG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,90.746,,,0
+Antigua and Barbuda,ATG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,89.248,,,0
+Antigua and Barbuda,ATG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,88.2,,,0
+Antigua and Barbuda,ATG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,87.047,,,0
+Antigua and Barbuda,ATG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,86.282,,,0
+Argentina,ARG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,84.846,,,0
+Argentina,ARG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,84.603,,,0
+Argentina,ARG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,84.87,,,0
+Argentina,ARG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,85.937,,,0
+Argentina,ARG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,81.387,,,0
+Armenia,ARM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,60.884,,,0
+Armenia,ARM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,62.661,,,0
+Armenia,ARM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,64.526,,,0
+Armenia,ARM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,66.503,,,0
+Armenia,ARM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,68.579,,,0
+Aruba,ABW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,59.787,,,0
+Aruba,ABW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,60.625,,,0
+Aruba,ABW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,63.978,,,0
+Aruba,ABW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,64.298,,,0
+Aruba,ABW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,64.764,,,0
+Australia,AUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,42.391,,,0
+Australia,AUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,43.127,,,0
+Australia,AUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,44.614,,,0
+Australia,AUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,44.785,,,0
+Australia,AUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,45.231,,,0
+Austria,AUT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,40.952,,,0
+Austria,AUT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,43.991,,,0
+Austria,AUT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,41.779,,,0
+Austria,AUT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,43.796,,,0
+Austria,AUT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,44.687,,,0
+Azerbaijan,AZE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,76.984,,,0
+Azerbaijan,AZE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,79.918,,,0
+Azerbaijan,AZE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,83.023,,,0
+Azerbaijan,AZE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,83.875,,,0
+Azerbaijan,AZE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,80.425,,,0
+"Bahamas, The",BHS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,160.326,,,0
+"Bahamas, The",BHS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,126.644,,,0
+"Bahamas, The",BHS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,126.917,,,0
+"Bahamas, The",BHS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,126.393,,,0
+"Bahamas, The",BHS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,129.238,,,0
+Bahrain,BHR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,50.907,,,0
+Bahrain,BHR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,51.814,,,0
+Bahrain,BHR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,52.75,,,0
+Bahrain,BHR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,53.767,,,0
+Bahrain,BHR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,54.927,,,0
+Bangladesh,BGD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,118.025,,,0
+Bangladesh,BGD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,120.44,,,0
+Bangladesh,BGD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,122.9,,,0
+Bangladesh,BGD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,125.318,,,0
+Bangladesh,BGD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,127.822,,,0
+Barbados,BRB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,86.426,,,0
+Barbados,BRB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,87.219,,,0
+Barbados,BRB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,88.268,,,0
+Barbados,BRB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,87.976,,,0
+Barbados,BRB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,88.955,,,0
+Belarus,BLR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,,,,0
+Belarus,BLR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,79.839,,,0
+Belarus,BLR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,77.933,,,0
+Belarus,BLR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,82.559,,,0
+Belarus,BLR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,82.36,,,0
+Belgium,BEL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,46.994,,,0
+Belgium,BEL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,49.315,,,0
+Belgium,BEL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,49.351,,,0
+Belgium,BEL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,51.297,,,0
+Belgium,BEL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,53.983,,,0
+Belize,BLZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,111.89,,,0
+Belize,BLZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,114.485,,,0
+Belize,BLZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,117.362,,,0
+Belize,BLZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,120.483,,,0
+Belize,BLZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,123.272,,,0
+Benin,BEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,253.55,,,0
+Benin,BEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,256.343,,,0
+Benin,BEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,255.9,,,0
+Benin,BEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,259.144,,,0
+Benin,BEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,260.009,,,0
+Bermuda,BMU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,47.211,,,0
+Bermuda,BMU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,47.527,,,0
+Bermuda,BMU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,47.98,,,0
+Bermuda,BMU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,47.127,,,0
+Bermuda,BMU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,45.613,,,0
+Bhutan,BTN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,109.585,,,0
+Bhutan,BTN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,112.811,,,0
+Bhutan,BTN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,116.342,,,0
+Bhutan,BTN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,120.232,,,0
+Bhutan,BTN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,124.388,,,0
+Bolivia,BOL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,155.563,,,0
+Bolivia,BOL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,156.313,,,0
+Bolivia,BOL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,157.682,,,0
+Bolivia,BOL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,159.145,,,0
+Bolivia,BOL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,160.551,,,0
+Bosnia and Herzegovina,BIH,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,63.181,,,0
+Bosnia and Herzegovina,BIH,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,58.727,,,0
+Bosnia and Herzegovina,BIH,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,65.516,,,0
+Bosnia and Herzegovina,BIH,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,65.397,,,0
+Bosnia and Herzegovina,BIH,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,65.541,,,0
+Botswana,BWA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,187.28,,,0
+Botswana,BWA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,203.63,,,0
+Botswana,BWA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,225.327,,,0
+Botswana,BWA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,250.608,,,0
+Botswana,BWA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,276.191,,,0
+Brazil,BRA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,82.86,,,0
+Brazil,BRA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,83.265,,,0
+Brazil,BRA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,85.377,,,0
+Brazil,BRA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,89.504,,,0
+Brazil,BRA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,89.318,,,0
+British Virgin Islands,VGB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,52.111,,,0
+British Virgin Islands,VGB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,52.442,,,0
+British Virgin Islands,VGB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,65.915,,,0
+British Virgin Islands,VGB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,52.852,,,0
+British Virgin Islands,VGB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,52.914,,,0
+Brunei Darussalam,BRN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,98.257,,,0
+Brunei Darussalam,BRN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,99.117,,,0
+Brunei Darussalam,BRN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,99.88,,,0
+Brunei Darussalam,BRN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,100.497,,,0
+Brunei Darussalam,BRN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,100.941,,,0
+Bulgaria,BGR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,81.732,,,0
+Bulgaria,BGR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,86.31,,,0
+Bulgaria,BGR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,86.496,,,0
+Bulgaria,BGR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,86.466,,,0
+Bulgaria,BGR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,86.607,,,0
+Burkina Faso,BFA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,223.516,,,0
+Burkina Faso,BFA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,226.174,,,0
+Burkina Faso,BFA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,229.534,,,0
+Burkina Faso,BFA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,233.03,,,0
+Burkina Faso,BFA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,236.15,,,0
+Burundi,BDI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,237.042,,,0
+Burundi,BDI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,241.305,,,0
+Burundi,BDI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,246.502,,,0
+Burundi,BDI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,253.315,,,0
+Burundi,BDI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,260.208,,,0
+Cabo Verde,CPV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,61.443,,,0
+Cabo Verde,CPV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,70.077,,,0
+Cabo Verde,CPV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,70.834,,,0
+Cabo Verde,CPV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,74.17,,,0
+Cabo Verde,CPV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,75.055,,,0
+Cambodia,KHM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,138.351,,,0
+Cambodia,KHM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,139.806,,,0
+Cambodia,KHM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,141.415,,,0
+Cambodia,KHM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,143.341,,,0
+Cambodia,KHM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,145.696,,,0
+Cameroon,CMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,228.251,,,0
+Cameroon,CMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,235.062,,,0
+Cameroon,CMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,241.064,,,0
+Cameroon,CMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,248.942,,,0
+Cameroon,CMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,257.795,,,0
+Canada,CAN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,49.818,,,0
+Canada,CAN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,51.157,,,0
+Canada,CAN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,51.591,,,0
+Canada,CAN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,51.593,,,0
+Canada,CAN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,50.736,,,0
+Cayman Islands,CYM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,91.657,,,0
+Cayman Islands,CYM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,92.739,,,0
+Cayman Islands,CYM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,93.497,,,0
+Cayman Islands,CYM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,94.515,,,0
+Cayman Islands,CYM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,95.791,,,0
+Central African Republic,CAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,573.291,,,0
+Central African Republic,CAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,372.681,,,0
+Central African Republic,CAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,433.317,,,0
+Central African Republic,CAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,392.37,,,0
+Central African Republic,CAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,392.347,,,0
+Chad,TCD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,336.625,,,0
+Chad,TCD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,344.577,,,0
+Chad,TCD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,352.024,,,0
+Chad,TCD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,355.966,,,0
+Chad,TCD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,357.171,,,0
+Channel Islands,CHI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,40.0,,,0
+Channel Islands,CHI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,39.0,,,0
+Channel Islands,CHI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,40.0,,,0
+Channel Islands,CHI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,39.0,,,0
+Channel Islands,CHI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,38.0,,,0
+Chile,CHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,60.507,,,0
+Chile,CHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,58.945,,,0
+Chile,CHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,58.877,,,0
+Chile,CHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,59.591,,,0
+Chile,CHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,60.75,,,0
+China,CHN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,57.27,,,0
+China,CHN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,58.145,,,0
+China,CHN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,59.79,,,0
+China,CHN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,60.855,,,0
+China,CHN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,62.188,,,0
+Colombia,COL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,72.478,,,0
+Colombia,COL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,73.948,,,0
+Colombia,COL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,74.533,,,0
+Colombia,COL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,74.23,,,0
+Colombia,COL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,74.753,,,0
+Comoros,COM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,178.417,,,0
+Comoros,COM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,181.308,,,0
+Comoros,COM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,184.776,,,0
+Comoros,COM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,188.349,,,0
+Comoros,COM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,192.036,,,0
+"Congo, Dem. Rep.",COD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,240.741,,,0
+"Congo, Dem. Rep.",COD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,243.646,,,0
+"Congo, Dem. Rep.",COD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,248.777,,,0
+"Congo, Dem. Rep.",COD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,253.152,,,0
+"Congo, Dem. Rep.",COD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,257.577,,,0
+"Congo, Rep.",COG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,254.646,,,0
+"Congo, Rep.",COG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,236.372,,,0
+"Congo, Rep.",COG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,240.65,,,0
+"Congo, Rep.",COG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,244.334,,,0
+"Congo, Rep.",COG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,247.102,,,0
+Costa Rica,CRI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,59.4,,,0
+Costa Rica,CRI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,61.551,,,0
+Costa Rica,CRI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,60.849,,,0
+Costa Rica,CRI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,58.077,,,0
+Costa Rica,CRI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,56.124,,,0
+Cote d'Ivoire,CIV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,291.241,,,0
+Cote d'Ivoire,CIV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,299.761,,,0
+Cote d'Ivoire,CIV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,307.812,,,0
+Cote d'Ivoire,CIV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,317.061,,,0
+Cote d'Ivoire,CIV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,327.799,,,0
+Croatia,HRV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,52.396,,,0
+Croatia,HRV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,53.714,,,0
+Croatia,HRV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,54.139,,,0
+Croatia,HRV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,54.492,,,0
+Croatia,HRV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,55.308,,,0
+Cuba,CUB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,76.597,,,0
+Cuba,CUB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,75.575,,,0
+Cuba,CUB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,74.411,,,0
+Cuba,CUB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,75.778,,,0
+Cuba,CUB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,76.454,,,0
+Curacao,CUW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,56.504,,,0
+Curacao,CUW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,56.892,,,0
+Curacao,CUW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,57.249,,,0
+Curacao,CUW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,57.597,,,0
+Curacao,CUW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,57.597,,,0
+Cyprus,CYP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,32.908,,,0
+Cyprus,CYP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,32.938,,,0
+Cyprus,CYP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,33.075,,,0
+Cyprus,CYP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,33.348,,,0
+Cyprus,CYP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,34.187,,,0
+Czechia,CZE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,51.96,,,0
+Czechia,CZE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,51.152,,,0
+Czechia,CZE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,51.586,,,0
+Czechia,CZE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,53.474,,,0
+Czechia,CZE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,53.074,,,0
+Denmark,DNK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,43.817,,,0
+Denmark,DNK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,48.343,,,0
+Denmark,DNK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,47.453,,,0
+Denmark,DNK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,51.652,,,0
+Denmark,DNK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,51.397,,,0
+Djibouti,DJI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,192.313,,,0
+Djibouti,DJI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,194.84,,,0
+Djibouti,DJI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,199.313,,,0
+Djibouti,DJI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,203.293,,,0
+Djibouti,DJI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,208.828,,,0
+Dominica,DMA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,91.831,,,0
+Dominica,DMA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,94.868,,,0
+Dominica,DMA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,136.108,,,0
+Dominica,DMA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,103.597,,,0
+Dominica,DMA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,124.826,,,0
+Dominican Republic,DOM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,105.271,,,0
+Dominican Republic,DOM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,102.711,,,0
+Dominican Republic,DOM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,102.041,,,0
+Dominican Republic,DOM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,107.301,,,0
+Dominican Republic,DOM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,108.612,,,0
+Ecuador,ECU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,82.864,,,0
+Ecuador,ECU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,81.574,,,0
+Ecuador,ECU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,83.405,,,0
+Ecuador,ECU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,85.215,,,0
+Ecuador,ECU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,84.02,,,0
+"Egypt, Arab Rep.",EGY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,104.367,,,0
+"Egypt, Arab Rep.",EGY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,106.996,,,0
+"Egypt, Arab Rep.",EGY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,110.083,,,0
+"Egypt, Arab Rep.",EGY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,113.397,,,0
+"Egypt, Arab Rep.",EGY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,117.052,,,0
+El Salvador,SLV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,116.805,,,0
+El Salvador,SLV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,119.714,,,0
+El Salvador,SLV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,121.452,,,0
+El Salvador,SLV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,121.648,,,0
+El Salvador,SLV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,122.319,,,0
+Equatorial Guinea,GNQ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,218.115,,,0
+Equatorial Guinea,GNQ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,222.182,,,0
+Equatorial Guinea,GNQ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,227.123,,,0
+Equatorial Guinea,GNQ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,232.601,,,0
+Equatorial Guinea,GNQ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,237.817,,,0
+Eritrea,ERI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,172.742,,,0
+Eritrea,ERI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,176.246,,,0
+Eritrea,ERI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,180.454,,,0
+Eritrea,ERI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,184.626,,,0
+Eritrea,ERI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,188.944,,,0
+Estonia,EST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,58.202,,,0
+Estonia,EST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,55.53,,,0
+Estonia,EST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,56.077,,,0
+Estonia,EST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,67.212,,,0
+Estonia,EST,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,62.825,,,0
+Eswatini,SWZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,325.605,,,0
+Eswatini,SWZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,350.78,,,0
+Eswatini,SWZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,377.452,,,0
+Eswatini,SWZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,411.533,,,0
+Eswatini,SWZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,444.55,,,0
+Ethiopia,ETH,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,169.022,,,0
+Ethiopia,ETH,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,175.122,,,0
+Ethiopia,ETH,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,181.024,,,0
+Ethiopia,ETH,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,188.624,,,0
+Ethiopia,ETH,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,196.33,,,0
+Faroe Islands,FRO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,38.758,,,0
+Faroe Islands,FRO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,39.387,,,0
+Faroe Islands,FRO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,39.993,,,0
+Faroe Islands,FRO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,40.643,,,0
+Faroe Islands,FRO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,41.31,,,0
+Fiji,FJI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,196.222,,,0
+Fiji,FJI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,196.897,,,0
+Fiji,FJI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,193.245,,,0
+Fiji,FJI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,204.258,,,0
+Fiji,FJI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,198.556,,,0
+Finland,FIN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,43.336,,,0
+Finland,FIN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,44.169,,,0
+Finland,FIN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,44.881,,,0
+Finland,FIN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,43.095,,,0
+Finland,FIN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,43.601,,,0
+France,FRA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,47.023,,,0
+France,FRA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,48.216,,,0
+France,FRA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,48.266,,,0
+France,FRA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,48.309,,,0
+France,FRA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,49.377,,,0
+French Polynesia,PYF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,28.746,,,0
+French Polynesia,PYF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,29.492,,,0
+French Polynesia,PYF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,30.25,,,0
+French Polynesia,PYF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,31.043,,,0
+French Polynesia,PYF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,31.875,,,0
+Gabon,GAB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,173.261,,,0
+Gabon,GAB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,177.901,,,0
+Gabon,GAB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,180.329,,,0
+Gabon,GAB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,182.67,,,0
+Gabon,GAB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,184.588,,,0
+"Gambia, The",GMB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,213.867,,,0
+"Gambia, The",GMB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,218.413,,,0
+"Gambia, The",GMB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,222.249,,,0
+"Gambia, The",GMB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,225.962,,,0
+"Gambia, The",GMB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,231.595,,,0
+Georgia,GEO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,75.537,,,0
+Georgia,GEO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,77.695,,,0
+Georgia,GEO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,80.095,,,0
+Georgia,GEO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,84.212,,,0
+Georgia,GEO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,83.226,,,0
+Germany,DEU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,46.582,,,0
+Germany,DEU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,48.283,,,0
+Germany,DEU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,48.026,,,0
+Germany,DEU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,49.545,,,0
+Germany,DEU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,50.173,,,0
+Ghana,GHA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,207.625,,,0
+Ghana,GHA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,212.035,,,0
+Ghana,GHA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,215.996,,,0
+Ghana,GHA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,219.336,,,0
+Ghana,GHA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,223.143,,,0
+Gibraltar,GIB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,36.272,,,0
+Gibraltar,GIB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,36.898,,,0
+Gibraltar,GIB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,37.5,,,0
+Gibraltar,GIB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,37.943,,,0
+Gibraltar,GIB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,38.257,,,0
+Greece,GRC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,37.4,,,0
+Greece,GRC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,36.68,,,0
+Greece,GRC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,38.988,,,0
+Greece,GRC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,37.918,,,0
+Greece,GRC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,39.147,,,0
+Greenland,GRL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,151.747,,,0
+Greenland,GRL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,151.577,,,0
+Greenland,GRL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,151.883,,,0
+Greenland,GRL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,152.629,,,0
+Greenland,GRL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,155.247,,,0
+Grenada,GRD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,108.553,,,0
+Grenada,GRD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,109.239,,,0
+Grenada,GRD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,109.935,,,0
+Grenada,GRD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,110.742,,,0
+Grenada,GRD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,111.734,,,0
+Guam,GUM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,104.467,,,0
+Guam,GUM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,105.378,,,0
+Guam,GUM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,106.606,,,0
+Guam,GUM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,106.216,,,0
+Guam,GUM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,104.733,,,0
+Guatemala,GTM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,131.263,,,0
+Guatemala,GTM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,131.614,,,0
+Guatemala,GTM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,128.835,,,0
+Guatemala,GTM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,131.619,,,0
+Guatemala,GTM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,133.993,,,0
+Guinea,GIN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,247.685,,,0
+Guinea,GIN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,250.56,,,0
+Guinea,GIN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,253.3,,,0
+Guinea,GIN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,255.945,,,0
+Guinea,GIN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,262.16,,,0
+Guinea-Bissau,GNB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,219.225,,,0
+Guinea-Bissau,GNB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,225.919,,,0
+Guinea-Bissau,GNB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,232.306,,,0
+Guinea-Bissau,GNB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,239.204,,,0
+Guinea-Bissau,GNB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,246.011,,,0
+Guyana,GUY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,155.658,,,0
+Guyana,GUY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,158.321,,,0
+Guyana,GUY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,161.206,,,0
+Guyana,GUY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,166.843,,,0
+Guyana,GUY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,171.298,,,0
+Haiti,HTI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,178.259,,,0
+Haiti,HTI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,181.472,,,0
+Haiti,HTI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,184.554,,,0
+Haiti,HTI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,191.954,,,0
+Haiti,HTI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,193.134,,,0
+Honduras,HND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,118.661,,,0
+Honduras,HND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,119.523,,,0
+Honduras,HND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,121.545,,,0
+Honduras,HND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,123.963,,,0
+Honduras,HND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,127.643,,,0
+"Hong Kong SAR, China",HKG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,34.5,,,0
+"Hong Kong SAR, China",HKG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,34.967,,,0
+"Hong Kong SAR, China",HKG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,35.453,,,0
+"Hong Kong SAR, China",HKG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,35.904,,,0
+"Hong Kong SAR, China",HKG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,36.308,,,0
+Hungary,HUN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,75.172,,,0
+Hungary,HUN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,77.647,,,0
+Hungary,HUN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,80.586,,,0
+Hungary,HUN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,79.709,,,0
+Hungary,HUN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,85.926,,,0
+Iceland,ISL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,46.022,,,0
+Iceland,ISL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,41.344,,,0
+Iceland,ISL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,32.866,,,0
+Iceland,ISL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,38.682,,,0
+Iceland,ISL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,43.667,,,0
+India,IND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,134.926,,,0
+India,IND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,137.206,,,0
+India,IND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,138.988,,,0
+India,IND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,140.3,,,0
+India,IND,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,141.371,,,0
+Indonesia,IDN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,146.485,,,0
+Indonesia,IDN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,149.409,,,0
+Indonesia,IDN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,150.907,,,0
+Indonesia,IDN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,153.416,,,0
+Indonesia,IDN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,155.628,,,0
+"Iran, Islamic Rep.",IRN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,61.302,,,0
+"Iran, Islamic Rep.",IRN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,63.185,,,0
+"Iran, Islamic Rep.",IRN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,65.389,,,0
+"Iran, Islamic Rep.",IRN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,67.349,,,0
+"Iran, Islamic Rep.",IRN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,69.55,,,0
+Iraq,IRQ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,121.525,,,0
+Iraq,IRQ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,123.279,,,0
+Iraq,IRQ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,129.072,,,0
+Iraq,IRQ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,134.044,,,0
+Iraq,IRQ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,132.625,,,0
+Ireland,IRL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,45.197,,,0
+Ireland,IRL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,47.935,,,0
+Ireland,IRL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,44.301,,,0
+Ireland,IRL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,47.831,,,0
+Ireland,IRL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,50.413,,,0
+Isle of Man,IMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,51.337,,,0
+Isle of Man,IMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,52.645,,,0
+Isle of Man,IMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,53.878,,,0
+Isle of Man,IMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,55.174,,,0
+Isle of Man,IMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,56.504,,,0
+Israel,ISR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,37.275,,,0
+Israel,ISR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,37.128,,,0
+Israel,ISR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,38.545,,,0
+Israel,ISR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,39.847,,,0
+Israel,ISR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,39.921,,,0
+Italy,ITA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,35.524,,,0
+Italy,ITA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,36.495,,,0
+Italy,ITA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,37.797,,,0
+Italy,ITA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,37.329,,,0
+Italy,ITA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,38.602,,,0
+Jamaica,JAM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,123.685,,,0
+Jamaica,JAM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,123.131,,,0
+Jamaica,JAM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,122.058,,,0
+Jamaica,JAM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,120.633,,,0
+Jamaica,JAM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,119.249,,,0
+Japan,JPN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,35.483,,,0
+Japan,JPN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,35.783,,,0
+Japan,JPN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,35.709,,,0
+Japan,JPN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,36.993,,,0
+Japan,JPN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,37.142,,,0
+Jordan,JOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,63.064,,,0
+Jordan,JOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,65.861,,,0
+Jordan,JOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,69.312,,,0
+Jordan,JOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,73.741,,,0
+Jordan,JOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,78.049,,,0
+Kazakhstan,KAZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,91.488,,,0
+Kazakhstan,KAZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,94.693,,,0
+Kazakhstan,KAZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,98.389,,,0
+Kazakhstan,KAZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,102.59,,,0
+Kazakhstan,KAZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,107.306,,,0
+Kenya,KEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,286.994,,,0
+Kenya,KEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,287.334,,,0
+Kenya,KEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,286.832,,,0
+Kenya,KEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,291.12,,,0
+Kenya,KEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,296.64,,,0
+Kiribati,KIR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,178.688,,,0
+Kiribati,KIR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,179.345,,,0
+Kiribati,KIR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,179.641,,,0
+Kiribati,KIR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,179.65,,,0
+Kiribati,KIR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,179.448,,,0
+"Korea, Dem. People's Rep.",PRK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,100.395,,,0
+"Korea, Dem. People's Rep.",PRK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,102.63,,,0
+"Korea, Dem. People's Rep.",PRK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,103.361,,,0
+"Korea, Dem. People's Rep.",PRK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,104.552,,,0
+"Korea, Dem. People's Rep.",PRK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,105.487,,,0
+"Korea, Rep.",KOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,21.204,,,0
+"Korea, Rep.",KOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,22.315,,,0
+"Korea, Rep.",KOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,22.906,,,0
+"Korea, Rep.",KOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,24.218,,,0
+"Korea, Rep.",KOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,25.723,,,0
+Kosovo,XKX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,53.906,,,0
+Kosovo,XKX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,55.135,,,0
+Kosovo,XKX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,53.166,,,0
+Kosovo,XKX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,54.491,,,0
+Kosovo,XKX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,65.98,,,0
+Kuwait,KWT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,28.524,,,0
+Kuwait,KWT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,29.453,,,0
+Kuwait,KWT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,30.843,,,0
+Kuwait,KWT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,32.682,,,0
+Kuwait,KWT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,35.035,,,0
+Kyrgyz Republic,KGZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,103.03,,,0
+Kyrgyz Republic,KGZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,105.911,,,0
+Kyrgyz Republic,KGZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,101.196,,,0
+Kyrgyz Republic,KGZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,109.008,,,0
+Kyrgyz Republic,KGZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,115.737,,,0
+Lao PDR,LAO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,147.531,,,0
+Lao PDR,LAO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,150.8,,,0
+Lao PDR,LAO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,153.563,,,0
+Lao PDR,LAO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,156.367,,,0
+Lao PDR,LAO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,160.096,,,0
+Latvia,LVA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,84.503,,,0
+Latvia,LVA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,85.896,,,0
+Latvia,LVA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,85.367,,,0
+Latvia,LVA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,87.497,,,0
+Latvia,LVA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,85.92,,,0
+Lebanon,LBN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,57.217,,,0
+Lebanon,LBN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,57.281,,,0
+Lebanon,LBN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,57.496,,,0
+Lebanon,LBN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,57.303,,,0
+Lebanon,LBN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,57.97,,,0
+Lesotho,LSO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,412.972,,,0
+Lesotho,LSO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,427.354,,,0
+Lesotho,LSO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,445.907,,,0
+Lesotho,LSO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,468.319,,,0
+Lesotho,LSO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,489.703,,,0
+Liberia,LBR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,253.725,,,0
+Liberia,LBR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,255.796,,,0
+Liberia,LBR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,257.436,,,0
+Liberia,LBR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,259.636,,,0
+Liberia,LBR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,274.802,,,0
+Libya,LBY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,109.102,,,0
+Libya,LBY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,109.353,,,0
+Libya,LBY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,112.409,,,0
+Libya,LBY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,117.058,,,0
+Libya,LBY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,119.444,,,0
+Liechtenstein,LIE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,30.941,,,0
+Liechtenstein,LIE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,31.447,,,0
+Liechtenstein,LIE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,32.292,,,0
+Liechtenstein,LIE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,33.355,,,0
+Liechtenstein,LIE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,33.995,,,0
+Lithuania,LTU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,71.116,,,0
+Lithuania,LTU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,74.212,,,0
+Lithuania,LTU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,77.241,,,0
+Lithuania,LTU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,80.312,,,0
+Lithuania,LTU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,84.158,,,0
+Luxembourg,LUX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,38.902,,,0
+Luxembourg,LUX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,41.665,,,0
+Luxembourg,LUX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,41.193,,,0
+Luxembourg,LUX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,38.87,,,0
+Luxembourg,LUX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,36.401,,,0
+"Macao SAR, China",MAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,25.028,,,0
+"Macao SAR, China",MAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,24.665,,,0
+"Macao SAR, China",MAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,26.385,,,0
+"Macao SAR, China",MAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,25.505,,,0
+"Macao SAR, China",MAC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,26.312,,,0
+Madagascar,MDG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,210.437,,,0
+Madagascar,MDG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,211.022,,,0
+Madagascar,MDG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,211.801,,,0
+Madagascar,MDG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,211.866,,,0
+Madagascar,MDG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,212.559,,,0
+Malawi,MWI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,198.436,,,0
+Malawi,MWI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,205.911,,,0
+Malawi,MWI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,220.783,,,0
+Malawi,MWI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,235.186,,,0
+Malawi,MWI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,251.463,,,0
+Malaysia,MYS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,87.84,,,0
+Malaysia,MYS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,88.773,,,0
+Malaysia,MYS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,89.704,,,0
+Malaysia,MYS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,90.37,,,0
+Malaysia,MYS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,90.683,,,0
+Maldives,MDV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,36.491,,,0
+Maldives,MDV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,37.785,,,0
+Maldives,MDV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,39.791,,,0
+Maldives,MDV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,43.703,,,0
+Maldives,MDV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,44.873,,,0
+Mali,MLI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,232.883,,,0
+Mali,MLI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,235.787,,,0
+Mali,MLI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,239.155,,,0
+Mali,MLI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,242.021,,,0
+Mali,MLI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,245.149,,,0
+Malta,MLT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,43.024,,,0
+Malta,MLT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,44.931,,,0
+Malta,MLT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,44.933,,,0
+Malta,MLT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,44.743,,,0
+Malta,MLT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,41.482,,,0
+Marshall Islands,MHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,207.71,,,0
+Marshall Islands,MHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,210.208,,,0
+Marshall Islands,MHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,212.682,,,0
+Marshall Islands,MHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,215.113,,,0
+Marshall Islands,MHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,217.473,,,0
+Mauritania,MRT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,163.497,,,0
+Mauritania,MRT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,166.008,,,0
+Mauritania,MRT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,169.354,,,0
+Mauritania,MRT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,170.548,,,0
+Mauritania,MRT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,172.302,,,0
+Mauritius,MUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,103.661,,,0
+Mauritius,MUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,96.574,,,0
+Mauritius,MUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,97.594,,,0
+Mauritius,MUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,95.163,,,0
+Mauritius,MUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,94.688,,,0
+Mexico,MEX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,98.915,,,0
+Mexico,MEX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,101.871,,,0
+Mexico,MEX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,101.717,,,0
+Mexico,MEX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,100.078,,,0
+Mexico,MEX,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,99.243,,,0
+"Micronesia, Fed. Sts.",FSM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,197.706,,,0
+"Micronesia, Fed. Sts.",FSM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,203.62,,,0
+"Micronesia, Fed. Sts.",FSM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,207.982,,,0
+"Micronesia, Fed. Sts.",FSM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,211.181,,,0
+"Micronesia, Fed. Sts.",FSM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,214.702,,,0
+Moldova,MDA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,122.982,,,0
+Moldova,MDA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,121.896,,,0
+Moldova,MDA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,120.474,,,0
+Moldova,MDA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,122.633,,,0
+Moldova,MDA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,123.024,,,0
+Monaco,MCO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,19.881,,,0
+Monaco,MCO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,19.747,,,0
+Monaco,MCO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,19.781,,,0
+Monaco,MCO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,19.983,,,0
+Monaco,MCO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,20.255,,,0
+Mongolia,MNG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,115.7,,,0
+Mongolia,MNG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,116.322,,,0
+Mongolia,MNG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,119.648,,,0
+Mongolia,MNG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,125.763,,,0
+Mongolia,MNG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,132.591,,,0
+Montenegro,MNE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,73.162,,,0
+Montenegro,MNE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,73.028,,,0
+Montenegro,MNE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,68.839,,,0
+Montenegro,MNE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,68.715,,,0
+Montenegro,MNE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,80.349,,,0
+Morocco,MAR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,85.895,,,0
+Morocco,MAR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,89.394,,,0
+Morocco,MAR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,93.384,,,0
+Morocco,MAR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,97.916,,,0
+Morocco,MAR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,101.268,,,0
+Mozambique,MOZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,228.825,,,0
+Mozambique,MOZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,241.066,,,0
+Mozambique,MOZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,255.698,,,0
+Mozambique,MOZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,270.724,,,0
+Mozambique,MOZ,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,286.771,,,0
+Myanmar,MMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,159.533,,,0
+Myanmar,MMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,162.165,,,0
+Myanmar,MMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,165.409,,,0
+Myanmar,MMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,167.735,,,0
+Myanmar,MMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,171.18,,,0
+Namibia,NAM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,249.893,,,0
+Namibia,NAM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,273.403,,,0
+Namibia,NAM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,296.648,,,0
+Namibia,NAM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,318.623,,,0
+Namibia,NAM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,340.237,,,0
+Nauru,NRU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,299.046,,,0
+Nauru,NRU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,296.393,,,0
+Nauru,NRU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,293.863,,,0
+Nauru,NRU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,291.299,,,0
+Nauru,NRU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,289.379,,,0
+Nepal,NPL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,151.986,,,0
+Nepal,NPL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,155.154,,,0
+Nepal,NPL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,158.76,,,0
+Nepal,NPL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,162.368,,,0
+Nepal,NPL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,176.825,,,0
+Netherlands,NLD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,45.049,,,0
+Netherlands,NLD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,46.774,,,0
+Netherlands,NLD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,47.246,,,0
+Netherlands,NLD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,51.048,,,0
+Netherlands,NLD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,49.464,,,0
+New Caledonia,NCL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,67.534,,,0
+New Caledonia,NCL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,68.265,,,0
+New Caledonia,NCL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,68.668,,,0
+New Caledonia,NCL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,68.915,,,0
+New Caledonia,NCL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,69.192,,,0
+New Zealand,NZL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,50.809,,,0
+New Zealand,NZL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,51.556,,,0
+New Zealand,NZL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,51.903,,,0
+New Zealand,NZL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,51.88,,,0
+New Zealand,NZL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,52.403,,,0
+Nicaragua,NIC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,100.585,,,0
+Nicaragua,NIC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,100.628,,,0
+Nicaragua,NIC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,107.523,,,0
+Nicaragua,NIC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,109.542,,,0
+Nicaragua,NIC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,113.128,,,0
+Niger,NER,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,199.47,,,0
+Niger,NER,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,202.852,,,0
+Niger,NER,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,205.854,,,0
+Niger,NER,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,209.722,,,0
+Niger,NER,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,214.64,,,0
+Nigeria,NGA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,356.052,,,0
+Nigeria,NGA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,358.925,,,0
+Nigeria,NGA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,361.359,,,0
+Nigeria,NGA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,363.036,,,0
+Nigeria,NGA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,364.365,,,0
+North Macedonia,MKD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,61.748,,,0
+North Macedonia,MKD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,63.574,,,0
+North Macedonia,MKD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,65.091,,,0
+North Macedonia,MKD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,66.037,,,0
+North Macedonia,MKD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,69.211,,,0
+Northern Mariana Islands,MNP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,67.173,,,0
+Northern Mariana Islands,MNP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,69.925,,,0
+Northern Mariana Islands,MNP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,69.165,,,0
+Northern Mariana Islands,MNP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,69.742,,,0
+Northern Mariana Islands,MNP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,70.057,,,0
+Norway,NOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,37.433,,,0
+Norway,NOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,38.719,,,0
+Norway,NOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,39.376,,,0
+Norway,NOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,41.705,,,0
+Norway,NOR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,41.989,,,0
+Oman,OMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,43.54,,,0
+Oman,OMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,45.611,,,0
+Oman,OMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,47.881,,,0
+Oman,OMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,50.349,,,0
+Oman,OMN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,53.003,,,0
+Pakistan,PAK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,136.367,,,0
+Pakistan,PAK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,138.14,,,0
+Pakistan,PAK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,139.931,,,0
+Pakistan,PAK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,141.936,,,0
+Pakistan,PAK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,144.332,,,0
+Palau,PLW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,155.842,,,0
+Palau,PLW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,153.282,,,0
+Palau,PLW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,150.763,,,0
+Palau,PLW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,149.282,,,0
+Palau,PLW,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,148.443,,,0
+Panama,PAN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,69.555,,,0
+Panama,PAN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,68.032,,,0
+Panama,PAN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,73.15,,,0
+Panama,PAN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,71.769,,,0
+Panama,PAN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,72.223,,,0
+Papua New Guinea,PNG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,179.016,,,0
+Papua New Guinea,PNG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,181.158,,,0
+Papua New Guinea,PNG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,182.079,,,0
+Papua New Guinea,PNG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,184.366,,,0
+Papua New Guinea,PNG,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,187.013,,,0
+Paraguay,PRY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,95.987,,,0
+Paraguay,PRY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,96.679,,,0
+Paraguay,PRY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,97.224,,,0
+Paraguay,PRY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,98.096,,,0
+Paraguay,PRY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,99.276,,,0
+Peru,PER,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,99.418,,,0
+Peru,PER,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,103.989,,,0
+Peru,PER,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,103.542,,,0
+Peru,PER,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,104.587,,,0
+Peru,PER,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,106.108,,,0
+Philippines,PHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,134.533,,,0
+Philippines,PHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,132.873,,,0
+Philippines,PHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,122.01,,,0
+Philippines,PHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,133.576,,,0
+Philippines,PHL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,137.486,,,0
+Poland,POL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,60.142,,,0
+Poland,POL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,61.841,,,0
+Poland,POL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,61.934,,,0
+Poland,POL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,61.998,,,0
+Poland,POL,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,63.559,,,0
+Portugal,PRT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,43.935,,,0
+Portugal,PRT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,43.185,,,0
+Portugal,PRT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,44.716,,,0
+Portugal,PRT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,43.926,,,0
+Portugal,PRT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,42.462,,,0
+Puerto Rico (US),PRI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,40.932,,,0
+Puerto Rico (US),PRI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,43.966,,,0
+Puerto Rico (US),PRI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,62.571,,,0
+Puerto Rico (US),PRI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,48.488,,,0
+Puerto Rico (US),PRI,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,48.182,,,0
+Qatar,QAT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,27.652,,,0
+Qatar,QAT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,29.088,,,0
+Qatar,QAT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,30.642,,,0
+Qatar,QAT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,32.315,,,0
+Qatar,QAT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,34.103,,,0
+Romania,ROU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,77.244,,,0
+Romania,ROU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,79.695,,,0
+Romania,ROU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,80.256,,,0
+Romania,ROU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,80.311,,,0
+Romania,ROU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,81.571,,,0
+Russian Federation,RUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,108.717,,,0
+Russian Federation,RUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,108.846,,,0
+Russian Federation,RUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,109.061,,,0
+Russian Federation,RUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,116.811,,,0
+Russian Federation,RUS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,120.72,,,0
+Rwanda,RWA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,185.636,,,0
+Rwanda,RWA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,190.522,,,0
+Rwanda,RWA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,193.281,,,0
+Rwanda,RWA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,198.943,,,0
+Rwanda,RWA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,203.925,,,0
+Samoa,WSM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,160.302,,,0
+Samoa,WSM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,149.699,,,0
+Samoa,WSM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,149.011,,,0
+Samoa,WSM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,146.913,,,0
+Samoa,WSM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,143.708,,,0
+San Marino,SMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,29.716,,,0
+San Marino,SMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,29.771,,,0
+San Marino,SMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,29.735,,,0
+San Marino,SMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,29.592,,,0
+San Marino,SMR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,29.651,,,0
+Sao Tome and Principe,STP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,170.297,,,0
+Sao Tome and Principe,STP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,177.305,,,0
+Sao Tome and Principe,STP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,186.701,,,0
+Sao Tome and Principe,STP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,195.235,,,0
+Sao Tome and Principe,STP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,204.163,,,0
+Saudi Arabia,SAU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,60.629,,,0
+Saudi Arabia,SAU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,59.549,,,0
+Saudi Arabia,SAU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,59.848,,,0
+Saudi Arabia,SAU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,61.317,,,0
+Saudi Arabia,SAU,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,63.738,,,0
+Senegal,SEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,149.901,,,0
+Senegal,SEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,153.062,,,0
+Senegal,SEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,156.309,,,0
+Senegal,SEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,159.496,,,0
+Senegal,SEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,160.068,,,0
+Serbia,SRB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,73.964,,,0
+Serbia,SRB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,75.598,,,0
+Serbia,SRB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,78.36,,,0
+Serbia,SRB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,78.808,,,0
+Serbia,SRB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,79.302,,,0
+Seychelles,SYC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,108.466,,,0
+Seychelles,SYC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,107.815,,,0
+Seychelles,SYC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,106.975,,,0
+Seychelles,SYC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,106.101,,,0
+Seychelles,SYC,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,105.621,,,0
+Sierra Leone,SLE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,228.863,,,0
+Sierra Leone,SLE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,235.551,,,0
+Sierra Leone,SLE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,257.567,,,0
+Sierra Leone,SLE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,273.033,,,0
+Sierra Leone,SLE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,295.084,,,0
+Singapore,SGP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,35.249,,,0
+Singapore,SGP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,36.553,,,0
+Singapore,SGP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,37.897,,,0
+Singapore,SGP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,38.793,,,0
+Singapore,SGP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,39.222,,,0
+Sint Maarten (Dutch part),SXM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,68.438,,,0
+Sint Maarten (Dutch part),SXM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,68.31,,,0
+Sint Maarten (Dutch part),SXM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,71.454,,,0
+Sint Maarten (Dutch part),SXM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,65.228,,,0
+Sint Maarten (Dutch part),SXM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,65.315,,,0
+Slovak Republic,SVK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,61.401,,,0
+Slovak Republic,SVK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,62.787,,,0
+Slovak Republic,SVK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,63.806,,,0
+Slovak Republic,SVK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,62.442,,,0
+Slovak Republic,SVK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,64.35,,,0
+Slovenia,SVN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,38.484,,,0
+Slovenia,SVN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,42.722,,,0
+Slovenia,SVN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,45.488,,,0
+Slovenia,SVN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,43.387,,,0
+Slovenia,SVN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,45.527,,,0
+Solomon Islands,SLB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,154.279,,,0
+Solomon Islands,SLB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,155.788,,,0
+Solomon Islands,SLB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,156.962,,,0
+Solomon Islands,SLB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,157.771,,,0
+Solomon Islands,SLB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,158.728,,,0
+"Somalia, Fed. Rep.",SOM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,250.972,,,0
+"Somalia, Fed. Rep.",SOM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,269.977,,,0
+"Somalia, Fed. Rep.",SOM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,291.37,,,0
+"Somalia, Fed. Rep.",SOM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,268.432,,,0
+"Somalia, Fed. Rep.",SOM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,271.574,,,0
+South Africa,ZAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,234.54,,,0
+South Africa,ZAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,245.332,,,0
+South Africa,ZAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,254.61,,,0
+South Africa,ZAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,263.469,,,0
+South Africa,ZAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,274.858,,,0
+South Sudan,SSD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,249.611,,,0
+South Sudan,SSD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,297.849,,,0
+South Sudan,SSD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,449.092,,,0
+South Sudan,SSD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,437.511,,,0
+South Sudan,SSD,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,407.861,,,0
+Spain,ESP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,35.754,,,0
+Spain,ESP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,36.721,,,0
+Spain,ESP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,37.653,,,0
+Spain,ESP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,37.557,,,0
+Spain,ESP,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,38.837,,,0
+Sri Lanka,LKA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,60.443,,,0
+Sri Lanka,LKA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,61.088,,,0
+Sri Lanka,LKA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,62.897,,,0
+Sri Lanka,LKA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,63.475,,,0
+Sri Lanka,LKA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,64.47,,,0
+St. Kitts and Nevis,KNA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,108.186,,,0
+St. Kitts and Nevis,KNA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,109.387,,,0
+St. Kitts and Nevis,KNA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,109.787,,,0
+St. Kitts and Nevis,KNA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,110.482,,,0
+St. Kitts and Nevis,KNA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,111.363,,,0
+St. Lucia,LCA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,95.186,,,0
+St. Lucia,LCA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,91.982,,,0
+St. Lucia,LCA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,93.697,,,0
+St. Lucia,LCA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,98.362,,,0
+St. Lucia,LCA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,95.197,,,0
+St. Martin (French part),MAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,37.082,,,0
+St. Martin (French part),MAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,37.053,,,0
+St. Martin (French part),MAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,51.502,,,0
+St. Martin (French part),MAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,37.763,,,0
+St. Martin (French part),MAF,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,38.313,,,0
+St. Vincent and the Grenadines,VCT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,137.051,,,0
+St. Vincent and the Grenadines,VCT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,138.45,,,0
+St. Vincent and the Grenadines,VCT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,140.389,,,0
+St. Vincent and the Grenadines,VCT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,146.118,,,0
+St. Vincent and the Grenadines,VCT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,137.054,,,0
+Sudan,SDN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,165.885,,,0
+Sudan,SDN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,168.134,,,0
+Sudan,SDN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,171.546,,,0
+Sudan,SDN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,174.842,,,0
+Sudan,SDN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,178.121,,,0
+Suriname,SUR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,140.196,,,0
+Suriname,SUR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,141.368,,,0
+Suriname,SUR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,142.394,,,0
+Suriname,SUR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,142.63,,,0
+Suriname,SUR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,145.008,,,0
+Sweden,SWE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,37.733,,,0
+Sweden,SWE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,38.431,,,0
+Sweden,SWE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,39.084,,,0
+Sweden,SWE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,39.668,,,0
+Sweden,SWE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,39.95,,,0
+Switzerland,CHE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,32.207,,,0
+Switzerland,CHE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,35.152,,,0
+Switzerland,CHE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,34.265,,,0
+Switzerland,CHE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,35.896,,,0
+Switzerland,CHE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,36.484,,,0
+Syrian Arab Republic,SYR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,107.738,,,0
+Syrian Arab Republic,SYR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,128.991,,,0
+Syrian Arab Republic,SYR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,134.745,,,0
+Syrian Arab Republic,SYR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,135.465,,,0
+Syrian Arab Republic,SYR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,148.618,,,0
+Tajikistan,TJK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,112.326,,,0
+Tajikistan,TJK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,115.871,,,0
+Tajikistan,TJK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,120.11,,,0
+Tajikistan,TJK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,124.283,,,0
+Tajikistan,TJK,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,125.73,,,0
+Tanzania,TZA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,204.702,,,0
+Tanzania,TZA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,215.243,,,0
+Tanzania,TZA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,225.372,,,0
+Tanzania,TZA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,237.242,,,0
+Tanzania,TZA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,245.966,,,0
+Thailand,THA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,86.995,,,0
+Thailand,THA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,86.785,,,0
+Thailand,THA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,87.477,,,0
+Thailand,THA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,88.239,,,0
+Thailand,THA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,86.552,,,0
+Timor-Leste,TLS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,170.357,,,0
+Timor-Leste,TLS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,173.855,,,0
+Timor-Leste,TLS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,177.516,,,0
+Timor-Leste,TLS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,180.649,,,0
+Timor-Leste,TLS,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,183.569,,,0
+Togo,TGO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,260.027,,,0
+Togo,TGO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,264.881,,,0
+Togo,TGO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,269.182,,,0
+Togo,TGO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,275.071,,,0
+Togo,TGO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,279.587,,,0
+Tonga,TON,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,115.787,,,0
+Tonga,TON,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,116.67,,,0
+Tonga,TON,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,117.559,,,0
+Tonga,TON,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,118.425,,,0
+Tonga,TON,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,119.277,,,0
+Trinidad and Tobago,TTO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,111.356,,,0
+Trinidad and Tobago,TTO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,111.465,,,0
+Trinidad and Tobago,TTO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,109.195,,,0
+Trinidad and Tobago,TTO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,108.392,,,0
+Trinidad and Tobago,TTO,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,107.809,,,0
+Tunisia,TUN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,60.811,,,0
+Tunisia,TUN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,61.725,,,0
+Tunisia,TUN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,62.456,,,0
+Tunisia,TUN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,63.673,,,0
+Tunisia,TUN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,64.936,,,0
+Turkiye,TUR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,47.84,,,0
+Turkiye,TUR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,49.115,,,0
+Turkiye,TUR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,51.016,,,0
+Turkiye,TUR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,53.213,,,0
+Turkiye,TUR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,53.808,,,0
+Turkmenistan,TKM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,113.669,,,0
+Turkmenistan,TKM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,114.703,,,0
+Turkmenistan,TKM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,115.609,,,0
+Turkmenistan,TKM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,116.106,,,0
+Turkmenistan,TKM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,116.792,,,0
+Turks and Caicos Islands,TCA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,74.984,,,0
+Turks and Caicos Islands,TCA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,75.583,,,0
+Turks and Caicos Islands,TCA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,76.359,,,0
+Turks and Caicos Islands,TCA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,76.895,,,0
+Turks and Caicos Islands,TCA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,78.336,,,0
+Tuvalu,TUV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,201.33,,,0
+Tuvalu,TUV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,203.893,,,0
+Tuvalu,TUV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,206.588,,,0
+Tuvalu,TUV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,208.511,,,0
+Tuvalu,TUV,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,210.656,,,0
+Uganda,UGA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,217.824,,,0
+Uganda,UGA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,227.293,,,0
+Uganda,UGA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,236.912,,,0
+Uganda,UGA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,247.274,,,0
+Uganda,UGA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,258.414,,,0
+Ukraine,UKR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,90.459,,,0
+Ukraine,UKR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,93.178,,,0
+Ukraine,UKR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,93.703,,,0
+Ukraine,UKR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,96.847,,,0
+Ukraine,UKR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,100.358,,,0
+United Arab Emirates,ARE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,18.895,,,0
+United Arab Emirates,ARE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,19.474,,,0
+United Arab Emirates,ARE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,20.302,,,0
+United Arab Emirates,ARE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,21.293,,,0
+United Arab Emirates,ARE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,22.34,,,0
+United Kingdom,GBR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,53.185,,,0
+United Kingdom,GBR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,54.096,,,0
+United Kingdom,GBR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,52.681,,,0
+United Kingdom,GBR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,54.788,,,0
+United Kingdom,GBR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,53.822,,,0
+United States,USA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,79.455,,,0
+United States,USA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,80.593,,,0
+United States,USA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,81.986,,,0
+United States,USA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,82.097,,,0
+United States,USA,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,80.429,,,0
+Uruguay,URY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,77.197,,,0
+Uruguay,URY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,77.532,,,0
+Uruguay,URY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,80.421,,,0
+Uruguay,URY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,79.707,,,0
+Uruguay,URY,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,79.348,,,0
+Uzbekistan,UZB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,116.372,,,0
+Uzbekistan,UZB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,117.434,,,0
+Uzbekistan,UZB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,122.241,,,0
+Uzbekistan,UZB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,124.369,,,0
+Uzbekistan,UZB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,125.914,,,0
+Vanuatu,VUT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,137.483,,,0
+Vanuatu,VUT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,139.095,,,0
+Vanuatu,VUT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,140.353,,,0
+Vanuatu,VUT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,139.775,,,0
+Vanuatu,VUT,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,140.48,,,0
+"Venezuela, RB",VEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,106.11,,,0
+"Venezuela, RB",VEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,108.019,,,0
+"Venezuela, RB",VEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,110.524,,,0
+"Venezuela, RB",VEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,102.61,,,0
+"Venezuela, RB",VEN,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,94.897,,,0
+Viet Nam,VNM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,75.669,,,0
+Viet Nam,VNM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,76.395,,,0
+Viet Nam,VNM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,76.874,,,0
+Viet Nam,VNM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,77.022,,,0
+Viet Nam,VNM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,77.416,,,0
+Virgin Islands (U.S.),VIR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,56.024,,,0
+Virgin Islands (U.S.),VIR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,56.941,,,0
+Virgin Islands (U.S.),VIR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,60.431,,,0
+Virgin Islands (U.S.),VIR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,60.578,,,0
+Virgin Islands (U.S.),VIR,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,63.089,,,0
+West Bank and Gaza,PSE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,72.113,,,0
+West Bank and Gaza,PSE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,75.864,,,0
+West Bank and Gaza,PSE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,77.865,,,0
+West Bank and Gaza,PSE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,80.273,,,0
+West Bank and Gaza,PSE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,82.998,,,0
+"Yemen, Rep.",YEM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,147.076,,,0
+"Yemen, Rep.",YEM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,149.151,,,0
+"Yemen, Rep.",YEM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,145.01,,,0
+"Yemen, Rep.",YEM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,145.981,,,0
+"Yemen, Rep.",YEM,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,148.443,,,0
+Zambia,ZMB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,215.69,,,0
+Zambia,ZMB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,235.116,,,0
+Zambia,ZMB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,248.802,,,0
+Zambia,ZMB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,261.777,,,0
+Zambia,ZMB,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,268.497,,,0
+Zimbabwe,ZWE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2019,313.598,,,0
+Zimbabwe,ZWE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2018,319.593,,,0
+Zimbabwe,ZWE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2017,333.036,,,0
+Zimbabwe,ZWE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2016,344.668,,,0
+Zimbabwe,ZWE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",2015,362.062,,,0

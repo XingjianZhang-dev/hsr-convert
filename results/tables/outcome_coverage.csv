@@ -1,0 +1,2 @@
+outcome,source,n_countries,n_raw_rows,n_raw_countries,n_missing_after_2020_2022_filter,missing_rate_after_2020_2022_filter,first_observation,last_observation,countries_with_2022_observation,missingness_note
+cumulative_excess_deaths_per_million_2020_2022,Our World in Data,125,13725,125,0,0.0,2020-01-05,2022-12-31,112,Coverage is limited to countries available in the OWID cumulative excess mortality grapher dataset.

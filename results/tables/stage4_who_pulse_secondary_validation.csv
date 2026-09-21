@@ -1,0 +1,2 @@
+status,file_path,detected_columns,selected_disruption_column,n,coverage_count,missing_count,missing_rate,source_provenance
+skipped_no_legitimate_file,,,,0,0,193,1.0,data/raw/who_pulse/ has no CSV/XLSX/XLS country-level file

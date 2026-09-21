@@ -1,0 +1,1045 @@
+iso3,country,year,life_expectancy,source_indicator,source_provenance
+AFE,Africa Eastern and Southern,2022,64.4871517904367,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AFE,Africa Eastern and Southern,2021,62.9799991857494,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AFE,Africa Eastern and Southern,2020,63.7664840026943,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AFE,Africa Eastern and Southern,2019,63.8572612837043,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AFW,Africa Western and Central,2022,57.9878499444678,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AFW,Africa Western and Central,2021,57.3627361321845,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AFW,Africa Western and Central,2020,57.364735967395,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AFW,Africa Western and Central,2019,57.149956341607,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARB,Arab World,2022,71.8760955992222,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARB,Arab World,2021,70.4041144889903,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARB,Arab World,2020,70.7265588103862,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARB,Arab World,2019,71.8398932674972,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CSS,Caribbean small states,2022,72.8322921090607,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CSS,Caribbean small states,2021,69.9228107471769,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CSS,Caribbean small states,2020,71.9394359303317,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CSS,Caribbean small states,2019,72.1292604830284,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CEB,Central Europe and the Baltics,2022,76.6522987292583,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CEB,Central Europe and the Baltics,2021,74.7232827859077,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CEB,Central Europe and the Baltics,2020,76.0162701269145,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CEB,Central Europe and the Baltics,2019,77.2659141936307,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EAR,Early-demographic dividend,2022,71.4304552508694,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EAR,Early-demographic dividend,2021,68.1790994839634,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EAR,Early-demographic dividend,2020,69.8801308490982,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EAR,Early-demographic dividend,2019,70.8424064605001,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EAS,East Asia & Pacific,2022,76.6767167147452,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EAS,East Asia & Pacific,2021,76.152941315904,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EAS,East Asia & Pacific,2020,76.5433946923267,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EAS,East Asia & Pacific,2019,76.5862412994962,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EAP,East Asia & Pacific (excluding high income),2022,75.9325409436903,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EAP,East Asia & Pacific (excluding high income),2021,75.2781418410849,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EAP,East Asia & Pacific (excluding high income),2020,75.6976393295064,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EAP,East Asia & Pacific (excluding high income),2019,75.7689690321509,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TEA,East Asia & Pacific (IDA & IBRD countries),2022,75.9610347461336,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TEA,East Asia & Pacific (IDA & IBRD countries),2021,75.3009806060199,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TEA,East Asia & Pacific (IDA & IBRD countries),2020,75.7338497054699,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TEA,East Asia & Pacific (IDA & IBRD countries),2019,75.8042877234534,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EMU,Euro area,2022,81.6229719062905,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EMU,Euro area,2021,81.5839330415712,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EMU,Euro area,2020,81.4873571657503,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EMU,Euro area,2019,82.2804211551829,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ECS,Europe & Central Asia,2022,77.834452247983,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ECS,Europe & Central Asia,2021,76.72864297207,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ECS,Europe & Central Asia,2020,77.1754906029407,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ECS,Europe & Central Asia,2019,78.3038716113385,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ECA,Europe & Central Asia (excluding high income),2022,74.5731684190474,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ECA,Europe & Central Asia (excluding high income),2021,72.8823762052943,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ECA,Europe & Central Asia (excluding high income),2020,73.5536868675669,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ECA,Europe & Central Asia (excluding high income),2019,74.8158340567546,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TEC,Europe & Central Asia (IDA & IBRD countries),2022,74.1883654842503,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TEC,Europe & Central Asia (IDA & IBRD countries),2021,72.1506406826172,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TEC,Europe & Central Asia (IDA & IBRD countries),2020,73.1492512511888,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TEC,Europe & Central Asia (IDA & IBRD countries),2019,74.590946255432,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EUU,European Union,2022,80.7133260356871,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EUU,European Union,2021,80.3071964400875,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EUU,European Union,2020,80.4414754678551,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EUU,European Union,2019,81.3194524901835,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FCS,Fragile and conflict affected situations,2022,62.702271566254,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FCS,Fragile and conflict affected situations,2021,61.6086810439385,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FCS,Fragile and conflict affected situations,2020,62.0663682854031,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FCS,Fragile and conflict affected situations,2019,62.1379545505037,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HPC,Heavily indebted poor countries (HIPC),2022,63.8404661926623,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HPC,Heavily indebted poor countries (HIPC),2021,62.5314653172853,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HPC,Heavily indebted poor countries (HIPC),2020,63.0728058249774,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HPC,Heavily indebted poor countries (HIPC),2019,63.089861994107,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IBD,IBRD only,2022,74.2512821129351,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IBD,IBRD only,2021,71.974203378406,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IBD,IBRD only,2020,73.2951356970762,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IBD,IBRD only,2019,74.031271888226,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IBT,IDA & IBRD total,2022,71.6775988813721,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IBT,IDA & IBRD total,2021,69.6679287075032,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IBT,IDA & IBRD total,2020,70.7488503512362,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IBT,IDA & IBRD total,2019,71.3939314839846,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDB,IDA blend,2022,62.1288641416852,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDB,IDA blend,2021,60.876535738179,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDB,IDA blend,2020,60.818006614062,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDB,IDA blend,2019,61.3259973798573,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDX,IDA only,2022,66.3600754986121,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDX,IDA only,2021,64.8765306607314,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDX,IDA only,2020,65.4116059350943,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDX,IDA only,2019,65.582913848475,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDA,IDA total,2022,64.8823000336808,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDA,IDA total,2021,63.4774236571682,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDA,IDA total,2020,63.8023574072865,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDA,IDA total,2019,64.0885690256803,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LTE,Late-demographic dividend,2022,76.954367313865,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LTE,Late-demographic dividend,2021,76.3060136977083,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LTE,Late-demographic dividend,2020,76.6935638074913,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LTE,Late-demographic dividend,2019,76.9979606258316,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LCN,Latin America & Caribbean,2022,74.6472095421659,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LCN,Latin America & Caribbean,2021,71.8141762189306,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LCN,Latin America & Caribbean,2020,73.1889367681402,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LCN,Latin America & Caribbean,2019,75.2042598654921,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LAC,Latin America & Caribbean (excluding high income),2022,74.4897262626476,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LAC,Latin America & Caribbean (excluding high income),2021,71.4377016432982,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LAC,Latin America & Caribbean (excluding high income),2020,72.8759217271338,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LAC,Latin America & Caribbean (excluding high income),2019,75.0513524613511,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2022,74.5684293540859,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2021,71.7449274626405,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2020,73.0747493617473,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2019,75.1319711493442,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LDC,Least developed countries: UN classification,2022,65.7632017862259,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LDC,Least developed countries: UN classification,2021,64.2674143744269,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LDC,Least developed countries: UN classification,2020,64.8324945516306,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LDC,Least developed countries: UN classification,2019,64.9725014356556,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LMY,Low & middle income,2022,71.6849259477066,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LMY,Low & middle income,2021,69.6714349467729,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LMY,Low & middle income,2020,70.7483566757416,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LMY,Low & middle income,2019,71.3694923345361,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2022,71.6917293154863,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2021,69.7113193479505,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2020,69.9110789555644,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2019,71.2438695042576,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2022,71.0055315443397,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2021,68.9280214782652,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2020,69.050634286622,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2019,70.417484585256,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2022,70.965432550888,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2021,68.8931032282321,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2020,69.0090964026373,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2019,70.3800917806817,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MIC,Middle income,2022,72.5172020330295,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MIC,Middle income,2021,70.3953530328654,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MIC,Middle income,2020,71.5211164808267,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MIC,Middle income,2019,72.1892666738243,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NAC,North America,2022,77.8170599153732,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NAC,North America,2021,76.8590196370959,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NAC,North America,2020,77.4492830759645,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NAC,North America,2019,79.1328897249464,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+OED,OECD members,2022,79.5170042308814,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+OED,OECD members,2021,78.5867291925709,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+OED,OECD members,2020,78.957862837755,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+OED,OECD members,2019,80.2449246601415,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+OSS,Other small states,2022,72.9062214171014,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+OSS,Other small states,2021,71.7699719301416,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+OSS,Other small states,2020,72.5097097789427,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+OSS,Other small states,2019,72.6570116424877,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PSS,Pacific island small states,2022,69.1004348993561,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PSS,Pacific island small states,2021,67.4810209240703,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PSS,Pacific island small states,2020,68.3568108792759,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PSS,Pacific island small states,2019,68.6421578303985,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PST,Post-demographic dividend,2022,80.1924721633692,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PST,Post-demographic dividend,2021,79.7932852795952,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PST,Post-demographic dividend,2020,80.0657047954118,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PST,Post-demographic dividend,2019,80.9699118452096,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRE,Pre-demographic dividend,2022,61.3833052969468,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRE,Pre-demographic dividend,2021,60.275328471243,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRE,Pre-demographic dividend,2020,60.5013545897269,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRE,Pre-demographic dividend,2019,60.5568531204624,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SST,Small states,2022,72.380297225352,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SST,Small states,2021,70.7756825891382,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SST,Small states,2020,71.8255552822673,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SST,Small states,2019,72.0009607335469,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SAS,South Asia,2022,72.0115731308447,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SAS,South Asia,2021,67.8215299767513,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SAS,South Asia,2020,70.3622206982499,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SAS,South Asia,2019,70.9975623145981,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TSA,South Asia (IDA & IBRD),2022,72.0115731308447,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TSA,South Asia (IDA & IBRD),2021,67.8215299767513,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TSA,South Asia (IDA & IBRD),2020,70.3622206982498,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TSA,South Asia (IDA & IBRD),2019,70.9975623145981,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SSF,Sub-Saharan Africa,2022,61.8572731122839,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SSF,Sub-Saharan Africa,2021,60.7035030087831,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SSF,Sub-Saharan Africa,2020,61.1676531593734,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SSF,Sub-Saharan Africa,2019,61.1293664117069,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SSA,Sub-Saharan Africa (excluding high income),2022,61.2833700706225,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SSA,Sub-Saharan Africa (excluding high income),2021,60.1775488576346,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SSA,Sub-Saharan Africa (excluding high income),2020,60.6223697926718,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SSA,Sub-Saharan Africa (excluding high income),2019,60.6066409029614,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2022,61.8572731122839,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2021,60.7035030087831,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2020,61.1676531593734,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2019,61.1293664117069,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+WLD,World,2022,72.9675581482237,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+WLD,World,2021,71.2149086723293,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+WLD,World,2020,72.181968378825,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+WLD,World,2019,72.8686343875761,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AFG,Afghanistan,2022,65.617,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AFG,Afghanistan,2021,60.417,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AFG,Afghanistan,2020,61.454,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AFG,Afghanistan,2019,62.941,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ALB,Albania,2022,78.769,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ALB,Albania,2021,76.844,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ALB,Albania,2020,77.824,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ALB,Albania,2019,79.467,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DZA,Algeria,2022,76.129,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DZA,Algeria,2021,75.208,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DZA,Algeria,2020,73.257,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DZA,Algeria,2019,75.682,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ASM,American Samoa,2022,72.752,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ASM,American Samoa,2021,72.708,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ASM,American Samoa,2020,72.672,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ASM,American Samoa,2019,72.751,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AND,Andorra,2022,84.016,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AND,Andorra,2021,82.331,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AND,Andorra,2020,79.418,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AND,Andorra,2019,84.098,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AGO,Angola,2022,64.246,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AGO,Angola,2021,62.958,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AGO,Angola,2020,63.116,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AGO,Angola,2019,63.051,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ATG,Antigua and Barbuda,2022,77.483,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ATG,Antigua and Barbuda,2021,77.197,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ATG,Antigua and Barbuda,2020,77.161,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ATG,Antigua and Barbuda,2019,77.168,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARG,Argentina,2022,75.806,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARG,Argentina,2021,73.948,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARG,Argentina,2020,75.878,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARG,Argentina,2019,76.847,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARM,Armenia,2022,74.7658536585366,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARM,Armenia,2021,72.2780487804878,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARM,Armenia,2020,73.3756097560976,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARM,Armenia,2019,76.2219512195122,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ABW,Aruba,2022,76.226,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ABW,Aruba,2021,73.655,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ABW,Aruba,2020,75.406,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ABW,Aruba,2019,76.019,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AUS,Australia,2022,83.2,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AUS,Australia,2021,83.3,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AUS,Australia,2020,83.2,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AUS,Australia,2019,82.9,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AUT,Austria,2022,81.2951219512195,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AUT,Austria,2021,81.190243902439,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AUT,Austria,2020,81.1926829268293,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AUT,Austria,2019,81.8951219512195,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AZE,Azerbaijan,2022,74.125,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AZE,Azerbaijan,2021,70.999,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AZE,Azerbaijan,2020,70.312,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+AZE,Azerbaijan,2019,73.29,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BHS,"Bahamas, The",2022,74.491,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BHS,"Bahamas, The",2021,70.752,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BHS,"Bahamas, The",2020,72.994,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BHS,"Bahamas, The",2019,71.408,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BHR,Bahrain,2022,80.992,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BHR,Bahrain,2021,78.083,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BHR,Bahrain,2020,78.683,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BHR,Bahrain,2019,80.471,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BGD,Bangladesh,2022,74.265,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BGD,Bangladesh,2021,71.103,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BGD,Bangladesh,2020,71.421,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BGD,Bangladesh,2019,72.625,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BRB,Barbados,2022,75.676,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BRB,Barbados,2021,76.58,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BRB,Barbados,2020,76.647,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BRB,Barbados,2019,76.495,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BLR,Belarus,2022,74.1033658536585,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BLR,Belarus,2021,72.0714634146342,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BLR,Belarus,2020,72.1385609756098,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BLR,Belarus,2019,74.2268292682927,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BEL,Belgium,2022,81.7487804878049,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BEL,Belgium,2021,81.790243902439,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BEL,Belgium,2020,80.6951219512195,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BEL,Belgium,2019,81.9951219512195,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BLZ,Belize,2022,72.19,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BLZ,Belize,2021,70.917,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BLZ,Belize,2020,71.58,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BLZ,Belize,2019,72.577,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BEN,Benin,2022,60.475,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BEN,Benin,2021,59.61,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BEN,Benin,2020,60.154,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BEN,Benin,2019,59.888,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BMU,Bermuda,2022,82.062,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BMU,Bermuda,2021,81.745,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BMU,Bermuda,2020,81.456,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BMU,Bermuda,2019,81.251,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BTN,Bhutan,2022,72.754,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BTN,Bhutan,2021,72.448,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BTN,Bhutan,2020,72.253,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BTN,Bhutan,2019,72.005,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BOL,Bolivia,2022,67.434,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BOL,Bolivia,2021,61.427,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BOL,Bolivia,2020,62.906,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BOL,Bolivia,2019,67.82,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BIH,Bosnia and Herzegovina,2022,76.777,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BIH,Bosnia and Herzegovina,2021,74.567,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BIH,Bosnia and Herzegovina,2020,76.04,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BIH,Bosnia and Herzegovina,2019,77.394,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BWA,Botswana,2022,68.749,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BWA,Botswana,2021,63.303,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BWA,Botswana,2020,67.643,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BWA,Botswana,2019,67.167,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BRA,Brazil,2022,74.872,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BRA,Brazil,2021,73.038,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BRA,Brazil,2020,74.506,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BRA,Brazil,2019,75.809,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VGB,British Virgin Islands,2022,77.177,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VGB,British Virgin Islands,2021,75.297,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VGB,British Virgin Islands,2020,76.894,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VGB,British Virgin Islands,2019,76.845,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BRN,Brunei Darussalam,2022,72.917,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BRN,Brunei Darussalam,2021,74.869,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BRN,Brunei Darussalam,2020,75.114,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BRN,Brunei Darussalam,2019,75.049,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BGR,Bulgaria,2022,74.1609756097561,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BGR,Bulgaria,2021,71.2121951219512,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BGR,Bulgaria,2020,73.3560975609756,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BGR,Bulgaria,2019,75.1121951219512,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BFA,Burkina Faso,2022,60.7,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BFA,Burkina Faso,2021,60.046,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BFA,Burkina Faso,2020,60.454,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BFA,Burkina Faso,2019,60.184,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BDI,Burundi,2022,62.882,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BDI,Burundi,2021,62.101,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BDI,Burundi,2020,62.569,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+BDI,Burundi,2019,62.18,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CPV,Cabo Verde,2022,75.907,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CPV,Cabo Verde,2021,74.424,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CPV,Cabo Verde,2020,73.818,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CPV,Cabo Verde,2019,75.449,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KHM,Cambodia,2022,70.528,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KHM,Cambodia,2021,69.301,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KHM,Cambodia,2020,70.059,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KHM,Cambodia,2019,70.127,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CMR,Cameroon,2022,62.443,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CMR,Cameroon,2021,61.146,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CMR,Cameroon,2020,61.674,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CMR,Cameroon,2019,61.695,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CAN,Canada,2022,81.0948780487805,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CAN,Canada,2021,81.4514634146342,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CAN,Canada,2020,81.53,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CAN,Canada,2019,82.1585365853659,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CYM,Cayman Islands,2022,79.984,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CYM,Cayman Islands,2021,79.3,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CYM,Cayman Islands,2020,79.23,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CYM,Cayman Islands,2019,79.052,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CAF,Central African Republic,2022,18.818,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CAF,Central African Republic,2021,40.279,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CAF,Central African Republic,2020,50.596,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CAF,Central African Republic,2019,31.53,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TCD,Chad,2022,54.528,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TCD,Chad,2021,53.136,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TCD,Chad,2020,53.082,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TCD,Chad,2019,52.993,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHI,Channel Islands,2022,81.0,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHI,Channel Islands,2021,80.3,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHI,Channel Islands,2020,80.9,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHI,Channel Islands,2019,81.2,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHL,Chile,2022,79.176,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHL,Chile,2021,78.876,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHL,Chile,2020,79.349,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHL,Chile,2019,80.324,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHN,China,2022,78.202,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHN,China,2021,78.117,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHN,China,2020,78.019,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHN,China,2019,77.94,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COL,Colombia,2022,76.508,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COL,Colombia,2021,72.698,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COL,Colombia,2020,74.757,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COL,Colombia,2019,76.793,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COM,Comoros,2022,66.481,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COM,Comoros,2021,65.201,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COM,Comoros,2020,65.756,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COM,Comoros,2019,65.662,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COD,"Congo, Dem. Rep.",2022,60.979,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COD,"Congo, Dem. Rep.",2021,60.044,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COD,"Congo, Dem. Rep.",2020,60.428,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COD,"Congo, Dem. Rep.",2019,60.242,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COG,"Congo, Rep.",2022,65.0,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COG,"Congo, Rep.",2021,64.192,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COG,"Congo, Rep.",2020,64.391,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+COG,"Congo, Rep.",2019,63.152,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CRI,Costa Rica,2022,79.316,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CRI,Costa Rica,2021,78.05,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CRI,Costa Rica,2020,79.725,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CRI,Costa Rica,2019,80.296,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CIV,Cote d'Ivoire,2022,61.562,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CIV,Cote d'Ivoire,2021,60.29,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CIV,Cote d'Ivoire,2020,60.14,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CIV,Cote d'Ivoire,2019,60.274,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HRV,Croatia,2022,77.5756097560976,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HRV,Croatia,2021,76.4243902439025,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HRV,Croatia,2020,77.5243902439024,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HRV,Croatia,2019,78.2243902439024,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CUB,Cuba,2022,77.629,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CUB,Cuba,2021,73.201,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CUB,Cuba,2020,77.407,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CUB,Cuba,2019,77.413,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CUW,Curacao,2022,76.729,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CUW,Curacao,2021,75.686,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CUW,Curacao,2020,76.501,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CUW,Curacao,2019,76.492,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CYP,Cyprus,2022,80.434,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CYP,Cyprus,2021,80.573,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CYP,Cyprus,2020,81.23,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CYP,Cyprus,2019,81.454,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CZE,Czechia,2022,78.9292682926829,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CZE,Czechia,2021,77.2219512195122,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CZE,Czechia,2020,78.2268292682927,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CZE,Czechia,2019,79.2292682926829,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DNK,Denmark,2022,81.3048780487805,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DNK,Denmark,2021,81.4048780487805,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DNK,Denmark,2020,81.6024390243903,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DNK,Denmark,2019,81.4512195121951,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DJI,Djibouti,2022,65.54,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DJI,Djibouti,2021,63.83,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DJI,Djibouti,2020,64.2,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DJI,Djibouti,2019,64.381,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DMA,Dominica,2022,71.081,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DMA,Dominica,2021,69.832,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DMA,Dominica,2020,71.269,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DMA,Dominica,2019,71.305,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DOM,Dominican Republic,2022,74.211,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DOM,Dominican Republic,2021,71.757,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DOM,Dominican Republic,2020,72.636,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DOM,Dominican Republic,2019,73.112,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ECU,Ecuador,2022,76.577,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ECU,Ecuador,2021,72.746,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ECU,Ecuador,2020,72.004,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ECU,Ecuador,2019,77.286,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EGY,"Egypt, Arab Rep.",2022,71.01,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EGY,"Egypt, Arab Rep.",2021,68.976,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EGY,"Egypt, Arab Rep.",2020,69.79,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EGY,"Egypt, Arab Rep.",2019,71.213,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SLV,El Salvador,2022,71.969,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SLV,El Salvador,2021,69.941,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SLV,El Salvador,2020,70.244,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SLV,El Salvador,2019,71.725,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GNQ,Equatorial Guinea,2022,63.355,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GNQ,Equatorial Guinea,2021,62.447,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GNQ,Equatorial Guinea,2020,62.141,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GNQ,Equatorial Guinea,2019,62.297,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ERI,Eritrea,2022,67.789,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ERI,Eritrea,2021,66.94,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ERI,Eritrea,2020,66.98,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ERI,Eritrea,2019,67.306,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EST,Estonia,2022,77.8439024390244,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EST,Estonia,2021,76.9439024390244,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EST,Estonia,2020,78.5951219512195,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+EST,Estonia,2019,78.6463414634147,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SWZ,Eswatini,2022,63.028,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SWZ,Eswatini,2021,58.228,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SWZ,Eswatini,2020,59.862,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SWZ,Eswatini,2019,59.85,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ETH,Ethiopia,2022,66.897,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ETH,Ethiopia,2021,65.33,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ETH,Ethiopia,2020,65.969,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ETH,Ethiopia,2019,65.741,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FRO,Faroe Islands,2022,82.8162292682927,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FRO,Faroe Islands,2021,82.6763219512195,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FRO,Faroe Islands,2020,82.5341926829268,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FRO,Faroe Islands,2019,82.3912829268293,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FJI,Fiji,2022,67.148,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FJI,Fiji,2021,64.904,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FJI,Fiji,2020,66.924,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FJI,Fiji,2019,67.009,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FIN,Finland,2022,81.1878048780488,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FIN,Finland,2021,81.8853658536585,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FIN,Finland,2020,81.9317073170732,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FIN,Finland,2019,81.9829268292683,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FRA,France,2022,82.1292682926829,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FRA,France,2021,82.3243902439024,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FRA,France,2020,82.1756097560976,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FRA,France,2019,82.8268292682927,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PYF,French Polynesia,2022,83.859,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PYF,French Polynesia,2021,79.571,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PYF,French Polynesia,2020,82.459,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PYF,French Polynesia,2019,83.195,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GAB,Gabon,2022,67.713,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GAB,Gabon,2021,67.072,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GAB,Gabon,2020,67.073,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GAB,Gabon,2019,67.337,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GMB,"Gambia, The",2022,64.859,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GMB,"Gambia, The",2021,63.847,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GMB,"Gambia, The",2020,64.418,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GMB,"Gambia, The",2019,64.427,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GEO,Georgia,2022,74.141,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GEO,Georgia,2021,71.635,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GEO,Georgia,2020,73.509,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GEO,Georgia,2019,74.165,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DEU,Germany,2022,80.6080487804878,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DEU,Germany,2021,80.790243902439,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DEU,Germany,2020,81.0414634146342,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+DEU,Germany,2019,81.2926829268293,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GHA,Ghana,2022,65.246,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GHA,Ghana,2021,64.286,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GHA,Ghana,2020,64.309,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GHA,Ghana,2019,64.455,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GIB,Gibraltar,2022,83.517,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GIB,Gibraltar,2021,80.274,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GIB,Gibraltar,2020,83.07,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GIB,Gibraltar,2019,83.183,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GRC,Greece,2022,80.7878048780488,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GRC,Greece,2021,80.0829268292683,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GRC,Greece,2020,81.2878048780488,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GRC,Greece,2019,81.6390243902439,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GRL,Greenland,2022,71.230243902439,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GRL,Greenland,2021,71.2614634146342,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GRL,Greenland,2020,71.2858536585366,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GRL,Greenland,2019,71.4092682926829,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GRD,Grenada,2022,75.151,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GRD,Grenada,2021,74.522,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GRD,Grenada,2020,75.019,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GRD,Grenada,2019,74.971,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GUM,Guam,2022,77.102,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GUM,Guam,2021,75.434,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GUM,Guam,2020,75.529,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GUM,Guam,2019,76.645,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GTM,Guatemala,2022,71.206,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GTM,Guatemala,2021,67.858,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GTM,Guatemala,2020,69.971,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GTM,Guatemala,2019,71.639,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GIN,Guinea,2022,60.432,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GIN,Guinea,2021,59.373,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GIN,Guinea,2020,59.35,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GIN,Guinea,2019,59.379,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GNB,Guinea-Bissau,2022,63.605,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GNB,Guinea-Bissau,2021,61.653,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GNB,Guinea-Bissau,2020,61.343,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GNB,Guinea-Bissau,2019,62.161,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GUY,Guyana,2022,69.888,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GUY,Guyana,2021,64.323,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GUY,Guyana,2020,67.751,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GUY,Guyana,2019,69.067,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HTI,Haiti,2022,63.948,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HTI,Haiti,2021,62.613,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HTI,Haiti,2020,63.773,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HTI,Haiti,2019,64.328,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HND,Honduras,2022,72.715,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HND,Honduras,2021,69.492,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HND,Honduras,2020,70.864,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HND,Honduras,2019,72.124,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HKG,"Hong Kong SAR, China",2022,83.6609756097561,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HKG,"Hong Kong SAR, China",2021,85.5326829268293,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HKG,"Hong Kong SAR, China",2020,85.4963414634146,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HKG,"Hong Kong SAR, China",2019,85.1558536585366,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HUN,Hungary,2022,75.8682926829268,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HUN,Hungary,2021,74.0658536585366,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HUN,Hungary,2020,75.419512195122,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+HUN,Hungary,2019,76.3195121951219,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ISL,Iceland,2022,82.119512195122,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ISL,Iceland,2021,83.1658536585366,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ISL,Iceland,2020,83.0634146341463,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ISL,Iceland,2019,83.1634146341463,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IND,India,2022,71.698,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IND,India,2021,67.282,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IND,India,2020,70.156,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IND,India,2019,70.746,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDN,Indonesia,2022,70.925,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDN,Indonesia,2021,67.452,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDN,Indonesia,2020,68.817,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IDN,Indonesia,2019,70.349,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IRN,"Iran, Islamic Rep.",2022,76.799,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IRN,"Iran, Islamic Rep.",2021,73.752,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IRN,"Iran, Islamic Rep.",2020,74.141,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IRN,"Iran, Islamic Rep.",2019,76.855,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IRQ,Iraq,2022,72.037,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IRQ,Iraq,2021,70.704,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IRQ,Iraq,2020,69.651,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IRQ,Iraq,2019,71.245,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IRL,Ireland,2022,82.509756097561,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IRL,Ireland,2021,82.2536585365854,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IRL,Ireland,2020,82.4560975609756,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IRL,Ireland,2019,82.7024390243903,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IMN,Isle of Man,2022,80.956,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IMN,Isle of Man,2021,80.42,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IMN,Isle of Man,2020,80.591,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+IMN,Isle of Man,2019,80.74,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ISR,Israel,2022,82.7,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ISR,Israel,2021,82.5,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ISR,Israel,2020,82.6487804878049,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ISR,Israel,2019,82.8048780487805,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ITA,Italy,2022,82.7,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ITA,Italy,2021,82.6463414634146,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ITA,Italy,2020,82.1951219512195,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ITA,Italy,2019,83.4975609756098,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+JAM,Jamaica,2022,71.481,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+JAM,Jamaica,2021,69.085,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+JAM,Jamaica,2020,71.452,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+JAM,Jamaica,2019,71.532,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+JPN,Japan,2022,83.9963414634146,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+JPN,Japan,2021,84.4456097560976,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+JPN,Japan,2020,84.56,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+JPN,Japan,2019,84.3563414634146,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+JOR,Jordan,2022,77.088,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+JOR,Jordan,2021,74.204,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+JOR,Jordan,2020,75.583,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+JOR,Jordan,2019,76.865,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KAZ,Kazakhstan,2022,73.503,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KAZ,Kazakhstan,2021,70.131,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KAZ,Kazakhstan,2020,71.195,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KAZ,Kazakhstan,2019,73.658,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KEN,Kenya,2022,63.549,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KEN,Kenya,2021,61.225,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KEN,Kenya,2020,61.596,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KEN,Kenya,2019,62.939,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KIR,Kiribati,2022,66.269,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KIR,Kiribati,2021,64.148,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KIR,Kiribati,2020,65.205,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KIR,Kiribati,2019,65.866,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRK,"Korea, Dem. People's Rep.",2022,73.641,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRK,"Korea, Dem. People's Rep.",2021,73.437,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRK,"Korea, Dem. People's Rep.",2020,72.783,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRK,"Korea, Dem. People's Rep.",2019,72.928,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KOR,"Korea, Rep.",2022,82.6804878048781,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KOR,"Korea, Rep.",2021,83.5268292682927,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KOR,"Korea, Rep.",2020,83.4268292682927,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KOR,"Korea, Rep.",2019,83.2268292682927,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+XKX,Kosovo,2022,77.623,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+XKX,Kosovo,2021,74.981,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+XKX,Kosovo,2020,74.212,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+XKX,Kosovo,2019,77.249,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KWT,Kuwait,2022,80.5878048780488,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KWT,Kuwait,2021,78.7365853658537,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KWT,Kuwait,2020,78.7609756097561,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KWT,Kuwait,2019,81.969756097561,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KGZ,Kyrgyz Republic,2022,72.0487804878049,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KGZ,Kyrgyz Republic,2021,71.9,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KGZ,Kyrgyz Republic,2020,71.8,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KGZ,Kyrgyz Republic,2019,71.6,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LAO,Lao PDR,2022,68.715,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LAO,Lao PDR,2021,67.807,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LAO,Lao PDR,2020,68.339,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LAO,Lao PDR,2019,67.911,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LVA,Latvia,2022,74.2780487804878,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LVA,Latvia,2021,72.9804878048781,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LVA,Latvia,2020,75.1853658536585,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LVA,Latvia,2019,75.3878048780488,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LBN,Lebanon,2022,78.003,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LBN,Lebanon,2021,73.65,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LBN,Lebanon,2020,76.299,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LBN,Lebanon,2019,78.208,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LSO,Lesotho,2022,56.812,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LSO,Lesotho,2021,54.209,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LSO,Lesotho,2020,55.133,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LSO,Lesotho,2019,55.249,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LBR,Liberia,2022,61.934,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LBR,Liberia,2021,61.166,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LBR,Liberia,2020,61.267,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LBR,Liberia,2019,61.232,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LBY,Libya,2022,74.462,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LBY,Libya,2021,72.062,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LBY,Libya,2020,72.388,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LBY,Libya,2019,72.941,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LIE,Liechtenstein,2022,84.1219512195122,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LIE,Liechtenstein,2021,84.4024390243902,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LIE,Liechtenstein,2020,81.6585365853659,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LIE,Liechtenstein,2019,84.1609756097561,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LTU,Lithuania,2022,75.6439024390244,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LTU,Lithuania,2021,74.0365853658537,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LTU,Lithuania,2020,75.0292682926829,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LTU,Lithuania,2019,76.2829268292683,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LUX,Luxembourg,2022,82.9463414634147,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LUX,Luxembourg,2021,82.5975609756098,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LUX,Luxembourg,2020,82.1439024390244,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LUX,Luxembourg,2019,82.6390243902439,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MAC,"Macao SAR, China",2022,83.0804878048781,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MAC,"Macao SAR, China",2021,83.7292682926829,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MAC,"Macao SAR, China",2020,84.1292682926829,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MAC,"Macao SAR, China",2019,83.9292682926829,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MDG,Madagascar,2022,63.068,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MDG,Madagascar,2021,62.516,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MDG,Madagascar,2020,62.706,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MDG,Madagascar,2019,63.504,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MWI,Malawi,2022,66.037,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MWI,Malawi,2021,64.782,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MWI,Malawi,2020,65.216,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MWI,Malawi,2019,64.995,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MYS,Malaysia,2022,75.444,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MYS,Malaysia,2021,73.917,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MYS,Malaysia,2020,76.057,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MYS,Malaysia,2019,75.9,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MDV,Maldives,2022,80.76,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MDV,Maldives,2021,78.052,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MDV,Maldives,2020,78.713,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MDV,Maldives,2019,79.707,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MLI,Mali,2022,60.035,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MLI,Mali,2021,59.116,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MLI,Mali,2020,58.858,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MLI,Mali,2019,59.217,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MLT,Malta,2022,82.2975609756098,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MLT,Malta,2021,82.2585365853659,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MLT,Malta,2020,82.0975609756098,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MLT,Malta,2019,82.6585365853659,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MHL,Marshall Islands,2022,66.725,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MHL,Marshall Islands,2021,65.421,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MHL,Marshall Islands,2020,65.387,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MHL,Marshall Islands,2019,66.047,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MRT,Mauritania,2022,68.281,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MRT,Mauritania,2021,66.762,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MRT,Mauritania,2020,66.794,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MRT,Mauritania,2019,67.64,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MUS,Mauritius,2022,73.5146341463415,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MUS,Mauritius,2021,73.680243902439,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MUS,Mauritius,2020,74.1770731707317,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MUS,Mauritius,2019,74.2358536585366,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MEX,Mexico,2022,73.973,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MEX,Mexico,2021,69.75,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MEX,Mexico,2020,70.449,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MEX,Mexico,2019,74.53,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FSM,"Micronesia, Fed. Sts.",2022,66.961,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FSM,"Micronesia, Fed. Sts.",2021,66.152,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FSM,"Micronesia, Fed. Sts.",2020,65.878,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+FSM,"Micronesia, Fed. Sts.",2019,66.196,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MDA,Moldova,2022,71.546,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MDA,Moldova,2021,68.991,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MDA,Moldova,2020,69.914,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MDA,Moldova,2019,70.181,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MCO,Monaco,2022,85.746,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MCO,Monaco,2021,85.113,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MCO,Monaco,2020,86.089,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MCO,Monaco,2019,86.151,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNG,Mongolia,2022,71.9007317073171,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNG,Mongolia,2021,71.6451219512195,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNG,Mongolia,2020,71.3490243902439,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNG,Mongolia,2019,71.0531707317073,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNE,Montenegro,2022,76.1878048780488,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNE,Montenegro,2021,73.8243902439024,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNE,Montenegro,2020,75.9317073170732,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNE,Montenegro,2019,76.6829268292683,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MAR,Morocco,2022,75.161,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MAR,Morocco,2021,73.385,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MAR,Morocco,2020,73.133,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MAR,Morocco,2019,74.245,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MOZ,Mozambique,2022,63.011,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MOZ,Mozambique,2021,60.268,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MOZ,Mozambique,2020,61.39,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MOZ,Mozambique,2019,61.306,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MMR,Myanmar,2022,66.506,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MMR,Myanmar,2021,65.553,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MMR,Myanmar,2020,66.612,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MMR,Myanmar,2019,66.457,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NAM,Namibia,2022,64.19,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NAM,Namibia,2021,60.85,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NAM,Namibia,2020,64.071,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NAM,Namibia,2019,63.546,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NRU,Nauru,2022,61.93,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NRU,Nauru,2021,61.331,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NRU,Nauru,2020,61.527,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NRU,Nauru,2019,61.393,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NPL,Nepal,2022,70.087,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NPL,Nepal,2021,68.385,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NPL,Nepal,2020,69.106,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NPL,Nepal,2019,69.299,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NLD,Netherlands,2022,81.6146341463415,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NLD,Netherlands,2021,81.309756097561,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NLD,Netherlands,2020,81.3585365853659,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NLD,Netherlands,2019,82.1121951219512,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NCL,New Caledonia,2022,77.698,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NCL,New Caledonia,2021,77.113,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NCL,New Caledonia,2020,77.049,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NCL,New Caledonia,2019,77.262,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NZL,New Zealand,2022,81.9585365853658,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NZL,New Zealand,2021,82.2073170731707,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NZL,New Zealand,2020,82.2560975609756,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NZL,New Zealand,2019,82.0560975609756,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NIC,Nicaragua,2022,74.463,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NIC,Nicaragua,2021,70.478,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NIC,Nicaragua,2020,70.766,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NIC,Nicaragua,2019,73.764,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NER,Niger,2022,60.398,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NER,Niger,2021,59.542,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NER,Niger,2020,59.89,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NER,Niger,2019,60.031,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NGA,Nigeria,2022,54.079,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NGA,Nigeria,2021,53.455,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NGA,Nigeria,2020,53.072,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NGA,Nigeria,2019,53.009,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MKD,North Macedonia,2022,74.4248780487805,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MKD,North Macedonia,2021,73.2463414634146,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MKD,North Macedonia,2020,74.3951219512195,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MKD,North Macedonia,2019,76.6024390243903,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNP,Northern Mariana Islands,2022,78.531,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNP,Northern Mariana Islands,2021,78.16,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNP,Northern Mariana Islands,2020,78.03,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MNP,Northern Mariana Islands,2019,77.844,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NOR,Norway,2022,82.509756097561,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NOR,Norway,2021,83.1634146341463,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NOR,Norway,2020,83.209756097561,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+NOR,Norway,2019,82.9585365853659,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+OMN,Oman,2022,77.911,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+OMN,Oman,2021,75.969,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+OMN,Oman,2020,77.763,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+OMN,Oman,2019,79.946,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PAK,Pakistan,2022,67.417,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PAK,Pakistan,2021,65.773,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PAK,Pakistan,2020,65.701,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PAK,Pakistan,2019,66.729,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PLW,Palau,2022,68.922,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PLW,Palau,2021,68.563,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PLW,Palau,2020,68.689,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PLW,Palau,2019,68.982,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PAN,Panama,2022,79.324,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PAN,Panama,2021,77.004,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PAN,Panama,2020,76.33,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PAN,Panama,2019,78.514,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PNG,Papua New Guinea,2022,65.274,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PNG,Papua New Guinea,2021,64.358,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PNG,Papua New Guinea,2020,65.075,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PNG,Papua New Guinea,2019,65.331,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRY,Paraguay,2022,72.319,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRY,Paraguay,2021,68.108,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRY,Paraguay,2020,72.72,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRY,Paraguay,2019,73.668,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PER,Peru,2022,76.834,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PER,Peru,2021,71.596,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PER,Peru,2020,73.832,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PER,Peru,2019,76.275,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PHL,Philippines,2022,69.472,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PHL,Philippines,2021,66.675,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PHL,Philippines,2020,70.097,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PHL,Philippines,2019,69.68,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+POL,Poland,2022,77.1560975609756,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+POL,Poland,2021,75.3512195121951,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+POL,Poland,2020,76.4,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+POL,Poland,2019,77.9048780487805,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRT,Portugal,2022,81.6317073170732,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRT,Portugal,2021,81.3780487804878,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRT,Portugal,2020,81.3292682926829,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRT,Portugal,2019,81.6756097560976,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRI,Puerto Rico (US),2022,79.427,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRI,Puerto Rico (US),2021,79.77,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRI,Puerto Rico (US),2020,80.009,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PRI,Puerto Rico (US),2019,81.438,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+QAT,Qatar,2022,81.857,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+QAT,Qatar,2021,81.083,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+QAT,Qatar,2020,80.409,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+QAT,Qatar,2019,82.945,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ROU,Romania,2022,75.1536585365854,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ROU,Romania,2021,72.809756097561,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ROU,Romania,2020,74.2536585365854,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ROU,Romania,2019,75.6073170731707,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+RUS,Russian Federation,2022,72.5456097560976,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+RUS,Russian Federation,2021,69.900243902439,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+RUS,Russian Federation,2020,71.3387804878049,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+RUS,Russian Federation,2019,73.0839024390244,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+RWA,Rwanda,2022,67.528,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+RWA,Rwanda,2021,66.85,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+RWA,Rwanda,2020,66.953,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+RWA,Rwanda,2019,66.691,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+WSM,Samoa,2022,71.55,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+WSM,Samoa,2021,71.096,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+WSM,Samoa,2020,70.727,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+WSM,Samoa,2019,70.269,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SMR,San Marino,2022,85.708,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SMR,San Marino,2021,83.539,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SMR,San Marino,2020,82.65,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SMR,San Marino,2019,85.257,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+STP,Sao Tome and Principe,2022,69.237,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+STP,Sao Tome and Principe,2021,68.026,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+STP,Sao Tome and Principe,2020,67.979,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+STP,Sao Tome and Principe,2019,68.043,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SAU,Saudi Arabia,2022,77.31,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SAU,Saudi Arabia,2021,77.089,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SAU,Saudi Arabia,2020,77.596,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SAU,Saudi Arabia,2019,78.313,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SEN,Senegal,2022,67.788,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SEN,Senegal,2021,66.868,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SEN,Senegal,2020,67.496,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SEN,Senegal,2019,67.668,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SRB,Serbia,2022,75.2365853658537,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SRB,Serbia,2021,72.780487804878,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SRB,Serbia,2020,74.4780487804878,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SRB,Serbia,2019,75.9365853658537,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SYC,Seychelles,2022,74.509756097561,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SYC,Seychelles,2021,73.3975609756097,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SYC,Seychelles,2020,77.2365853658537,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SYC,Seychelles,2019,74.0463414634146,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SLE,Sierra Leone,2022,61.275,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SLE,Sierra Leone,2021,60.26,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SLE,Sierra Leone,2020,59.694,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SLE,Sierra Leone,2019,59.593,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SGP,Singapore,2022,82.8951219512195,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SGP,Singapore,2021,83.0926829268293,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SGP,Singapore,2020,83.5439024390244,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SGP,Singapore,2019,83.5951219512195,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SXM,Sint Maarten (Dutch part),2022,76.18,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SXM,Sint Maarten (Dutch part),2021,74.505,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SXM,Sint Maarten (Dutch part),2020,75.002,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SXM,Sint Maarten (Dutch part),2019,75.68,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SVK,Slovak Republic,2022,76.9658536585366,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SVK,Slovak Republic,2021,74.6146341463415,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SVK,Slovak Republic,2020,76.8658536585366,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SVK,Slovak Republic,2019,77.6658536585366,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SVN,Slovenia,2022,81.2829268292683,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SVN,Slovenia,2021,80.6756097560976,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SVN,Slovenia,2020,80.5317073170732,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SVN,Slovenia,2019,81.5292682926829,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SLB,Solomon Islands,2022,70.409,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SLB,Solomon Islands,2021,68.89,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SLB,Solomon Islands,2020,69.258,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SLB,Solomon Islands,2019,69.981,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SOM,"Somalia, Fed. Rep.",2022,53.931,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SOM,"Somalia, Fed. Rep.",2021,55.703,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SOM,"Somalia, Fed. Rep.",2020,57.095,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SOM,"Somalia, Fed. Rep.",2019,57.249,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ZAF,South Africa,2022,65.454,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ZAF,South Africa,2021,62.01,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ZAF,South Africa,2020,65.15,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ZAF,South Africa,2019,66.071,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SSD,South Sudan,2022,57.203,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SSD,South Sudan,2021,57.047,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SSD,South Sudan,2020,57.648,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SSD,South Sudan,2019,58.129,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ESP,Spain,2022,83.1341463414634,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ESP,Spain,2021,83.1780487804878,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ESP,Spain,2020,82.2317073170732,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ESP,Spain,2019,83.8317073170732,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LKA,Sri Lanka,2022,77.3,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LKA,Sri Lanka,2021,76.278,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LKA,Sri Lanka,2020,76.928,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LKA,Sri Lanka,2019,76.698,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KNA,St. Kitts and Nevis,2022,70.313,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KNA,St. Kitts and Nevis,2021,69.271,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KNA,St. Kitts and Nevis,2020,71.181,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+KNA,St. Kitts and Nevis,2019,71.54,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LCA,St. Lucia,2022,72.67,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LCA,St. Lucia,2021,69.119,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LCA,St. Lucia,2020,72.308,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+LCA,St. Lucia,2019,72.249,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MAF,St. Martin (French part),2022,80.236,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MAF,St. Martin (French part),2021,80.206,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MAF,St. Martin (French part),2020,80.085,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+MAF,St. Martin (French part),2019,80.078,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VCT,St. Vincent and the Grenadines,2022,71.191,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VCT,St. Vincent and the Grenadines,2021,69.132,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VCT,St. Vincent and the Grenadines,2020,69.605,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VCT,St. Vincent and the Grenadines,2019,70.994,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SDN,Sudan,2022,65.695,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SDN,Sudan,2021,64.46,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SDN,Sudan,2020,65.124,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SDN,Sudan,2019,65.803,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SUR,Suriname,2022,73.254,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SUR,Suriname,2021,68.943,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SUR,Suriname,2020,72.321,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SUR,Suriname,2019,71.773,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SWE,Sweden,2022,83.0585365853659,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SWE,Sweden,2021,83.0560975609756,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SWE,Sweden,2020,82.3560975609756,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SWE,Sweden,2019,83.109756097561,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHE,Switzerland,2022,83.6048780487805,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHE,Switzerland,2021,83.7512195121951,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHE,Switzerland,2020,83.0,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+CHE,Switzerland,2019,83.9048780487805,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SYR,Syrian Arab Republic,2022,72.79,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SYR,Syrian Arab Republic,2021,72.418,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SYR,Syrian Arab Republic,2020,71.944,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+SYR,Syrian Arab Republic,2019,70.97,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TJK,Tajikistan,2022,71.562,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TJK,Tajikistan,2021,69.594,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TJK,Tajikistan,2020,68.605,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TJK,Tajikistan,2019,70.962,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TZA,Tanzania,2022,66.879,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TZA,Tanzania,2021,66.131,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TZA,Tanzania,2020,66.771,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TZA,Tanzania,2019,66.007,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+THA,Thailand,2022,75.291,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+THA,Thailand,2021,77.606,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+THA,Thailand,2020,77.331,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+THA,Thailand,2019,77.197,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TLS,Timor-Leste,2022,67.368,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TLS,Timor-Leste,2021,66.199,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TLS,Timor-Leste,2020,66.919,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TLS,Timor-Leste,2019,66.496,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TGO,Togo,2022,62.292,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TGO,Togo,2021,61.337,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TGO,Togo,2020,61.14,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TGO,Togo,2019,61.061,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TON,Tonga,2022,72.635,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TON,Tonga,2021,72.13,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TON,Tonga,2020,72.379,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TON,Tonga,2019,72.292,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TTO,Trinidad and Tobago,2022,73.331,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TTO,Trinidad and Tobago,2021,71.111,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TTO,Trinidad and Tobago,2020,72.645,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TTO,Trinidad and Tobago,2019,72.836,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TUN,Tunisia,2022,76.05,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TUN,Tunisia,2021,72.893,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TUN,Tunisia,2020,75.004,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TUN,Tunisia,2019,75.599,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TUR,Turkiye,2022,77.591,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TUR,Turkiye,2021,75.722,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TUR,Turkiye,2020,76.525,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TUR,Turkiye,2019,77.737,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TKM,Turkmenistan,2022,69.913,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TKM,Turkmenistan,2021,69.353,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TKM,Turkmenistan,2020,68.846,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TKM,Turkmenistan,2019,69.405,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TCA,Turks and Caicos Islands,2022,77.918,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TCA,Turks and Caicos Islands,2021,77.234,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TCA,Turks and Caicos Islands,2020,77.499,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TCA,Turks and Caicos Islands,2019,77.691,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TUV,Tuvalu,2022,66.852,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TUV,Tuvalu,2021,65.824,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TUV,Tuvalu,2020,66.357,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+TUV,Tuvalu,2019,66.109,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+UGA,Uganda,2022,67.675,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+UGA,Uganda,2021,66.45,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+UGA,Uganda,2020,66.41,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+UGA,Uganda,2019,66.354,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+UKR,Ukraine,2022,72.658,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+UKR,Ukraine,2021,71.631,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+UKR,Ukraine,2020,73.283,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+UKR,Ukraine,2019,73.92,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARE,United Arab Emirates,2022,80.487,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARE,United Arab Emirates,2021,79.083,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARE,United Arab Emirates,2020,81.936,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ARE,United Arab Emirates,2019,82.596,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GBR,United Kingdom,2022,81.0112195121951,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GBR,United Kingdom,2021,80.6473170731707,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GBR,United Kingdom,2020,80.331756097561,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+GBR,United Kingdom,2019,81.3691219512195,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+USA,United States,2022,77.4341463414634,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+USA,United States,2021,76.3292682926829,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+USA,United States,2020,76.9804878048781,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+USA,United States,2019,78.7878048780488,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+URY,Uruguay,2022,76.468,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+URY,Uruguay,2021,75.434,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+URY,Uruguay,2020,78.381,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+URY,Uruguay,2019,77.503,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+UZB,Uzbekistan,2022,72.147,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+UZB,Uzbekistan,2021,71.681,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+UZB,Uzbekistan,2020,71.461,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+UZB,Uzbekistan,2019,72.093,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VUT,Vanuatu,2022,71.302,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VUT,Vanuatu,2021,69.952,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VUT,Vanuatu,2020,70.385,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VUT,Vanuatu,2019,70.783,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VEN,"Venezuela, RB",2022,72.566,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VEN,"Venezuela, RB",2021,71.536,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VEN,"Venezuela, RB",2020,72.369,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VEN,"Venezuela, RB",2019,72.766,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VNM,Viet Nam,2022,74.502,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VNM,Viet Nam,2021,74.145,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VNM,Viet Nam,2020,75.383,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VNM,Viet Nam,2019,74.211,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VIR,Virgin Islands (U.S.),2022,80.319512195122,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VIR,Virgin Islands (U.S.),2021,80.0682926829268,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VIR,Virgin Islands (U.S.),2020,79.819512195122,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+VIR,Virgin Islands (U.S.),2019,79.6682926829268,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PSE,West Bank and Gaza,2022,76.662,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PSE,West Bank and Gaza,2021,73.89,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PSE,West Bank and Gaza,2020,74.998,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+PSE,West Bank and Gaza,2019,75.811,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+YEM,"Yemen, Rep.",2022,67.952,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+YEM,"Yemen, Rep.",2021,66.019,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+YEM,"Yemen, Rep.",2020,66.435,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+YEM,"Yemen, Rep.",2019,66.567,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ZMB,Zambia,2022,65.279,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ZMB,Zambia,2021,62.363,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ZMB,Zambia,2020,63.361,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ZMB,Zambia,2019,62.914,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ZWE,Zimbabwe,2022,62.36,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ZWE,Zimbabwe,2021,60.135,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ZWE,Zimbabwe,2020,61.53,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022
+ZWE,Zimbabwe,2019,61.06,SP.DYN.LE00.IN,https://api.worldbank.org/v2/country/all/indicator/SP.DYN.LE00.IN?format=json&date=2019:2022

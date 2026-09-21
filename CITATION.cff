@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or its outputs, please cite the manuscript and the repository."
+title: "HSR-Convert: an uncertainty-aware decision-support framework for health-system capacity-to-resilience conversion under pandemic shock"
+authors:
+  - family-names: Zhang
+    given-names: Xingjian
+    orcid: "https://orcid.org/0009-0009-9141-8819"
+    affiliation: "Department of Electrical and Computer Engineering, Carnegie Mellon University"
+repository-code: "https://github.com/XingjianZhang-dev/hsr-convert"
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-21"
+keywords:
+  - health-system resilience
+  - decision support
+  - pandemic preparedness
+  - excess mortality
+  - uncertainty
+preferred-citation:
+  type: article
+  title: "Capacity Is Not Resilience: An Uncertainty-Aware Decision-Support Framework for Health-System Capacity-to-Resilience Conversion Under Pandemic Shock"
+  authors:
+    - family-names: Zhang
+      given-names: Xingjian
+  journal: "Array"
+  year: 2026
+  notes: "Manuscript under review."

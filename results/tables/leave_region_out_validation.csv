@@ -1,0 +1,8 @@
+held_out_region,n,excluded_region_n,n_ranked_countries,n_validation_countries,outcome_missing_count_from_ranked_sample,outcome_missing_rate_from_ranked_sample,spearman_r
+East Asia & Pacific,97,11,193,108,85,0.44041450777202074,-0.08416263129844903
+Europe & Central Asia,58,50,193,108,85,0.44041450777202074,-0.28437389529288537
+Latin America & Caribbean ,83,25,193,108,85,0.44041450777202074,-0.1724559576696024
+"Middle East, North Africa, Afghanistan & Pakistan",95,13,193,108,85,0.44041450777202074,-0.11711305018873473
+North America,106,2,193,108,85,0.44041450777202074,-0.12608168825223579
+South Asia,106,2,193,108,85,0.44041450777202074,-0.14696131505787965
+Sub-Saharan Africa ,103,5,193,108,85,0.44041450777202074,-0.16332728358338272

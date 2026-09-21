@@ -1,0 +1,8 @@
+{
+  "data/raw/ghs/ghs_index_2019.csv": {
+    "sha256": "17197a2e8d19646e5ae9453ddbc3969fb084dbbb654795f00e14e84b45c71661",
+    "url": "https://ghsindex.org/wp-content/uploads/2022/04/2021-GHS-Index-April-2022.csv",
+    "bytes": 410035,
+    "note": "Official GHS Index raw CSV (2019 and 2021 rows). Not redistributed here; the pipeline uses Year == 2019 rows only."
+  }
+}

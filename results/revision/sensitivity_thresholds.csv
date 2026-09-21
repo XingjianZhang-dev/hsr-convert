@@ -1,0 +1,107 @@
+iso3,stability_25,n_distinct_labels_25,stability_125,n_distinct_labels_125,country,conversion_profile
+ALB,1.0,1,1.0,1,Albania,structurally vulnerable systems
+AND,1.0,1,1.0,1,Andorra,effective converters
+ARE,1.0,1,1.0,1,United Arab Emirates,capacity under-realizers
+ARG,1.0,1,1.0,1,Argentina,capacity under-realizers
+ARM,1.0,1,1.0,1,Armenia,uncertain / data-limited systems
+ATG,1.0,1,1.0,1,Antigua and Barbuda,uncertain / data-limited systems
+AUS,1.0,1,1.0,1,Australia,effective converters
+AUT,1.0,1,0.84,2,Austria,capacity under-realizers
+AZE,0.6,2,0.6,2,Azerbaijan,adaptive over-performers
+BEL,0.8,2,0.48,2,Belgium,effective converters
+BGR,1.0,1,1.0,1,Bulgaria,uncertain / data-limited systems
+BHS,0.8,2,0.8,2,"Bahamas, The",adaptive over-performers
+BIH,1.0,1,1.0,1,Bosnia and Herzegovina,structurally vulnerable systems
+BLR,1.0,1,1.0,1,Belarus,capacity under-realizers
+BLZ,1.0,1,1.0,1,Belize,uncertain / data-limited systems
+BOL,1.0,1,1.0,1,Bolivia,structurally vulnerable systems
+BRA,0.6,2,0.6,2,Brazil,structurally vulnerable systems
+BRB,1.0,1,1.0,1,Barbados,adaptive over-performers
+BRN,1.0,1,1.0,1,Brunei Darussalam,uncertain / data-limited systems
+BTN,1.0,1,1.0,1,Bhutan,uncertain / data-limited systems
+CAN,1.0,1,1.0,1,Canada,effective converters
+CHE,1.0,1,0.8,2,Switzerland,effective converters
+CHL,0.6,2,0.6,2,Chile,capacity under-realizers
+COL,0.8,2,0.8,2,Colombia,capacity under-realizers
+CPV,1.0,1,1.0,1,Cabo Verde,adaptive over-performers
+CRI,1.0,1,1.0,1,Costa Rica,uncertain / data-limited systems
+CYP,0.6,2,0.6,2,Cyprus,adaptive over-performers
+CZE,1.0,1,1.0,1,Czechia,capacity under-realizers
+DEU,1.0,1,0.6,2,Germany,effective converters
+DNK,1.0,1,1.0,1,Denmark,effective converters
+DOM,1.0,1,1.0,1,Dominican Republic,adaptive over-performers
+DZA,0.8,2,0.8,2,Algeria,structurally vulnerable systems
+ECU,1.0,1,1.0,1,Ecuador,structurally vulnerable systems
+EGY,1.0,1,1.0,1,"Egypt, Arab Rep.",structurally vulnerable systems
+ESP,1.0,1,0.88,2,Spain,capacity under-realizers
+EST,1.0,1,1.0,1,Estonia,capacity under-realizers
+FIN,1.0,1,1.0,1,Finland,effective converters
+FJI,1.0,1,1.0,1,Fiji,adaptive over-performers
+FRA,1.0,1,1.0,1,France,effective converters
+GBR,1.0,1,0.88,2,United Kingdom,capacity under-realizers
+GEO,1.0,1,1.0,1,Georgia,uncertain / data-limited systems
+GRC,1.0,1,1.0,1,Greece,uncertain / data-limited systems
+GTM,0.8,2,0.8,2,Guatemala,adaptive over-performers
+HRV,1.0,1,1.0,1,Croatia,capacity under-realizers
+HUN,1.0,1,1.0,1,Hungary,capacity under-realizers
+IRL,0.6,2,0.6,2,Ireland,effective converters
+IRN,1.0,1,1.0,1,"Iran, Islamic Rep.",structurally vulnerable systems
+ISL,1.0,1,1.0,1,Iceland,effective converters
+ISR,0.4,2,0.4,2,Israel,effective converters
+ITA,1.0,1,1.0,1,Italy,capacity under-realizers
+JAM,1.0,1,1.0,1,Jamaica,adaptive over-performers
+JOR,1.0,1,1.0,1,Jordan,uncertain / data-limited systems
+JPN,1.0,1,1.0,1,Japan,effective converters
+KAZ,0.8,3,0.8,3,Kazakhstan,capacity under-realizers
+KGZ,1.0,1,1.0,1,Kyrgyz Republic,adaptive over-performers
+KNA,1.0,1,1.0,1,St. Kitts and Nevis,structurally vulnerable systems
+KOR,0.48,4,0.48,4,"Korea, Rep.",effective converters
+KWT,1.0,1,1.0,1,Kuwait,capacity under-realizers
+LBN,1.0,1,1.0,1,Lebanon,structurally vulnerable systems
+LTU,1.0,1,1.0,1,Lithuania,uncertain / data-limited systems
+LUX,1.0,1,1.0,1,Luxembourg,effective converters
+LVA,1.0,1,1.0,1,Latvia,uncertain / data-limited systems
+MDA,1.0,1,1.0,1,Moldova,uncertain / data-limited systems
+MDV,1.0,1,1.0,1,Maldives,capacity under-realizers
+MEX,1.0,1,1.0,1,Mexico,structurally vulnerable systems
+MKD,0.6,2,0.6,2,North Macedonia,structurally vulnerable systems
+MLT,1.0,1,1.0,1,Malta,uncertain / data-limited systems
+MNE,1.0,1,1.0,1,Montenegro,uncertain / data-limited systems
+MNG,1.0,1,1.0,1,Mongolia,adaptive over-performers
+MUS,1.0,1,1.0,1,Mauritius,uncertain / data-limited systems
+MYS,1.0,1,1.0,1,Malaysia,adaptive over-performers
+NAM,1.0,1,1.0,1,Namibia,adaptive over-performers
+NIC,1.0,1,1.0,1,Nicaragua,uncertain / data-limited systems
+NLD,1.0,1,0.6,2,Netherlands,effective converters
+NOR,1.0,1,1.0,1,Norway,effective converters
+NZL,1.0,1,1.0,1,New Zealand,effective converters
+OMN,1.0,1,1.0,1,Oman,uncertain / data-limited systems
+PAN,1.0,1,1.0,1,Panama,structurally vulnerable systems
+PER,1.0,1,1.0,1,Peru,structurally vulnerable systems
+PHL,0.8,2,0.8,2,Philippines,adaptive over-performers
+POL,1.0,1,1.0,1,Poland,capacity under-realizers
+PRT,1.0,1,1.0,1,Portugal,capacity under-realizers
+PRY,1.0,1,1.0,1,Paraguay,structurally vulnerable systems
+PSE,1.0,1,1.0,1,West Bank and Gaza,adaptive over-performers
+QAT,1.0,1,1.0,1,Qatar,capacity under-realizers
+ROU,0.6,2,0.6,2,Romania,capacity under-realizers
+RUS,1.0,1,1.0,1,Russian Federation,uncertain / data-limited systems
+SGP,1.0,1,1.0,1,Singapore,uncertain / data-limited systems
+SLV,1.0,1,1.0,1,El Salvador,adaptive over-performers
+SMR,1.0,1,1.0,1,San Marino,uncertain / data-limited systems
+SRB,1.0,1,1.0,1,Serbia,uncertain / data-limited systems
+SUR,1.0,1,1.0,1,Suriname,adaptive over-performers
+SVK,1.0,1,1.0,1,Slovak Republic,capacity under-realizers
+SVN,1.0,1,0.92,2,Slovenia,capacity under-realizers
+SWE,1.0,1,1.0,1,Sweden,effective converters
+SYC,1.0,1,1.0,1,Seychelles,uncertain / data-limited systems
+THA,1.0,1,1.0,1,Thailand,uncertain / data-limited systems
+TJK,1.0,1,1.0,1,Tajikistan,adaptive over-performers
+TUN,0.8,2,0.8,2,Tunisia,structurally vulnerable systems
+TUR,1.0,1,1.0,1,Turkiye,uncertain / data-limited systems
+UKR,1.0,1,1.0,1,Ukraine,uncertain / data-limited systems
+URY,1.0,1,0.8,2,Uruguay,effective converters
+USA,1.0,1,1.0,1,United States,capacity under-realizers
+UZB,1.0,1,1.0,1,Uzbekistan,adaptive over-performers
+VCT,1.0,1,1.0,1,St. Vincent and the Grenadines,adaptive over-performers
+ZAF,1.0,1,1.0,1,South Africa,uncertain / data-limited systems

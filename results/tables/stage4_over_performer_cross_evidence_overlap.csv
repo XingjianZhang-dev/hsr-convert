@@ -1,0 +1,4 @@
+evidence_variant_a,evidence_variant_b,n,coverage_count,missing_count,missing_rate,top10_over_performer_overlap,overlap_iso3,source_provenance
+baseline_owid_excess_mortality,ghs_enhanced_owid,106,106,0,0.0,1.0,"ATG,BRB,DNK,DOM,JPN,LUX,MNG,NAM,SLV,VCT",baseline_owid_excess_mortality;ghs_enhanced_owid
+baseline_owid_excess_mortality,life_expectancy_loss,106,106,80,0.4301075268817204,0.2,"ATG,MNG",baseline_owid_excess_mortality;life_expectancy_loss
+ghs_enhanced_owid,life_expectancy_loss,106,106,80,0.4301075268817204,0.2,"ATG,MNG",ghs_enhanced_owid;life_expectancy_loss

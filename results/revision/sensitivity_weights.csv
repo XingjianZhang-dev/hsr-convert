@@ -1,0 +1,319 @@
+scheme,iso3,flip_rate,modal_profile,country,conversion_profile,modal_equals_baseline
+block_only_flat,ALB,0.386,structurally vulnerable systems,Albania,structurally vulnerable systems,True
+block_only_flat,AND,0.0,effective converters,Andorra,effective converters,True
+block_only_flat,ARE,0.22199999999999998,capacity under-realizers,United Arab Emirates,capacity under-realizers,True
+block_only_flat,ARG,0.33999999999999997,capacity under-realizers,Argentina,capacity under-realizers,True
+block_only_flat,ARM,0.0,uncertain / data-limited systems,Armenia,uncertain / data-limited systems,True
+block_only_flat,ATG,0.0,uncertain / data-limited systems,Antigua and Barbuda,uncertain / data-limited systems,True
+block_only_flat,AUS,0.0,effective converters,Australia,effective converters,True
+block_only_flat,AUT,0.18200000000000005,capacity under-realizers,Austria,capacity under-realizers,True
+block_only_flat,AZE,0.44999999999999996,adaptive over-performers,Azerbaijan,adaptive over-performers,True
+block_only_flat,BEL,0.06399999999999995,effective converters,Belgium,effective converters,True
+block_only_flat,BGR,0.0,uncertain / data-limited systems,Bulgaria,uncertain / data-limited systems,True
+block_only_flat,BHS,0.0,adaptive over-performers,"Bahamas, The",adaptive over-performers,True
+block_only_flat,BIH,0.45599999999999996,structurally vulnerable systems,Bosnia and Herzegovina,structurally vulnerable systems,True
+block_only_flat,BLR,0.21199999999999997,capacity under-realizers,Belarus,capacity under-realizers,True
+block_only_flat,BLZ,0.0,uncertain / data-limited systems,Belize,uncertain / data-limited systems,True
+block_only_flat,BOL,0.0,structurally vulnerable systems,Bolivia,structurally vulnerable systems,True
+block_only_flat,BRA,0.36,structurally vulnerable systems,Brazil,structurally vulnerable systems,True
+block_only_flat,BRB,0.008000000000000007,adaptive over-performers,Barbados,adaptive over-performers,True
+block_only_flat,BRN,0.0,uncertain / data-limited systems,Brunei Darussalam,uncertain / data-limited systems,True
+block_only_flat,BTN,0.0,uncertain / data-limited systems,Bhutan,uncertain / data-limited systems,True
+block_only_flat,CAN,0.124,effective converters,Canada,effective converters,True
+block_only_flat,CHE,0.20999999999999996,effective converters,Switzerland,effective converters,True
+block_only_flat,CHL,0.538,structurally vulnerable systems,Chile,capacity under-realizers,False
+block_only_flat,COL,0.44799999999999995,capacity under-realizers,Colombia,capacity under-realizers,True
+block_only_flat,CPV,0.0,adaptive over-performers,Cabo Verde,adaptive over-performers,True
+block_only_flat,CRI,0.0,uncertain / data-limited systems,Costa Rica,uncertain / data-limited systems,True
+block_only_flat,CYP,0.32599999999999996,adaptive over-performers,Cyprus,adaptive over-performers,True
+block_only_flat,CZE,0.0020000000000000018,capacity under-realizers,Czechia,capacity under-realizers,True
+block_only_flat,DEU,0.0,effective converters,Germany,effective converters,True
+block_only_flat,DNK,0.0,effective converters,Denmark,effective converters,True
+block_only_flat,DOM,0.0,adaptive over-performers,Dominican Republic,adaptive over-performers,True
+block_only_flat,DZA,0.22599999999999998,structurally vulnerable systems,Algeria,structurally vulnerable systems,True
+block_only_flat,ECU,0.346,structurally vulnerable systems,Ecuador,structurally vulnerable systems,True
+block_only_flat,EGY,0.052000000000000046,structurally vulnerable systems,"Egypt, Arab Rep.",structurally vulnerable systems,True
+block_only_flat,ESP,0.040000000000000036,capacity under-realizers,Spain,capacity under-realizers,True
+block_only_flat,EST,0.246,capacity under-realizers,Estonia,capacity under-realizers,True
+block_only_flat,FIN,0.0,effective converters,Finland,effective converters,True
+block_only_flat,FJI,0.236,adaptive over-performers,Fiji,adaptive over-performers,True
+block_only_flat,FRA,0.03400000000000003,effective converters,France,effective converters,True
+block_only_flat,GBR,0.0020000000000000018,capacity under-realizers,United Kingdom,capacity under-realizers,True
+block_only_flat,GEO,0.0,uncertain / data-limited systems,Georgia,uncertain / data-limited systems,True
+block_only_flat,GRC,0.0,uncertain / data-limited systems,Greece,uncertain / data-limited systems,True
+block_only_flat,GTM,0.0,adaptive over-performers,Guatemala,adaptive over-performers,True
+block_only_flat,HRV,0.06799999999999995,capacity under-realizers,Croatia,capacity under-realizers,True
+block_only_flat,HUN,0.24,capacity under-realizers,Hungary,capacity under-realizers,True
+block_only_flat,IRL,0.0,effective converters,Ireland,effective converters,True
+block_only_flat,IRN,0.498,structurally vulnerable systems,"Iran, Islamic Rep.",structurally vulnerable systems,True
+block_only_flat,ISL,0.04600000000000004,effective converters,Iceland,effective converters,True
+block_only_flat,ISR,0.0,effective converters,Israel,effective converters,True
+block_only_flat,ITA,0.17200000000000004,capacity under-realizers,Italy,capacity under-realizers,True
+block_only_flat,JAM,0.0,adaptive over-performers,Jamaica,adaptive over-performers,True
+block_only_flat,JOR,0.0,uncertain / data-limited systems,Jordan,uncertain / data-limited systems,True
+block_only_flat,JPN,0.01200000000000001,effective converters,Japan,effective converters,True
+block_only_flat,KAZ,0.43400000000000005,capacity under-realizers,Kazakhstan,capacity under-realizers,True
+block_only_flat,KGZ,0.0,adaptive over-performers,Kyrgyz Republic,adaptive over-performers,True
+block_only_flat,KNA,0.20799999999999996,structurally vulnerable systems,St. Kitts and Nevis,structurally vulnerable systems,True
+block_only_flat,KOR,0.378,effective converters,"Korea, Rep.",effective converters,True
+block_only_flat,KWT,0.15800000000000003,capacity under-realizers,Kuwait,capacity under-realizers,True
+block_only_flat,LBN,0.0,structurally vulnerable systems,Lebanon,structurally vulnerable systems,True
+block_only_flat,LTU,0.0,uncertain / data-limited systems,Lithuania,uncertain / data-limited systems,True
+block_only_flat,LUX,0.0,effective converters,Luxembourg,effective converters,True
+block_only_flat,LVA,0.0,uncertain / data-limited systems,Latvia,uncertain / data-limited systems,True
+block_only_flat,MDA,0.0,uncertain / data-limited systems,Moldova,uncertain / data-limited systems,True
+block_only_flat,MDV,0.0,capacity under-realizers,Maldives,capacity under-realizers,True
+block_only_flat,MEX,0.0,structurally vulnerable systems,Mexico,structurally vulnerable systems,True
+block_only_flat,MKD,0.35,structurally vulnerable systems,North Macedonia,structurally vulnerable systems,True
+block_only_flat,MLT,0.0,uncertain / data-limited systems,Malta,uncertain / data-limited systems,True
+block_only_flat,MNE,0.0,uncertain / data-limited systems,Montenegro,uncertain / data-limited systems,True
+block_only_flat,MNG,0.0,adaptive over-performers,Mongolia,adaptive over-performers,True
+block_only_flat,MUS,0.0,uncertain / data-limited systems,Mauritius,uncertain / data-limited systems,True
+block_only_flat,MYS,0.07599999999999996,adaptive over-performers,Malaysia,adaptive over-performers,True
+block_only_flat,NAM,0.0,adaptive over-performers,Namibia,adaptive over-performers,True
+block_only_flat,NIC,0.0,uncertain / data-limited systems,Nicaragua,uncertain / data-limited systems,True
+block_only_flat,NLD,0.11599999999999999,effective converters,Netherlands,effective converters,True
+block_only_flat,NOR,0.0,effective converters,Norway,effective converters,True
+block_only_flat,NZL,0.0020000000000000018,effective converters,New Zealand,effective converters,True
+block_only_flat,OMN,0.0,uncertain / data-limited systems,Oman,uncertain / data-limited systems,True
+block_only_flat,PAN,0.28,structurally vulnerable systems,Panama,structurally vulnerable systems,True
+block_only_flat,PER,0.01200000000000001,structurally vulnerable systems,Peru,structurally vulnerable systems,True
+block_only_flat,PHL,0.23199999999999998,adaptive over-performers,Philippines,adaptive over-performers,True
+block_only_flat,POL,0.09399999999999997,capacity under-realizers,Poland,capacity under-realizers,True
+block_only_flat,PRT,0.16200000000000003,capacity under-realizers,Portugal,capacity under-realizers,True
+block_only_flat,PRY,0.08599999999999997,structurally vulnerable systems,Paraguay,structurally vulnerable systems,True
+block_only_flat,PSE,0.24,adaptive over-performers,West Bank and Gaza,adaptive over-performers,True
+block_only_flat,QAT,0.26,capacity under-realizers,Qatar,capacity under-realizers,True
+block_only_flat,ROU,0.45999999999999996,capacity under-realizers,Romania,capacity under-realizers,True
+block_only_flat,RUS,0.0,uncertain / data-limited systems,Russian Federation,uncertain / data-limited systems,True
+block_only_flat,SGP,0.0,uncertain / data-limited systems,Singapore,uncertain / data-limited systems,True
+block_only_flat,SLV,0.0,adaptive over-performers,El Salvador,adaptive over-performers,True
+block_only_flat,SMR,0.0,uncertain / data-limited systems,San Marino,uncertain / data-limited systems,True
+block_only_flat,SRB,0.0,uncertain / data-limited systems,Serbia,uncertain / data-limited systems,True
+block_only_flat,SUR,0.10599999999999998,adaptive over-performers,Suriname,adaptive over-performers,True
+block_only_flat,SVK,0.0,capacity under-realizers,Slovak Republic,capacity under-realizers,True
+block_only_flat,SVN,0.0,capacity under-realizers,Slovenia,capacity under-realizers,True
+block_only_flat,SWE,0.0,effective converters,Sweden,effective converters,True
+block_only_flat,SYC,0.0,uncertain / data-limited systems,Seychelles,uncertain / data-limited systems,True
+block_only_flat,THA,0.0,uncertain / data-limited systems,Thailand,uncertain / data-limited systems,True
+block_only_flat,TJK,0.008000000000000007,adaptive over-performers,Tajikistan,adaptive over-performers,True
+block_only_flat,TUN,0.512,capacity under-realizers,Tunisia,structurally vulnerable systems,False
+block_only_flat,TUR,0.0,uncertain / data-limited systems,Turkiye,uncertain / data-limited systems,True
+block_only_flat,UKR,0.0,uncertain / data-limited systems,Ukraine,uncertain / data-limited systems,True
+block_only_flat,URY,0.10799999999999998,effective converters,Uruguay,effective converters,True
+block_only_flat,USA,0.22799999999999998,capacity under-realizers,United States,capacity under-realizers,True
+block_only_flat,UZB,0.18400000000000005,adaptive over-performers,Uzbekistan,adaptive over-performers,True
+block_only_flat,VCT,0.33199999999999996,adaptive over-performers,St. Vincent and the Grenadines,adaptive over-performers,True
+block_only_flat,ZAF,0.0,uncertain / data-limited systems,South Africa,uncertain / data-limited systems,True
+dirichlet_flat,ALB,0.30600000000000005,structurally vulnerable systems,Albania,structurally vulnerable systems,True
+dirichlet_flat,AND,0.030000000000000027,effective converters,Andorra,effective converters,True
+dirichlet_flat,ARE,0.242,capacity under-realizers,United Arab Emirates,capacity under-realizers,True
+dirichlet_flat,ARG,0.256,capacity under-realizers,Argentina,capacity under-realizers,True
+dirichlet_flat,ARM,0.0,uncertain / data-limited systems,Armenia,uncertain / data-limited systems,True
+dirichlet_flat,ATG,0.0,uncertain / data-limited systems,Antigua and Barbuda,uncertain / data-limited systems,True
+dirichlet_flat,AUS,0.010000000000000009,effective converters,Australia,effective converters,True
+dirichlet_flat,AUT,0.06399999999999995,capacity under-realizers,Austria,capacity under-realizers,True
+dirichlet_flat,AZE,0.256,adaptive over-performers,Azerbaijan,adaptive over-performers,True
+dirichlet_flat,BEL,0.06399999999999995,effective converters,Belgium,effective converters,True
+dirichlet_flat,BGR,0.0,uncertain / data-limited systems,Bulgaria,uncertain / data-limited systems,True
+dirichlet_flat,BHS,0.18400000000000005,adaptive over-performers,"Bahamas, The",adaptive over-performers,True
+dirichlet_flat,BIH,0.31599999999999995,structurally vulnerable systems,Bosnia and Herzegovina,structurally vulnerable systems,True
+dirichlet_flat,BLR,0.15800000000000003,capacity under-realizers,Belarus,capacity under-realizers,True
+dirichlet_flat,BLZ,0.0,uncertain / data-limited systems,Belize,uncertain / data-limited systems,True
+dirichlet_flat,BOL,0.0040000000000000036,structurally vulnerable systems,Bolivia,structurally vulnerable systems,True
+dirichlet_flat,BRA,0.382,structurally vulnerable systems,Brazil,structurally vulnerable systems,True
+dirichlet_flat,BRB,0.118,adaptive over-performers,Barbados,adaptive over-performers,True
+dirichlet_flat,BRN,0.0,uncertain / data-limited systems,Brunei Darussalam,uncertain / data-limited systems,True
+dirichlet_flat,BTN,0.0,uncertain / data-limited systems,Bhutan,uncertain / data-limited systems,True
+dirichlet_flat,CAN,0.06999999999999995,effective converters,Canada,effective converters,True
+dirichlet_flat,CHE,0.10399999999999998,effective converters,Switzerland,effective converters,True
+dirichlet_flat,CHL,0.518,structurally vulnerable systems,Chile,capacity under-realizers,False
+dirichlet_flat,COL,0.384,capacity under-realizers,Colombia,capacity under-realizers,True
+dirichlet_flat,CPV,0.04400000000000004,adaptive over-performers,Cabo Verde,adaptive over-performers,True
+dirichlet_flat,CRI,0.0,uncertain / data-limited systems,Costa Rica,uncertain / data-limited systems,True
+dirichlet_flat,CYP,0.4,adaptive over-performers,Cyprus,adaptive over-performers,True
+dirichlet_flat,CZE,0.01200000000000001,capacity under-realizers,Czechia,capacity under-realizers,True
+dirichlet_flat,DEU,0.016000000000000014,effective converters,Germany,effective converters,True
+dirichlet_flat,DNK,0.020000000000000018,effective converters,Denmark,effective converters,True
+dirichlet_flat,DOM,0.006000000000000005,adaptive over-performers,Dominican Republic,adaptive over-performers,True
+dirichlet_flat,DZA,0.622,adaptive over-performers,Algeria,structurally vulnerable systems,False
+dirichlet_flat,ECU,0.21999999999999997,structurally vulnerable systems,Ecuador,structurally vulnerable systems,True
+dirichlet_flat,EGY,0.19399999999999995,structurally vulnerable systems,"Egypt, Arab Rep.",structurally vulnerable systems,True
+dirichlet_flat,ESP,0.040000000000000036,capacity under-realizers,Spain,capacity under-realizers,True
+dirichlet_flat,EST,0.21799999999999997,capacity under-realizers,Estonia,capacity under-realizers,True
+dirichlet_flat,FIN,0.02400000000000002,effective converters,Finland,effective converters,True
+dirichlet_flat,FJI,0.09999999999999998,adaptive over-performers,Fiji,adaptive over-performers,True
+dirichlet_flat,FRA,0.020000000000000018,effective converters,France,effective converters,True
+dirichlet_flat,GBR,0.04600000000000004,capacity under-realizers,United Kingdom,capacity under-realizers,True
+dirichlet_flat,GEO,0.0,uncertain / data-limited systems,Georgia,uncertain / data-limited systems,True
+dirichlet_flat,GRC,0.0,uncertain / data-limited systems,Greece,uncertain / data-limited systems,True
+dirichlet_flat,GTM,0.02400000000000002,adaptive over-performers,Guatemala,adaptive over-performers,True
+dirichlet_flat,HRV,0.052000000000000046,capacity under-realizers,Croatia,capacity under-realizers,True
+dirichlet_flat,HUN,0.15200000000000002,capacity under-realizers,Hungary,capacity under-realizers,True
+dirichlet_flat,IRL,0.06799999999999995,effective converters,Ireland,effective converters,True
+dirichlet_flat,IRN,0.518,structurally vulnerable systems,"Iran, Islamic Rep.",structurally vulnerable systems,True
+dirichlet_flat,ISL,0.020000000000000018,effective converters,Iceland,effective converters,True
+dirichlet_flat,ISR,0.384,effective converters,Israel,effective converters,True
+dirichlet_flat,ITA,0.11199999999999999,capacity under-realizers,Italy,capacity under-realizers,True
+dirichlet_flat,JAM,0.04200000000000004,adaptive over-performers,Jamaica,adaptive over-performers,True
+dirichlet_flat,JOR,0.0,uncertain / data-limited systems,Jordan,uncertain / data-limited systems,True
+dirichlet_flat,JPN,0.014000000000000012,effective converters,Japan,effective converters,True
+dirichlet_flat,KAZ,0.43600000000000005,capacity under-realizers,Kazakhstan,capacity under-realizers,True
+dirichlet_flat,KGZ,0.10999999999999999,adaptive over-performers,Kyrgyz Republic,adaptive over-performers,True
+dirichlet_flat,KNA,0.20799999999999996,structurally vulnerable systems,St. Kitts and Nevis,structurally vulnerable systems,True
+dirichlet_flat,KOR,0.382,effective converters,"Korea, Rep.",effective converters,True
+dirichlet_flat,KWT,0.23399999999999999,capacity under-realizers,Kuwait,capacity under-realizers,True
+dirichlet_flat,LBN,0.062000000000000055,structurally vulnerable systems,Lebanon,structurally vulnerable systems,True
+dirichlet_flat,LTU,0.0,uncertain / data-limited systems,Lithuania,uncertain / data-limited systems,True
+dirichlet_flat,LUX,0.0040000000000000036,effective converters,Luxembourg,effective converters,True
+dirichlet_flat,LVA,0.0,uncertain / data-limited systems,Latvia,uncertain / data-limited systems,True
+dirichlet_flat,MDA,0.0,uncertain / data-limited systems,Moldova,uncertain / data-limited systems,True
+dirichlet_flat,MDV,0.07199999999999995,capacity under-realizers,Maldives,capacity under-realizers,True
+dirichlet_flat,MEX,0.016000000000000014,structurally vulnerable systems,Mexico,structurally vulnerable systems,True
+dirichlet_flat,MKD,0.382,structurally vulnerable systems,North Macedonia,structurally vulnerable systems,True
+dirichlet_flat,MLT,0.0,uncertain / data-limited systems,Malta,uncertain / data-limited systems,True
+dirichlet_flat,MNE,0.0,uncertain / data-limited systems,Montenegro,uncertain / data-limited systems,True
+dirichlet_flat,MNG,0.08799999999999997,adaptive over-performers,Mongolia,adaptive over-performers,True
+dirichlet_flat,MUS,0.0,uncertain / data-limited systems,Mauritius,uncertain / data-limited systems,True
+dirichlet_flat,MYS,0.09799999999999998,adaptive over-performers,Malaysia,adaptive over-performers,True
+dirichlet_flat,NAM,0.006000000000000005,adaptive over-performers,Namibia,adaptive over-performers,True
+dirichlet_flat,NIC,0.0,uncertain / data-limited systems,Nicaragua,uncertain / data-limited systems,True
+dirichlet_flat,NLD,0.08599999999999997,effective converters,Netherlands,effective converters,True
+dirichlet_flat,NOR,0.008000000000000007,effective converters,Norway,effective converters,True
+dirichlet_flat,NZL,0.008000000000000007,effective converters,New Zealand,effective converters,True
+dirichlet_flat,OMN,0.0,uncertain / data-limited systems,Oman,uncertain / data-limited systems,True
+dirichlet_flat,PAN,0.406,structurally vulnerable systems,Panama,structurally vulnerable systems,True
+dirichlet_flat,PER,0.020000000000000018,structurally vulnerable systems,Peru,structurally vulnerable systems,True
+dirichlet_flat,PHL,0.42000000000000004,adaptive over-performers,Philippines,adaptive over-performers,True
+dirichlet_flat,POL,0.07399999999999995,capacity under-realizers,Poland,capacity under-realizers,True
+dirichlet_flat,PRT,0.07799999999999996,capacity under-realizers,Portugal,capacity under-realizers,True
+dirichlet_flat,PRY,0.02200000000000002,structurally vulnerable systems,Paraguay,structurally vulnerable systems,True
+dirichlet_flat,PSE,0.248,adaptive over-performers,West Bank and Gaza,adaptive over-performers,True
+dirichlet_flat,QAT,0.28800000000000003,capacity under-realizers,Qatar,capacity under-realizers,True
+dirichlet_flat,ROU,0.494,capacity under-realizers,Romania,capacity under-realizers,True
+dirichlet_flat,RUS,0.0,uncertain / data-limited systems,Russian Federation,uncertain / data-limited systems,True
+dirichlet_flat,SGP,0.0,uncertain / data-limited systems,Singapore,uncertain / data-limited systems,True
+dirichlet_flat,SLV,0.07999999999999996,adaptive over-performers,El Salvador,adaptive over-performers,True
+dirichlet_flat,SMR,0.0,uncertain / data-limited systems,San Marino,uncertain / data-limited systems,True
+dirichlet_flat,SRB,0.0,uncertain / data-limited systems,Serbia,uncertain / data-limited systems,True
+dirichlet_flat,SUR,0.030000000000000027,adaptive over-performers,Suriname,adaptive over-performers,True
+dirichlet_flat,SVK,0.006000000000000005,capacity under-realizers,Slovak Republic,capacity under-realizers,True
+dirichlet_flat,SVN,0.0020000000000000018,capacity under-realizers,Slovenia,capacity under-realizers,True
+dirichlet_flat,SWE,0.01200000000000001,effective converters,Sweden,effective converters,True
+dirichlet_flat,SYC,0.0,uncertain / data-limited systems,Seychelles,uncertain / data-limited systems,True
+dirichlet_flat,THA,0.0,uncertain / data-limited systems,Thailand,uncertain / data-limited systems,True
+dirichlet_flat,TJK,0.09399999999999997,adaptive over-performers,Tajikistan,adaptive over-performers,True
+dirichlet_flat,TUN,0.30800000000000005,structurally vulnerable systems,Tunisia,structurally vulnerable systems,True
+dirichlet_flat,TUR,0.0,uncertain / data-limited systems,Turkiye,uncertain / data-limited systems,True
+dirichlet_flat,UKR,0.0,uncertain / data-limited systems,Ukraine,uncertain / data-limited systems,True
+dirichlet_flat,URY,0.07599999999999996,effective converters,Uruguay,effective converters,True
+dirichlet_flat,USA,0.10999999999999999,capacity under-realizers,United States,capacity under-realizers,True
+dirichlet_flat,UZB,0.22999999999999998,adaptive over-performers,Uzbekistan,adaptive over-performers,True
+dirichlet_flat,VCT,0.242,adaptive over-performers,St. Vincent and the Grenadines,adaptive over-performers,True
+dirichlet_flat,ZAF,0.0,uncertain / data-limited systems,South Africa,uncertain / data-limited systems,True
+dirichlet_moderate,ALB,0.12,structurally vulnerable systems,Albania,structurally vulnerable systems,True
+dirichlet_moderate,AND,0.0,effective converters,Andorra,effective converters,True
+dirichlet_moderate,ARE,0.07399999999999995,capacity under-realizers,United Arab Emirates,capacity under-realizers,True
+dirichlet_moderate,ARG,0.052000000000000046,capacity under-realizers,Argentina,capacity under-realizers,True
+dirichlet_moderate,ARM,0.0,uncertain / data-limited systems,Armenia,uncertain / data-limited systems,True
+dirichlet_moderate,ATG,0.0,uncertain / data-limited systems,Antigua and Barbuda,uncertain / data-limited systems,True
+dirichlet_moderate,AUS,0.0,effective converters,Australia,effective converters,True
+dirichlet_moderate,AUT,0.008000000000000007,capacity under-realizers,Austria,capacity under-realizers,True
+dirichlet_moderate,AZE,0.06399999999999995,adaptive over-performers,Azerbaijan,adaptive over-performers,True
+dirichlet_moderate,BEL,0.008000000000000007,effective converters,Belgium,effective converters,True
+dirichlet_moderate,BGR,0.0,uncertain / data-limited systems,Bulgaria,uncertain / data-limited systems,True
+dirichlet_moderate,BHS,0.04800000000000004,adaptive over-performers,"Bahamas, The",adaptive over-performers,True
+dirichlet_moderate,BIH,0.128,structurally vulnerable systems,Bosnia and Herzegovina,structurally vulnerable systems,True
+dirichlet_moderate,BLR,0.03200000000000003,capacity under-realizers,Belarus,capacity under-realizers,True
+dirichlet_moderate,BLZ,0.0,uncertain / data-limited systems,Belize,uncertain / data-limited systems,True
+dirichlet_moderate,BOL,0.0,structurally vulnerable systems,Bolivia,structurally vulnerable systems,True
+dirichlet_moderate,BRA,0.31799999999999995,structurally vulnerable systems,Brazil,structurally vulnerable systems,True
+dirichlet_moderate,BRB,0.028000000000000025,adaptive over-performers,Barbados,adaptive over-performers,True
+dirichlet_moderate,BRN,0.0,uncertain / data-limited systems,Brunei Darussalam,uncertain / data-limited systems,True
+dirichlet_moderate,BTN,0.0,uncertain / data-limited systems,Bhutan,uncertain / data-limited systems,True
+dirichlet_moderate,CAN,0.006000000000000005,effective converters,Canada,effective converters,True
+dirichlet_moderate,CHE,0.018000000000000016,effective converters,Switzerland,effective converters,True
+dirichlet_moderate,CHL,0.486,capacity under-realizers,Chile,capacity under-realizers,True
+dirichlet_moderate,COL,0.254,capacity under-realizers,Colombia,capacity under-realizers,True
+dirichlet_moderate,CPV,0.006000000000000005,adaptive over-performers,Cabo Verde,adaptive over-performers,True
+dirichlet_moderate,CRI,0.0,uncertain / data-limited systems,Costa Rica,uncertain / data-limited systems,True
+dirichlet_moderate,CYP,0.33799999999999997,adaptive over-performers,Cyprus,adaptive over-performers,True
+dirichlet_moderate,CZE,0.0,capacity under-realizers,Czechia,capacity under-realizers,True
+dirichlet_moderate,DEU,0.0020000000000000018,effective converters,Germany,effective converters,True
+dirichlet_moderate,DNK,0.0,effective converters,Denmark,effective converters,True
+dirichlet_moderate,DOM,0.0,adaptive over-performers,Dominican Republic,adaptive over-performers,True
+dirichlet_moderate,DZA,0.518,adaptive over-performers,Algeria,structurally vulnerable systems,False
+dirichlet_moderate,ECU,0.06599999999999995,structurally vulnerable systems,Ecuador,structurally vulnerable systems,True
+dirichlet_moderate,EGY,0.138,structurally vulnerable systems,"Egypt, Arab Rep.",structurally vulnerable systems,True
+dirichlet_moderate,ESP,0.006000000000000005,capacity under-realizers,Spain,capacity under-realizers,True
+dirichlet_moderate,EST,0.05800000000000005,capacity under-realizers,Estonia,capacity under-realizers,True
+dirichlet_moderate,FIN,0.0040000000000000036,effective converters,Finland,effective converters,True
+dirichlet_moderate,FJI,0.02400000000000002,adaptive over-performers,Fiji,adaptive over-performers,True
+dirichlet_moderate,FRA,0.0,effective converters,France,effective converters,True
+dirichlet_moderate,GBR,0.006000000000000005,capacity under-realizers,United Kingdom,capacity under-realizers,True
+dirichlet_moderate,GEO,0.0,uncertain / data-limited systems,Georgia,uncertain / data-limited systems,True
+dirichlet_moderate,GRC,0.0,uncertain / data-limited systems,Greece,uncertain / data-limited systems,True
+dirichlet_moderate,GTM,0.0,adaptive over-performers,Guatemala,adaptive over-performers,True
+dirichlet_moderate,HRV,0.006000000000000005,capacity under-realizers,Croatia,capacity under-realizers,True
+dirichlet_moderate,HUN,0.030000000000000027,capacity under-realizers,Hungary,capacity under-realizers,True
+dirichlet_moderate,IRL,0.03400000000000003,effective converters,Ireland,effective converters,True
+dirichlet_moderate,IRN,0.19999999999999996,structurally vulnerable systems,"Iran, Islamic Rep.",structurally vulnerable systems,True
+dirichlet_moderate,ISL,0.0,effective converters,Iceland,effective converters,True
+dirichlet_moderate,ISR,0.30600000000000005,effective converters,Israel,effective converters,True
+dirichlet_moderate,ITA,0.02200000000000002,capacity under-realizers,Italy,capacity under-realizers,True
+dirichlet_moderate,JAM,0.0040000000000000036,adaptive over-performers,Jamaica,adaptive over-performers,True
+dirichlet_moderate,JOR,0.0,uncertain / data-limited systems,Jordan,uncertain / data-limited systems,True
+dirichlet_moderate,JPN,0.0,effective converters,Japan,effective converters,True
+dirichlet_moderate,KAZ,0.31399999999999995,capacity under-realizers,Kazakhstan,capacity under-realizers,True
+dirichlet_moderate,KGZ,0.03400000000000003,adaptive over-performers,Kyrgyz Republic,adaptive over-performers,True
+dirichlet_moderate,KNA,0.07599999999999996,structurally vulnerable systems,St. Kitts and Nevis,structurally vulnerable systems,True
+dirichlet_moderate,KOR,0.19999999999999996,effective converters,"Korea, Rep.",effective converters,True
+dirichlet_moderate,KWT,0.06799999999999995,capacity under-realizers,Kuwait,capacity under-realizers,True
+dirichlet_moderate,LBN,0.014000000000000012,structurally vulnerable systems,Lebanon,structurally vulnerable systems,True
+dirichlet_moderate,LTU,0.0,uncertain / data-limited systems,Lithuania,uncertain / data-limited systems,True
+dirichlet_moderate,LUX,0.0,effective converters,Luxembourg,effective converters,True
+dirichlet_moderate,LVA,0.0,uncertain / data-limited systems,Latvia,uncertain / data-limited systems,True
+dirichlet_moderate,MDA,0.0,uncertain / data-limited systems,Moldova,uncertain / data-limited systems,True
+dirichlet_moderate,MDV,0.0020000000000000018,capacity under-realizers,Maldives,capacity under-realizers,True
+dirichlet_moderate,MEX,0.0020000000000000018,structurally vulnerable systems,Mexico,structurally vulnerable systems,True
+dirichlet_moderate,MKD,0.276,structurally vulnerable systems,North Macedonia,structurally vulnerable systems,True
+dirichlet_moderate,MLT,0.0,uncertain / data-limited systems,Malta,uncertain / data-limited systems,True
+dirichlet_moderate,MNE,0.0,uncertain / data-limited systems,Montenegro,uncertain / data-limited systems,True
+dirichlet_moderate,MNG,0.0040000000000000036,adaptive over-performers,Mongolia,adaptive over-performers,True
+dirichlet_moderate,MUS,0.0,uncertain / data-limited systems,Mauritius,uncertain / data-limited systems,True
+dirichlet_moderate,MYS,0.008000000000000007,adaptive over-performers,Malaysia,adaptive over-performers,True
+dirichlet_moderate,NAM,0.0,adaptive over-performers,Namibia,adaptive over-performers,True
+dirichlet_moderate,NIC,0.0,uncertain / data-limited systems,Nicaragua,uncertain / data-limited systems,True
+dirichlet_moderate,NLD,0.010000000000000009,effective converters,Netherlands,effective converters,True
+dirichlet_moderate,NOR,0.0020000000000000018,effective converters,Norway,effective converters,True
+dirichlet_moderate,NZL,0.0,effective converters,New Zealand,effective converters,True
+dirichlet_moderate,OMN,0.0,uncertain / data-limited systems,Oman,uncertain / data-limited systems,True
+dirichlet_moderate,PAN,0.274,structurally vulnerable systems,Panama,structurally vulnerable systems,True
+dirichlet_moderate,PER,0.0020000000000000018,structurally vulnerable systems,Peru,structurally vulnerable systems,True
+dirichlet_moderate,PHL,0.04600000000000004,adaptive over-performers,Philippines,adaptive over-performers,True
+dirichlet_moderate,POL,0.01200000000000001,capacity under-realizers,Poland,capacity under-realizers,True
+dirichlet_moderate,PRT,0.016000000000000014,capacity under-realizers,Portugal,capacity under-realizers,True
+dirichlet_moderate,PRY,0.0020000000000000018,structurally vulnerable systems,Paraguay,structurally vulnerable systems,True
+dirichlet_moderate,PSE,0.09999999999999998,adaptive over-performers,West Bank and Gaza,adaptive over-performers,True
+dirichlet_moderate,QAT,0.09599999999999997,capacity under-realizers,Qatar,capacity under-realizers,True
+dirichlet_moderate,ROU,0.41800000000000004,capacity under-realizers,Romania,capacity under-realizers,True
+dirichlet_moderate,RUS,0.0,uncertain / data-limited systems,Russian Federation,uncertain / data-limited systems,True
+dirichlet_moderate,SGP,0.0,uncertain / data-limited systems,Singapore,uncertain / data-limited systems,True
+dirichlet_moderate,SLV,0.014000000000000012,adaptive over-performers,El Salvador,adaptive over-performers,True
+dirichlet_moderate,SMR,0.0,uncertain / data-limited systems,San Marino,uncertain / data-limited systems,True
+dirichlet_moderate,SRB,0.0,uncertain / data-limited systems,Serbia,uncertain / data-limited systems,True
+dirichlet_moderate,SUR,0.0,adaptive over-performers,Suriname,adaptive over-performers,True
+dirichlet_moderate,SVK,0.0,capacity under-realizers,Slovak Republic,capacity under-realizers,True
+dirichlet_moderate,SVN,0.0,capacity under-realizers,Slovenia,capacity under-realizers,True
+dirichlet_moderate,SWE,0.0,effective converters,Sweden,effective converters,True
+dirichlet_moderate,SYC,0.0,uncertain / data-limited systems,Seychelles,uncertain / data-limited systems,True
+dirichlet_moderate,THA,0.0,uncertain / data-limited systems,Thailand,uncertain / data-limited systems,True
+dirichlet_moderate,TJK,0.020000000000000018,adaptive over-performers,Tajikistan,adaptive over-performers,True
+dirichlet_moderate,TUN,0.15400000000000003,structurally vulnerable systems,Tunisia,structurally vulnerable systems,True
+dirichlet_moderate,TUR,0.0,uncertain / data-limited systems,Turkiye,uncertain / data-limited systems,True
+dirichlet_moderate,UKR,0.0,uncertain / data-limited systems,Ukraine,uncertain / data-limited systems,True
+dirichlet_moderate,URY,0.0020000000000000018,effective converters,Uruguay,effective converters,True
+dirichlet_moderate,USA,0.01200000000000001,capacity under-realizers,United States,capacity under-realizers,True
+dirichlet_moderate,UZB,0.14800000000000002,adaptive over-performers,Uzbekistan,adaptive over-performers,True
+dirichlet_moderate,VCT,0.09799999999999998,adaptive over-performers,St. Vincent and the Grenadines,adaptive over-performers,True
+dirichlet_moderate,ZAF,0.0,uncertain / data-limited systems,South Africa,uncertain / data-limited systems,True

@@ -1,0 +1,37 @@
+iso3,country,conversion_profile,potential_capacity_score,observed_shock_burden,conversion_efficiency_zscore,baseline_score,baseline,baseline_rank,efficiency_rank,rank_gap_efficiency_minus_baseline,abs_rank_gap,country_label_category
+NAM,Namibia,adaptive over-performers,0.4386367228883814,1225.8562,1.6115552910680526,0.4386367228883814,capacity_only,106,3,-103,103,evidence-dependent label
+DOM,Dominican Republic,adaptive over-performers,0.5691724008936305,907.20123,1.5073829326411707,0.5691724008936305,capacity_only,101,4,-97,97,stable over-performer
+MNG,Mongolia,adaptive over-performers,0.6032546228987976,211.21863,2.432192655157404,0.6032546228987976,capacity_only,96,1,-95,95,evidence-dependent label
+UKR,Ukraine,uncertain / data-limited systems,0.5714051748848457,4533.1055,1.0824306028338924,0.5714051748848457,capacity_only,100,14,-86,86,data-limited
+USA,United States,capacity under-realizers,0.8057357451635478,3758.817,-1.2162711675864122,0.8057357451635478,capacity_only,14,94,80,80,stable under-realizer
+SLV,El Salvador,adaptive over-performers,0.6480007768591318,753.09076,1.620492975314234,0.6480007768591318,capacity_only,80,2,-78,78,evidence-dependent label
+FJI,Fiji,adaptive over-performers,0.6178667108182544,2112.3386,0.9963822847207642,0.6178667108182544,capacity_only,93,17,-76,76,evidence-dependent label
+BLR,Belarus,capacity under-realizers,0.751985191892442,9591.885,-2.934826273506603,0.751985191892442,capacity_only,30,105,75,75,stable under-realizer
+SVK,Slovak Republic,capacity under-realizers,0.7754658787366955,5343.659,-1.403125347198939,0.7754658787366955,capacity_only,24,97,73,73,stable under-realizer
+CPV,Cabo Verde,adaptive over-performers,0.6056459361798809,1312.6262,0.7253228043293579,0.6056459361798809,capacity_only,95,23,-72,72,evidence-dependent label
+BTN,Bhutan,uncertain / data-limited systems,0.6260503846584147,302.12527,0.9503579149734344,0.6260503846584147,capacity_only,89,18,-71,71,data-limited
+CZE,Czechia,capacity under-realizers,0.8097716791500749,4400.776,-0.6262960857776176,0.8097716791500749,capacity_only,13,82,69,69,stable under-realizer
+USA,United States,capacity under-realizers,0.8057357451635478,3758.817,-1.2162711675864122,76.2,ghs_2019_overall,1,93,92,92,stable under-realizer
+NAM,Namibia,adaptive over-performers,0.4386367228883814,1225.8562,1.6115552910680526,30.9,ghs_2019_overall,94,3,-91,91,evidence-dependent label
+ATG,Antigua and Barbuda,uncertain / data-limited systems,0.7115913123640994,-654.30273,1.1536533611423352,30.2,ghs_2019_overall,100,10,-90,90,data-limited
+BGR,Bulgaria,uncertain / data-limited systems,0.6854375852916174,10165.963,-2.9737986660169526,61.4,ghs_2019_overall,16,105,89,89,data-limited
+FJI,Fiji,adaptive over-performers,0.6178667108182544,2112.3386,0.9963822847207642,25.4,ghs_2019_overall,105,17,-88,88,evidence-dependent label
+ARM,Armenia,uncertain / data-limited systems,0.6346016951006593,8041.9443,-1.948283078005972,63.2,ghs_2019_overall,13,100,87,87,data-limited
+TJK,Tajikistan,adaptive over-performers,0.6357559129066745,1522.2467,0.8731159431863904,29.8,ghs_2019_overall,102,20,-82,82,evidence-dependent label
+VCT,St. Vincent and the Grenadines,adaptive over-performers,0.6701417723839488,1232.5092,1.4192387944136184,32.7,ghs_2019_overall,87,6,-81,81,evidence-dependent label
+BRB,Barbados,adaptive over-performers,0.6579409859020005,1115.5847,1.153939279448213,32.2,ghs_2019_overall,89,9,-80,80,evidence-dependent label
+DOM,Dominican Republic,adaptive over-performers,0.5691724008936305,907.20123,1.5073829326411707,35.8,ghs_2019_overall,82,4,-78,78,stable over-performer
+BLZ,Belize,uncertain / data-limited systems,0.6459885184203296,1799.2277,0.6737376894803904,30.2,ghs_2019_overall,100,25,-75,75,data-limited
+JAM,Jamaica,adaptive over-performers,0.6236573755955415,2040.6863,0.6781550515502107,30.9,ghs_2019_overall,94,24,-70,70,evidence-dependent label
+UKR,Ukraine,uncertain / data-limited systems,0.5714051748848457,4533.1055,1.0824306028338924,-4533.1055,outcome_only,86,14,-72,72,data-limited
+ARE,United Arab Emirates,capacity under-realizers,0.7371535222427504,607.97754,-0.5549371955598688,-607.97754,outcome_only,8,79,71,71,stable under-realizer
+QAT,Qatar,capacity under-realizers,0.746674096402051,519.23267,-0.4525986143987932,-519.23267,outcome_only,7,75,68,68,stable under-realizer
+MDV,Maldives,capacity under-realizers,0.7861726319518041,1109.1743,-0.67968481209664,-1109.1743,outcome_only,18,84,66,66,evidence-dependent label
+SGP,Singapore,uncertain / data-limited systems,0.6846585060982541,972.30634,-0.4875587587834289,-972.30634,outcome_only,16,78,62,62,data-limited
+BRN,Brunei Darussalam,uncertain / data-limited systems,0.7283637268047207,1141.6431,-0.5677898989411297,-1141.6431,outcome_only,21,81,60,60,data-limited
+KWT,Kuwait,capacity under-realizers,0.7367604750619614,1601.9636,-0.7687710647710952,-1601.9636,outcome_only,37,86,49,49,stable under-realizer
+OMN,Oman,uncertain / data-limited systems,0.7351618152881761,958.591,0.0141798561969248,-958.591,outcome_only,15,59,44,44,data-limited
+EST,Estonia,capacity under-realizers,0.7282265704440525,3296.8997,0.6283931730001282,-3296.8997,outcome_only,69,29,-40,40,stable under-realizer
+JOR,Jordan,uncertain / data-limited systems,0.6757023078644859,1475.2865,-0.1794080091690193,-1475.2865,outcome_only,32,69,37,37,data-limited
+SUR,Suriname,adaptive over-performers,0.5820331620334881,3481.618,0.4706846741780459,-3481.618,outcome_only,70,37,-33,33,stable over-performer
+FIN,Finland,effective converters,0.8177702742189719,1876.0293,1.095261278939026,-1876.0293,outcome_only,43,11,-32,32,stable effective converter

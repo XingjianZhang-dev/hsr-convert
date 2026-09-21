@@ -1,0 +1,6 @@
+stability_source,comparison,n,coverage_count,missing_count,missing_rate,profile_overlap_rate,note
+outcome_window,2020_end_vs_2020_2022,106,106,0,0.0,,Outcome-window conversion recomputation is approximated by the Stage 2 outcome-window score audit unless an alternate outcome file is added.
+outcome_window,2021_end_vs_2020_2022,106,106,0,0.0,,Outcome-window conversion recomputation is approximated by the Stage 2 outcome-window score audit unless an alternate outcome file is added.
+outcome_window,2022_end_vs_2020_2022,106,106,0,0.0,1.0,Outcome-window conversion recomputation is approximated by the Stage 2 outcome-window score audit unless an alternate outcome file is added.
+outcome_window,2020_2021_vs_2020_2022,106,106,0,0.0,,Outcome-window conversion recomputation is approximated by the Stage 2 outcome-window score audit unless an alternate outcome file is added.
+outcome_window,2020_2022_vs_2020_2022,106,106,0,0.0,1.0,Outcome-window conversion recomputation is approximated by the Stage 2 outcome-window score audit unless an alternate outcome file is added.

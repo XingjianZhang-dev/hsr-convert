@@ -1,0 +1,4 @@
+comparison,score_column,n,coverage_count,missing_count,missing_rate,spearman_with_shock_burden
+World Bank preparedness proxies only,preparedness_score,108,108,0,0.0,-0.2808215915478197
+GHS 2019 only,ghs_only_preparedness_score,107,107,1,0.0092592592592593,0.05536942338211955
+World Bank proxies + GHS 2019,preparedness_proxy_plus_ghs_score,108,108,0,0.0,-0.07806262920727466

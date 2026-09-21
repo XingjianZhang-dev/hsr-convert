@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,variable
+Africa Eastern and Southern,AFE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,5.03125994904424,hiv_prevalence
+Africa Eastern and Southern,AFE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,5.16868738905315,hiv_prevalence
+Africa Eastern and Southern,AFE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,5.27403926006284,hiv_prevalence
+Africa Eastern and Southern,AFE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,5.41344977118105,hiv_prevalence
+Africa Eastern and Southern,AFE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,5.50777587182294,hiv_prevalence
+Africa Western and Central,AFW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.51337040568289,hiv_prevalence
+Africa Western and Central,AFW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.59197281203582,hiv_prevalence
+Africa Western and Central,AFW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.62538874873712,hiv_prevalence
+Africa Western and Central,AFW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.71261315638599,hiv_prevalence
+Africa Western and Central,AFW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.74989135624608,hiv_prevalence
+Arab World,ARB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.103986063180822,hiv_prevalence
+Arab World,ARB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.104219166278245,hiv_prevalence
+Arab World,ARB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.104434904810817,hiv_prevalence
+Arab World,ARB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.105506510084662,hiv_prevalence
+Arab World,ARB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.105734216323572,hiv_prevalence
+Caribbean small states,CSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.29069542143979,hiv_prevalence
+Caribbean small states,CSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Caribbean small states,CSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Caribbean small states,CSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Caribbean small states,CSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Central Europe and the Baltics,CEB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Central Europe and the Baltics,CEB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Central Europe and the Baltics,CEB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Central Europe and the Baltics,CEB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Central Europe and the Baltics,CEB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Early-demographic dividend,EAR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Early-demographic dividend,EAR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Early-demographic dividend,EAR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Early-demographic dividend,EAR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Early-demographic dividend,EAR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+East Asia & Pacific,EAS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+East Asia & Pacific,EAS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+East Asia & Pacific,EAS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+East Asia & Pacific,EAS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+East Asia & Pacific,EAS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+East Asia & Pacific (excluding high income),EAP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+East Asia & Pacific (excluding high income),EAP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+East Asia & Pacific (excluding high income),EAP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+East Asia & Pacific (excluding high income),EAP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+East Asia & Pacific (excluding high income),EAP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Euro area,EMU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.238735114355666,hiv_prevalence
+Euro area,EMU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.241851690254124,hiv_prevalence
+Euro area,EMU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.256593435579655,hiv_prevalence
+Euro area,EMU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.256640284323377,hiv_prevalence
+Euro area,EMU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.257076289988514,hiv_prevalence
+Europe & Central Asia,ECS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Europe & Central Asia,ECS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Europe & Central Asia,ECS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Europe & Central Asia,ECS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Europe & Central Asia,ECS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Europe & Central Asia (excluding high income),ECA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Europe & Central Asia (excluding high income),ECA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Europe & Central Asia (excluding high income),ECA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Europe & Central Asia (excluding high income),ECA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Europe & Central Asia (excluding high income),ECA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+European Union,EUU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.228004032644709,hiv_prevalence
+European Union,EUU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.225163916875987,hiv_prevalence
+European Union,EUU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.238026248192534,hiv_prevalence
+European Union,EUU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.238039111657352,hiv_prevalence
+European Union,EUU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.238448908792536,hiv_prevalence
+Fragile and conflict affected situations,FCS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.50298135634626,hiv_prevalence
+Fragile and conflict affected situations,FCS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.55543364138653,hiv_prevalence
+Fragile and conflict affected situations,FCS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.57182728065488,hiv_prevalence
+Fragile and conflict affected situations,FCS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.63741675815797,hiv_prevalence
+Fragile and conflict affected situations,FCS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.65172805974664,hiv_prevalence
+Heavily indebted poor countries (HIPC),HPC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,2.34200405025881,hiv_prevalence
+Heavily indebted poor countries (HIPC),HPC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,2.40888885482366,hiv_prevalence
+Heavily indebted poor countries (HIPC),HPC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,2.45372904835432,hiv_prevalence
+Heavily indebted poor countries (HIPC),HPC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,2.51992752448697,hiv_prevalence
+Heavily indebted poor countries (HIPC),HPC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,2.55943358444289,hiv_prevalence
+High income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+High income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+High income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+High income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+High income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+IBRD only,IBD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+IBRD only,IBD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+IBRD only,IBD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+IBRD only,IBD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+IBRD only,IBD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+IDA & IBRD total,IBT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+IDA & IBRD total,IBT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+IDA & IBRD total,IBT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+IDA & IBRD total,IBT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+IDA & IBRD total,IBT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+IDA blend,IDB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.654427707579,hiv_prevalence
+IDA blend,IDB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.73343691441591,hiv_prevalence
+IDA blend,IDB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.73613496749179,hiv_prevalence
+IDA blend,IDB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.81049268172958,hiv_prevalence
+IDA blend,IDB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.8445691959148,hiv_prevalence
+IDA only,IDX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.65255551358337,hiv_prevalence
+IDA only,IDX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.68880982519219,hiv_prevalence
+IDA only,IDX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.70557308090859,hiv_prevalence
+IDA only,IDX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.7358269251164,hiv_prevalence
+IDA only,IDX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.7499131098165,hiv_prevalence
+IDA total,IDA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.65318772584558,hiv_prevalence
+IDA total,IDA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.70390829523707,hiv_prevalence
+IDA total,IDA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.71593019680612,hiv_prevalence
+IDA total,IDA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.7611878059833,hiv_prevalence
+IDA total,IDA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.78215504860897,hiv_prevalence
+Late-demographic dividend,LTE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Late-demographic dividend,LTE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Late-demographic dividend,LTE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Late-demographic dividend,LTE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Late-demographic dividend,LTE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Latin America & Caribbean,LCN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.53010798802032,hiv_prevalence
+Latin America & Caribbean,LCN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.521795698590567,hiv_prevalence
+Latin America & Caribbean,LCN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.525855274772262,hiv_prevalence
+Latin America & Caribbean,LCN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.52584512965892,hiv_prevalence
+Latin America & Caribbean,LCN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.490949318775355,hiv_prevalence
+Latin America & Caribbean (excluding high income),LAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.526454054605873,hiv_prevalence
+Latin America & Caribbean (excluding high income),LAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.517288987090325,hiv_prevalence
+Latin America & Caribbean (excluding high income),LAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.522602620033077,hiv_prevalence
+Latin America & Caribbean (excluding high income),LAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.525796353291948,hiv_prevalence
+Latin America & Caribbean (excluding high income),LAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.488221099750489,hiv_prevalence
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.53010190326598,hiv_prevalence
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.521592079433477,hiv_prevalence
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.52572765545203,hiv_prevalence
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.525659251143782,hiv_prevalence
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.490128587396248,hiv_prevalence
+Least developed countries: UN classification,LDC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.75440719889367,hiv_prevalence
+Least developed countries: UN classification,LDC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.79283431317694,hiv_prevalence
+Least developed countries: UN classification,LDC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.81402807995018,hiv_prevalence
+Least developed countries: UN classification,LDC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.84359799376156,hiv_prevalence
+Least developed countries: UN classification,LDC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.86105706055608,hiv_prevalence
+Low & middle income,LMY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Low & middle income,LMY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Low & middle income,LMY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Low & middle income,LMY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Low & middle income,LMY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Low income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,2.11374400670722,hiv_prevalence
+Low income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,2.1623665312457,hiv_prevalence
+Low income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,2.20682623682062,hiv_prevalence
+Low income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,2.26117801279084,hiv_prevalence
+Low income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,2.29187481353916,hiv_prevalence
+Lower middle income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Lower middle income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Lower middle income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Lower middle income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Lower middle income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.136772363528689,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.136879669859664,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.102551532231465,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.102707212051871,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.102866819847641,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.14098402871358,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.141207077214544,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.102788242527944,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.102967772992918,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.103139524806234,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.14098402871358,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.141207077214544,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.102788242527944,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.102967772992918,hiv_prevalence
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.103139524806234,hiv_prevalence
+Middle income,MIC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Middle income,MIC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Middle income,MIC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Middle income,MIC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Middle income,MIC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+North America,NAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+North America,NAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+North America,NAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+North America,NAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+North America,NAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Not classified,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Not classified,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Not classified,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Not classified,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Not classified,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+OECD members,OED,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+OECD members,OED,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+OECD members,OED,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+OECD members,OED,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+OECD members,OED,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Other small states,OSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,4.14854549602071,hiv_prevalence
+Other small states,OSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,4.24589455639014,hiv_prevalence
+Other small states,OSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,4.35235199445767,hiv_prevalence
+Other small states,OSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,4.44188366083062,hiv_prevalence
+Other small states,OSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,4.51599763321815,hiv_prevalence
+Pacific island small states,PSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.198289147344522,hiv_prevalence
+Pacific island small states,PSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.199242575711286,hiv_prevalence
+Pacific island small states,PSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.151045407649292,hiv_prevalence
+Pacific island small states,PSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.15193246940442,hiv_prevalence
+Pacific island small states,PSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.101145949564255,hiv_prevalence
+Post-demographic dividend,PST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Post-demographic dividend,PST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Post-demographic dividend,PST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Post-demographic dividend,PST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Post-demographic dividend,PST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Pre-demographic dividend,PRE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,2.37683421761303,hiv_prevalence
+Pre-demographic dividend,PRE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,2.45187183247925,hiv_prevalence
+Pre-demographic dividend,PRE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,2.50427281536591,hiv_prevalence
+Pre-demographic dividend,PRE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,2.57405909860479,hiv_prevalence
+Pre-demographic dividend,PRE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,2.6181362171941,hiv_prevalence
+Small states,SST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,2.98348706198931,hiv_prevalence
+Small states,SST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,3.04526127862212,hiv_prevalence
+Small states,SST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,3.10400164991527,hiv_prevalence
+Small states,SST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,3.15788660222889,hiv_prevalence
+Small states,SST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,3.19125164532915,hiv_prevalence
+South Asia,SAS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+South Asia,SAS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+South Asia,SAS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+South Asia,SAS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+South Asia,SAS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+South Asia (IDA & IBRD),TSA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+South Asia (IDA & IBRD),TSA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+South Asia (IDA & IBRD),TSA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+South Asia (IDA & IBRD),TSA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+South Asia (IDA & IBRD),TSA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Sub-Saharan Africa,SSF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,3.62085966789404,hiv_prevalence
+Sub-Saharan Africa,SSF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,3.73292579952504,hiv_prevalence
+Sub-Saharan Africa,SSF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,3.80756314778314,hiv_prevalence
+Sub-Saharan Africa,SSF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,3.92570967248432,hiv_prevalence
+Sub-Saharan Africa,SSF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,3.99646319926907,hiv_prevalence
+Sub-Saharan Africa (excluding high income),SSA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,3.93922043172378,hiv_prevalence
+Sub-Saharan Africa (excluding high income),SSA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,4.05163160220977,hiv_prevalence
+Sub-Saharan Africa (excluding high income),SSA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,4.13364011018304,hiv_prevalence
+Sub-Saharan Africa (excluding high income),SSA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,4.25178724093001,hiv_prevalence
+Sub-Saharan Africa (excluding high income),SSA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,4.32832467139535,hiv_prevalence
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,3.62085966789404,hiv_prevalence
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,3.73292579952504,hiv_prevalence
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,3.80756314778314,hiv_prevalence
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,3.92570967248432,hiv_prevalence
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,3.99646319926908,hiv_prevalence
+Upper middle income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Upper middle income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Upper middle income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Upper middle income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Upper middle income,,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+World,WLD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.8,hiv_prevalence
+World,WLD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.8,hiv_prevalence
+World,WLD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.8,hiv_prevalence
+World,WLD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.8,hiv_prevalence
+World,WLD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.7,hiv_prevalence
+Afghanistan,AFG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Afghanistan,AFG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Afghanistan,AFG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Afghanistan,AFG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Afghanistan,AFG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Albania,ALB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Albania,ALB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Albania,ALB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Albania,ALB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Albania,ALB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Algeria,DZA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Algeria,DZA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Algeria,DZA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Algeria,DZA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Algeria,DZA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+American Samoa,ASM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+American Samoa,ASM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+American Samoa,ASM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+American Samoa,ASM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+American Samoa,ASM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Andorra,AND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Andorra,AND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Andorra,AND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Andorra,AND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Andorra,AND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Angola,AGO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.7,hiv_prevalence
+Angola,AGO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.7,hiv_prevalence
+Angola,AGO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.8,hiv_prevalence
+Angola,AGO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.8,hiv_prevalence
+Angola,AGO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.8,hiv_prevalence
+Antigua and Barbuda,ATG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.0,hiv_prevalence
+Antigua and Barbuda,ATG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.0,hiv_prevalence
+Antigua and Barbuda,ATG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.0,hiv_prevalence
+Antigua and Barbuda,ATG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.9,hiv_prevalence
+Antigua and Barbuda,ATG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.9,hiv_prevalence
+Argentina,ARG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.4,hiv_prevalence
+Argentina,ARG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.4,hiv_prevalence
+Argentina,ARG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.4,hiv_prevalence
+Argentina,ARG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.4,hiv_prevalence
+Argentina,ARG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.4,hiv_prevalence
+Armenia,ARM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.3,hiv_prevalence
+Armenia,ARM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.3,hiv_prevalence
+Armenia,ARM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Armenia,ARM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Armenia,ARM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+Aruba,ABW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Aruba,ABW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Aruba,ABW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Aruba,ABW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Aruba,ABW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Australia,AUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Australia,AUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Australia,AUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Australia,AUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Australia,AUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Austria,AUT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Austria,AUT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Austria,AUT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Austria,AUT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Austria,AUT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Azerbaijan,AZE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Azerbaijan,AZE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Azerbaijan,AZE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Azerbaijan,AZE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Azerbaijan,AZE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+"Bahamas, The",BHS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.3,hiv_prevalence
+"Bahamas, The",BHS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.4,hiv_prevalence
+"Bahamas, The",BHS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.4,hiv_prevalence
+"Bahamas, The",BHS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.5,hiv_prevalence
+"Bahamas, The",BHS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.5,hiv_prevalence
+Bahrain,BHR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Bahrain,BHR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Bahrain,BHR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Bahrain,BHR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Bahrain,BHR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Bangladesh,BGD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Bangladesh,BGD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Bangladesh,BGD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Bangladesh,BGD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Bangladesh,BGD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Barbados,BRB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.1,hiv_prevalence
+Barbados,BRB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.2,hiv_prevalence
+Barbados,BRB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.2,hiv_prevalence
+Barbados,BRB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.2,hiv_prevalence
+Barbados,BRB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.2,hiv_prevalence
+Belarus,BLR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Belarus,BLR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Belarus,BLR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Belarus,BLR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Belarus,BLR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Belgium,BEL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Belgium,BEL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Belgium,BEL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Belgium,BEL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Belgium,BEL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+Belize,BLZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.3,hiv_prevalence
+Belize,BLZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.3,hiv_prevalence
+Belize,BLZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.3,hiv_prevalence
+Belize,BLZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.3,hiv_prevalence
+Belize,BLZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.4,hiv_prevalence
+Benin,BEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.9,hiv_prevalence
+Benin,BEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.9,hiv_prevalence
+Benin,BEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.9,hiv_prevalence
+Benin,BEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.0,hiv_prevalence
+Benin,BEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.0,hiv_prevalence
+Bermuda,BMU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Bermuda,BMU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Bermuda,BMU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Bermuda,BMU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Bermuda,BMU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Bhutan,BTN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Bhutan,BTN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Bhutan,BTN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Bhutan,BTN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Bhutan,BTN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Bolivia,BOL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.3,hiv_prevalence
+Bolivia,BOL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.3,hiv_prevalence
+Bolivia,BOL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.3,hiv_prevalence
+Bolivia,BOL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.3,hiv_prevalence
+Bolivia,BOL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.3,hiv_prevalence
+Bosnia and Herzegovina,BIH,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Bosnia and Herzegovina,BIH,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Bosnia and Herzegovina,BIH,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Bosnia and Herzegovina,BIH,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Bosnia and Herzegovina,BIH,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Botswana,BWA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,19.7,hiv_prevalence
+Botswana,BWA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,20.3,hiv_prevalence
+Botswana,BWA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,20.9,hiv_prevalence
+Botswana,BWA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,21.4,hiv_prevalence
+Botswana,BWA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,21.8,hiv_prevalence
+Brazil,BRA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.6,hiv_prevalence
+Brazil,BRA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.6,hiv_prevalence
+Brazil,BRA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.6,hiv_prevalence
+Brazil,BRA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.6,hiv_prevalence
+Brazil,BRA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.5,hiv_prevalence
+British Virgin Islands,VGB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+British Virgin Islands,VGB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+British Virgin Islands,VGB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+British Virgin Islands,VGB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+British Virgin Islands,VGB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Brunei Darussalam,BRN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Brunei Darussalam,BRN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Brunei Darussalam,BRN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Brunei Darussalam,BRN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Brunei Darussalam,BRN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Bulgaria,BGR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Bulgaria,BGR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Bulgaria,BGR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Bulgaria,BGR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Bulgaria,BGR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Burkina Faso,BFA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.7,hiv_prevalence
+Burkina Faso,BFA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.7,hiv_prevalence
+Burkina Faso,BFA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.7,hiv_prevalence
+Burkina Faso,BFA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.8,hiv_prevalence
+Burkina Faso,BFA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.8,hiv_prevalence
+Burundi,BDI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.1,hiv_prevalence
+Burundi,BDI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.1,hiv_prevalence
+Burundi,BDI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.2,hiv_prevalence
+Burundi,BDI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.2,hiv_prevalence
+Burundi,BDI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.3,hiv_prevalence
+Cabo Verde,CPV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.9,hiv_prevalence
+Cabo Verde,CPV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.8,hiv_prevalence
+Cabo Verde,CPV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.8,hiv_prevalence
+Cabo Verde,CPV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.8,hiv_prevalence
+Cabo Verde,CPV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.8,hiv_prevalence
+Cambodia,KHM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.6,hiv_prevalence
+Cambodia,KHM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.7,hiv_prevalence
+Cambodia,KHM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.7,hiv_prevalence
+Cambodia,KHM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.7,hiv_prevalence
+Cambodia,KHM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.8,hiv_prevalence
+Cameroon,CMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,3.2,hiv_prevalence
+Cameroon,CMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,3.4,hiv_prevalence
+Cameroon,CMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,3.5,hiv_prevalence
+Cameroon,CMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,3.7,hiv_prevalence
+Cameroon,CMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,3.9,hiv_prevalence
+Canada,CAN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Canada,CAN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Canada,CAN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Canada,CAN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Canada,CAN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+Cayman Islands,CYM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Cayman Islands,CYM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Cayman Islands,CYM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Cayman Islands,CYM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Cayman Islands,CYM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Central African Republic,CAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,3.1,hiv_prevalence
+Central African Republic,CAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,3.3,hiv_prevalence
+Central African Republic,CAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,3.4,hiv_prevalence
+Central African Republic,CAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,3.6,hiv_prevalence
+Central African Republic,CAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,3.8,hiv_prevalence
+Chad,TCD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.2,hiv_prevalence
+Chad,TCD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.2,hiv_prevalence
+Chad,TCD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.3,hiv_prevalence
+Chad,TCD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.4,hiv_prevalence
+Chad,TCD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.4,hiv_prevalence
+Channel Islands,CHI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Channel Islands,CHI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Channel Islands,CHI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Channel Islands,CHI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Channel Islands,CHI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Chile,CHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.5,hiv_prevalence
+Chile,CHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.5,hiv_prevalence
+Chile,CHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.5,hiv_prevalence
+Chile,CHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.4,hiv_prevalence
+Chile,CHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.4,hiv_prevalence
+China,CHN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+China,CHN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+China,CHN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+China,CHN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+China,CHN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Colombia,COL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.6,hiv_prevalence
+Colombia,COL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.5,hiv_prevalence
+Colombia,COL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.5,hiv_prevalence
+Colombia,COL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.5,hiv_prevalence
+Colombia,COL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.5,hiv_prevalence
+Comoros,COM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Comoros,COM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Comoros,COM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Comoros,COM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Comoros,COM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+"Congo, Dem. Rep.",COD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.9,hiv_prevalence
+"Congo, Dem. Rep.",COD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.9,hiv_prevalence
+"Congo, Dem. Rep.",COD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.9,hiv_prevalence
+"Congo, Dem. Rep.",COD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.0,hiv_prevalence
+"Congo, Dem. Rep.",COD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.0,hiv_prevalence
+"Congo, Rep.",COG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,3.2,hiv_prevalence
+"Congo, Rep.",COG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,3.2,hiv_prevalence
+"Congo, Rep.",COG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,3.2,hiv_prevalence
+"Congo, Rep.",COG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,3.2,hiv_prevalence
+"Congo, Rep.",COG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,3.2,hiv_prevalence
+Costa Rica,CRI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.5,hiv_prevalence
+Costa Rica,CRI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.5,hiv_prevalence
+Costa Rica,CRI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.5,hiv_prevalence
+Costa Rica,CRI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.5,hiv_prevalence
+Costa Rica,CRI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.4,hiv_prevalence
+Cote d'Ivoire,CIV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,2.2,hiv_prevalence
+Cote d'Ivoire,CIV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,2.3,hiv_prevalence
+Cote d'Ivoire,CIV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,2.5,hiv_prevalence
+Cote d'Ivoire,CIV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,2.6,hiv_prevalence
+Cote d'Ivoire,CIV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,2.7,hiv_prevalence
+Croatia,HRV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Croatia,HRV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Croatia,HRV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Croatia,HRV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Croatia,HRV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Cuba,CUB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.5,hiv_prevalence
+Cuba,CUB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.5,hiv_prevalence
+Cuba,CUB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.5,hiv_prevalence
+Cuba,CUB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.5,hiv_prevalence
+Cuba,CUB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.5,hiv_prevalence
+Curacao,CUW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Curacao,CUW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Curacao,CUW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Curacao,CUW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Curacao,CUW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Cyprus,CYP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Cyprus,CYP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Cyprus,CYP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Cyprus,CYP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Cyprus,CYP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Czechia,CZE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Czechia,CZE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Czechia,CZE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Czechia,CZE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Czechia,CZE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Denmark,DNK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Denmark,DNK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Denmark,DNK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Denmark,DNK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Denmark,DNK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Djibouti,DJI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.3,hiv_prevalence
+Djibouti,DJI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.4,hiv_prevalence
+Djibouti,DJI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.5,hiv_prevalence
+Djibouti,DJI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.6,hiv_prevalence
+Djibouti,DJI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.7,hiv_prevalence
+Dominica,DMA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.5,hiv_prevalence
+Dominica,DMA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.5,hiv_prevalence
+Dominica,DMA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.5,hiv_prevalence
+Dominica,DMA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.4,hiv_prevalence
+Dominica,DMA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.4,hiv_prevalence
+Dominican Republic,DOM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.0,hiv_prevalence
+Dominican Republic,DOM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.0,hiv_prevalence
+Dominican Republic,DOM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.1,hiv_prevalence
+Dominican Republic,DOM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.1,hiv_prevalence
+Dominican Republic,DOM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.1,hiv_prevalence
+Ecuador,ECU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.4,hiv_prevalence
+Ecuador,ECU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.4,hiv_prevalence
+Ecuador,ECU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.4,hiv_prevalence
+Ecuador,ECU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.4,hiv_prevalence
+Ecuador,ECU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.4,hiv_prevalence
+"Egypt, Arab Rep.",EGY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+"Egypt, Arab Rep.",EGY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+"Egypt, Arab Rep.",EGY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+"Egypt, Arab Rep.",EGY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+"Egypt, Arab Rep.",EGY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+El Salvador,SLV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.4,hiv_prevalence
+El Salvador,SLV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.4,hiv_prevalence
+El Salvador,SLV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.4,hiv_prevalence
+El Salvador,SLV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.5,hiv_prevalence
+El Salvador,SLV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.5,hiv_prevalence
+Equatorial Guinea,GNQ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Equatorial Guinea,GNQ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Equatorial Guinea,GNQ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Equatorial Guinea,GNQ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Equatorial Guinea,GNQ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Eritrea,ERI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.6,hiv_prevalence
+Eritrea,ERI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.6,hiv_prevalence
+Eritrea,ERI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.6,hiv_prevalence
+Eritrea,ERI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.7,hiv_prevalence
+Eritrea,ERI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.7,hiv_prevalence
+Estonia,EST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.8,hiv_prevalence
+Estonia,EST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.8,hiv_prevalence
+Estonia,EST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.8,hiv_prevalence
+Estonia,EST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.8,hiv_prevalence
+Estonia,EST,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.8,hiv_prevalence
+Eswatini,SWZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,27.6,hiv_prevalence
+Eswatini,SWZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,28.1,hiv_prevalence
+Eswatini,SWZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,28.6,hiv_prevalence
+Eswatini,SWZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,29.0,hiv_prevalence
+Eswatini,SWZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,29.3,hiv_prevalence
+Ethiopia,ETH,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.9,hiv_prevalence
+Ethiopia,ETH,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.0,hiv_prevalence
+Ethiopia,ETH,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.0,hiv_prevalence
+Ethiopia,ETH,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.1,hiv_prevalence
+Ethiopia,ETH,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.1,hiv_prevalence
+Faroe Islands,FRO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Faroe Islands,FRO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Faroe Islands,FRO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Faroe Islands,FRO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Faroe Islands,FRO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Fiji,FJI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.3,hiv_prevalence
+Fiji,FJI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.3,hiv_prevalence
+Fiji,FJI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Fiji,FJI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Fiji,FJI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Finland,FIN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Finland,FIN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Finland,FIN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Finland,FIN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Finland,FIN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+France,FRA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.3,hiv_prevalence
+France,FRA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.3,hiv_prevalence
+France,FRA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.3,hiv_prevalence
+France,FRA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.3,hiv_prevalence
+France,FRA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.3,hiv_prevalence
+French Polynesia,PYF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+French Polynesia,PYF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+French Polynesia,PYF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+French Polynesia,PYF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+French Polynesia,PYF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Gabon,GAB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,3.4,hiv_prevalence
+Gabon,GAB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,3.6,hiv_prevalence
+Gabon,GAB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,3.7,hiv_prevalence
+Gabon,GAB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,3.8,hiv_prevalence
+Gabon,GAB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,3.9,hiv_prevalence
+"Gambia, The",GMB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.6,hiv_prevalence
+"Gambia, The",GMB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.7,hiv_prevalence
+"Gambia, The",GMB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.8,hiv_prevalence
+"Gambia, The",GMB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.8,hiv_prevalence
+"Gambia, The",GMB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.9,hiv_prevalence
+Georgia,GEO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.3,hiv_prevalence
+Georgia,GEO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.3,hiv_prevalence
+Georgia,GEO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.3,hiv_prevalence
+Georgia,GEO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Georgia,GEO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+Germany,DEU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Germany,DEU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Germany,DEU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Germany,DEU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Germany,DEU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Ghana,GHA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.7,hiv_prevalence
+Ghana,GHA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.7,hiv_prevalence
+Ghana,GHA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.7,hiv_prevalence
+Ghana,GHA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.8,hiv_prevalence
+Ghana,GHA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.8,hiv_prevalence
+Gibraltar,GIB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Gibraltar,GIB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Gibraltar,GIB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Gibraltar,GIB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Gibraltar,GIB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Greece,GRC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Greece,GRC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Greece,GRC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Greece,GRC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Greece,GRC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+Greenland,GRL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Greenland,GRL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Greenland,GRL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Greenland,GRL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Greenland,GRL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Grenada,GRD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Grenada,GRD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Grenada,GRD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Grenada,GRD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Grenada,GRD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Guam,GUM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Guam,GUM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Guam,GUM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Guam,GUM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Guam,GUM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Guatemala,GTM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Guatemala,GTM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Guatemala,GTM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.3,hiv_prevalence
+Guatemala,GTM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.3,hiv_prevalence
+Guatemala,GTM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.3,hiv_prevalence
+Guinea,GIN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.5,hiv_prevalence
+Guinea,GIN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.6,hiv_prevalence
+Guinea,GIN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.6,hiv_prevalence
+Guinea,GIN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.6,hiv_prevalence
+Guinea,GIN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.7,hiv_prevalence
+Guinea-Bissau,GNB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,2.8,hiv_prevalence
+Guinea-Bissau,GNB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,2.9,hiv_prevalence
+Guinea-Bissau,GNB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,3.0,hiv_prevalence
+Guinea-Bissau,GNB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,3.2,hiv_prevalence
+Guinea-Bissau,GNB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,3.3,hiv_prevalence
+Guyana,GUY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.5,hiv_prevalence
+Guyana,GUY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.5,hiv_prevalence
+Guyana,GUY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.5,hiv_prevalence
+Guyana,GUY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.5,hiv_prevalence
+Guyana,GUY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.4,hiv_prevalence
+Haiti,HTI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.7,hiv_prevalence
+Haiti,HTI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.7,hiv_prevalence
+Haiti,HTI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.7,hiv_prevalence
+Haiti,HTI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.7,hiv_prevalence
+Haiti,HTI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.7,hiv_prevalence
+Honduras,HND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Honduras,HND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Honduras,HND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Honduras,HND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.3,hiv_prevalence
+Honduras,HND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.3,hiv_prevalence
+"Hong Kong SAR, China",HKG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+"Hong Kong SAR, China",HKG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+"Hong Kong SAR, China",HKG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+"Hong Kong SAR, China",HKG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+"Hong Kong SAR, China",HKG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Hungary,HUN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Hungary,HUN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Hungary,HUN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Hungary,HUN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Hungary,HUN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Iceland,ISL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Iceland,ISL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Iceland,ISL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Iceland,ISL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Iceland,ISL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+India,IND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+India,IND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+India,IND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+India,IND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+India,IND,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Indonesia,IDN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.4,hiv_prevalence
+Indonesia,IDN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.4,hiv_prevalence
+Indonesia,IDN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.4,hiv_prevalence
+Indonesia,IDN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.4,hiv_prevalence
+Indonesia,IDN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.4,hiv_prevalence
+"Iran, Islamic Rep.",IRN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+"Iran, Islamic Rep.",IRN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+"Iran, Islamic Rep.",IRN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+"Iran, Islamic Rep.",IRN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+"Iran, Islamic Rep.",IRN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Iraq,IRQ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Iraq,IRQ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Iraq,IRQ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Iraq,IRQ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Iraq,IRQ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Ireland,IRL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Ireland,IRL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Ireland,IRL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Ireland,IRL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Ireland,IRL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+Isle of Man,IMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Isle of Man,IMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Isle of Man,IMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Isle of Man,IMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Isle of Man,IMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Israel,ISR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Israel,ISR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Israel,ISR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Israel,ISR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Israel,ISR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Italy,ITA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.3,hiv_prevalence
+Italy,ITA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.3,hiv_prevalence
+Italy,ITA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.3,hiv_prevalence
+Italy,ITA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.3,hiv_prevalence
+Italy,ITA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.3,hiv_prevalence
+Jamaica,JAM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.2,hiv_prevalence
+Jamaica,JAM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.3,hiv_prevalence
+Jamaica,JAM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.3,hiv_prevalence
+Jamaica,JAM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.3,hiv_prevalence
+Jamaica,JAM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.3,hiv_prevalence
+Japan,JPN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Japan,JPN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Japan,JPN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Japan,JPN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Japan,JPN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Jordan,JOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Jordan,JOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Jordan,JOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Jordan,JOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Jordan,JOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Kazakhstan,KAZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.3,hiv_prevalence
+Kazakhstan,KAZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.3,hiv_prevalence
+Kazakhstan,KAZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.3,hiv_prevalence
+Kazakhstan,KAZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.3,hiv_prevalence
+Kazakhstan,KAZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+Kenya,KEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,3.9,hiv_prevalence
+Kenya,KEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,4.1,hiv_prevalence
+Kenya,KEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,4.3,hiv_prevalence
+Kenya,KEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,4.5,hiv_prevalence
+Kenya,KEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,4.7,hiv_prevalence
+Kiribati,KIR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Kiribati,KIR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Kiribati,KIR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Kiribati,KIR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Kiribati,KIR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+"Korea, Dem. People's Rep.",PRK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+"Korea, Dem. People's Rep.",PRK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+"Korea, Dem. People's Rep.",PRK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+"Korea, Dem. People's Rep.",PRK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+"Korea, Dem. People's Rep.",PRK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+"Korea, Rep.",KOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+"Korea, Rep.",KOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+"Korea, Rep.",KOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+"Korea, Rep.",KOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+"Korea, Rep.",KOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Kosovo,XKX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Kosovo,XKX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Kosovo,XKX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Kosovo,XKX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Kosovo,XKX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Kuwait,KWT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Kuwait,KWT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Kuwait,KWT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Kuwait,KWT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Kuwait,KWT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Kyrgyz Republic,KGZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Kyrgyz Republic,KGZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Kyrgyz Republic,KGZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Kyrgyz Republic,KGZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Kyrgyz Republic,KGZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+Lao PDR,LAO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.4,hiv_prevalence
+Lao PDR,LAO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.4,hiv_prevalence
+Lao PDR,LAO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.3,hiv_prevalence
+Lao PDR,LAO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.3,hiv_prevalence
+Lao PDR,LAO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.3,hiv_prevalence
+Latvia,LVA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.6,hiv_prevalence
+Latvia,LVA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.6,hiv_prevalence
+Latvia,LVA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.6,hiv_prevalence
+Latvia,LVA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.6,hiv_prevalence
+Latvia,LVA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.6,hiv_prevalence
+Lebanon,LBN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Lebanon,LBN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Lebanon,LBN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Lebanon,LBN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Lebanon,LBN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Lesotho,LSO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,21.5,hiv_prevalence
+Lesotho,LSO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,22.3,hiv_prevalence
+Lesotho,LSO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,23.1,hiv_prevalence
+Lesotho,LSO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,23.8,hiv_prevalence
+Lesotho,LSO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,24.3,hiv_prevalence
+Liberia,LBR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.2,hiv_prevalence
+Liberia,LBR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.2,hiv_prevalence
+Liberia,LBR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.3,hiv_prevalence
+Liberia,LBR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.3,hiv_prevalence
+Liberia,LBR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.4,hiv_prevalence
+Libya,LBY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Libya,LBY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Libya,LBY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Libya,LBY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Libya,LBY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Liechtenstein,LIE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Liechtenstein,LIE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Liechtenstein,LIE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Liechtenstein,LIE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Liechtenstein,LIE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Lithuania,LTU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Lithuania,LTU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Lithuania,LTU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Lithuania,LTU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Lithuania,LTU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+Luxembourg,LUX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Luxembourg,LUX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Luxembourg,LUX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Luxembourg,LUX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Luxembourg,LUX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+"Macao SAR, China",MAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+"Macao SAR, China",MAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+"Macao SAR, China",MAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+"Macao SAR, China",MAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+"Macao SAR, China",MAC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Madagascar,MDG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.3,hiv_prevalence
+Madagascar,MDG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.3,hiv_prevalence
+Madagascar,MDG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.3,hiv_prevalence
+Madagascar,MDG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.3,hiv_prevalence
+Madagascar,MDG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.3,hiv_prevalence
+Malawi,MWI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,8.3,hiv_prevalence
+Malawi,MWI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,8.7,hiv_prevalence
+Malawi,MWI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,9.0,hiv_prevalence
+Malawi,MWI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,9.4,hiv_prevalence
+Malawi,MWI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,9.6,hiv_prevalence
+Malaysia,MYS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.3,hiv_prevalence
+Malaysia,MYS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.3,hiv_prevalence
+Malaysia,MYS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.3,hiv_prevalence
+Malaysia,MYS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.4,hiv_prevalence
+Malaysia,MYS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.4,hiv_prevalence
+Maldives,MDV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Maldives,MDV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Maldives,MDV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Maldives,MDV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Maldives,MDV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Mali,MLI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.0,hiv_prevalence
+Mali,MLI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.0,hiv_prevalence
+Mali,MLI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.1,hiv_prevalence
+Mali,MLI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.1,hiv_prevalence
+Mali,MLI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.2,hiv_prevalence
+Malta,MLT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Malta,MLT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Malta,MLT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Malta,MLT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Malta,MLT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+Marshall Islands,MHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Marshall Islands,MHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Marshall Islands,MHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Marshall Islands,MHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Marshall Islands,MHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Mauritania,MRT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Mauritania,MRT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Mauritania,MRT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Mauritania,MRT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.3,hiv_prevalence
+Mauritania,MRT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.3,hiv_prevalence
+Mauritius,MUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Mauritius,MUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Mauritius,MUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Mauritius,MUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Mauritius,MUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Mexico,MEX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.4,hiv_prevalence
+Mexico,MEX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.4,hiv_prevalence
+Mexico,MEX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.4,hiv_prevalence
+Mexico,MEX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.4,hiv_prevalence
+Mexico,MEX,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.4,hiv_prevalence
+"Micronesia, Fed. Sts.",FSM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+"Micronesia, Fed. Sts.",FSM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+"Micronesia, Fed. Sts.",FSM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+"Micronesia, Fed. Sts.",FSM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+"Micronesia, Fed. Sts.",FSM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Moldova,MDA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.9,hiv_prevalence
+Moldova,MDA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.9,hiv_prevalence
+Moldova,MDA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.9,hiv_prevalence
+Moldova,MDA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.9,hiv_prevalence
+Moldova,MDA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.9,hiv_prevalence
+Monaco,MCO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Monaco,MCO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Monaco,MCO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Monaco,MCO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Monaco,MCO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Mongolia,MNG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Mongolia,MNG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Mongolia,MNG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Mongolia,MNG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Mongolia,MNG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Montenegro,MNE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Montenegro,MNE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Montenegro,MNE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Montenegro,MNE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Montenegro,MNE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Morocco,MAR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Morocco,MAR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Morocco,MAR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Morocco,MAR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Morocco,MAR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Mozambique,MOZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,12.7,hiv_prevalence
+Mozambique,MOZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,12.8,hiv_prevalence
+Mozambique,MOZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,12.8,hiv_prevalence
+Mozambique,MOZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,12.9,hiv_prevalence
+Mozambique,MOZ,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,12.8,hiv_prevalence
+Myanmar,MMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.9,hiv_prevalence
+Myanmar,MMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.9,hiv_prevalence
+Myanmar,MMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.9,hiv_prevalence
+Myanmar,MMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.9,hiv_prevalence
+Myanmar,MMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.9,hiv_prevalence
+Namibia,NAM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,11.1,hiv_prevalence
+Namibia,NAM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,11.5,hiv_prevalence
+Namibia,NAM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,11.8,hiv_prevalence
+Namibia,NAM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,12.1,hiv_prevalence
+Namibia,NAM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,12.4,hiv_prevalence
+Nauru,NRU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Nauru,NRU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Nauru,NRU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Nauru,NRU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Nauru,NRU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Nepal,NPL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Nepal,NPL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Nepal,NPL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Nepal,NPL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Nepal,NPL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+Netherlands,NLD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Netherlands,NLD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Netherlands,NLD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Netherlands,NLD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Netherlands,NLD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+New Caledonia,NCL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+New Caledonia,NCL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+New Caledonia,NCL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+New Caledonia,NCL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+New Caledonia,NCL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+New Zealand,NZL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+New Zealand,NZL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+New Zealand,NZL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+New Zealand,NZL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+New Zealand,NZL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Nicaragua,NIC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Nicaragua,NIC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Nicaragua,NIC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Nicaragua,NIC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Nicaragua,NIC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Niger,NER,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Niger,NER,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Niger,NER,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Niger,NER,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Niger,NER,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.3,hiv_prevalence
+Nigeria,NGA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.5,hiv_prevalence
+Nigeria,NGA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.6,hiv_prevalence
+Nigeria,NGA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.6,hiv_prevalence
+Nigeria,NGA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.7,hiv_prevalence
+Nigeria,NGA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.7,hiv_prevalence
+North Macedonia,MKD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+North Macedonia,MKD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+North Macedonia,MKD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+North Macedonia,MKD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+North Macedonia,MKD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Northern Mariana Islands,MNP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Northern Mariana Islands,MNP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Northern Mariana Islands,MNP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Northern Mariana Islands,MNP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Northern Mariana Islands,MNP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Norway,NOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Norway,NOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Norway,NOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Norway,NOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Norway,NOR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Oman,OMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Oman,OMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Oman,OMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Oman,OMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Oman,OMN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Pakistan,PAK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Pakistan,PAK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Pakistan,PAK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Pakistan,PAK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Pakistan,PAK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Palau,PLW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Palau,PLW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Palau,PLW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Palau,PLW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Palau,PLW,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Panama,PAN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.1,hiv_prevalence
+Panama,PAN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.1,hiv_prevalence
+Panama,PAN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.0,hiv_prevalence
+Panama,PAN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.0,hiv_prevalence
+Panama,PAN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.0,hiv_prevalence
+Papua New Guinea,PNG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.3,hiv_prevalence
+Papua New Guinea,PNG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.2,hiv_prevalence
+Papua New Guinea,PNG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.2,hiv_prevalence
+Papua New Guinea,PNG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.2,hiv_prevalence
+Papua New Guinea,PNG,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.1,hiv_prevalence
+Paraguay,PRY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.5,hiv_prevalence
+Paraguay,PRY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.4,hiv_prevalence
+Paraguay,PRY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.4,hiv_prevalence
+Paraguay,PRY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.4,hiv_prevalence
+Paraguay,PRY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.4,hiv_prevalence
+Peru,PER,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.4,hiv_prevalence
+Peru,PER,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.4,hiv_prevalence
+Peru,PER,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.4,hiv_prevalence
+Peru,PER,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.4,hiv_prevalence
+Peru,PER,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.4,hiv_prevalence
+Philippines,PHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Philippines,PHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Philippines,PHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Philippines,PHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Philippines,PHL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Poland,POL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Poland,POL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Poland,POL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Poland,POL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Poland,POL,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Portugal,PRT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.5,hiv_prevalence
+Portugal,PRT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.6,hiv_prevalence
+Portugal,PRT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.6,hiv_prevalence
+Portugal,PRT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.6,hiv_prevalence
+Portugal,PRT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.6,hiv_prevalence
+Puerto Rico (US),PRI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Puerto Rico (US),PRI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Puerto Rico (US),PRI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Puerto Rico (US),PRI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Puerto Rico (US),PRI,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Qatar,QAT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Qatar,QAT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Qatar,QAT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Qatar,QAT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Qatar,QAT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Romania,ROU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Romania,ROU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Romania,ROU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Romania,ROU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Romania,ROU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Russian Federation,RUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Russian Federation,RUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Russian Federation,RUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Russian Federation,RUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Russian Federation,RUS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Rwanda,RWA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,2.7,hiv_prevalence
+Rwanda,RWA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,2.9,hiv_prevalence
+Rwanda,RWA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,3.0,hiv_prevalence
+Rwanda,RWA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,3.1,hiv_prevalence
+Rwanda,RWA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,3.2,hiv_prevalence
+Samoa,WSM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Samoa,WSM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Samoa,WSM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Samoa,WSM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Samoa,WSM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+San Marino,SMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+San Marino,SMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+San Marino,SMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+San Marino,SMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+San Marino,SMR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Sao Tome and Principe,STP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Sao Tome and Principe,STP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Sao Tome and Principe,STP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Sao Tome and Principe,STP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Sao Tome and Principe,STP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Saudi Arabia,SAU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Saudi Arabia,SAU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Saudi Arabia,SAU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Saudi Arabia,SAU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Saudi Arabia,SAU,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Senegal,SEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.3,hiv_prevalence
+Senegal,SEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.4,hiv_prevalence
+Senegal,SEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.4,hiv_prevalence
+Senegal,SEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.4,hiv_prevalence
+Senegal,SEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.4,hiv_prevalence
+Serbia,SRB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Serbia,SRB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Serbia,SRB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Serbia,SRB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Serbia,SRB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Seychelles,SYC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Seychelles,SYC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Seychelles,SYC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Seychelles,SYC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Seychelles,SYC,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Sierra Leone,SLE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.5,hiv_prevalence
+Sierra Leone,SLE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.6,hiv_prevalence
+Sierra Leone,SLE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.6,hiv_prevalence
+Sierra Leone,SLE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.6,hiv_prevalence
+Sierra Leone,SLE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.6,hiv_prevalence
+Singapore,SGP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Singapore,SGP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Singapore,SGP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Singapore,SGP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Singapore,SGP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Sint Maarten (Dutch part),SXM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Sint Maarten (Dutch part),SXM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Sint Maarten (Dutch part),SXM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Sint Maarten (Dutch part),SXM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Sint Maarten (Dutch part),SXM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Slovak Republic,SVK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Slovak Republic,SVK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Slovak Republic,SVK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Slovak Republic,SVK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Slovak Republic,SVK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Slovenia,SVN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Slovenia,SVN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Slovenia,SVN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Slovenia,SVN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Slovenia,SVN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Solomon Islands,SLB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Solomon Islands,SLB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Solomon Islands,SLB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Solomon Islands,SLB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Solomon Islands,SLB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+"Somalia, Fed. Rep.",SOM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+"Somalia, Fed. Rep.",SOM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+"Somalia, Fed. Rep.",SOM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+"Somalia, Fed. Rep.",SOM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+"Somalia, Fed. Rep.",SOM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+South Africa,ZAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,18.5,hiv_prevalence
+South Africa,ZAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,18.6,hiv_prevalence
+South Africa,ZAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,18.6,hiv_prevalence
+South Africa,ZAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,18.6,hiv_prevalence
+South Africa,ZAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,18.5,hiv_prevalence
+South Sudan,SSD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.8,hiv_prevalence
+South Sudan,SSD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.8,hiv_prevalence
+South Sudan,SSD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.9,hiv_prevalence
+South Sudan,SSD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.9,hiv_prevalence
+South Sudan,SSD,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,2.0,hiv_prevalence
+Spain,ESP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.3,hiv_prevalence
+Spain,ESP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.3,hiv_prevalence
+Spain,ESP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.4,hiv_prevalence
+Spain,ESP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.4,hiv_prevalence
+Spain,ESP,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.4,hiv_prevalence
+Sri Lanka,LKA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Sri Lanka,LKA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Sri Lanka,LKA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Sri Lanka,LKA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Sri Lanka,LKA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+St. Kitts and Nevis,KNA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.7,hiv_prevalence
+St. Kitts and Nevis,KNA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.7,hiv_prevalence
+St. Kitts and Nevis,KNA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.6,hiv_prevalence
+St. Kitts and Nevis,KNA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.6,hiv_prevalence
+St. Kitts and Nevis,KNA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.6,hiv_prevalence
+St. Lucia,LCA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.4,hiv_prevalence
+St. Lucia,LCA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.4,hiv_prevalence
+St. Lucia,LCA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.4,hiv_prevalence
+St. Lucia,LCA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.4,hiv_prevalence
+St. Lucia,LCA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.4,hiv_prevalence
+St. Martin (French part),MAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+St. Martin (French part),MAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+St. Martin (French part),MAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+St. Martin (French part),MAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+St. Martin (French part),MAF,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+St. Vincent and the Grenadines,VCT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.9,hiv_prevalence
+St. Vincent and the Grenadines,VCT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.9,hiv_prevalence
+St. Vincent and the Grenadines,VCT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.0,hiv_prevalence
+St. Vincent and the Grenadines,VCT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.0,hiv_prevalence
+St. Vincent and the Grenadines,VCT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.0,hiv_prevalence
+Sudan,SDN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Sudan,SDN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Sudan,SDN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Sudan,SDN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Sudan,SDN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Suriname,SUR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.6,hiv_prevalence
+Suriname,SUR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.6,hiv_prevalence
+Suriname,SUR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.6,hiv_prevalence
+Suriname,SUR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.6,hiv_prevalence
+Suriname,SUR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.6,hiv_prevalence
+Sweden,SWE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Sweden,SWE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Sweden,SWE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Sweden,SWE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Sweden,SWE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Switzerland,CHE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Switzerland,CHE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Switzerland,CHE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Switzerland,CHE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Switzerland,CHE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+Syrian Arab Republic,SYR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Syrian Arab Republic,SYR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Syrian Arab Republic,SYR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Syrian Arab Republic,SYR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Syrian Arab Republic,SYR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Tajikistan,TJK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Tajikistan,TJK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Tajikistan,TJK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Tajikistan,TJK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Tajikistan,TJK,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+Tanzania,TZA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,4.2,hiv_prevalence
+Tanzania,TZA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,4.3,hiv_prevalence
+Tanzania,TZA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,4.4,hiv_prevalence
+Tanzania,TZA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,4.4,hiv_prevalence
+Tanzania,TZA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,4.5,hiv_prevalence
+Thailand,THA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,1.2,hiv_prevalence
+Thailand,THA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,1.3,hiv_prevalence
+Thailand,THA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,1.3,hiv_prevalence
+Thailand,THA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,1.4,hiv_prevalence
+Thailand,THA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,1.4,hiv_prevalence
+Timor-Leste,TLS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+Timor-Leste,TLS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+Timor-Leste,TLS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+Timor-Leste,TLS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+Timor-Leste,TLS,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.2,hiv_prevalence
+Togo,TGO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,2.0,hiv_prevalence
+Togo,TGO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,2.1,hiv_prevalence
+Togo,TGO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,2.2,hiv_prevalence
+Togo,TGO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,2.2,hiv_prevalence
+Togo,TGO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,2.3,hiv_prevalence
+Tonga,TON,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Tonga,TON,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Tonga,TON,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Tonga,TON,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Tonga,TON,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Trinidad and Tobago,TTO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Trinidad and Tobago,TTO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Trinidad and Tobago,TTO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Trinidad and Tobago,TTO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Trinidad and Tobago,TTO,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Tunisia,TUN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Tunisia,TUN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Tunisia,TUN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Tunisia,TUN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Tunisia,TUN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Turkiye,TUR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Turkiye,TUR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Turkiye,TUR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Turkiye,TUR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Turkiye,TUR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Turkmenistan,TKM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Turkmenistan,TKM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Turkmenistan,TKM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Turkmenistan,TKM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Turkmenistan,TKM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Turks and Caicos Islands,TCA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Turks and Caicos Islands,TCA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Turks and Caicos Islands,TCA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Turks and Caicos Islands,TCA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Turks and Caicos Islands,TCA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Tuvalu,TUV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.4,hiv_prevalence
+Tuvalu,TUV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.3,hiv_prevalence
+Tuvalu,TUV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.3,hiv_prevalence
+Tuvalu,TUV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.3,hiv_prevalence
+Tuvalu,TUV,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.3,hiv_prevalence
+Uganda,UGA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,6.1,hiv_prevalence
+Uganda,UGA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,6.3,hiv_prevalence
+Uganda,UGA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,6.5,hiv_prevalence
+Uganda,UGA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,6.6,hiv_prevalence
+Uganda,UGA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,6.8,hiv_prevalence
+Ukraine,UKR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Ukraine,UKR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Ukraine,UKR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Ukraine,UKR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Ukraine,UKR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+United Arab Emirates,ARE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+United Arab Emirates,ARE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+United Arab Emirates,ARE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+United Arab Emirates,ARE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+United Arab Emirates,ARE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+United Kingdom,GBR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,hiv_prevalence
+United Kingdom,GBR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,hiv_prevalence
+United Kingdom,GBR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.2,hiv_prevalence
+United Kingdom,GBR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.2,hiv_prevalence
+United Kingdom,GBR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+United States,USA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+United States,USA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+United States,USA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+United States,USA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+United States,USA,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Uruguay,URY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Uruguay,URY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Uruguay,URY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Uruguay,URY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Uruguay,URY,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Uzbekistan,UZB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Uzbekistan,UZB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Uzbekistan,UZB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Uzbekistan,UZB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Uzbekistan,UZB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+Vanuatu,VUT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+Vanuatu,VUT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+Vanuatu,VUT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+Vanuatu,VUT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+Vanuatu,VUT,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+"Venezuela, RB",VEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.5,hiv_prevalence
+"Venezuela, RB",VEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.5,hiv_prevalence
+"Venezuela, RB",VEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.5,hiv_prevalence
+"Venezuela, RB",VEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.5,hiv_prevalence
+"Venezuela, RB",VEN,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.5,hiv_prevalence
+Viet Nam,VNM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.5,hiv_prevalence
+Viet Nam,VNM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.5,hiv_prevalence
+Viet Nam,VNM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.5,hiv_prevalence
+Viet Nam,VNM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.4,hiv_prevalence
+Viet Nam,VNM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.4,hiv_prevalence
+Virgin Islands (U.S.),VIR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+Virgin Islands (U.S.),VIR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+Virgin Islands (U.S.),VIR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+Virgin Islands (U.S.),VIR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+Virgin Islands (U.S.),VIR,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+West Bank and Gaza,PSE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,,hiv_prevalence
+West Bank and Gaza,PSE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,,hiv_prevalence
+West Bank and Gaza,PSE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,,hiv_prevalence
+West Bank and Gaza,PSE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,,hiv_prevalence
+West Bank and Gaza,PSE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,,hiv_prevalence
+"Yemen, Rep.",YEM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.1,hiv_prevalence
+"Yemen, Rep.",YEM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.1,hiv_prevalence
+"Yemen, Rep.",YEM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,hiv_prevalence
+"Yemen, Rep.",YEM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,hiv_prevalence
+"Yemen, Rep.",YEM,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,hiv_prevalence
+Zambia,ZMB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,11.5,hiv_prevalence
+Zambia,ZMB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,11.7,hiv_prevalence
+Zambia,ZMB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,11.8,hiv_prevalence
+Zambia,ZMB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,11.8,hiv_prevalence
+Zambia,ZMB,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,11.9,hiv_prevalence
+Zimbabwe,ZWE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,12.5,hiv_prevalence
+Zimbabwe,ZWE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,13.1,hiv_prevalence
+Zimbabwe,ZWE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,13.6,hiv_prevalence
+Zimbabwe,ZWE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,14.1,hiv_prevalence
+Zimbabwe,ZWE,SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,14.5,hiv_prevalence

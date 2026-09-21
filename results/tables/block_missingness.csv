@@ -1,0 +1,5 @@
+block,n_indicators,n_countries,mean_country_missing_rate,median_country_missing_rate,countries_with_complete_block,countries_missing_entire_block,max_country_missing_rate
+capacity,6,217,0.1459293394777266,0.0,150,18,1.0
+equity_access,7,217,0.13166556945358787,0.0,117,2,1.0
+preparedness,4,217,0.14055299539170507,0.0,152,8,1.0
+vulnerability,9,217,0.03635432667690732,0.0,184,0,0.3333333333333333

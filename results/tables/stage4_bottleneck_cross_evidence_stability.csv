@@ -1,0 +1,4 @@
+evidence_variant_a,evidence_variant_b,n,coverage_count,missing_count,missing_rate,bottleneck_block_agreement,source_provenance
+baseline_owid_excess_mortality,ghs_enhanced_owid,106,106,0,0.0,0.5,baseline_owid_excess_mortality;ghs_enhanced_owid
+baseline_owid_excess_mortality,life_expectancy_loss,106,106,80,0.4301075268817204,0.49056603773584906,baseline_owid_excess_mortality;life_expectancy_loss
+ghs_enhanced_owid,life_expectancy_loss,106,106,80,0.4301075268817204,0.9905660377358491,ghs_enhanced_owid;life_expectancy_loss

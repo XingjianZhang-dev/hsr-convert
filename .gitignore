@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+# large regenerable intermediate grids (Stage 1/2)
+results/tables/pipeline_grid_results.csv
+results/tables/pipeline_rank_correlations.csv
+# not redistributed: fetch with scripts/fetch_data.py
+data/raw/ghs/ghs_index_2019.csv
+# regenerable large arrays
+results/revision/*.npy

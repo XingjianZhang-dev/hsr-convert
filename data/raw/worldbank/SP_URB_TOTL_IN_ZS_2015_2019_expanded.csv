@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,variable
+Africa Eastern and Southern,AFE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,36.0973307017698,urban_population_share
+Africa Eastern and Southern,AFE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,35.714718464725,urban_population_share
+Africa Eastern and Southern,AFE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,35.2829868326458,urban_population_share
+Africa Eastern and Southern,AFE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,34.8812106693274,urban_population_share
+Africa Eastern and Southern,AFE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,34.4906809355644,urban_population_share
+Africa Western and Central,AFW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,49.8900751494997,urban_population_share
+Africa Western and Central,AFW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,49.3179475986921,urban_population_share
+Africa Western and Central,AFW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,48.7474138775856,urban_population_share
+Africa Western and Central,AFW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,48.1739704033824,urban_population_share
+Africa Western and Central,AFW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,47.6023892615338,urban_population_share
+Arab World,ARB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,58.8962879377102,urban_population_share
+Arab World,ARB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,58.7847025324078,urban_population_share
+Arab World,ARB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,58.6808941601595,urban_population_share
+Arab World,ARB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,58.5622937950483,urban_population_share
+Arab World,ARB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,58.351712270484,urban_population_share
+Caribbean small states,CSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,50.0613448862219,urban_population_share
+Caribbean small states,CSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,50.095481721741,urban_population_share
+Caribbean small states,CSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,50.1782963503998,urban_population_share
+Caribbean small states,CSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,50.1731298812102,urban_population_share
+Caribbean small states,CSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,50.1679113039414,urban_population_share
+Central Europe and the Baltics,CEB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,61.7449526458334,urban_population_share
+Central Europe and the Baltics,CEB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,61.8111043373163,urban_population_share
+Central Europe and the Baltics,CEB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,61.871575661727,urban_population_share
+Central Europe and the Baltics,CEB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,61.902526100399,urban_population_share
+Central Europe and the Baltics,CEB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,61.9708877552037,urban_population_share
+Early-demographic dividend,EAR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,45.7649596058874,urban_population_share
+Early-demographic dividend,EAR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,45.4349772935468,urban_population_share
+Early-demographic dividend,EAR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,45.1249360555588,urban_population_share
+Early-demographic dividend,EAR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,44.8097968515725,urban_population_share
+Early-demographic dividend,EAR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,44.4503233893376,urban_population_share
+East Asia & Pacific,EAS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,61.7435560127223,urban_population_share
+East Asia & Pacific,EAS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,60.8515259788814,urban_population_share
+East Asia & Pacific,EAS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,59.8037083838459,urban_population_share
+East Asia & Pacific,EAS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,58.7921942331022,urban_population_share
+East Asia & Pacific,EAS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,57.7233143419672,urban_population_share
+East Asia & Pacific (excluding high income),EAP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,58.6555692756585,urban_population_share
+East Asia & Pacific (excluding high income),EAP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,57.6502705350874,urban_population_share
+East Asia & Pacific (excluding high income),EAP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,56.4654638258327,urban_population_share
+East Asia & Pacific (excluding high income),EAP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,55.3186115241997,urban_population_share
+East Asia & Pacific (excluding high income),EAP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,54.1114656751357,urban_population_share
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,58.6098141698239,urban_population_share
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,57.595296727158,urban_population_share
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,56.3988367330046,urban_population_share
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,55.240567924451,urban_population_share
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,54.0210877061728,urban_population_share
+Euro area,EMU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,76.8077280588719,urban_population_share
+Euro area,EMU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,76.6346252265652,urban_population_share
+Euro area,EMU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,76.4737406464159,urban_population_share
+Euro area,EMU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,76.3490742080358,urban_population_share
+Euro area,EMU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,76.0823620934604,urban_population_share
+Europe & Central Asia,ECS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,73.3626712556912,urban_population_share
+Europe & Central Asia,ECS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,73.1803655864529,urban_population_share
+Europe & Central Asia,ECS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,73.0396143369844,urban_population_share
+Europe & Central Asia,ECS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,72.9303205508812,urban_population_share
+Europe & Central Asia,ECS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,72.6866697009849,urban_population_share
+Europe & Central Asia (excluding high income),ECA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,67.7517086172661,urban_population_share
+Europe & Central Asia (excluding high income),ECA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,67.4464992918229,urban_population_share
+Europe & Central Asia (excluding high income),ECA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,67.2908425220823,urban_population_share
+Europe & Central Asia (excluding high income),ECA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,67.2028741800351,urban_population_share
+Europe & Central Asia (excluding high income),ECA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,66.8135844921441,urban_population_share
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,68.6393881359924,urban_population_share
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,68.4656324149257,urban_population_share
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,68.3671996828986,urban_population_share
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,68.2998664724156,urban_population_share
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,68.0719889181919,urban_population_share
+European Union,EUU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,74.4596491524844,urban_population_share
+European Union,EUU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,74.3251511986635,urban_population_share
+European Union,EUU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,74.1940799110393,urban_population_share
+European Union,EUU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,74.089077283109,urban_population_share
+European Union,EUU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,73.8743742665848,urban_population_share
+Fragile and conflict affected situations,FCS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,44.653472474234,urban_population_share
+Fragile and conflict affected situations,FCS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,44.390682523655,urban_population_share
+Fragile and conflict affected situations,FCS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,44.1056109363171,urban_population_share
+Fragile and conflict affected situations,FCS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,43.8128075913534,urban_population_share
+Fragile and conflict affected situations,FCS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,43.5210484941133,urban_population_share
+Heavily indebted poor countries (HIPC),HPC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,35.6138460414847,urban_population_share
+Heavily indebted poor countries (HIPC),HPC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,35.1961108060605,urban_population_share
+Heavily indebted poor countries (HIPC),HPC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,34.7491017080037,urban_population_share
+Heavily indebted poor countries (HIPC),HPC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,34.3112319405726,urban_population_share
+Heavily indebted poor countries (HIPC),HPC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,33.8811007245147,urban_population_share
+High income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,79.6868467579363,urban_population_share
+High income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,79.6245241556879,urban_population_share
+High income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,79.5646361553009,urban_population_share
+High income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,79.4995354743216,urban_population_share
+High income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,79.3873774562132,urban_population_share
+IBRD only,IBD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,56.4284852445038,urban_population_share
+IBRD only,IBD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,55.8598392575292,urban_population_share
+IBRD only,IBD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,55.2222227935355,urban_population_share
+IBRD only,IBD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,54.6015207244718,urban_population_share
+IBRD only,IBD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,53.9332868281978,urban_population_share
+IDA & IBRD total,IBT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,51.6640843924242,urban_population_share
+IDA & IBRD total,IBT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,51.1819701268996,urban_population_share
+IDA & IBRD total,IBT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,50.6435884708012,urban_population_share
+IDA & IBRD total,IBT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,50.1161429968315,urban_population_share
+IDA & IBRD total,IBT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,49.5541695951727,urban_population_share
+IDA blend,IDB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,46.0543233703288,urban_population_share
+IDA blend,IDB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,45.5767065281075,urban_population_share
+IDA blend,IDB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,45.1144259487283,urban_population_share
+IDA blend,IDB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,44.6500251183283,urban_population_share
+IDA blend,IDB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,44.1901706504123,urban_population_share
+IDA only,IDX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,34.362549702073,urban_population_share
+IDA only,IDX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,33.950062765686,urban_population_share
+IDA only,IDX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,33.5266826149303,urban_population_share
+IDA only,IDX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,33.1218316185591,urban_population_share
+IDA only,IDX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,32.7380976919446,urban_population_share
+IDA total,IDA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,38.4668213219761,urban_population_share
+IDA total,IDA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,38.0402833464091,urban_population_share
+IDA total,IDA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,37.6103588043171,urban_population_share
+IDA total,IDA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,37.1915834095229,urban_population_share
+IDA total,IDA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,36.7875012930537,urban_population_share
+Late-demographic dividend,LTE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,64.6307387465605,urban_population_share
+Late-demographic dividend,LTE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,63.7579414927705,urban_population_share
+Late-demographic dividend,LTE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,62.7392997946222,urban_population_share
+Late-demographic dividend,LTE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,61.7622468361698,urban_population_share
+Late-demographic dividend,LTE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,60.7294578905785,urban_population_share
+Latin America & Caribbean,LCN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,80.2273019080141,urban_population_share
+Latin America & Caribbean,LCN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,80.019051151549,urban_population_share
+Latin America & Caribbean,LCN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,79.8285331741903,urban_population_share
+Latin America & Caribbean,LCN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,79.6161243552428,urban_population_share
+Latin America & Caribbean,LCN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,79.4004597252698,urban_population_share
+Latin America & Caribbean (excluding high income),LAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,79.6346434391868,urban_population_share
+Latin America & Caribbean (excluding high income),LAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,79.39536132929,urban_population_share
+Latin America & Caribbean (excluding high income),LAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,79.1732547040471,urban_population_share
+Latin America & Caribbean (excluding high income),LAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,78.9382028591705,urban_population_share
+Latin America & Caribbean (excluding high income),LAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,78.7052501821736,urban_population_share
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,80.2043693016899,urban_population_share
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,79.992282192881,urban_population_share
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,79.7952284112037,urban_population_share
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,79.5767193908271,urban_population_share
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,79.3548258170168,urban_population_share
+Least developed countries: UN classification,LDC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,33.9602697628177,urban_population_share
+Least developed countries: UN classification,LDC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,33.5157241184012,urban_population_share
+Least developed countries: UN classification,LDC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,33.039366595905,urban_population_share
+Least developed countries: UN classification,LDC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,32.5666253276981,urban_population_share
+Least developed countries: UN classification,LDC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,32.1047483080213,urban_population_share
+Low & middle income,LMY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,51.3919045639979,urban_population_share
+Low & middle income,LMY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,50.8689616562196,urban_population_share
+Low & middle income,LMY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,50.2874702006731,urban_population_share
+Low & middle income,LMY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,49.7204695578971,urban_population_share
+Low & middle income,LMY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,49.1189517027079,urban_population_share
+Low income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,35.2627989918991,urban_population_share
+Low income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,34.8905984783002,urban_population_share
+Low income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,34.5083826756174,urban_population_share
+Low income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,34.1587699266868,urban_population_share
+Low income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,33.8598112051753,urban_population_share
+Lower middle income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,39.5561176956246,urban_population_share
+Lower middle income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,39.1530054045371,urban_population_share
+Lower middle income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,38.7516843452381,urban_population_share
+Lower middle income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,38.3536374974923,urban_population_share
+Lower middle income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,37.9496934088792,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,54.4404080887212,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,54.2444653262482,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,54.0927613956461,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,53.9026375690062,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,53.6392632351358,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,51.461592912125,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,51.2278326304515,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,51.0212891329828,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,50.8273618824722,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,50.6192148296493,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,51.2234331146053,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,50.9917156514723,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,50.7866571436082,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,50.5924176765155,urban_population_share
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,50.385107716384,urban_population_share
+Middle income,MIC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,52.93440338769,urban_population_share
+Middle income,MIC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,52.3690840838855,urban_population_share
+Middle income,MIC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,51.743714030285,urban_population_share
+Middle income,MIC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,51.134318051791,urban_population_share
+Middle income,MIC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,50.4854071062702,urban_population_share
+North America,NAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,80.2981427760977,urban_population_share
+North America,NAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,80.4126136678733,urban_population_share
+North America,NAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,80.5059159293977,urban_population_share
+North America,NAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,80.5816899364942,urban_population_share
+North America,NAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,80.6417223720746,urban_population_share
+Not classified,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,,urban_population_share
+Not classified,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,,urban_population_share
+Not classified,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,,urban_population_share
+Not classified,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,,urban_population_share
+Not classified,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,,urban_population_share
+OECD members,OED,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,80.6506807759512,urban_population_share
+OECD members,OED,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,80.5375650291866,urban_population_share
+OECD members,OED,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,80.4525361907853,urban_population_share
+OECD members,OED,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,80.3858304019222,urban_population_share
+OECD members,OED,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,80.2234060840687,urban_population_share
+Other small states,OSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,53.8727328667505,urban_population_share
+Other small states,OSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,53.6519140670653,urban_population_share
+Other small states,OSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,53.4441254377598,urban_population_share
+Other small states,OSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,53.2560302540443,urban_population_share
+Other small states,OSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,53.0938477646158,urban_population_share
+Pacific island small states,PSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,39.2708800377762,urban_population_share
+Pacific island small states,PSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,39.0330726122061,urban_population_share
+Pacific island small states,PSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,38.8043513180851,urban_population_share
+Pacific island small states,PSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,38.5106153371305,urban_population_share
+Pacific island small states,PSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,38.2258875864973,urban_population_share
+Post-demographic dividend,PST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,80.7013034408387,urban_population_share
+Post-demographic dividend,PST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,80.6378758071412,urban_population_share
+Post-demographic dividend,PST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,80.5730282090702,urban_population_share
+Post-demographic dividend,PST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,80.5121392394334,urban_population_share
+Post-demographic dividend,PST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,80.4010562437734,urban_population_share
+Pre-demographic dividend,PRE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,43.0464125369595,urban_population_share
+Pre-demographic dividend,PRE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,42.615514020006,urban_population_share
+Pre-demographic dividend,PRE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,42.1469262007013,urban_population_share
+Pre-demographic dividend,PRE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,41.668181662663,urban_population_share
+Pre-demographic dividend,PRE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,41.1924346504226,urban_population_share
+Small states,SST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,51.0510007537325,urban_population_share
+Small states,SST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,50.8834075568435,urban_population_share
+Small states,SST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,50.740519957361,urban_population_share
+Small states,SST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,50.5823717773529,urban_population_share
+Small states,SST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,50.4432480596759,urban_population_share
+South Asia,SAS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,33.8860664509609,urban_population_share
+South Asia,SAS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,33.5735795082406,urban_population_share
+South Asia,SAS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,33.2643876230047,urban_population_share
+South Asia,SAS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,32.9532139923473,urban_population_share
+South Asia,SAS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,32.6380348100917,urban_population_share
+South Asia (IDA & IBRD),TSA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,33.886066450961,urban_population_share
+South Asia (IDA & IBRD),TSA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,33.5735795082406,urban_population_share
+South Asia (IDA & IBRD),TSA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,33.2643876230047,urban_population_share
+South Asia (IDA & IBRD),TSA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,32.9532139923473,urban_population_share
+South Asia (IDA & IBRD),TSA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,32.6380348100917,urban_population_share
+Sub-Saharan Africa,SSF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,41.7069096868529,urban_population_share
+Sub-Saharan Africa,SSF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,41.2564673570093,urban_population_share
+Sub-Saharan Africa,SSF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,40.7747131803846,urban_population_share
+Sub-Saharan Africa,SSF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,40.3034255262744,urban_population_share
+Sub-Saharan Africa,SSF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,39.8380248903706,urban_population_share
+Sub-Saharan Africa (excluding high income),SSA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,44.0201520559233,urban_population_share
+Sub-Saharan Africa (excluding high income),SSA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,43.5691538594283,urban_population_share
+Sub-Saharan Africa (excluding high income),SSA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,43.0855102373035,urban_population_share
+Sub-Saharan Africa (excluding high income),SSA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,42.6074748735195,urban_population_share
+Sub-Saharan Africa (excluding high income),SSA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,42.1360824764831,urban_population_share
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,41.7069096868529,urban_population_share
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,41.2564673570093,urban_population_share
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,40.7747131803846,urban_population_share
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,40.3034255262744,urban_population_share
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,39.8380248903706,urban_population_share
+Upper middle income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,67.078944918763,urban_population_share
+Upper middle income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,66.2431243372703,urban_population_share
+Upper middle income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,65.2912688979067,urban_population_share
+Upper middle income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,64.3735966748927,urban_population_share
+Upper middle income,,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,63.3807361013245,urban_population_share
+World,WLD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,56.1393998135593,urban_population_share
+World,WLD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,55.7510358807325,urban_population_share
+World,WLD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,55.3184226450948,urban_population_share
+World,WLD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,54.8936424211134,urban_population_share
+World,WLD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,54.4246815745034,urban_population_share
+Afghanistan,AFG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,25.1437258839803,urban_population_share
+Afghanistan,AFG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,24.9991645191406,urban_population_share
+Afghanistan,AFG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,24.8352821238871,urban_population_share
+Afghanistan,AFG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,24.6588345720126,urban_population_share
+Afghanistan,AFG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,24.4649118421568,urban_population_share
+Albania,ALB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,56.7639071287255,urban_population_share
+Albania,ALB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,56.377000259892,urban_population_share
+Albania,ALB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,55.980276426546,urban_population_share
+Albania,ALB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,55.5738734464276,urban_population_share
+Albania,ALB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,55.1579291374894,urban_population_share
+Algeria,DZA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,72.4824561380175,urban_population_share
+Algeria,DZA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,71.905249845153,urban_population_share
+Algeria,DZA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,71.3227912436551,urban_population_share
+Algeria,DZA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,70.7353778263851,urban_population_share
+Algeria,DZA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,70.1433070861612,urban_population_share
+American Samoa,ASM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,83.0542171797274,urban_population_share
+American Samoa,ASM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,83.4779973316097,urban_population_share
+American Samoa,ASM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,83.8890385422071,urban_population_share
+American Samoa,ASM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,84.2862824389061,urban_population_share
+American Samoa,ASM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,84.668670649093,urban_population_share
+Andorra,AND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,88.5391793666245,urban_population_share
+Andorra,AND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,88.5080998493791,urban_population_share
+Andorra,AND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,88.4977035522461,urban_population_share
+Andorra,AND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,88.5027454634853,urban_population_share
+Andorra,AND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,88.5180850122057,urban_population_share
+Angola,AGO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,66.6637823180533,urban_population_share
+Angola,AGO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,65.8732136723372,urban_population_share
+Angola,AGO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,65.0850525086068,urban_population_share
+Angola,AGO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,64.2992302517989,urban_population_share
+Angola,AGO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,63.51567832685,urban_population_share
+Antigua and Barbuda,ATG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,24.708337524045,urban_population_share
+Antigua and Barbuda,ATG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,24.7781432093764,urban_population_share
+Antigua and Barbuda,ATG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,24.8500263836871,urban_population_share
+Antigua and Barbuda,ATG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,24.9239807471655,urban_population_share
+Antigua and Barbuda,ATG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,25.0,urban_population_share
+Argentina,ARG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,91.8567844513802,urban_population_share
+Argentina,ARG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,91.7679941327998,urban_population_share
+Argentina,ARG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,91.6776028433824,urban_population_share
+Argentina,ARG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,91.5856817228217,urban_population_share
+Argentina,ARG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,91.4923019108628,urban_population_share
+Armenia,ARM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,65.0047033570428,urban_population_share
+Armenia,ARM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,64.8502833795679,urban_population_share
+Armenia,ARM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,64.7124948593667,urban_population_share
+Armenia,ARM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,64.5928753345316,urban_population_share
+Armenia,ARM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,64.4929623431549,urban_population_share
+Aruba,ABW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,62.288276286885,urban_population_share
+Aruba,ABW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,62.5367636985996,urban_population_share
+Aruba,ABW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,62.7768488886109,urban_population_share
+Aruba,ABW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,63.0077880571142,urban_population_share
+Aruba,ABW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,63.2288374043053,urban_population_share
+Australia,AUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,87.3019647888406,urban_population_share
+Australia,AUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,87.2267680845925,urban_population_share
+Australia,AUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,87.12809266445,urban_population_share
+Australia,AUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,87.0166295249235,urban_population_share
+Australia,AUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,86.8778642539361,urban_population_share
+Austria,AUT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,68.3176044750522,urban_population_share
+Austria,AUT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,68.1046787227623,urban_population_share
+Austria,AUT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,67.9051196052802,urban_population_share
+Austria,AUT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,67.7218061923556,urban_population_share
+Austria,AUT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,67.5576175537383,urban_population_share
+Azerbaijan,AZE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,58.1308191977779,urban_population_share
+Azerbaijan,AZE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,57.1841534654123,urban_population_share
+Azerbaijan,AZE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,56.4331887124691,urban_population_share
+Azerbaijan,AZE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,55.7574797205266,urban_population_share
+Azerbaijan,AZE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,55.1570486328276,urban_population_share
+"Bahamas, The",BHS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,81.8257463283204,urban_population_share
+"Bahamas, The",BHS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,81.9643158212241,urban_population_share
+"Bahamas, The",BHS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,82.0814018736052,urban_population_share
+"Bahamas, The",BHS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,82.1784378570728,urban_population_share
+"Bahamas, The",BHS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,82.2568571432361,urban_population_share
+Bahrain,BHR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,100.0,urban_population_share
+Bahrain,BHR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,100.0,urban_population_share
+Bahrain,BHR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,100.0,urban_population_share
+Bahrain,BHR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,100.0,urban_population_share
+Bahrain,BHR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,100.0,urban_population_share
+Bangladesh,BGD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,30.8228396343012,urban_population_share
+Bangladesh,BGD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,30.5175656009959,urban_population_share
+Bangladesh,BGD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,30.2015798381799,urban_population_share
+Bangladesh,BGD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,29.8753915517965,urban_population_share
+Bangladesh,BGD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,29.5395099477892,urban_population_share
+Barbados,BRB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,59.2841140645486,urban_population_share
+Barbados,BRB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,59.270175311893,urban_population_share
+Barbados,BRB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,59.25926986892,urban_population_share
+Barbados,BRB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,59.2510255301153,urban_population_share
+Barbados,BRB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,59.2450700899645,urban_population_share
+Belarus,BLR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,77.4550771852757,urban_population_share
+Belarus,BLR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,77.2132720947266,urban_population_share
+Belarus,BLR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,77.0208206176758,urban_population_share
+Belarus,BLR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,76.8458709716797,urban_population_share
+Belarus,BLR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,76.6263885498047,urban_population_share
+Belgium,BEL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,87.0961631189222,urban_population_share
+Belgium,BEL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,86.8883449485575,urban_population_share
+Belgium,BEL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,86.6731739531869,urban_population_share
+Belgium,BEL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,86.4507790979645,urban_population_share
+Belgium,BEL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,86.2212893480444,urban_population_share
+Belize,BLZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,42.9077622153323,urban_population_share
+Belize,BLZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,43.164848281502,urban_population_share
+Belize,BLZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,43.4211086747287,urban_population_share
+Belize,BLZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,43.6765514309211,urban_population_share
+Belize,BLZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,43.931184585988,urban_population_share
+Benin,BEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,48.7125500590248,urban_population_share
+Benin,BEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,47.9952829275963,urban_population_share
+Benin,BEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,47.2942774880391,urban_population_share
+Benin,BEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,46.6094559006664,urban_population_share
+Benin,BEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,45.9407403257663,urban_population_share
+Bermuda,BMU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,100.0,urban_population_share
+Bermuda,BMU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,100.0,urban_population_share
+Bermuda,BMU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,100.0,urban_population_share
+Bermuda,BMU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,100.0,urban_population_share
+Bermuda,BMU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,100.0,urban_population_share
+Bhutan,BTN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,39.0746823405146,urban_population_share
+Bhutan,BTN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,38.4661892776975,urban_population_share
+Bhutan,BTN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,37.8645544995016,urban_population_share
+Bhutan,BTN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,37.2745234641407,urban_population_share
+Bhutan,BTN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,36.6983375690037,urban_population_share
+Bolivia,BOL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,69.7334986708387,urban_population_share
+Bolivia,BOL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,69.4133879813999,urban_population_share
+Bolivia,BOL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,69.0838016274736,urban_population_share
+Bolivia,BOL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,68.7446327876947,urban_population_share
+Bolivia,BOL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,68.3958051297665,urban_population_share
+Bosnia and Herzegovina,BIH,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,49.4650440037758,urban_population_share
+Bosnia and Herzegovina,BIH,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,48.971927825824,urban_population_share
+Bosnia and Herzegovina,BIH,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,48.4918401819106,urban_population_share
+Bosnia and Herzegovina,BIH,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,48.0248845752382,urban_population_share
+Bosnia and Herzegovina,BIH,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,47.5711645087011,urban_population_share
+Botswana,BWA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,66.3271694845464,urban_population_share
+Botswana,BWA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,66.1579176461888,urban_population_share
+Botswana,BWA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,65.9456435684731,urban_population_share
+Botswana,BWA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,65.6949296854899,urban_population_share
+Botswana,BWA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,65.4103584313295,urban_population_share
+Brazil,BRA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,86.6797991084296,urban_population_share
+Brazil,BRA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,86.4420719945072,urban_population_share
+Brazil,BRA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,86.1982897571091,urban_population_share
+Brazil,BRA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,85.9487048448108,urban_population_share
+Brazil,BRA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,85.6935697061881,urban_population_share
+British Virgin Islands,VGB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,52.3907871425786,urban_population_share
+British Virgin Islands,VGB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,51.6322667220883,urban_population_share
+British Virgin Islands,VGB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,50.8953552772346,urban_population_share
+British Virgin Islands,VGB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,50.1800618642422,urban_population_share
+British Virgin Islands,VGB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,49.4863955390847,urban_population_share
+Brunei Darussalam,BRN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,74.7923311783673,urban_population_share
+Brunei Darussalam,BRN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,74.8172471714305,urban_population_share
+Brunei Darussalam,BRN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,74.8476440654983,urban_population_share
+Brunei Darussalam,BRN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,74.8816070556641,urban_population_share
+Brunei Darussalam,BRN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,74.9484620568562,urban_population_share
+Bulgaria,BGR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,73.7162322998047,urban_population_share
+Bulgaria,BGR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,73.600212097168,urban_population_share
+Bulgaria,BGR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,73.3904571533203,urban_population_share
+Bulgaria,BGR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,73.1750030517578,urban_population_share
+Bulgaria,BGR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,73.1030578613281,urban_population_share
+Burkina Faso,BFA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,26.1187254401157,urban_population_share
+Burkina Faso,BFA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,26.0832202154822,urban_population_share
+Burkina Faso,BFA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,25.9769918665632,urban_population_share
+Burkina Faso,BFA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,25.821510372001,urban_population_share
+Burkina Faso,BFA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,25.621432645225,urban_population_share
+Burundi,BDI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,18.786178154187,urban_population_share
+Burundi,BDI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,17.6820221982475,urban_population_share
+Burundi,BDI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,16.6241273909209,urban_population_share
+Burundi,BDI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,15.6180905635494,urban_population_share
+Burundi,BDI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,14.6695085474754,urban_population_share
+Cabo Verde,CPV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,71.6254285086577,urban_population_share
+Cabo Verde,CPV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,70.3970748844677,urban_population_share
+Cabo Verde,CPV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,69.1999988159713,urban_population_share
+Cabo Verde,CPV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,68.0354078358316,urban_population_share
+Cabo Verde,CPV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,66.9045094767116,urban_population_share
+Cambodia,KHM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,39.5830241256026,urban_population_share
+Cambodia,KHM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,37.6404336372742,urban_population_share
+Cambodia,KHM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,35.0127905056235,urban_population_share
+Cambodia,KHM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,32.4767436038024,urban_population_share
+Cambodia,KHM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,30.0669222549819,urban_population_share
+Cameroon,CMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,53.9487914119331,urban_population_share
+Cameroon,CMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,53.6339873660653,urban_population_share
+Cameroon,CMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,53.3115142121504,urban_population_share
+Cameroon,CMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,52.9815033836792,urban_population_share
+Cameroon,CMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,52.6440863142742,urban_population_share
+Canada,CAN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,81.7363672047941,urban_population_share
+Canada,CAN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,81.5500341646653,urban_population_share
+Canada,CAN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,81.4018945832226,urban_population_share
+Canada,CAN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,81.3023011093703,urban_population_share
+Canada,CAN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,81.2465670276699,urban_population_share
+Cayman Islands,CYM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,100.0,urban_population_share
+Cayman Islands,CYM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,100.0,urban_population_share
+Cayman Islands,CYM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,100.0,urban_population_share
+Cayman Islands,CYM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,100.0,urban_population_share
+Cayman Islands,CYM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,100.0,urban_population_share
+Central African Republic,CAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,41.7800430407332,urban_population_share
+Central African Republic,CAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,41.2824666248606,urban_population_share
+Central African Republic,CAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,40.8151443386334,urban_population_share
+Central African Republic,CAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,40.3808711749566,urban_population_share
+Central African Republic,CAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,39.9824421267351,urban_population_share
+Chad,TCD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,24.2731047386633,urban_population_share
+Chad,TCD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,23.8486084924975,urban_population_share
+Chad,TCD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,23.461349471105,urban_population_share
+Chad,TCD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,23.1119734707179,urban_population_share
+Chad,TCD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,22.8011258828974,urban_population_share
+Channel Islands,CHI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,32.8235411026876,urban_population_share
+Channel Islands,CHI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,32.8125991997971,urban_population_share
+Channel Islands,CHI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,32.7853219355631,urban_population_share
+Channel Islands,CHI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,32.7426259745361,urban_population_share
+Channel Islands,CHI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,32.6907784276403,urban_population_share
+Chile,CHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,88.1273685623538,urban_population_share
+Chile,CHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,87.9620493753008,urban_population_share
+Chile,CHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,87.8000295757281,urban_population_share
+Chile,CHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,87.6306290578181,urban_population_share
+Chile,CHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,87.4653320342387,urban_population_share
+China,CHN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,62.7099151611328,urban_population_share
+China,CHN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,61.5001983642578,urban_population_share
+China,CHN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,60.2402687072754,urban_population_share
+China,CHN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,58.8399238586426,urban_population_share
+China,CHN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,57.3297843933105,urban_population_share
+Colombia,COL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,77.4595528518377,urban_population_share
+Colombia,COL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,77.2804816598084,urban_population_share
+Colombia,COL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,77.2245191706503,urban_population_share
+Colombia,COL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,77.2036266362166,urban_population_share
+Colombia,COL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,77.1636280538646,urban_population_share
+Comoros,COM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,31.7287584068243,urban_population_share
+Comoros,COM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,31.4073645195839,urban_population_share
+Comoros,COM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,31.0996559689293,urban_population_share
+Comoros,COM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,30.7305018169792,urban_population_share
+Comoros,COM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,30.3732008585112,urban_population_share
+"Congo, Dem. Rep.",COD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,42.8747090907476,urban_population_share
+"Congo, Dem. Rep.",COD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,42.4946599159958,urban_population_share
+"Congo, Dem. Rep.",COD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,42.1127579403217,urban_population_share
+"Congo, Dem. Rep.",COD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,41.7290483782911,urban_population_share
+"Congo, Dem. Rep.",COD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,41.3435764444694,urban_population_share
+"Congo, Rep.",COG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,63.5176376123385,urban_population_share
+"Congo, Rep.",COG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,63.4434577481975,urban_population_share
+"Congo, Rep.",COG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,63.3544545340423,urban_population_share
+"Congo, Rep.",COG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,63.2515316469123,urban_population_share
+"Congo, Rep.",COG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,63.135592763847,urban_population_share
+Costa Rica,CRI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,77.0435864735963,urban_population_share
+Costa Rica,CRI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,76.5544308439668,urban_population_share
+Costa Rica,CRI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,76.0539254265608,urban_population_share
+Costa Rica,CRI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,75.5423088085047,urban_population_share
+Costa Rica,CRI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,75.0198195767549,urban_population_share
+Cote d'Ivoire,CIV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,51.3514799771241,urban_population_share
+Cote d'Ivoire,CIV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,50.8718477756395,urban_population_share
+Cote d'Ivoire,CIV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,50.3977309654344,urban_population_share
+Cote d'Ivoire,CIV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,49.929991034032,urban_population_share
+Cote d'Ivoire,CIV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,49.4694894689553,urban_population_share
+Croatia,HRV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,56.303247958306,urban_population_share
+Croatia,HRV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,56.093170097094,urban_population_share
+Croatia,HRV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,55.9009887365155,urban_population_share
+Croatia,HRV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,55.7294398599808,urban_population_share
+Croatia,HRV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,55.5812594509004,urban_population_share
+Cuba,CUB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,77.0728225708008,urban_population_share
+Cuba,CUB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,77.0156326293945,urban_population_share
+Cuba,CUB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,76.9603271484375,urban_population_share
+Cuba,CUB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,76.9115829467773,urban_population_share
+Cuba,CUB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,76.8702850341797,urban_population_share
+Curacao,CUW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,91.3714918191305,urban_population_share
+Curacao,CUW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,91.3601331655991,urban_population_share
+Curacao,CUW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,91.3480685861287,urban_population_share
+Curacao,CUW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,91.3353544596205,urban_population_share
+Curacao,CUW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,91.3220471649755,urban_population_share
+Cyprus,CYP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,66.7677357070518,urban_population_share
+Cyprus,CYP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,66.8255530496405,urban_population_share
+Cyprus,CYP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,66.8907450570326,urban_population_share
+Cyprus,CYP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,66.9625604106231,urban_population_share
+Cyprus,CYP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,67.0402477918073,urban_population_share
+Czechia,CZE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,72.7876426709563,urban_population_share
+Czechia,CZE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,72.8498744351241,urban_population_share
+Czechia,CZE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,72.9121853567256,urban_population_share
+Czechia,CZE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,72.9745753395623,urban_population_share
+Czechia,CZE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,73.0370442874355,urban_population_share
+Denmark,DNK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,88.2096490810669,urban_population_share
+Denmark,DNK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,88.1059762310689,urban_population_share
+Denmark,DNK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,88.0161943799509,urban_population_share
+Denmark,DNK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,87.6999969482422,urban_population_share
+Denmark,DNK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,87.7254056577329,urban_population_share
+Djibouti,DJI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,71.7418146554518,urban_population_share
+Djibouti,DJI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,71.5153442785902,urban_population_share
+Djibouti,DJI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,71.318261933957,urban_population_share
+Djibouti,DJI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,71.1492236341041,urban_population_share
+Djibouti,DJI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,71.0068853915837,urban_population_share
+Dominica,DMA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,71.4382284948964,urban_population_share
+Dominica,DMA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,71.0362526779762,urban_population_share
+Dominica,DMA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,70.6405848604787,urban_population_share
+Dominica,DMA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,70.2511605730541,urban_population_share
+Dominica,DMA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,69.8679153463528,urban_population_share
+Dominican Republic,DOM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,73.5403464672933,urban_population_share
+Dominican Republic,DOM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,73.7589255716938,urban_population_share
+Dominican Republic,DOM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,73.926806252977,urban_population_share
+Dominican Republic,DOM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,74.0506780735522,urban_population_share
+Dominican Republic,DOM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,74.1372305958285,urban_population_share
+Ecuador,ECU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,63.0627139714638,urban_population_share
+Ecuador,ECU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,63.0433276812321,urban_population_share
+Ecuador,ECU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,63.0194591842425,urban_population_share
+Ecuador,ECU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,62.9913367571804,urban_population_share
+Ecuador,ECU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,62.959188676731,urban_population_share
+"Egypt, Arab Rep.",EGY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,42.4812027332648,urban_population_share
+"Egypt, Arab Rep.",EGY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,42.4577177449969,urban_population_share
+"Egypt, Arab Rep.",EGY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,42.4486008687179,urban_population_share
+"Egypt, Arab Rep.",EGY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,42.5210717266225,urban_population_share
+"Egypt, Arab Rep.",EGY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,42.6056314089048,urban_population_share
+El Salvador,SLV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,72.4148941040039,urban_population_share
+El Salvador,SLV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,71.7577209472656,urban_population_share
+El Salvador,SLV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,71.0856704711914,urban_population_share
+El Salvador,SLV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,70.3990173339844,urban_population_share
+El Salvador,SLV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,69.6982116699219,urban_population_share
+Equatorial Guinea,GNQ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,70.1175419547293,urban_population_share
+Equatorial Guinea,GNQ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,69.8396623666175,urban_population_share
+Equatorial Guinea,GNQ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,69.5516019132985,urban_population_share
+Equatorial Guinea,GNQ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,69.253269853051,urban_population_share
+Equatorial Guinea,GNQ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,68.951270615355,urban_population_share
+Eritrea,ERI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,35.2352333068848,urban_population_share
+Eritrea,ERI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,35.3451042175293,urban_population_share
+Eritrea,ERI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,35.4427146911621,urban_population_share
+Eritrea,ERI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,35.5254287719727,urban_population_share
+Eritrea,ERI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,35.591007232666,urban_population_share
+Estonia,EST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,69.5787397662154,urban_population_share
+Estonia,EST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,69.2803532930133,urban_population_share
+Estonia,EST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,68.9931941915158,urban_population_share
+Estonia,EST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,68.724038178078,urban_population_share
+Estonia,EST,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,68.4796609690553,urban_population_share
+Eswatini,SWZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,24.3459549517751,urban_population_share
+Eswatini,SWZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,24.0579295404227,urban_population_share
+Eswatini,SWZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,23.8052004963161,urban_population_share
+Eswatini,SWZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,23.5278881746356,urban_population_share
+Eswatini,SWZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,23.2660261759632,urban_population_share
+Ethiopia,ETH,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,21.2486705780029,urban_population_share
+Ethiopia,ETH,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,20.7838096618652,urban_population_share
+Ethiopia,ETH,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,20.3084850311279,urban_population_share
+Ethiopia,ETH,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,19.8763618469238,urban_population_share
+Ethiopia,ETH,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,19.451566696167,urban_population_share
+Faroe Islands,FRO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,38.3945655822754,urban_population_share
+Faroe Islands,FRO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,38.4058837890625,urban_population_share
+Faroe Islands,FRO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,38.3324699401855,urban_population_share
+Faroe Islands,FRO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,38.3200225830078,urban_population_share
+Faroe Islands,FRO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,38.1431503295898,urban_population_share
+Fiji,FJI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,56.70989552257,urban_population_share
+Fiji,FJI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,56.2328347385698,urban_population_share
+Fiji,FJI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,55.7408343449609,urban_population_share
+Fiji,FJI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,55.1734720973874,urban_population_share
+Fiji,FJI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,54.6234188083653,urban_population_share
+Finland,FIN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,72.7431214358314,urban_population_share
+Finland,FIN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,72.3423467740343,urban_population_share
+Finland,FIN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,71.9563038312956,urban_population_share
+Finland,FIN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,71.6158383428171,urban_population_share
+Finland,FIN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,71.3054930040604,urban_population_share
+France,FRA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,78.6890784549356,urban_population_share
+France,FRA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,78.6714432536599,urban_population_share
+France,FRA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,78.6467804026368,urban_population_share
+France,FRA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,78.5999114705779,urban_population_share
+France,FRA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,77.7610919150066,urban_population_share
+French Polynesia,PYF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,61.7824142427508,urban_population_share
+French Polynesia,PYF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,61.7888025236875,urban_population_share
+French Polynesia,PYF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,61.7896941062846,urban_population_share
+French Polynesia,PYF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,61.7744381369651,urban_population_share
+French Polynesia,PYF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,61.7374742154907,urban_population_share
+Gabon,GAB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,89.9031850170394,urban_population_share
+Gabon,GAB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,89.4539949981866,urban_population_share
+Gabon,GAB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,89.0009733256896,urban_population_share
+Gabon,GAB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,88.5445883406178,urban_population_share
+Gabon,GAB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,88.085308383892,urban_population_share
+"Gambia, The",GMB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,61.643210849607,urban_population_share
+"Gambia, The",GMB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,61.0645869348107,urban_population_share
+"Gambia, The",GMB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,60.471712657237,urban_population_share
+"Gambia, The",GMB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,59.8652472486563,urban_population_share
+"Gambia, The",GMB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,59.2458499408388,urban_population_share
+Georgia,GEO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,58.6304091780343,urban_population_share
+Georgia,GEO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,58.3038181862576,urban_population_share
+Georgia,GEO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,57.9996827205757,urban_population_share
+Georgia,GEO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,57.6984032005062,urban_population_share
+Georgia,GEO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,57.3803800455672,urban_population_share
+Germany,DEU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,81.3053991689039,urban_population_share
+Germany,DEU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,81.1423036204018,urban_population_share
+Germany,DEU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,80.9842544038853,urban_population_share
+Germany,DEU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,80.8347870684725,urban_population_share
+Germany,DEU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,80.6974371632814,urban_population_share
+Ghana,GHA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,55.7246279109161,urban_population_share
+Ghana,GHA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,55.218477566593,urban_population_share
+Ghana,GHA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,54.6991419779128,urban_population_share
+Ghana,GHA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,54.167052758274,urban_population_share
+Ghana,GHA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,53.6226415210752,urban_population_share
+Gibraltar,GIB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,100.0,urban_population_share
+Gibraltar,GIB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,100.0,urban_population_share
+Gibraltar,GIB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,100.0,urban_population_share
+Gibraltar,GIB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,100.0,urban_population_share
+Gibraltar,GIB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,100.0,urban_population_share
+Greece,GRC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,78.1888100466875,urban_population_share
+Greece,GRC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,78.0490656849874,urban_population_share
+Greece,GRC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,77.8895342613411,urban_population_share
+Greece,GRC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,77.7122988766348,urban_population_share
+Greece,GRC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,77.5194426317545,urban_population_share
+Greenland,GRL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,87.0217895507812,urban_population_share
+Greenland,GRL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,86.72509765625,urban_population_share
+Greenland,GRL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,86.3915557861328,urban_population_share
+Greenland,GRL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,86.2261047363281,urban_population_share
+Greenland,GRL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,86.046257019043,urban_population_share
+Grenada,GRD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,36.1346465679904,urban_population_share
+Grenada,GRD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,36.0720421424532,urban_population_share
+Grenada,GRD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,36.0173296416579,urban_population_share
+Grenada,GRD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,35.9706014181883,urban_population_share
+Grenada,GRD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,35.9319491111708,urban_population_share
+Guam,GUM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,94.0799802498939,urban_population_share
+Guam,GUM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,94.079885002321,urban_population_share
+Guam,GUM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,94.0797139460527,urban_population_share
+Guam,GUM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,94.079467256407,urban_population_share
+Guam,GUM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,94.079145108702,urban_population_share
+Guatemala,GTM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,54.1882267267974,urban_population_share
+Guatemala,GTM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,53.845962303542,urban_population_share
+Guatemala,GTM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,53.7994723140017,urban_population_share
+Guatemala,GTM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,53.6609232857043,urban_population_share
+Guatemala,GTM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,53.4411050262961,urban_population_share
+Guinea,GIN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,36.1281547546387,urban_population_share
+Guinea,GIN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,35.8554382324219,urban_population_share
+Guinea,GIN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,35.5827331542969,urban_population_share
+Guinea,GIN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,35.3100280761719,urban_population_share
+Guinea,GIN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,35.0373191833496,urban_population_share
+Guinea-Bissau,GNB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,43.8745574951172,urban_population_share
+Guinea-Bissau,GNB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,43.4449081420898,urban_population_share
+Guinea-Bissau,GNB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,43.0155792236328,urban_population_share
+Guinea-Bissau,GNB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,42.586109161377,urban_population_share
+Guinea-Bissau,GNB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,42.1568145751953,urban_population_share
+Guyana,GUY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,26.4258834773058,urban_population_share
+Guyana,GUY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,26.4188378517884,urban_population_share
+Guyana,GUY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,26.412905546573,urban_population_share
+Guyana,GUY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,26.4080892882899,urban_population_share
+Guyana,GUY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,26.4043918297579,urban_population_share
+Haiti,HTI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,52.0069059952475,urban_population_share
+Haiti,HTI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,51.374898112219,urban_population_share
+Haiti,HTI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,50.735083378449,urban_population_share
+Haiti,HTI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,50.087821148256,urban_population_share
+Haiti,HTI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,49.4334707759572,urban_population_share
+Honduras,HND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,56.3791561389766,urban_population_share
+Honduras,HND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,55.8852577716247,urban_population_share
+Honduras,HND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,55.3877322339915,urban_population_share
+Honduras,HND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,54.8868414578857,urban_population_share
+Honduras,HND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,54.3828473751434,urban_population_share
+"Hong Kong SAR, China",HKG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,100.0,urban_population_share
+"Hong Kong SAR, China",HKG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,100.0,urban_population_share
+"Hong Kong SAR, China",HKG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,100.0,urban_population_share
+"Hong Kong SAR, China",HKG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,100.0,urban_population_share
+"Hong Kong SAR, China",HKG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,100.0,urban_population_share
+Hungary,HUN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,70.4565277099609,urban_population_share
+Hungary,HUN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,70.4711761474609,urban_population_share
+Hungary,HUN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,70.4542541503906,urban_population_share
+Hungary,HUN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,70.4733810424805,urban_population_share
+Hungary,HUN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,70.4847717285156,urban_population_share
+Iceland,ISL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,93.9770847416131,urban_population_share
+Iceland,ISL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,93.8526667025487,urban_population_share
+Iceland,ISL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,93.7718982310092,urban_population_share
+Iceland,ISL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,93.7822647094726,urban_population_share
+Iceland,ISL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,93.727919768566,urban_population_share
+India,IND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,33.8139578818147,urban_population_share
+India,IND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,33.4984353473598,urban_population_share
+India,IND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,33.1821328157539,urban_population_share
+India,IND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,32.8650780972823,urban_population_share
+India,IND,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,32.5472990022299,urban_population_share
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,55.7382049560547,urban_population_share
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,55.0956840515137,urban_population_share
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,54.4541015625,urban_population_share
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,53.812557220459,urban_population_share
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,53.1720771789551,urban_population_share
+"Iran, Islamic Rep.",IRN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,75.2038879394531,urban_population_share
+"Iran, Islamic Rep.",IRN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,74.8034286499023,urban_population_share
+"Iran, Islamic Rep.",IRN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,74.4011840820312,urban_population_share
+"Iran, Islamic Rep.",IRN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,73.8796100096595,urban_population_share
+"Iran, Islamic Rep.",IRN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,73.3561403575949,urban_population_share
+Iraq,IRQ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,69.8683395385742,urban_population_share
+Iraq,IRQ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,69.8765148865842,urban_population_share
+Iraq,IRQ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,69.8944511190753,urban_population_share
+Iraq,IRQ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,69.9123778259643,urban_population_share
+Iraq,IRQ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,69.920524597168,urban_population_share
+Ireland,IRL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,63.2737009154127,urban_population_share
+Ireland,IRL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,63.0844503476779,urban_population_share
+Ireland,IRL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,62.9035196521232,urban_population_share
+Ireland,IRL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,62.7229399123734,urban_population_share
+Ireland,IRL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,62.6392123492764,urban_population_share
+Isle of Man,IMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,52.1789898247578,urban_population_share
+Isle of Man,IMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,52.1651893864538,urban_population_share
+Isle of Man,IMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,52.1498415744309,urban_population_share
+Isle of Man,IMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,52.1331532169475,urban_population_share
+Isle of Man,IMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,52.1164840474526,urban_population_share
+Israel,ISR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,91.6154002002652,urban_population_share
+Israel,ISR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,91.6456193546346,urban_population_share
+Israel,ISR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,91.6701057535759,urban_population_share
+Israel,ISR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,91.6894623646632,urban_population_share
+Israel,ISR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,91.7042921554705,urban_population_share
+Italy,ITA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,69.5050010681153,urban_population_share
+Italy,ITA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,69.4800033569336,urban_population_share
+Italy,ITA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,69.5180784259382,urban_population_share
+Italy,ITA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,69.5969232525286,urban_population_share
+Italy,ITA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,69.6100006103516,urban_population_share
+Jamaica,JAM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,56.6957957395074,urban_population_share
+Jamaica,JAM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,56.297410990325,urban_population_share
+Jamaica,JAM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,55.9152267548307,urban_population_share
+Jamaica,JAM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,55.549259277615,urban_population_share
+Jamaica,JAM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,55.1995248014924,urban_population_share
+Japan,JPN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,91.7164207898107,urban_population_share
+Japan,JPN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,91.6377318609728,urban_population_share
+Japan,JPN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,91.5498419685883,urban_population_share
+Japan,JPN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,91.4541254852142,urban_population_share
+Japan,JPN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,91.3532644103625,urban_population_share
+Jordan,JOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,91.515966492507,urban_population_share
+Jordan,JOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,91.2008859099729,urban_population_share
+Jordan,JOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,90.8764609714428,urban_population_share
+Jordan,JOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,90.56272794707,urban_population_share
+Jordan,JOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,89.8881391939133,urban_population_share
+Kazakhstan,KAZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,59.0832474269546,urban_population_share
+Kazakhstan,KAZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,58.2388038921695,urban_population_share
+Kazakhstan,KAZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,57.4586448748837,urban_population_share
+Kazakhstan,KAZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,56.7476265001667,urban_population_share
+Kazakhstan,KAZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,56.1106048930882,urban_population_share
+Kenya,KEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,31.1895566421135,urban_population_share
+Kenya,KEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,31.3940041639796,urban_population_share
+Kenya,KEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,31.5383650847102,urban_population_share
+Kenya,KEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,31.6502520105647,urban_population_share
+Kenya,KEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,31.7338026039958,urban_population_share
+Kiribati,KIR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,56.2846727145489,urban_population_share
+Kiribati,KIR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,54.5004023142497,urban_population_share
+Kiribati,KIR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,52.9734697275451,urban_population_share
+Kiribati,KIR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,51.7710553002321,urban_population_share
+Kiribati,KIR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,50.9541970402064,urban_population_share
+"Korea, Dem. People's Rep.",PRK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,62.3542226611578,urban_population_share
+"Korea, Dem. People's Rep.",PRK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,62.0826119807623,urban_population_share
+"Korea, Dem. People's Rep.",PRK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,61.8206076091402,urban_population_share
+"Korea, Dem. People's Rep.",PRK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,61.5681351428803,urban_population_share
+"Korea, Dem. People's Rep.",PRK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,61.3247571174501,urban_population_share
+"Korea, Rep.",KOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,81.2901063535619,urban_population_share
+"Korea, Rep.",KOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,81.3823523035196,urban_population_share
+"Korea, Rep.",KOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,81.471030429984,urban_population_share
+"Korea, Rep.",KOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,81.5559241797057,urban_population_share
+"Korea, Rep.",KOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,81.639489860678,urban_population_share
+Kosovo,XKX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,44.0002171565695,urban_population_share
+Kosovo,XKX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,42.8378095837429,urban_population_share
+Kosovo,XKX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,41.7578065585746,urban_population_share
+Kosovo,XKX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,40.7783748317802,urban_population_share
+Kosovo,XKX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,39.917681154075,urban_population_share
+Kuwait,KWT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,100.0,urban_population_share
+Kuwait,KWT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,100.0,urban_population_share
+Kuwait,KWT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,100.0,urban_population_share
+Kuwait,KWT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,100.0,urban_population_share
+Kuwait,KWT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,100.0,urban_population_share
+Kyrgyz Republic,KGZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,34.8805205758044,urban_population_share
+Kyrgyz Republic,KGZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,34.9408997219466,urban_population_share
+Kyrgyz Republic,KGZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,34.9980805726839,urban_population_share
+Kyrgyz Republic,KGZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,35.0515747230627,urban_population_share
+Kyrgyz Republic,KGZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,35.1008937681291,urban_population_share
+Lao PDR,LAO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,35.9072880879451,urban_population_share
+Lao PDR,LAO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,35.2050070032013,urban_population_share
+Lao PDR,LAO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,34.5115346444216,urban_population_share
+Lao PDR,LAO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,33.8267455533474,urban_population_share
+Lao PDR,LAO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,33.1240204432199,urban_population_share
+Latvia,LVA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,68.066323694246,urban_population_share
+Latvia,LVA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,68.0160346376376,urban_population_share
+Latvia,LVA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,67.9706866054779,urban_population_share
+Latvia,LVA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,67.9307110858472,urban_population_share
+Latvia,LVA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,67.8965395668259,urban_population_share
+Lebanon,LBN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,89.4986743521503,urban_population_share
+Lebanon,LBN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,89.272833088641,urban_population_share
+Lebanon,LBN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,89.0519233886895,urban_population_share
+Lebanon,LBN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,88.835892633396,urban_population_share
+Lebanon,LBN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,88.6246882038608,urban_population_share
+Lesotho,LSO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,38.6040920446259,urban_population_share
+Lesotho,LSO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,37.569092747415,urban_population_share
+Lesotho,LSO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,36.5283648068846,urban_population_share
+Lesotho,LSO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,35.5077950709441,urban_population_share
+Lesotho,LSO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,34.0903875831861,urban_population_share
+Liberia,LBR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,52.85526226447,urban_population_share
+Liberia,LBR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,52.3245795497906,urban_population_share
+Liberia,LBR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,51.7957569553849,urban_population_share
+Liberia,LBR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,51.2687310234384,urban_population_share
+Liberia,LBR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,50.7434382961363,urban_population_share
+Libya,LBY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,87.8220115209342,urban_population_share
+Libya,LBY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,87.818484275334,urban_population_share
+Libya,LBY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,87.8166729870528,urban_population_share
+Libya,LBY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,87.8160056703177,urban_population_share
+Libya,LBY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,87.8159103393555,urban_population_share
+Liechtenstein,LIE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,14.6070830005951,urban_population_share
+Liechtenstein,LIE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,14.5565184941154,urban_population_share
+Liechtenstein,LIE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,14.5144332791067,urban_population_share
+Liechtenstein,LIE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,14.4802918687379,urban_population_share
+Liechtenstein,LIE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,14.4535587761782,urban_population_share
+Lithuania,LTU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,67.245735168457,urban_population_share
+Lithuania,LTU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,67.1464742010457,urban_population_share
+Lithuania,LTU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,67.1012954711914,urban_population_share
+Lithuania,LTU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,67.1894226074219,urban_population_share
+Lithuania,LTU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,67.2282485961914,urban_population_share
+Luxembourg,LUX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,93.2589839734767,urban_population_share
+Luxembourg,LUX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,92.6709441899184,urban_population_share
+Luxembourg,LUX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,92.0963768119916,urban_population_share
+Luxembourg,LUX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,91.5357090052649,urban_population_share
+Luxembourg,LUX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,90.9893679353068,urban_population_share
+"Macao SAR, China",MAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,100.0,urban_population_share
+"Macao SAR, China",MAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,100.0,urban_population_share
+"Macao SAR, China",MAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,100.0,urban_population_share
+"Macao SAR, China",MAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,100.0,urban_population_share
+"Macao SAR, China",MAC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,100.0,urban_population_share
+Madagascar,MDG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,30.3046972370204,urban_population_share
+Madagascar,MDG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,29.9181125346909,urban_population_share
+Madagascar,MDG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,29.671033028335,urban_population_share
+Madagascar,MDG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,29.4239466316878,urban_population_share
+Madagascar,MDG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,29.1731079210354,urban_population_share
+Malawi,MWI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,16.1383746619001,urban_population_share
+Malawi,MWI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,16.0221486554255,urban_population_share
+Malawi,MWI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,15.9634281867266,urban_population_share
+Malawi,MWI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,15.899632938282,urban_population_share
+Malawi,MWI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,15.8338504946918,urban_population_share
+Malaysia,MYS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,74.8377707734042,urban_population_share
+Malaysia,MYS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,74.5634625145296,urban_population_share
+Malaysia,MYS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,74.2354806421432,urban_population_share
+Malaysia,MYS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,73.8588978909614,urban_population_share
+Malaysia,MYS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,73.4387869957006,urban_population_share
+Maldives,MDV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,40.0492764783282,urban_population_share
+Maldives,MDV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,39.6923354428279,urban_population_share
+Maldives,MDV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,39.32787719143,urban_population_share
+Maldives,MDV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,38.9560872317815,urban_population_share
+Maldives,MDV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,38.5771510715291,urban_population_share
+Mali,MLI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,28.3520715749509,urban_population_share
+Mali,MLI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,27.6999185916288,urban_population_share
+Mali,MLI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,27.0646702892896,urban_population_share
+Mali,MLI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,26.4468586077195,urban_population_share
+Mali,MLI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,25.847015486705,urban_population_share
+Malta,MLT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,94.9332032524644,urban_population_share
+Malta,MLT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,94.7242373261706,urban_population_share
+Malta,MLT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,94.5691806330314,urban_population_share
+Malta,MLT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,94.4800033569336,urban_population_share
+Malta,MLT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,94.4387696268011,urban_population_share
+Marshall Islands,MHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,76.9422712042154,urban_population_share
+Marshall Islands,MHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,76.5886712229035,urban_population_share
+Marshall Islands,MHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,76.2253071645634,urban_population_share
+Marshall Islands,MHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,75.8524215301796,urban_population_share
+Marshall Islands,MHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,75.4702568207363,urban_population_share
+Mauritania,MRT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,56.0596215779146,urban_population_share
+Mauritania,MRT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,55.1305077000081,urban_population_share
+Mauritania,MRT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,54.1970448502004,urban_population_share
+Mauritania,MRT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,52.9185627319946,urban_population_share
+Mauritania,MRT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,51.6680350049622,urban_population_share
+Mauritius,MUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,39.2509492806955,urban_population_share
+Mauritius,MUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,39.3474905591359,urban_population_share
+Mauritius,MUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,39.4499348663789,urban_population_share
+Mauritius,MUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,39.5578893260494,urban_population_share
+Mauritius,MUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,39.6709610617726,urban_population_share
+Mexico,MEX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,78.355984332992,urban_population_share
+Mexico,MEX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,78.0271223924494,urban_population_share
+Mexico,MEX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,77.7206924598541,urban_population_share
+Mexico,MEX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,77.4405087351486,urban_population_share
+Mexico,MEX,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,77.1903854182753,urban_population_share
+"Micronesia, Fed. Sts.",FSM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,22.359245777081,urban_population_share
+"Micronesia, Fed. Sts.",FSM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,22.3449820355433,urban_population_share
+"Micronesia, Fed. Sts.",FSM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,22.332401189542,urban_population_share
+"Micronesia, Fed. Sts.",FSM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,22.3214896137555,urban_population_share
+"Micronesia, Fed. Sts.",FSM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,22.3122336099411,urban_population_share
+Moldova,MDA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,40.772289276123,urban_population_share
+Moldova,MDA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,40.3258094787598,urban_population_share
+Moldova,MDA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,39.9736557006836,urban_population_share
+Moldova,MDA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,39.7373237609863,urban_population_share
+Moldova,MDA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,39.6954040527344,urban_population_share
+Monaco,MCO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,100.0,urban_population_share
+Monaco,MCO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,100.0,urban_population_share
+Monaco,MCO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,100.0,urban_population_share
+Monaco,MCO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,100.0,urban_population_share
+Monaco,MCO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,100.0,urban_population_share
+Mongolia,MNG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,67.8277299551557,urban_population_share
+Mongolia,MNG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,67.8683444833372,urban_population_share
+Mongolia,MNG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,67.9260583223672,urban_population_share
+Mongolia,MNG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,67.9776754820979,urban_population_share
+Mongolia,MNG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,67.9999999906095,urban_population_share
+Montenegro,MNE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,65.1686759904159,urban_population_share
+Montenegro,MNE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,65.0854068937869,urban_population_share
+Montenegro,MNE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,64.9992438680584,urban_population_share
+Montenegro,MNE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,64.9101692293409,urban_population_share
+Montenegro,MNE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,64.8181652937171,urban_population_share
+Morocco,MAR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,61.8430450233765,urban_population_share
+Morocco,MAR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,61.5695822753314,urban_population_share
+Morocco,MAR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,61.2761057031842,urban_population_share
+Morocco,MAR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,60.9657656537179,urban_population_share
+Morocco,MAR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,60.6417124737154,urban_population_share
+Mozambique,MOZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,33.4177241517032,urban_population_share
+Mozambique,MOZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,32.9902559073541,urban_population_share
+Mozambique,MOZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,32.6274411492675,urban_population_share
+Mozambique,MOZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,32.3819234395234,urban_population_share
+Mozambique,MOZ,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,32.1372836259918,urban_population_share
+Myanmar,MMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,30.0782436945232,urban_population_share
+Myanmar,MMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,29.993574050729,urban_population_share
+Myanmar,MMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,29.9051727703437,urban_population_share
+Myanmar,MMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,29.8129165582094,urban_population_share
+Myanmar,MMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,29.7166821191682,urban_population_share
+Namibia,NAM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,48.0019807724839,urban_population_share
+Namibia,NAM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,47.4232814423189,urban_population_share
+Namibia,NAM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,46.8135799686288,urban_population_share
+Namibia,NAM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,46.1751725648784,urban_population_share
+Namibia,NAM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,45.5103554445325,urban_population_share
+Nauru,NRU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,100.0,urban_population_share
+Nauru,NRU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,100.0,urban_population_share
+Nauru,NRU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,100.0,urban_population_share
+Nauru,NRU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,100.0,urban_population_share
+Nauru,NRU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,100.0,urban_population_share
+Nepal,NPL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,65.9873929484157,urban_population_share
+Nepal,NPL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,65.8104229225551,urban_population_share
+Nepal,NPL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,65.5768928085184,urban_population_share
+Nepal,NPL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,65.2895168835553,urban_population_share
+Nepal,NPL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,64.9510094249155,urban_population_share
+Netherlands,NLD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,93.8898028856479,urban_population_share
+Netherlands,NLD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,92.6062472401044,urban_population_share
+Netherlands,NLD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,91.1219700676602,urban_population_share
+Netherlands,NLD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,90.5803239452777,urban_population_share
+Netherlands,NLD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,90.2787737214621,urban_population_share
+New Caledonia,NCL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,67.1574673707832,urban_population_share
+New Caledonia,NCL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,67.0588809757675,urban_population_share
+New Caledonia,NCL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,66.9683393293094,urban_population_share
+New Caledonia,NCL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,66.8902054658406,urban_population_share
+New Caledonia,NCL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,66.8278045547803,urban_population_share
+New Zealand,NZL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,83.804965871667,urban_population_share
+New Zealand,NZL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,83.8017846685577,urban_population_share
+New Zealand,NZL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,84.1701025874108,urban_population_share
+New Zealand,NZL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,84.691365594,urban_population_share
+New Zealand,NZL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,85.1518763760531,urban_population_share
+Nicaragua,NIC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,58.5405671448072,urban_population_share
+Nicaragua,NIC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,58.3683858659405,urban_population_share
+Nicaragua,NIC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,58.1892567408822,urban_population_share
+Nicaragua,NIC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,58.0043880782023,urban_population_share
+Nicaragua,NIC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,57.8149881864705,urban_population_share
+Niger,NER,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,16.813146499685,urban_population_share
+Niger,NER,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,16.6449011799221,urban_population_share
+Niger,NER,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,16.5036987906896,urban_population_share
+Niger,NER,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,16.3898280543236,urban_population_share
+Niger,NER,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,16.3035606587493,urban_population_share
+Nigeria,NGA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,58.9611186427056,urban_population_share
+Nigeria,NGA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,58.1553347527729,urban_population_share
+Nigeria,NGA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,57.3486345560101,urban_population_share
+Nigeria,NGA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,56.541038793347,urban_population_share
+Nigeria,NGA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,55.7325682057138,urban_population_share
+North Macedonia,MKD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,60.6286848102132,urban_population_share
+North Macedonia,MKD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,60.1580316016216,urban_population_share
+North Macedonia,MKD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,59.7437719356273,urban_population_share
+North Macedonia,MKD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,59.3823070989891,urban_population_share
+North Macedonia,MKD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,59.0700383784659,urban_population_share
+Northern Mariana Islands,MNP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,91.6162852134162,urban_population_share
+Northern Mariana Islands,MNP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,91.5444506155168,urban_population_share
+Northern Mariana Islands,MNP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,91.4720215898621,urban_population_share
+Northern Mariana Islands,MNP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,91.3990047853283,urban_population_share
+Northern Mariana Islands,MNP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,91.3254068507915,urban_population_share
+Norway,NOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,82.4935894878281,urban_population_share
+Norway,NOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,82.2452112401723,urban_population_share
+Norway,NOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,81.9699745912375,urban_population_share
+Norway,NOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,81.6800003051758,urban_population_share
+Norway,NOR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,81.2378240971353,urban_population_share
+Oman,OMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,79.5780017545962,urban_population_share
+Oman,OMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,78.9655839720276,urban_population_share
+Oman,OMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,78.3142260040136,urban_population_share
+Oman,OMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,77.7521362304688,urban_population_share
+Oman,OMN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,77.3025363037955,urban_population_share
+Pakistan,PAK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,37.1091631735769,urban_population_share
+Pakistan,PAK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,36.7478511550359,urban_population_share
+Pakistan,PAK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,36.4351548223399,urban_population_share
+Pakistan,PAK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,36.1597184900333,urban_population_share
+Pakistan,PAK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,35.9017325715342,urban_population_share
+Palau,PLW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,79.2803814152827,urban_population_share
+Palau,PLW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,79.5520868568744,urban_population_share
+Palau,PLW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,79.8284579022498,urban_population_share
+Palau,PLW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,80.1089335766065,urban_population_share
+Palau,PLW,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,80.388246269234,urban_population_share
+Panama,PAN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,65.752985396379,urban_population_share
+Panama,PAN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,65.7099285144924,urban_population_share
+Panama,PAN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,65.6577712475758,urban_population_share
+Panama,PAN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,65.5971555296656,urban_population_share
+Panama,PAN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,65.5287232947981,urban_population_share
+Papua New Guinea,PNG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,13.9278267446947,urban_population_share
+Papua New Guinea,PNG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,13.7125720532162,urban_population_share
+Papua New Guinea,PNG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,13.5249644881888,urban_population_share
+Papua New Guinea,PNG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,13.3653651942392,urban_population_share
+Papua New Guinea,PNG,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,13.2341359836319,urban_population_share
+Paraguay,PRY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,64.9845298299929,urban_population_share
+Paraguay,PRY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,63.9248988239553,urban_population_share
+Paraguay,PRY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,62.9526389826574,urban_population_share
+Paraguay,PRY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,62.0827613208606,urban_population_share
+Paraguay,PRY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,61.3302768533263,urban_population_share
+Peru,PER,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,83.1033003087105,urban_population_share
+Peru,PER,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,82.6854929960921,urban_population_share
+Peru,PER,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,82.1931650502403,urban_population_share
+Peru,PER,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,81.4192362241943,urban_population_share
+Peru,PER,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,80.698277662669,urban_population_share
+Philippines,PHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,53.7157859948017,urban_population_share
+Philippines,PHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,53.2088897464754,urban_population_share
+Philippines,PHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,52.6010482354344,urban_population_share
+Philippines,PHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,51.9114748151175,urban_population_share
+Philippines,PHL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,51.1549047745227,urban_population_share
+Poland,POL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,59.9626184068963,urban_population_share
+Poland,POL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,60.0533306480907,urban_population_share
+Poland,POL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,60.145888199417,urban_population_share
+Poland,POL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,60.2402284228997,urban_population_share
+Poland,POL,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,60.3362886805635,urban_population_share
+Portugal,PRT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,61.114927250613,urban_population_share
+Portugal,PRT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,61.1233069673808,urban_population_share
+Portugal,PRT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,61.1296726507436,urban_population_share
+Portugal,PRT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,61.1343011242723,urban_population_share
+Portugal,PRT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,61.137469211538,urban_population_share
+Puerto Rico (US),PRI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,93.9519912222253,urban_population_share
+Puerto Rico (US),PRI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,93.8986961132283,urban_population_share
+Puerto Rico (US),PRI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,93.8561953815964,urban_population_share
+Puerto Rico (US),PRI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,93.8232738004303,urban_population_share
+Puerto Rico (US),PRI,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,93.7987161428303,urban_population_share
+Qatar,QAT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,99.1191696672067,urban_population_share
+Qatar,QAT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,99.0755684762244,urban_population_share
+Qatar,QAT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,99.0310125265978,urban_population_share
+Qatar,QAT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,98.9855265345423,urban_population_share
+Qatar,QAT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,98.9382407681154,urban_population_share
+Romania,ROU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,52.8931835224862,urban_population_share
+Romania,ROU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,53.1445711571868,urban_population_share
+Romania,ROU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,53.3648643239046,urban_population_share
+Romania,ROU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,53.5528171972639,urban_population_share
+Romania,ROU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,53.7071839518893,urban_population_share
+Russian Federation,RUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,74.6222859951926,urban_population_share
+Russian Federation,RUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,74.5442926137992,urban_population_share
+Russian Federation,RUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,74.460036813029,urban_population_share
+Russian Federation,RUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,74.3703138709243,urban_population_share
+Russian Federation,RUS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,74.275919065527,urban_population_share
+Rwanda,RWA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,22.9711026997362,urban_population_share
+Rwanda,RWA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,21.5418444579064,urban_population_share
+Rwanda,RWA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,20.2477568101111,urban_population_share
+Rwanda,RWA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,19.1213951786548,urban_population_share
+Rwanda,RWA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,18.1953149858416,urban_population_share
+Samoa,WSM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,18.4147344481283,urban_population_share
+Samoa,WSM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,18.7241267935467,urban_population_share
+Samoa,WSM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,18.9657191879831,urban_population_share
+Samoa,WSM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,19.126462366749,urban_population_share
+Samoa,WSM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,19.2340105383551,urban_population_share
+San Marino,SMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,97.0999984741211,urban_population_share
+San Marino,SMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,97.0999984741211,urban_population_share
+San Marino,SMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,97.0999984741211,urban_population_share
+San Marino,SMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,97.0999984741211,urban_population_share
+San Marino,SMR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,97.0999984741211,urban_population_share
+Sao Tome and Principe,STP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,67.9129943847656,urban_population_share
+Sao Tome and Principe,STP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,67.7828826904297,urban_population_share
+Sao Tome and Principe,STP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,67.6520004272461,urban_population_share
+Sao Tome and Principe,STP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,67.5218887329102,urban_population_share
+Sao Tome and Principe,STP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,67.3915710449219,urban_population_share
+Saudi Arabia,SAU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,83.6394643268678,urban_population_share
+Saudi Arabia,SAU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,83.4708425884849,urban_population_share
+Saudi Arabia,SAU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,83.300690534822,urban_population_share
+Saudi Arabia,SAU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,83.129128630626,urban_population_share
+Saudi Arabia,SAU,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,82.9562773406163,urban_population_share
+Senegal,SEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,49.9443321273477,urban_population_share
+Senegal,SEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,48.9001692274485,urban_population_share
+Senegal,SEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,47.9338349639053,urban_population_share
+Senegal,SEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,47.0553579909929,urban_population_share
+Senegal,SEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,46.2747669629858,urban_population_share
+Serbia,SRB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,61.0492248535156,urban_population_share
+Serbia,SRB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,60.8433609008789,urban_population_share
+Serbia,SRB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,60.621208190918,urban_population_share
+Serbia,SRB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,60.3853870034026,urban_population_share
+Serbia,SRB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,60.1388092041016,urban_population_share
+Seychelles,SYC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,44.0049304031754,urban_population_share
+Seychelles,SYC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,43.7386669014459,urban_population_share
+Seychelles,SYC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,43.4968644410824,urban_population_share
+Seychelles,SYC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,43.2815632531296,urban_population_share
+Seychelles,SYC,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,43.094803568632,urban_population_share
+Sierra Leone,SLE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,42.7018444914441,urban_population_share
+Sierra Leone,SLE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,42.2011025267803,urban_population_share
+Sierra Leone,SLE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,41.7106682105058,urban_population_share
+Sierra Leone,SLE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,41.229411538771,urban_population_share
+Sierra Leone,SLE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,40.7669565187099,urban_population_share
+Singapore,SGP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,100.0,urban_population_share
+Singapore,SGP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,100.0,urban_population_share
+Singapore,SGP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,100.0,urban_population_share
+Singapore,SGP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,100.0,urban_population_share
+Singapore,SGP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,100.0,urban_population_share
+Sint Maarten (Dutch part),SXM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,100.0,urban_population_share
+Sint Maarten (Dutch part),SXM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,100.0,urban_population_share
+Sint Maarten (Dutch part),SXM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,100.0,urban_population_share
+Sint Maarten (Dutch part),SXM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,100.0,urban_population_share
+Sint Maarten (Dutch part),SXM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,100.0,urban_population_share
+Slovak Republic,SVK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,53.3666558664583,urban_population_share
+Slovak Republic,SVK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,53.4881496935559,urban_population_share
+Slovak Republic,SVK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,53.6126018237016,urban_population_share
+Slovak Republic,SVK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,53.7399327086517,urban_population_share
+Slovak Republic,SVK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,53.8700628001622,urban_population_share
+Slovenia,SVN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,55.4523277282715,urban_population_share
+Slovenia,SVN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,55.1913430955675,urban_population_share
+Slovenia,SVN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,55.2451133728027,urban_population_share
+Slovenia,SVN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,53.647274017334,urban_population_share
+Slovenia,SVN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,53.6612160294144,urban_population_share
+Solomon Islands,SLB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,27.275106750276,urban_population_share
+Solomon Islands,SLB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,26.2946826684302,urban_population_share
+Solomon Islands,SLB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,25.3830535769599,urban_population_share
+Solomon Islands,SLB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,24.5047424399707,urban_population_share
+Solomon Islands,SLB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,23.6630502067213,urban_population_share
+"Somalia, Fed. Rep.",SOM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,51.6421170703225,urban_population_share
+"Somalia, Fed. Rep.",SOM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,50.9506215336872,urban_population_share
+"Somalia, Fed. Rep.",SOM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,48.3639630032265,urban_population_share
+"Somalia, Fed. Rep.",SOM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,45.942842729174,urban_population_share
+"Somalia, Fed. Rep.",SOM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,43.8618107408479,urban_population_share
+South Africa,ZAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,63.4127255007908,urban_population_share
+South Africa,ZAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,63.3771545246841,urban_population_share
+South Africa,ZAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,63.3311078299936,urban_population_share
+South Africa,ZAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,63.2750973439347,urban_population_share
+South Africa,ZAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,63.2096349937231,urban_population_share
+South Sudan,SSD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,19.9062299188719,urban_population_share
+South Sudan,SSD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,19.6254143932663,urban_population_share
+South Sudan,SSD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,19.3489927232944,urban_population_share
+South Sudan,SSD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,19.0769476614377,urban_population_share
+South Sudan,SSD,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,18.8092619601773,urban_population_share
+Spain,ESP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,79.6349761108307,urban_population_share
+Spain,ESP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,79.5580057813361,urban_population_share
+Spain,ESP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,79.4663233085683,urban_population_share
+Spain,ESP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,79.3615955277997,urban_population_share
+Spain,ESP,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,79.2454892743023,urban_population_share
+Sri Lanka,LKA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,19.4946326418437,urban_population_share
+Sri Lanka,LKA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,19.3241083384127,urban_population_share
+Sri Lanka,LKA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,19.1507693078088,urban_population_share
+Sri Lanka,LKA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,18.9747679368162,urban_population_share
+Sri Lanka,LKA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,18.796256612131,urban_population_share
+St. Kitts and Nevis,KNA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,31.4121818392285,urban_population_share
+St. Kitts and Nevis,KNA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,31.3607229995076,urban_population_share
+St. Kitts and Nevis,KNA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,31.3169642505921,urban_population_share
+St. Kitts and Nevis,KNA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,31.2806171906169,urban_population_share
+St. Kitts and Nevis,KNA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,31.2513929695583,urban_population_share
+St. Lucia,LCA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,24.2476974658382,urban_population_share
+St. Lucia,LCA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,22.9261241055144,urban_population_share
+St. Lucia,LCA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,21.783720356472,urban_population_share
+St. Lucia,LCA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,20.8164880000551,urban_population_share
+St. Lucia,LCA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,20.0204288176073,urban_population_share
+St. Martin (French part),MAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,100.0,urban_population_share
+St. Martin (French part),MAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,100.0,urban_population_share
+St. Martin (French part),MAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,100.0,urban_population_share
+St. Martin (French part),MAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,100.0,urban_population_share
+St. Martin (French part),MAF,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,100.0,urban_population_share
+St. Vincent and the Grenadines,VCT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,47.1962073993512,urban_population_share
+St. Vincent and the Grenadines,VCT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,47.0674689446123,urban_population_share
+St. Vincent and the Grenadines,VCT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,46.9392900518098,urban_population_share
+St. Vincent and the Grenadines,VCT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,46.8116589511271,urban_population_share
+St. Vincent and the Grenadines,VCT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,46.6845638727475,urban_population_share
+Sudan,SDN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,34.4727685824236,urban_population_share
+Sudan,SDN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,34.382054222005,urban_population_share
+Sudan,SDN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,34.2872225663509,urban_population_share
+Sudan,SDN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,34.1881958841213,urban_population_share
+Sudan,SDN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,34.0914394628597,urban_population_share
+Suriname,SUR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,66.0370492311305,urban_population_share
+Suriname,SUR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,66.0693060442846,urban_population_share
+Suriname,SUR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,66.1046467051207,urban_population_share
+Suriname,SUR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,66.1426466980469,urban_population_share
+Suriname,SUR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,66.1828815074718,urban_population_share
+Sweden,SWE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,87.7088420242759,urban_population_share
+Sweden,SWE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,87.4737430925296,urban_population_share
+Sweden,SWE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,87.237373786911,urban_population_share
+Sweden,SWE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,87.0,urban_population_share
+Sweden,SWE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,86.6158654081858,urban_population_share
+Switzerland,CHE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,80.7792907322229,urban_population_share
+Switzerland,CHE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,79.2922201625844,urban_population_share
+Switzerland,CHE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,77.9126273688843,urban_population_share
+Switzerland,CHE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,76.6726675773771,urban_population_share
+Switzerland,CHE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,75.6044960143169,urban_population_share
+Syrian Arab Republic,SYR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,73.8248788261986,urban_population_share
+Syrian Arab Republic,SYR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,74.0612602381775,urban_population_share
+Syrian Arab Republic,SYR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,74.5395596323392,urban_population_share
+Syrian Arab Republic,SYR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,75.15400963398,urban_population_share
+Syrian Arab Republic,SYR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,75.7529067188542,urban_population_share
+Tajikistan,TJK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,26.1300735473633,urban_population_share
+Tajikistan,TJK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,26.2338752746582,urban_population_share
+Tajikistan,TJK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,26.2731513977051,urban_population_share
+Tajikistan,TJK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,26.3718509674072,urban_population_share
+Tajikistan,TJK,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,26.478832244873,urban_population_share
+Tanzania,TZA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,33.3475258518752,urban_population_share
+Tanzania,TZA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,32.8287423010834,urban_population_share
+Tanzania,TZA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,32.2987013317296,urban_population_share
+Tanzania,TZA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,31.7577303242916,urban_population_share
+Tanzania,TZA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,31.2061566592472,urban_population_share
+Thailand,THA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,55.9266166687012,urban_population_share
+Thailand,THA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,54.5843734741211,urban_population_share
+Thailand,THA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,49.2311973571777,urban_population_share
+Thailand,THA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,47.8801095551247,urban_population_share
+Thailand,THA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,46.9521043776171,urban_population_share
+Timor-Leste,TLS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,29.1148755245217,urban_population_share
+Timor-Leste,TLS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,29.248617510057,urban_population_share
+Timor-Leste,TLS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,29.3600996787092,urban_population_share
+Timor-Leste,TLS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,29.4462907628171,urban_population_share
+Timor-Leste,TLS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,29.5043315008419,urban_population_share
+Togo,TGO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,41.445731197295,urban_population_share
+Togo,TGO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,41.013328267781,urban_population_share
+Togo,TGO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,40.5809463430719,urban_population_share
+Togo,TGO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,40.1485878279739,urban_population_share
+Togo,TGO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,39.7162551272934,urban_population_share
+Tonga,TON,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,22.3288155626206,urban_population_share
+Tonga,TON,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,22.7017138925547,urban_population_share
+Tonga,TON,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,22.9711300654966,urban_population_share
+Tonga,TON,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,23.1277038505921,urban_population_share
+Tonga,TON,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,23.2434422818439,urban_population_share
+Trinidad and Tobago,TTO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,53.9342394732739,urban_population_share
+Trinidad and Tobago,TTO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,53.9314518934907,urban_population_share
+Trinidad and Tobago,TTO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,53.9293186833833,urban_population_share
+Trinidad and Tobago,TTO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,53.9277523084951,urban_population_share
+Trinidad and Tobago,TTO,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,53.926665238022,urban_population_share
+Tunisia,TUN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,68.8206382576031,urban_population_share
+Tunisia,TUN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,68.5485240272509,urban_population_share
+Tunisia,TUN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,68.2877807617188,urban_population_share
+Tunisia,TUN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,68.0623356528248,urban_population_share
+Tunisia,TUN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,67.8807907104492,urban_population_share
+Turkiye,TUR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,88.6618152857124,urban_population_share
+Turkiye,TUR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,88.1655749576173,urban_population_share
+Turkiye,TUR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,88.0320472717286,urban_population_share
+Turkiye,TUR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,88.1020958581776,urban_population_share
+Turkiye,TUR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,87.2167107972537,urban_population_share
+Turkmenistan,TKM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,47.0494562466485,urban_population_share
+Turkmenistan,TKM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,47.0423948717765,urban_population_share
+Turkmenistan,TKM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,47.0334857399476,urban_population_share
+Turkmenistan,TKM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,47.0227025249994,urban_population_share
+Turkmenistan,TKM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,47.0100189007695,urban_population_share
+Turks and Caicos Islands,TCA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,92.9404854322845,urban_population_share
+Turks and Caicos Islands,TCA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,92.6802596594323,urban_population_share
+Turks and Caicos Islands,TCA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,92.4155868799755,urban_population_share
+Turks and Caicos Islands,TCA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,92.1466904484552,urban_population_share
+Turks and Caicos Islands,TCA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,91.8737937193851,urban_population_share
+Tuvalu,TUV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,61.2406529218636,urban_population_share
+Tuvalu,TUV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,60.5596409590777,urban_population_share
+Tuvalu,TUV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,59.9531274910912,urban_population_share
+Tuvalu,TUV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,59.4744768348285,urban_population_share
+Tuvalu,TUV,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,58.9148502652344,urban_population_share
+Uganda,UGA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,27.8369781799403,urban_population_share
+Uganda,UGA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,27.1280475018884,urban_population_share
+Uganda,UGA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,26.4139260579546,urban_population_share
+Uganda,UGA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,25.6953567134098,urban_population_share
+Uganda,UGA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,24.9777856560427,urban_population_share
+Ukraine,UKR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,69.3527648708735,urban_population_share
+Ukraine,UKR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,69.3157992777909,urban_population_share
+Ukraine,UKR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,69.2633108489282,urban_population_share
+Ukraine,UKR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,69.2102241609089,urban_population_share
+Ukraine,UKR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,69.1587317201337,urban_population_share
+United Arab Emirates,ARE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,85.0298263388195,urban_population_share
+United Arab Emirates,ARE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,84.8601805824625,urban_population_share
+United Arab Emirates,ARE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,84.686675718659,urban_population_share
+United Arab Emirates,ARE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,84.5093991669984,urban_population_share
+United Arab Emirates,ARE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,84.3284383471193,urban_population_share
+United Kingdom,GBR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,82.6699420738913,urban_population_share
+United Kingdom,GBR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,82.4465657551295,urban_population_share
+United Kingdom,GBR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,82.23065673273,urban_population_share
+United Kingdom,GBR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,82.0229991698295,urban_population_share
+United Kingdom,GBR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,81.8243772295647,urban_population_share
+United States,USA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,80.1304793353594,urban_population_share
+United States,USA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,80.2804567987377,urban_population_share
+United States,USA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,80.4018678392891,urban_population_share
+United States,USA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,80.4976645324131,urban_population_share
+United States,USA,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,80.5707989535091,urban_population_share
+Uruguay,URY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,95.3479309082031,urban_population_share
+Uruguay,URY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,95.2942581176758,urban_population_share
+Uruguay,URY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,95.2288235732042,urban_population_share
+Uruguay,URY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,95.1585424955685,urban_population_share
+Uruguay,URY,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,95.0800002298303,urban_population_share
+Uzbekistan,UZB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,50.5920104980469,urban_population_share
+Uzbekistan,UZB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,50.5814971923828,urban_population_share
+Uzbekistan,UZB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,50.6787376403809,urban_population_share
+Uzbekistan,UZB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,50.6572189331055,urban_population_share
+Uzbekistan,UZB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,50.6597328186035,urban_population_share
+Vanuatu,VUT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,23.5024668917075,urban_population_share
+Vanuatu,VUT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,24.2729727045038,urban_population_share
+Vanuatu,VUT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,24.7644441456437,urban_population_share
+Vanuatu,VUT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,24.8654875642873,urban_population_share
+Vanuatu,VUT,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,24.8626945764242,urban_population_share
+"Venezuela, RB",VEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,89.1030100517924,urban_population_share
+"Venezuela, RB",VEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,89.0659636921159,urban_population_share
+"Venezuela, RB",VEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,89.0287726100378,urban_population_share
+"Venezuela, RB",VEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,88.9914428378712,urban_population_share
+"Venezuela, RB",VEN,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,88.9539804079292,urban_population_share
+Viet Nam,VNM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,34.6239134999511,urban_population_share
+Viet Nam,VNM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,33.9410227821412,urban_population_share
+Viet Nam,VNM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,33.3625963003742,urban_population_share
+Viet Nam,VNM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,32.8476189285136,urban_population_share
+Viet Nam,VNM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,32.3810945365679,urban_population_share
+Virgin Islands (U.S.),VIR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,95.0857481413049,urban_population_share
+Virgin Islands (U.S.),VIR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,95.0676784538999,urban_population_share
+Virgin Islands (U.S.),VIR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,95.0366785523929,urban_population_share
+Virgin Islands (U.S.),VIR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,94.9941093874829,urban_population_share
+Virgin Islands (U.S.),VIR,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,94.9413319098685,urban_population_share
+West Bank and Gaza,PSE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,85.8136174183656,urban_population_share
+West Bank and Gaza,PSE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,85.5351131070872,urban_population_share
+West Bank and Gaza,PSE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,85.3782255354,urban_population_share
+West Bank and Gaza,PSE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,85.3377390706351,urban_population_share
+West Bank and Gaza,PSE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,85.2182174537886,urban_population_share
+"Yemen, Rep.",YEM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,34.9067561732024,urban_population_share
+"Yemen, Rep.",YEM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,34.2106045810864,urban_population_share
+"Yemen, Rep.",YEM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,33.5586912522175,urban_population_share
+"Yemen, Rep.",YEM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,32.9512008005236,urban_population_share
+"Yemen, Rep.",YEM,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,32.3883178702702,urban_population_share
+Zambia,ZMB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,43.4897864547552,urban_population_share
+Zambia,ZMB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,43.1114735233156,urban_population_share
+Zambia,ZMB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,42.7295979877011,urban_population_share
+Zambia,ZMB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,42.3442476889162,urban_population_share
+Zambia,ZMB,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,41.9555104679652,urban_population_share
+Zimbabwe,ZWE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2019,36.1837638266364,urban_population_share
+Zimbabwe,ZWE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2018,35.4085538807905,urban_population_share
+Zimbabwe,ZWE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2017,34.7014953017273,urban_population_share
+Zimbabwe,ZWE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2016,34.0799460726314,urban_population_share
+Zimbabwe,ZWE,SP.URB.TOTL.IN.ZS,Urban population (% of total population),2015,33.5612641766874,urban_population_share

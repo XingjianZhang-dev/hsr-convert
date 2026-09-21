@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,unit,obs_status,decimal
+Africa Eastern and Southern,AFE,SH_UHC_SCI,UHC service coverage index,2019,44.6428027657523,,,1
+Africa Eastern and Southern,AFE,SH_UHC_SCI,UHC service coverage index,2018,44.0185888960642,,,1
+Africa Eastern and Southern,AFE,SH_UHC_SCI,UHC service coverage index,2017,44.9084793609592,,,1
+Africa Eastern and Southern,AFE,SH_UHC_SCI,UHC service coverage index,2016,44.2050552429987,,,1
+Africa Eastern and Southern,AFE,SH_UHC_SCI,UHC service coverage index,2015,43.8158610586872,,,1
+Africa Western and Central,AFW,SH_UHC_SCI,UHC service coverage index,2019,44.2490850304674,,,1
+Africa Western and Central,AFW,SH_UHC_SCI,UHC service coverage index,2018,43.7706191529837,,,1
+Africa Western and Central,AFW,SH_UHC_SCI,UHC service coverage index,2017,41.830819045182,,,1
+Africa Western and Central,AFW,SH_UHC_SCI,UHC service coverage index,2016,41.8101097022929,,,1
+Africa Western and Central,AFW,SH_UHC_SCI,UHC service coverage index,2015,41.2867122829382,,,1
+Arab World,ARB,SH_UHC_SCI,UHC service coverage index,2019,64.1506529573498,,,1
+Arab World,ARB,SH_UHC_SCI,UHC service coverage index,2018,64.8890124465233,,,1
+Arab World,ARB,SH_UHC_SCI,UHC service coverage index,2017,65.6887265815772,,,1
+Arab World,ARB,SH_UHC_SCI,UHC service coverage index,2016,65.5152133982969,,,1
+Arab World,ARB,SH_UHC_SCI,UHC service coverage index,2015,65.4554881170276,,,1
+Caribbean small states,CSS,SH_UHC_SCI,UHC service coverage index,2019,76.2116116687005,,,1
+Caribbean small states,CSS,SH_UHC_SCI,UHC service coverage index,2018,75.1667091684518,,,1
+Caribbean small states,CSS,SH_UHC_SCI,UHC service coverage index,2017,75.863242360529,,,1
+Caribbean small states,CSS,SH_UHC_SCI,UHC service coverage index,2016,76.3744584900536,,,1
+Caribbean small states,CSS,SH_UHC_SCI,UHC service coverage index,2015,75.3292026245477,,,1
+Central Europe and the Baltics,CEB,SH_UHC_SCI,UHC service coverage index,2019,78.9556211827515,,,1
+Central Europe and the Baltics,CEB,SH_UHC_SCI,UHC service coverage index,2018,78.6799113813293,,,1
+Central Europe and the Baltics,CEB,SH_UHC_SCI,UHC service coverage index,2017,78.8587899757294,,,1
+Central Europe and the Baltics,CEB,SH_UHC_SCI,UHC service coverage index,2016,78.3475960778911,,,1
+Central Europe and the Baltics,CEB,SH_UHC_SCI,UHC service coverage index,2015,78.0810820939401,,,1
+Early-demographic dividend,EAR,SH_UHC_SCI,UHC service coverage index,2019,63.4782000116206,,,1
+Early-demographic dividend,EAR,SH_UHC_SCI,UHC service coverage index,2018,62.4119599985052,,,1
+Early-demographic dividend,EAR,SH_UHC_SCI,UHC service coverage index,2017,62.8628519569489,,,1
+Early-demographic dividend,EAR,SH_UHC_SCI,UHC service coverage index,2016,62.1141295768305,,,1
+Early-demographic dividend,EAR,SH_UHC_SCI,UHC service coverage index,2015,61.2914433705197,,,1
+East Asia & Pacific,EAS,SH_UHC_SCI,UHC service coverage index,2019,78.0,,,1
+East Asia & Pacific,EAS,SH_UHC_SCI,UHC service coverage index,2018,78.0,,,1
+East Asia & Pacific,EAS,SH_UHC_SCI,UHC service coverage index,2017,78.0,,,1
+East Asia & Pacific,EAS,SH_UHC_SCI,UHC service coverage index,2016,77.0,,,1
+East Asia & Pacific,EAS,SH_UHC_SCI,UHC service coverage index,2015,76.0,,,1
+East Asia & Pacific (excluding high income),EAP,SH_UHC_SCI,UHC service coverage index,2019,77.0271517457165,,,1
+East Asia & Pacific (excluding high income),EAP,SH_UHC_SCI,UHC service coverage index,2018,76.0542919117852,,,1
+East Asia & Pacific (excluding high income),EAP,SH_UHC_SCI,UHC service coverage index,2017,76.3246973486052,,,1
+East Asia & Pacific (excluding high income),EAP,SH_UHC_SCI,UHC service coverage index,2016,75.2262864244894,,,1
+East Asia & Pacific (excluding high income),EAP,SH_UHC_SCI,UHC service coverage index,2015,74.2450262943296,,,1
+East Asia & Pacific (IDA & IBRD countries),TEA,SH_UHC_SCI,UHC service coverage index,2019,76.9899319921352,,,1
+East Asia & Pacific (IDA & IBRD countries),TEA,SH_UHC_SCI,UHC service coverage index,2018,76.0173640015445,,,1
+East Asia & Pacific (IDA & IBRD countries),TEA,SH_UHC_SCI,UHC service coverage index,2017,76.2785728357259,,,1
+East Asia & Pacific (IDA & IBRD countries),TEA,SH_UHC_SCI,UHC service coverage index,2016,75.1662347359173,,,1
+East Asia & Pacific (IDA & IBRD countries),TEA,SH_UHC_SCI,UHC service coverage index,2015,74.1850624318067,,,1
+Euro area,EMU,SH_UHC_SCI,UHC service coverage index,2019,83.1936707973652,,,1
+Euro area,EMU,SH_UHC_SCI,UHC service coverage index,2018,82.9170078044696,,,1
+Euro area,EMU,SH_UHC_SCI,UHC service coverage index,2017,83.6093017834024,,,1
+Euro area,EMU,SH_UHC_SCI,UHC service coverage index,2016,83.3342934989924,,,1
+Euro area,EMU,SH_UHC_SCI,UHC service coverage index,2015,82.9590875975284,,,1
+Europe & Central Asia,ECS,SH_UHC_SCI,UHC service coverage index,2019,81.0,,,1
+Europe & Central Asia,ECS,SH_UHC_SCI,UHC service coverage index,2018,81.0,,,1
+Europe & Central Asia,ECS,SH_UHC_SCI,UHC service coverage index,2017,81.0,,,1
+Europe & Central Asia,ECS,SH_UHC_SCI,UHC service coverage index,2016,81.0,,,1
+Europe & Central Asia,ECS,SH_UHC_SCI,UHC service coverage index,2015,80.0,,,1
+Europe & Central Asia (excluding high income),ECA,SH_UHC_SCI,UHC service coverage index,2019,76.0319629758012,,,1
+Europe & Central Asia (excluding high income),ECA,SH_UHC_SCI,UHC service coverage index,2018,75.5654215972911,,,1
+Europe & Central Asia (excluding high income),ECA,SH_UHC_SCI,UHC service coverage index,2017,75.2758737869902,,,1
+Europe & Central Asia (excluding high income),ECA,SH_UHC_SCI,UHC service coverage index,2016,75.4096510504407,,,1
+Europe & Central Asia (excluding high income),ECA,SH_UHC_SCI,UHC service coverage index,2015,75.6259012706115,,,1
+Europe & Central Asia (IDA & IBRD countries),TEC,SH_UHC_SCI,UHC service coverage index,2019,77.3118906532617,,,1
+Europe & Central Asia (IDA & IBRD countries),TEC,SH_UHC_SCI,UHC service coverage index,2018,77.052550829789,,,1
+Europe & Central Asia (IDA & IBRD countries),TEC,SH_UHC_SCI,UHC service coverage index,2017,76.5180730777755,,,1
+Europe & Central Asia (IDA & IBRD countries),TEC,SH_UHC_SCI,UHC service coverage index,2016,76.5079608630583,,,1
+Europe & Central Asia (IDA & IBRD countries),TEC,SH_UHC_SCI,UHC service coverage index,2015,75.9309718663285,,,1
+European Union,EUU,SH_UHC_SCI,UHC service coverage index,2019,82.4393327470459,,,1
+European Union,EUU,SH_UHC_SCI,UHC service coverage index,2018,82.1808305892308,,,1
+European Union,EUU,SH_UHC_SCI,UHC service coverage index,2017,82.7315664096371,,,1
+European Union,EUU,SH_UHC_SCI,UHC service coverage index,2016,82.3806959489297,,,1
+European Union,EUU,SH_UHC_SCI,UHC service coverage index,2015,82.0389030505644,,,1
+Fragile and conflict affected situations,FCS,SH_UHC_SCI,UHC service coverage index,2019,46.6058693087729,,,1
+Fragile and conflict affected situations,FCS,SH_UHC_SCI,UHC service coverage index,2018,46.2808024416873,,,1
+Fragile and conflict affected situations,FCS,SH_UHC_SCI,UHC service coverage index,2017,45.6345577873358,,,1
+Fragile and conflict affected situations,FCS,SH_UHC_SCI,UHC service coverage index,2016,45.9905929566996,,,1
+Fragile and conflict affected situations,FCS,SH_UHC_SCI,UHC service coverage index,2015,45.714455479889,,,1
+Heavily indebted poor countries (HIPC),HPC,SH_UHC_SCI,UHC service coverage index,2019,42.0185141872709,,,1
+Heavily indebted poor countries (HIPC),HPC,SH_UHC_SCI,UHC service coverage index,2018,41.4720204382163,,,1
+Heavily indebted poor countries (HIPC),HPC,SH_UHC_SCI,UHC service coverage index,2017,41.7465842888375,,,1
+Heavily indebted poor countries (HIPC),HPC,SH_UHC_SCI,UHC service coverage index,2016,40.7891296922036,,,1
+Heavily indebted poor countries (HIPC),HPC,SH_UHC_SCI,UHC service coverage index,2015,40.5884568576693,,,1
+High income,,SH_UHC_SCI,UHC service coverage index,2019,85.0,,,1
+High income,,SH_UHC_SCI,UHC service coverage index,2018,85.0,,,1
+High income,,SH_UHC_SCI,UHC service coverage index,2017,85.0,,,1
+High income,,SH_UHC_SCI,UHC service coverage index,2016,85.0,,,1
+High income,,SH_UHC_SCI,UHC service coverage index,2015,85.0,,,1
+IBRD only,IBD,SH_UHC_SCI,UHC service coverage index,2019,73.5083098248842,,,1
+IBRD only,IBD,SH_UHC_SCI,UHC service coverage index,2018,72.5113085736613,,,1
+IBRD only,IBD,SH_UHC_SCI,UHC service coverage index,2017,72.9653331927996,,,1
+IBRD only,IBD,SH_UHC_SCI,UHC service coverage index,2016,72.193280720108,,,1
+IBRD only,IBD,SH_UHC_SCI,UHC service coverage index,2015,71.3883395800961,,,1
+IDA & IBRD total,IBT,SH_UHC_SCI,UHC service coverage index,2019,66.5712649081318,,,1
+IDA & IBRD total,IBT,SH_UHC_SCI,UHC service coverage index,2018,65.7561187011018,,,1
+IDA & IBRD total,IBT,SH_UHC_SCI,UHC service coverage index,2017,66.0310413230838,,,1
+IDA & IBRD total,IBT,SH_UHC_SCI,UHC service coverage index,2016,65.4069135847199,,,1
+IDA & IBRD total,IBT,SH_UHC_SCI,UHC service coverage index,2015,64.7148572771509,,,1
+IDA blend,IDB,SH_UHC_SCI,UHC service coverage index,2019,50.8084708828873,,,1
+IDA blend,IDB,SH_UHC_SCI,UHC service coverage index,2018,50.9527734418879,,,1
+IDA blend,IDB,SH_UHC_SCI,UHC service coverage index,2017,49.2745753404631,,,1
+IDA blend,IDB,SH_UHC_SCI,UHC service coverage index,2016,49.3501577946978,,,1
+IDA blend,IDB,SH_UHC_SCI,UHC service coverage index,2015,48.4318451041663,,,1
+IDA only,IDX,SH_UHC_SCI,UHC service coverage index,2019,45.4549401358143,,,1
+IDA only,IDX,SH_UHC_SCI,UHC service coverage index,2018,44.4786085103537,,,1
+IDA only,IDX,SH_UHC_SCI,UHC service coverage index,2017,44.6341025024316,,,1
+IDA only,IDX,SH_UHC_SCI,UHC service coverage index,2016,43.9072822822436,,,1
+IDA only,IDX,SH_UHC_SCI,UHC service coverage index,2015,43.4872594123553,,,1
+IDA total,IDA,SH_UHC_SCI,UHC service coverage index,2019,47.3361636021135,,,1
+IDA total,IDA,SH_UHC_SCI,UHC service coverage index,2018,46.7585961216097,,,1
+IDA total,IDA,SH_UHC_SCI,UHC service coverage index,2017,46.271218685527,,,1
+IDA total,IDA,SH_UHC_SCI,UHC service coverage index,2016,45.830845451611,,,1
+IDA total,IDA,SH_UHC_SCI,UHC service coverage index,2015,45.2375947770919,,,1
+Late-demographic dividend,LTE,SH_UHC_SCI,UHC service coverage index,2019,80.5265661629905,,,1
+Late-demographic dividend,LTE,SH_UHC_SCI,UHC service coverage index,2018,79.74434845301,,,1
+Late-demographic dividend,LTE,SH_UHC_SCI,UHC service coverage index,2017,79.9292411594659,,,1
+Late-demographic dividend,LTE,SH_UHC_SCI,UHC service coverage index,2016,79.2032394989088,,,1
+Late-demographic dividend,LTE,SH_UHC_SCI,UHC service coverage index,2015,78.357849582437,,,1
+Latin America & Caribbean,LCN,SH_UHC_SCI,UHC service coverage index,2019,79.0,,,1
+Latin America & Caribbean,LCN,SH_UHC_SCI,UHC service coverage index,2018,79.0,,,1
+Latin America & Caribbean,LCN,SH_UHC_SCI,UHC service coverage index,2017,79.0,,,1
+Latin America & Caribbean,LCN,SH_UHC_SCI,UHC service coverage index,2016,79.0,,,1
+Latin America & Caribbean,LCN,SH_UHC_SCI,UHC service coverage index,2015,79.0,,,1
+Latin America & Caribbean (excluding high income),LAC,SH_UHC_SCI,UHC service coverage index,2019,77.7937398166975,,,1
+Latin America & Caribbean (excluding high income),LAC,SH_UHC_SCI,UHC service coverage index,2018,77.5746205809564,,,1
+Latin America & Caribbean (excluding high income),LAC,SH_UHC_SCI,UHC service coverage index,2017,77.9580540584214,,,1
+Latin America & Caribbean (excluding high income),LAC,SH_UHC_SCI,UHC service coverage index,2016,77.9680268870254,,,1
+Latin America & Caribbean (excluding high income),LAC,SH_UHC_SCI,UHC service coverage index,2015,77.6531970844013,,,1
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH_UHC_SCI,UHC service coverage index,2019,77.8332262056984,,,1
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH_UHC_SCI,UHC service coverage index,2018,77.6070881625735,,,1
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH_UHC_SCI,UHC service coverage index,2017,78.0046835024304,,,1
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH_UHC_SCI,UHC service coverage index,2016,77.9252588412289,,,1
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH_UHC_SCI,UHC service coverage index,2015,77.5040876660977,,,1
+Least developed countries: UN classification,LDC,SH_UHC_SCI,UHC service coverage index,2019,43.4960093761146,,,1
+Least developed countries: UN classification,LDC,SH_UHC_SCI,UHC service coverage index,2018,42.3094351664754,,,1
+Least developed countries: UN classification,LDC,SH_UHC_SCI,UHC service coverage index,2017,42.5002758233912,,,1
+Least developed countries: UN classification,LDC,SH_UHC_SCI,UHC service coverage index,2016,41.6639256582247,,,1
+Least developed countries: UN classification,LDC,SH_UHC_SCI,UHC service coverage index,2015,41.1952841534899,,,1
+Low & middle income,LMY,SH_UHC_SCI,UHC service coverage index,2019,66.7885603863589,,,1
+Low & middle income,LMY,SH_UHC_SCI,UHC service coverage index,2018,65.929105564871,,,1
+Low & middle income,LMY,SH_UHC_SCI,UHC service coverage index,2017,66.2340647622567,,,1
+Low & middle income,LMY,SH_UHC_SCI,UHC service coverage index,2016,65.5567679035259,,,1
+Low & middle income,LMY,SH_UHC_SCI,UHC service coverage index,2015,64.8725359561043,,,1
+Low income,,SH_UHC_SCI,UHC service coverage index,2019,45.0,,,1
+Low income,,SH_UHC_SCI,UHC service coverage index,2018,45.0,,,1
+Low income,,SH_UHC_SCI,UHC service coverage index,2017,46.0,,,1
+Low income,,SH_UHC_SCI,UHC service coverage index,2016,44.0,,,1
+Low income,,SH_UHC_SCI,UHC service coverage index,2015,43.0,,,1
+Lower middle income,,SH_UHC_SCI,UHC service coverage index,2019,61.0,,,1
+Lower middle income,,SH_UHC_SCI,UHC service coverage index,2018,60.0,,,1
+Lower middle income,,SH_UHC_SCI,UHC service coverage index,2017,61.0,,,1
+Lower middle income,,SH_UHC_SCI,UHC service coverage index,2016,60.0,,,1
+Lower middle income,,SH_UHC_SCI,UHC service coverage index,2015,59.0,,,1
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH_UHC_SCI,UHC service coverage index,2019,65.0,,,1
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH_UHC_SCI,UHC service coverage index,2018,65.0,,,1
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH_UHC_SCI,UHC service coverage index,2017,65.0,,,1
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH_UHC_SCI,UHC service coverage index,2016,65.0,,,1
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH_UHC_SCI,UHC service coverage index,2015,64.0,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH_UHC_SCI,UHC service coverage index,2019,61.7494393919219,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH_UHC_SCI,UHC service coverage index,2018,62.4040753663932,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH_UHC_SCI,UHC service coverage index,2017,61.9024533158543,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH_UHC_SCI,UHC service coverage index,2016,61.5115490811654,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH_UHC_SCI,UHC service coverage index,2015,61.0479467084523,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH_UHC_SCI,UHC service coverage index,2019,61.7269035190768,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH_UHC_SCI,UHC service coverage index,2018,62.379326716855,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH_UHC_SCI,UHC service coverage index,2017,61.8471531731029,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH_UHC_SCI,UHC service coverage index,2016,61.4537603079493,,,1
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH_UHC_SCI,UHC service coverage index,2015,60.9941407574299,,,1
+Middle income,MIC,SH_UHC_SCI,UHC service coverage index,2019,68.9058791925046,,,1
+Middle income,MIC,SH_UHC_SCI,UHC service coverage index,2018,67.9456163992197,,,1
+Middle income,MIC,SH_UHC_SCI,UHC service coverage index,2017,68.2202693073576,,,1
+Middle income,MIC,SH_UHC_SCI,UHC service coverage index,2016,67.5371855070539,,,1
+Middle income,MIC,SH_UHC_SCI,UHC service coverage index,2015,66.7807623935872,,,1
+North America,NAC,SH_UHC_SCI,UHC service coverage index,2019,88.0,,,1
+North America,NAC,SH_UHC_SCI,UHC service coverage index,2018,87.0,,,1
+North America,NAC,SH_UHC_SCI,UHC service coverage index,2017,88.0,,,1
+North America,NAC,SH_UHC_SCI,UHC service coverage index,2016,87.0,,,1
+North America,NAC,SH_UHC_SCI,UHC service coverage index,2015,87.0,,,1
+Not classified,,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Not classified,,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Not classified,,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Not classified,,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Not classified,,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+OECD members,OED,SH_UHC_SCI,UHC service coverage index,2019,83.8643745865193,,,1
+OECD members,OED,SH_UHC_SCI,UHC service coverage index,2018,83.6832333754874,,,1
+OECD members,OED,SH_UHC_SCI,UHC service coverage index,2017,83.9434650152293,,,1
+OECD members,OED,SH_UHC_SCI,UHC service coverage index,2016,83.5752578617496,,,1
+OECD members,OED,SH_UHC_SCI,UHC service coverage index,2015,83.2463421311285,,,1
+Other small states,OSS,SH_UHC_SCI,UHC service coverage index,2019,66.8266310761024,,,1
+Other small states,OSS,SH_UHC_SCI,UHC service coverage index,2018,66.4630171713568,,,1
+Other small states,OSS,SH_UHC_SCI,UHC service coverage index,2017,67.1670446821755,,,1
+Other small states,OSS,SH_UHC_SCI,UHC service coverage index,2016,66.1746083629671,,,1
+Other small states,OSS,SH_UHC_SCI,UHC service coverage index,2015,65.3672618861772,,,1
+Pacific island small states,PSS,SH_UHC_SCI,UHC service coverage index,2019,58.8092578375617,,,1
+Pacific island small states,PSS,SH_UHC_SCI,UHC service coverage index,2018,58.1522563452765,,,1
+Pacific island small states,PSS,SH_UHC_SCI,UHC service coverage index,2017,59.4592571550825,,,1
+Pacific island small states,PSS,SH_UHC_SCI,UHC service coverage index,2016,59.5513674663834,,,1
+Pacific island small states,PSS,SH_UHC_SCI,UHC service coverage index,2015,59.8444330698135,,,1
+Post-demographic dividend,PST,SH_UHC_SCI,UHC service coverage index,2019,85.0032909458256,,,1
+Post-demographic dividend,PST,SH_UHC_SCI,UHC service coverage index,2018,84.9343635406429,,,1
+Post-demographic dividend,PST,SH_UHC_SCI,UHC service coverage index,2017,84.8835759991872,,,1
+Post-demographic dividend,PST,SH_UHC_SCI,UHC service coverage index,2016,84.7054533684278,,,1
+Post-demographic dividend,PST,SH_UHC_SCI,UHC service coverage index,2015,84.481397519134,,,1
+Pre-demographic dividend,PRE,SH_UHC_SCI,UHC service coverage index,2019,44.9367009415176,,,1
+Pre-demographic dividend,PRE,SH_UHC_SCI,UHC service coverage index,2018,44.3000137141123,,,1
+Pre-demographic dividend,PRE,SH_UHC_SCI,UHC service coverage index,2017,43.9138807468537,,,1
+Pre-demographic dividend,PRE,SH_UHC_SCI,UHC service coverage index,2016,43.3453325836676,,,1
+Pre-demographic dividend,PRE,SH_UHC_SCI,UHC service coverage index,2015,42.8865196790031,,,1
+Small states,SST,SH_UHC_SCI,UHC service coverage index,2019,67.9205039863537,,,1
+Small states,SST,SH_UHC_SCI,UHC service coverage index,2018,67.3661834513025,,,1
+Small states,SST,SH_UHC_SCI,UHC service coverage index,2017,68.1541519215016,,,1
+Small states,SST,SH_UHC_SCI,UHC service coverage index,2016,67.6672896455447,,,1
+Small states,SST,SH_UHC_SCI,UHC service coverage index,2015,66.9616788848395,,,1
+South Asia,SAS,SH_UHC_SCI,UHC service coverage index,2019,63.0,,,1
+South Asia,SAS,SH_UHC_SCI,UHC service coverage index,2018,61.0,,,1
+South Asia,SAS,SH_UHC_SCI,UHC service coverage index,2017,62.0,,,1
+South Asia,SAS,SH_UHC_SCI,UHC service coverage index,2016,62.0,,,1
+South Asia,SAS,SH_UHC_SCI,UHC service coverage index,2015,60.0,,,1
+South Asia (IDA & IBRD),TSA,SH_UHC_SCI,UHC service coverage index,2019,63.2806606598609,,,1
+South Asia (IDA & IBRD),TSA,SH_UHC_SCI,UHC service coverage index,2018,61.1412356239871,,,1
+South Asia (IDA & IBRD),TSA,SH_UHC_SCI,UHC service coverage index,2017,61.9917126265731,,,1
+South Asia (IDA & IBRD),TSA,SH_UHC_SCI,UHC service coverage index,2016,61.0696911987548,,,1
+South Asia (IDA & IBRD),TSA,SH_UHC_SCI,UHC service coverage index,2015,60.0456283051191,,,1
+Sub-Saharan Africa,SSF,SH_UHC_SCI,UHC service coverage index,2019,47.0,,,1
+Sub-Saharan Africa,SSF,SH_UHC_SCI,UHC service coverage index,2018,47.0,,,1
+Sub-Saharan Africa,SSF,SH_UHC_SCI,UHC service coverage index,2017,47.0,,,1
+Sub-Saharan Africa,SSF,SH_UHC_SCI,UHC service coverage index,2016,46.0,,,1
+Sub-Saharan Africa,SSF,SH_UHC_SCI,UHC service coverage index,2015,45.0,,,1
+Sub-Saharan Africa (excluding high income),SSA,SH_UHC_SCI,UHC service coverage index,2019,46.1172107549746,,,1
+Sub-Saharan Africa (excluding high income),SSA,SH_UHC_SCI,UHC service coverage index,2018,45.5995962324211,,,1
+Sub-Saharan Africa (excluding high income),SSA,SH_UHC_SCI,UHC service coverage index,2017,45.3041632446287,,,1
+Sub-Saharan Africa (excluding high income),SSA,SH_UHC_SCI,UHC service coverage index,2016,44.7166062439391,,,1
+Sub-Saharan Africa (excluding high income),SSA,SH_UHC_SCI,UHC service coverage index,2015,44.2219501999456,,,1
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH_UHC_SCI,UHC service coverage index,2019,44.4826757698322,,,1
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH_UHC_SCI,UHC service coverage index,2018,43.9175697898283,,,1
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH_UHC_SCI,UHC service coverage index,2017,43.6531962219789,,,1
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH_UHC_SCI,UHC service coverage index,2016,43.2281392712818,,,1
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH_UHC_SCI,UHC service coverage index,2015,42.7843990950299,,,1
+Upper middle income,,SH_UHC_SCI,UHC service coverage index,2019,79.0,,,1
+Upper middle income,,SH_UHC_SCI,UHC service coverage index,2018,80.0,,,1
+Upper middle income,,SH_UHC_SCI,UHC service coverage index,2017,80.0,,,1
+Upper middle income,,SH_UHC_SCI,UHC service coverage index,2016,79.0,,,1
+Upper middle income,,SH_UHC_SCI,UHC service coverage index,2015,78.0,,,1
+World,WLD,SH_UHC_SCI,UHC service coverage index,2019,70.0,,,1
+World,WLD,SH_UHC_SCI,UHC service coverage index,2018,69.0,,,1
+World,WLD,SH_UHC_SCI,UHC service coverage index,2017,69.0,,,1
+World,WLD,SH_UHC_SCI,UHC service coverage index,2016,69.0,,,1
+World,WLD,SH_UHC_SCI,UHC service coverage index,2015,68.0,,,1
+Afghanistan,AFG,SH_UHC_SCI,UHC service coverage index,2019,42.0,,,1
+Afghanistan,AFG,SH_UHC_SCI,UHC service coverage index,2018,42.0,,,1
+Afghanistan,AFG,SH_UHC_SCI,UHC service coverage index,2017,40.0,,,1
+Afghanistan,AFG,SH_UHC_SCI,UHC service coverage index,2016,39.0,,,1
+Afghanistan,AFG,SH_UHC_SCI,UHC service coverage index,2015,38.0,,,1
+Albania,ALB,SH_UHC_SCI,UHC service coverage index,2019,67.0,,,1
+Albania,ALB,SH_UHC_SCI,UHC service coverage index,2018,66.0,,,1
+Albania,ALB,SH_UHC_SCI,UHC service coverage index,2017,64.0,,,1
+Albania,ALB,SH_UHC_SCI,UHC service coverage index,2016,62.0,,,1
+Albania,ALB,SH_UHC_SCI,UHC service coverage index,2015,62.0,,,1
+Algeria,DZA,SH_UHC_SCI,UHC service coverage index,2019,64.0,,,1
+Algeria,DZA,SH_UHC_SCI,UHC service coverage index,2018,70.0,,,1
+Algeria,DZA,SH_UHC_SCI,UHC service coverage index,2017,71.0,,,1
+Algeria,DZA,SH_UHC_SCI,UHC service coverage index,2016,72.0,,,1
+Algeria,DZA,SH_UHC_SCI,UHC service coverage index,2015,72.0,,,1
+American Samoa,ASM,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+American Samoa,ASM,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+American Samoa,ASM,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+American Samoa,ASM,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+American Samoa,ASM,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Andorra,AND,SH_UHC_SCI,UHC service coverage index,2019,74.0,,,1
+Andorra,AND,SH_UHC_SCI,UHC service coverage index,2018,73.0,,,1
+Andorra,AND,SH_UHC_SCI,UHC service coverage index,2017,72.0,,,1
+Andorra,AND,SH_UHC_SCI,UHC service coverage index,2016,72.0,,,1
+Andorra,AND,SH_UHC_SCI,UHC service coverage index,2015,72.0,,,1
+Angola,AGO,SH_UHC_SCI,UHC service coverage index,2019,45.0,,,1
+Angola,AGO,SH_UHC_SCI,UHC service coverage index,2018,41.0,,,1
+Angola,AGO,SH_UHC_SCI,UHC service coverage index,2017,42.0,,,1
+Angola,AGO,SH_UHC_SCI,UHC service coverage index,2016,40.0,,,1
+Angola,AGO,SH_UHC_SCI,UHC service coverage index,2015,39.0,,,1
+Antigua and Barbuda,ATG,SH_UHC_SCI,UHC service coverage index,2019,79.0,,,1
+Antigua and Barbuda,ATG,SH_UHC_SCI,UHC service coverage index,2018,79.0,,,1
+Antigua and Barbuda,ATG,SH_UHC_SCI,UHC service coverage index,2017,82.0,,,1
+Antigua and Barbuda,ATG,SH_UHC_SCI,UHC service coverage index,2016,83.0,,,1
+Antigua and Barbuda,ATG,SH_UHC_SCI,UHC service coverage index,2015,83.0,,,1
+Argentina,ARG,SH_UHC_SCI,UHC service coverage index,2019,79.0,,,1
+Argentina,ARG,SH_UHC_SCI,UHC service coverage index,2018,79.0,,,1
+Argentina,ARG,SH_UHC_SCI,UHC service coverage index,2017,80.0,,,1
+Argentina,ARG,SH_UHC_SCI,UHC service coverage index,2016,81.0,,,1
+Argentina,ARG,SH_UHC_SCI,UHC service coverage index,2015,81.0,,,1
+Armenia,ARM,SH_UHC_SCI,UHC service coverage index,2019,71.0,,,1
+Armenia,ARM,SH_UHC_SCI,UHC service coverage index,2018,70.0,,,1
+Armenia,ARM,SH_UHC_SCI,UHC service coverage index,2017,71.0,,,1
+Armenia,ARM,SH_UHC_SCI,UHC service coverage index,2016,71.0,,,1
+Armenia,ARM,SH_UHC_SCI,UHC service coverage index,2015,70.0,,,1
+Aruba,ABW,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Aruba,ABW,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Aruba,ABW,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Aruba,ABW,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Aruba,ABW,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Australia,AUS,SH_UHC_SCI,UHC service coverage index,2019,89.0,,,1
+Australia,AUS,SH_UHC_SCI,UHC service coverage index,2018,89.0,,,1
+Australia,AUS,SH_UHC_SCI,UHC service coverage index,2017,89.0,,,1
+Australia,AUS,SH_UHC_SCI,UHC service coverage index,2016,89.0,,,1
+Australia,AUS,SH_UHC_SCI,UHC service coverage index,2015,89.0,,,1
+Austria,AUT,SH_UHC_SCI,UHC service coverage index,2019,82.0,,,1
+Austria,AUT,SH_UHC_SCI,UHC service coverage index,2018,81.0,,,1
+Austria,AUT,SH_UHC_SCI,UHC service coverage index,2017,82.0,,,1
+Austria,AUT,SH_UHC_SCI,UHC service coverage index,2016,83.0,,,1
+Austria,AUT,SH_UHC_SCI,UHC service coverage index,2015,83.0,,,1
+Azerbaijan,AZE,SH_UHC_SCI,UHC service coverage index,2019,66.0,,,1
+Azerbaijan,AZE,SH_UHC_SCI,UHC service coverage index,2018,65.0,,,1
+Azerbaijan,AZE,SH_UHC_SCI,UHC service coverage index,2017,65.0,,,1
+Azerbaijan,AZE,SH_UHC_SCI,UHC service coverage index,2016,65.0,,,1
+Azerbaijan,AZE,SH_UHC_SCI,UHC service coverage index,2015,64.0,,,1
+"Bahamas, The",BHS,SH_UHC_SCI,UHC service coverage index,2019,80.0,,,1
+"Bahamas, The",BHS,SH_UHC_SCI,UHC service coverage index,2018,79.0,,,1
+"Bahamas, The",BHS,SH_UHC_SCI,UHC service coverage index,2017,81.0,,,1
+"Bahamas, The",BHS,SH_UHC_SCI,UHC service coverage index,2016,82.0,,,1
+"Bahamas, The",BHS,SH_UHC_SCI,UHC service coverage index,2015,80.0,,,1
+Bahrain,BHR,SH_UHC_SCI,UHC service coverage index,2019,76.0,,,1
+Bahrain,BHR,SH_UHC_SCI,UHC service coverage index,2018,77.0,,,1
+Bahrain,BHR,SH_UHC_SCI,UHC service coverage index,2017,78.0,,,1
+Bahrain,BHR,SH_UHC_SCI,UHC service coverage index,2016,78.0,,,1
+Bahrain,BHR,SH_UHC_SCI,UHC service coverage index,2015,79.0,,,1
+Bangladesh,BGD,SH_UHC_SCI,UHC service coverage index,2019,50.0,,,1
+Bangladesh,BGD,SH_UHC_SCI,UHC service coverage index,2018,47.0,,,1
+Bangladesh,BGD,SH_UHC_SCI,UHC service coverage index,2017,47.0,,,1
+Bangladesh,BGD,SH_UHC_SCI,UHC service coverage index,2016,46.0,,,1
+Bangladesh,BGD,SH_UHC_SCI,UHC service coverage index,2015,45.0,,,1
+Barbados,BRB,SH_UHC_SCI,UHC service coverage index,2019,82.0,,,1
+Barbados,BRB,SH_UHC_SCI,UHC service coverage index,2018,82.0,,,1
+Barbados,BRB,SH_UHC_SCI,UHC service coverage index,2017,83.0,,,1
+Barbados,BRB,SH_UHC_SCI,UHC service coverage index,2016,83.0,,,1
+Barbados,BRB,SH_UHC_SCI,UHC service coverage index,2015,83.0,,,1
+Belarus,BLR,SH_UHC_SCI,UHC service coverage index,2019,80.0,,,1
+Belarus,BLR,SH_UHC_SCI,UHC service coverage index,2018,79.0,,,1
+Belarus,BLR,SH_UHC_SCI,UHC service coverage index,2017,79.0,,,1
+Belarus,BLR,SH_UHC_SCI,UHC service coverage index,2016,79.0,,,1
+Belarus,BLR,SH_UHC_SCI,UHC service coverage index,2015,78.0,,,1
+Belgium,BEL,SH_UHC_SCI,UHC service coverage index,2019,86.0,,,1
+Belgium,BEL,SH_UHC_SCI,UHC service coverage index,2018,86.0,,,1
+Belgium,BEL,SH_UHC_SCI,UHC service coverage index,2017,86.0,,,1
+Belgium,BEL,SH_UHC_SCI,UHC service coverage index,2016,86.0,,,1
+Belgium,BEL,SH_UHC_SCI,UHC service coverage index,2015,86.0,,,1
+Belize,BLZ,SH_UHC_SCI,UHC service coverage index,2019,68.0,,,1
+Belize,BLZ,SH_UHC_SCI,UHC service coverage index,2018,68.0,,,1
+Belize,BLZ,SH_UHC_SCI,UHC service coverage index,2017,69.0,,,1
+Belize,BLZ,SH_UHC_SCI,UHC service coverage index,2016,69.0,,,1
+Belize,BLZ,SH_UHC_SCI,UHC service coverage index,2015,70.0,,,1
+Benin,BEN,SH_UHC_SCI,UHC service coverage index,2019,34.0,,,1
+Benin,BEN,SH_UHC_SCI,UHC service coverage index,2018,36.0,,,1
+Benin,BEN,SH_UHC_SCI,UHC service coverage index,2017,33.0,,,1
+Benin,BEN,SH_UHC_SCI,UHC service coverage index,2016,26.0,,,1
+Benin,BEN,SH_UHC_SCI,UHC service coverage index,2015,30.0,,,1
+Bermuda,BMU,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Bermuda,BMU,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Bermuda,BMU,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Bermuda,BMU,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Bermuda,BMU,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Bhutan,BTN,SH_UHC_SCI,UHC service coverage index,2019,66.0,,,1
+Bhutan,BTN,SH_UHC_SCI,UHC service coverage index,2018,65.0,,,1
+Bhutan,BTN,SH_UHC_SCI,UHC service coverage index,2017,65.0,,,1
+Bhutan,BTN,SH_UHC_SCI,UHC service coverage index,2016,65.0,,,1
+Bhutan,BTN,SH_UHC_SCI,UHC service coverage index,2015,63.0,,,1
+Bolivia,BOL,SH_UHC_SCI,UHC service coverage index,2019,65.0,,,1
+Bolivia,BOL,SH_UHC_SCI,UHC service coverage index,2018,65.0,,,1
+Bolivia,BOL,SH_UHC_SCI,UHC service coverage index,2017,65.0,,,1
+Bolivia,BOL,SH_UHC_SCI,UHC service coverage index,2016,64.0,,,1
+Bolivia,BOL,SH_UHC_SCI,UHC service coverage index,2015,61.0,,,1
+Bosnia and Herzegovina,BIH,SH_UHC_SCI,UHC service coverage index,2019,63.0,,,1
+Bosnia and Herzegovina,BIH,SH_UHC_SCI,UHC service coverage index,2018,62.0,,,1
+Bosnia and Herzegovina,BIH,SH_UHC_SCI,UHC service coverage index,2017,65.0,,,1
+Bosnia and Herzegovina,BIH,SH_UHC_SCI,UHC service coverage index,2016,64.0,,,1
+Bosnia and Herzegovina,BIH,SH_UHC_SCI,UHC service coverage index,2015,63.0,,,1
+Botswana,BWA,SH_UHC_SCI,UHC service coverage index,2019,58.0,,,1
+Botswana,BWA,SH_UHC_SCI,UHC service coverage index,2018,57.0,,,1
+Botswana,BWA,SH_UHC_SCI,UHC service coverage index,2017,60.0,,,1
+Botswana,BWA,SH_UHC_SCI,UHC service coverage index,2016,60.0,,,1
+Botswana,BWA,SH_UHC_SCI,UHC service coverage index,2015,60.0,,,1
+Brazil,BRA,SH_UHC_SCI,UHC service coverage index,2019,83.0,,,1
+Brazil,BRA,SH_UHC_SCI,UHC service coverage index,2018,83.0,,,1
+Brazil,BRA,SH_UHC_SCI,UHC service coverage index,2017,83.0,,,1
+Brazil,BRA,SH_UHC_SCI,UHC service coverage index,2016,83.0,,,1
+Brazil,BRA,SH_UHC_SCI,UHC service coverage index,2015,83.0,,,1
+British Virgin Islands,VGB,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+British Virgin Islands,VGB,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+British Virgin Islands,VGB,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+British Virgin Islands,VGB,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+British Virgin Islands,VGB,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Brunei Darussalam,BRN,SH_UHC_SCI,UHC service coverage index,2019,83.0,,,1
+Brunei Darussalam,BRN,SH_UHC_SCI,UHC service coverage index,2018,83.0,,,1
+Brunei Darussalam,BRN,SH_UHC_SCI,UHC service coverage index,2017,83.0,,,1
+Brunei Darussalam,BRN,SH_UHC_SCI,UHC service coverage index,2016,83.0,,,1
+Brunei Darussalam,BRN,SH_UHC_SCI,UHC service coverage index,2015,84.0,,,1
+Bulgaria,BGR,SH_UHC_SCI,UHC service coverage index,2019,72.0,,,1
+Bulgaria,BGR,SH_UHC_SCI,UHC service coverage index,2018,71.0,,,1
+Bulgaria,BGR,SH_UHC_SCI,UHC service coverage index,2017,70.0,,,1
+Bulgaria,BGR,SH_UHC_SCI,UHC service coverage index,2016,70.0,,,1
+Bulgaria,BGR,SH_UHC_SCI,UHC service coverage index,2015,70.0,,,1
+Burkina Faso,BFA,SH_UHC_SCI,UHC service coverage index,2019,40.0,,,1
+Burkina Faso,BFA,SH_UHC_SCI,UHC service coverage index,2018,39.0,,,1
+Burkina Faso,BFA,SH_UHC_SCI,UHC service coverage index,2017,42.0,,,1
+Burkina Faso,BFA,SH_UHC_SCI,UHC service coverage index,2016,41.0,,,1
+Burkina Faso,BFA,SH_UHC_SCI,UHC service coverage index,2015,39.0,,,1
+Burundi,BDI,SH_UHC_SCI,UHC service coverage index,2019,49.0,,,1
+Burundi,BDI,SH_UHC_SCI,UHC service coverage index,2018,46.0,,,1
+Burundi,BDI,SH_UHC_SCI,UHC service coverage index,2017,46.0,,,1
+Burundi,BDI,SH_UHC_SCI,UHC service coverage index,2016,47.0,,,1
+Burundi,BDI,SH_UHC_SCI,UHC service coverage index,2015,49.0,,,1
+Cabo Verde,CPV,SH_UHC_SCI,UHC service coverage index,2019,67.0,,,1
+Cabo Verde,CPV,SH_UHC_SCI,UHC service coverage index,2018,66.0,,,1
+Cabo Verde,CPV,SH_UHC_SCI,UHC service coverage index,2017,67.0,,,1
+Cabo Verde,CPV,SH_UHC_SCI,UHC service coverage index,2016,66.0,,,1
+Cabo Verde,CPV,SH_UHC_SCI,UHC service coverage index,2015,65.0,,,1
+Cambodia,KHM,SH_UHC_SCI,UHC service coverage index,2019,57.0,,,1
+Cambodia,KHM,SH_UHC_SCI,UHC service coverage index,2018,56.0,,,1
+Cambodia,KHM,SH_UHC_SCI,UHC service coverage index,2017,57.0,,,1
+Cambodia,KHM,SH_UHC_SCI,UHC service coverage index,2016,55.0,,,1
+Cambodia,KHM,SH_UHC_SCI,UHC service coverage index,2015,52.0,,,1
+Cameroon,CMR,SH_UHC_SCI,UHC service coverage index,2019,46.0,,,1
+Cameroon,CMR,SH_UHC_SCI,UHC service coverage index,2018,45.0,,,1
+Cameroon,CMR,SH_UHC_SCI,UHC service coverage index,2017,47.0,,,1
+Cameroon,CMR,SH_UHC_SCI,UHC service coverage index,2016,47.0,,,1
+Cameroon,CMR,SH_UHC_SCI,UHC service coverage index,2015,47.0,,,1
+Canada,CAN,SH_UHC_SCI,UHC service coverage index,2019,92.0,,,1
+Canada,CAN,SH_UHC_SCI,UHC service coverage index,2018,92.0,,,1
+Canada,CAN,SH_UHC_SCI,UHC service coverage index,2017,92.0,,,1
+Canada,CAN,SH_UHC_SCI,UHC service coverage index,2016,91.0,,,1
+Canada,CAN,SH_UHC_SCI,UHC service coverage index,2015,91.0,,,1
+Cayman Islands,CYM,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Cayman Islands,CYM,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Cayman Islands,CYM,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Cayman Islands,CYM,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Cayman Islands,CYM,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Central African Republic,CAF,SH_UHC_SCI,UHC service coverage index,2019,31.0,,,1
+Central African Republic,CAF,SH_UHC_SCI,UHC service coverage index,2018,31.0,,,1
+Central African Republic,CAF,SH_UHC_SCI,UHC service coverage index,2017,32.0,,,1
+Central African Republic,CAF,SH_UHC_SCI,UHC service coverage index,2016,32.0,,,1
+Central African Republic,CAF,SH_UHC_SCI,UHC service coverage index,2015,32.0,,,1
+Chad,TCD,SH_UHC_SCI,UHC service coverage index,2019,24.0,,,1
+Chad,TCD,SH_UHC_SCI,UHC service coverage index,2018,27.0,,,1
+Chad,TCD,SH_UHC_SCI,UHC service coverage index,2017,28.0,,,1
+Chad,TCD,SH_UHC_SCI,UHC service coverage index,2016,23.0,,,1
+Chad,TCD,SH_UHC_SCI,UHC service coverage index,2015,25.0,,,1
+Channel Islands,CHI,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Channel Islands,CHI,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Channel Islands,CHI,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Channel Islands,CHI,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Channel Islands,CHI,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Chile,CHL,SH_UHC_SCI,UHC service coverage index,2019,82.0,,,1
+Chile,CHL,SH_UHC_SCI,UHC service coverage index,2018,81.0,,,1
+Chile,CHL,SH_UHC_SCI,UHC service coverage index,2017,82.0,,,1
+Chile,CHL,SH_UHC_SCI,UHC service coverage index,2016,80.0,,,1
+Chile,CHL,SH_UHC_SCI,UHC service coverage index,2015,79.0,,,1
+China,CHN,SH_UHC_SCI,UHC service coverage index,2019,82.0,,,1
+China,CHN,SH_UHC_SCI,UHC service coverage index,2018,81.0,,,1
+China,CHN,SH_UHC_SCI,UHC service coverage index,2017,81.0,,,1
+China,CHN,SH_UHC_SCI,UHC service coverage index,2016,80.0,,,1
+China,CHN,SH_UHC_SCI,UHC service coverage index,2015,79.0,,,1
+Colombia,COL,SH_UHC_SCI,UHC service coverage index,2019,81.0,,,1
+Colombia,COL,SH_UHC_SCI,UHC service coverage index,2018,80.0,,,1
+Colombia,COL,SH_UHC_SCI,UHC service coverage index,2017,82.0,,,1
+Colombia,COL,SH_UHC_SCI,UHC service coverage index,2016,81.0,,,1
+Colombia,COL,SH_UHC_SCI,UHC service coverage index,2015,80.0,,,1
+Comoros,COM,SH_UHC_SCI,UHC service coverage index,2019,49.0,,,1
+Comoros,COM,SH_UHC_SCI,UHC service coverage index,2018,48.0,,,1
+Comoros,COM,SH_UHC_SCI,UHC service coverage index,2017,52.0,,,1
+Comoros,COM,SH_UHC_SCI,UHC service coverage index,2016,51.0,,,1
+Comoros,COM,SH_UHC_SCI,UHC service coverage index,2015,48.0,,,1
+"Congo, Dem. Rep.",COD,SH_UHC_SCI,UHC service coverage index,2019,39.0,,,1
+"Congo, Dem. Rep.",COD,SH_UHC_SCI,UHC service coverage index,2018,38.0,,,1
+"Congo, Dem. Rep.",COD,SH_UHC_SCI,UHC service coverage index,2017,40.0,,,1
+"Congo, Dem. Rep.",COD,SH_UHC_SCI,UHC service coverage index,2016,40.0,,,1
+"Congo, Dem. Rep.",COD,SH_UHC_SCI,UHC service coverage index,2015,41.0,,,1
+"Congo, Rep.",COG,SH_UHC_SCI,UHC service coverage index,2019,43.0,,,1
+"Congo, Rep.",COG,SH_UHC_SCI,UHC service coverage index,2018,40.0,,,1
+"Congo, Rep.",COG,SH_UHC_SCI,UHC service coverage index,2017,38.0,,,1
+"Congo, Rep.",COG,SH_UHC_SCI,UHC service coverage index,2016,41.0,,,1
+"Congo, Rep.",COG,SH_UHC_SCI,UHC service coverage index,2015,41.0,,,1
+Costa Rica,CRI,SH_UHC_SCI,UHC service coverage index,2019,84.0,,,1
+Costa Rica,CRI,SH_UHC_SCI,UHC service coverage index,2018,83.0,,,1
+Costa Rica,CRI,SH_UHC_SCI,UHC service coverage index,2017,85.0,,,1
+Costa Rica,CRI,SH_UHC_SCI,UHC service coverage index,2016,83.0,,,1
+Costa Rica,CRI,SH_UHC_SCI,UHC service coverage index,2015,82.0,,,1
+Cote d'Ivoire,CIV,SH_UHC_SCI,UHC service coverage index,2019,45.0,,,1
+Cote d'Ivoire,CIV,SH_UHC_SCI,UHC service coverage index,2018,46.0,,,1
+Cote d'Ivoire,CIV,SH_UHC_SCI,UHC service coverage index,2017,47.0,,,1
+Cote d'Ivoire,CIV,SH_UHC_SCI,UHC service coverage index,2016,44.0,,,1
+Cote d'Ivoire,CIV,SH_UHC_SCI,UHC service coverage index,2015,44.0,,,1
+Croatia,HRV,SH_UHC_SCI,UHC service coverage index,2019,75.0,,,1
+Croatia,HRV,SH_UHC_SCI,UHC service coverage index,2018,75.0,,,1
+Croatia,HRV,SH_UHC_SCI,UHC service coverage index,2017,74.0,,,1
+Croatia,HRV,SH_UHC_SCI,UHC service coverage index,2016,74.0,,,1
+Croatia,HRV,SH_UHC_SCI,UHC service coverage index,2015,73.0,,,1
+Cuba,CUB,SH_UHC_SCI,UHC service coverage index,2019,84.0,,,1
+Cuba,CUB,SH_UHC_SCI,UHC service coverage index,2018,85.0,,,1
+Cuba,CUB,SH_UHC_SCI,UHC service coverage index,2017,85.0,,,1
+Cuba,CUB,SH_UHC_SCI,UHC service coverage index,2016,85.0,,,1
+Cuba,CUB,SH_UHC_SCI,UHC service coverage index,2015,84.0,,,1
+Curacao,CUW,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Curacao,CUW,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Curacao,CUW,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Curacao,CUW,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Curacao,CUW,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Cyprus,CYP,SH_UHC_SCI,UHC service coverage index,2019,76.0,,,1
+Cyprus,CYP,SH_UHC_SCI,UHC service coverage index,2018,76.0,,,1
+Cyprus,CYP,SH_UHC_SCI,UHC service coverage index,2017,77.0,,,1
+Cyprus,CYP,SH_UHC_SCI,UHC service coverage index,2016,77.0,,,1
+Cyprus,CYP,SH_UHC_SCI,UHC service coverage index,2015,75.0,,,1
+Czechia,CZE,SH_UHC_SCI,UHC service coverage index,2019,82.0,,,1
+Czechia,CZE,SH_UHC_SCI,UHC service coverage index,2018,81.0,,,1
+Czechia,CZE,SH_UHC_SCI,UHC service coverage index,2017,84.0,,,1
+Czechia,CZE,SH_UHC_SCI,UHC service coverage index,2016,83.0,,,1
+Czechia,CZE,SH_UHC_SCI,UHC service coverage index,2015,83.0,,,1
+Denmark,DNK,SH_UHC_SCI,UHC service coverage index,2019,84.0,,,1
+Denmark,DNK,SH_UHC_SCI,UHC service coverage index,2018,84.0,,,1
+Denmark,DNK,SH_UHC_SCI,UHC service coverage index,2017,83.0,,,1
+Denmark,DNK,SH_UHC_SCI,UHC service coverage index,2016,83.0,,,1
+Denmark,DNK,SH_UHC_SCI,UHC service coverage index,2015,83.0,,,1
+Djibouti,DJI,SH_UHC_SCI,UHC service coverage index,2019,50.0,,,1
+Djibouti,DJI,SH_UHC_SCI,UHC service coverage index,2018,49.0,,,1
+Djibouti,DJI,SH_UHC_SCI,UHC service coverage index,2017,47.0,,,1
+Djibouti,DJI,SH_UHC_SCI,UHC service coverage index,2016,42.0,,,1
+Djibouti,DJI,SH_UHC_SCI,UHC service coverage index,2015,42.0,,,1
+Dominica,DMA,SH_UHC_SCI,UHC service coverage index,2019,76.0,,,1
+Dominica,DMA,SH_UHC_SCI,UHC service coverage index,2018,76.0,,,1
+Dominica,DMA,SH_UHC_SCI,UHC service coverage index,2017,75.0,,,1
+Dominica,DMA,SH_UHC_SCI,UHC service coverage index,2016,75.0,,,1
+Dominica,DMA,SH_UHC_SCI,UHC service coverage index,2015,76.0,,,1
+Dominican Republic,DOM,SH_UHC_SCI,UHC service coverage index,2019,73.0,,,1
+Dominican Republic,DOM,SH_UHC_SCI,UHC service coverage index,2018,72.0,,,1
+Dominican Republic,DOM,SH_UHC_SCI,UHC service coverage index,2017,73.0,,,1
+Dominican Republic,DOM,SH_UHC_SCI,UHC service coverage index,2016,74.0,,,1
+Dominican Republic,DOM,SH_UHC_SCI,UHC service coverage index,2015,75.0,,,1
+Ecuador,ECU,SH_UHC_SCI,UHC service coverage index,2019,79.0,,,1
+Ecuador,ECU,SH_UHC_SCI,UHC service coverage index,2018,79.0,,,1
+Ecuador,ECU,SH_UHC_SCI,UHC service coverage index,2017,80.0,,,1
+Ecuador,ECU,SH_UHC_SCI,UHC service coverage index,2016,79.0,,,1
+Ecuador,ECU,SH_UHC_SCI,UHC service coverage index,2015,79.0,,,1
+"Egypt, Arab Rep.",EGY,SH_UHC_SCI,UHC service coverage index,2019,72.0,,,1
+"Egypt, Arab Rep.",EGY,SH_UHC_SCI,UHC service coverage index,2018,72.0,,,1
+"Egypt, Arab Rep.",EGY,SH_UHC_SCI,UHC service coverage index,2017,73.0,,,1
+"Egypt, Arab Rep.",EGY,SH_UHC_SCI,UHC service coverage index,2016,73.0,,,1
+"Egypt, Arab Rep.",EGY,SH_UHC_SCI,UHC service coverage index,2015,73.0,,,1
+El Salvador,SLV,SH_UHC_SCI,UHC service coverage index,2019,79.0,,,1
+El Salvador,SLV,SH_UHC_SCI,UHC service coverage index,2018,78.0,,,1
+El Salvador,SLV,SH_UHC_SCI,UHC service coverage index,2017,80.0,,,1
+El Salvador,SLV,SH_UHC_SCI,UHC service coverage index,2016,80.0,,,1
+El Salvador,SLV,SH_UHC_SCI,UHC service coverage index,2015,79.0,,,1
+Equatorial Guinea,GNQ,SH_UHC_SCI,UHC service coverage index,2019,48.0,,,1
+Equatorial Guinea,GNQ,SH_UHC_SCI,UHC service coverage index,2018,47.0,,,1
+Equatorial Guinea,GNQ,SH_UHC_SCI,UHC service coverage index,2017,46.0,,,1
+Equatorial Guinea,GNQ,SH_UHC_SCI,UHC service coverage index,2016,46.0,,,1
+Equatorial Guinea,GNQ,SH_UHC_SCI,UHC service coverage index,2015,44.0,,,1
+Eritrea,ERI,SH_UHC_SCI,UHC service coverage index,2019,41.0,,,1
+Eritrea,ERI,SH_UHC_SCI,UHC service coverage index,2018,40.0,,,1
+Eritrea,ERI,SH_UHC_SCI,UHC service coverage index,2017,41.0,,,1
+Eritrea,ERI,SH_UHC_SCI,UHC service coverage index,2016,38.0,,,1
+Eritrea,ERI,SH_UHC_SCI,UHC service coverage index,2015,38.0,,,1
+Estonia,EST,SH_UHC_SCI,UHC service coverage index,2019,78.0,,,1
+Estonia,EST,SH_UHC_SCI,UHC service coverage index,2018,78.0,,,1
+Estonia,EST,SH_UHC_SCI,UHC service coverage index,2017,77.0,,,1
+Estonia,EST,SH_UHC_SCI,UHC service coverage index,2016,77.0,,,1
+Estonia,EST,SH_UHC_SCI,UHC service coverage index,2015,77.0,,,1
+Eswatini,SWZ,SH_UHC_SCI,UHC service coverage index,2019,66.0,,,1
+Eswatini,SWZ,SH_UHC_SCI,UHC service coverage index,2018,67.0,,,1
+Eswatini,SWZ,SH_UHC_SCI,UHC service coverage index,2017,70.0,,,1
+Eswatini,SWZ,SH_UHC_SCI,UHC service coverage index,2016,69.0,,,1
+Eswatini,SWZ,SH_UHC_SCI,UHC service coverage index,2015,67.0,,,1
+Ethiopia,ETH,SH_UHC_SCI,UHC service coverage index,2019,30.0,,,1
+Ethiopia,ETH,SH_UHC_SCI,UHC service coverage index,2018,29.0,,,1
+Ethiopia,ETH,SH_UHC_SCI,UHC service coverage index,2017,29.0,,,1
+Ethiopia,ETH,SH_UHC_SCI,UHC service coverage index,2016,30.0,,,1
+Ethiopia,ETH,SH_UHC_SCI,UHC service coverage index,2015,30.0,,,1
+Faroe Islands,FRO,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Faroe Islands,FRO,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Faroe Islands,FRO,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Faroe Islands,FRO,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Faroe Islands,FRO,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Fiji,FJI,SH_UHC_SCI,UHC service coverage index,2019,70.0,,,1
+Fiji,FJI,SH_UHC_SCI,UHC service coverage index,2018,69.0,,,1
+Fiji,FJI,SH_UHC_SCI,UHC service coverage index,2017,70.0,,,1
+Fiji,FJI,SH_UHC_SCI,UHC service coverage index,2016,70.0,,,1
+Fiji,FJI,SH_UHC_SCI,UHC service coverage index,2015,71.0,,,1
+Finland,FIN,SH_UHC_SCI,UHC service coverage index,2019,86.0,,,1
+Finland,FIN,SH_UHC_SCI,UHC service coverage index,2018,86.0,,,1
+Finland,FIN,SH_UHC_SCI,UHC service coverage index,2017,86.0,,,1
+Finland,FIN,SH_UHC_SCI,UHC service coverage index,2016,86.0,,,1
+Finland,FIN,SH_UHC_SCI,UHC service coverage index,2015,86.0,,,1
+France,FRA,SH_UHC_SCI,UHC service coverage index,2019,81.0,,,1
+France,FRA,SH_UHC_SCI,UHC service coverage index,2018,81.0,,,1
+France,FRA,SH_UHC_SCI,UHC service coverage index,2017,82.0,,,1
+France,FRA,SH_UHC_SCI,UHC service coverage index,2016,82.0,,,1
+France,FRA,SH_UHC_SCI,UHC service coverage index,2015,82.0,,,1
+French Polynesia,PYF,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+French Polynesia,PYF,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+French Polynesia,PYF,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+French Polynesia,PYF,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+French Polynesia,PYF,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Gabon,GAB,SH_UHC_SCI,UHC service coverage index,2019,49.0,,,1
+Gabon,GAB,SH_UHC_SCI,UHC service coverage index,2018,51.0,,,1
+Gabon,GAB,SH_UHC_SCI,UHC service coverage index,2017,53.0,,,1
+Gabon,GAB,SH_UHC_SCI,UHC service coverage index,2016,52.0,,,1
+Gabon,GAB,SH_UHC_SCI,UHC service coverage index,2015,52.0,,,1
+"Gambia, The",GMB,SH_UHC_SCI,UHC service coverage index,2019,47.0,,,1
+"Gambia, The",GMB,SH_UHC_SCI,UHC service coverage index,2018,48.0,,,1
+"Gambia, The",GMB,SH_UHC_SCI,UHC service coverage index,2017,47.0,,,1
+"Gambia, The",GMB,SH_UHC_SCI,UHC service coverage index,2016,47.0,,,1
+"Gambia, The",GMB,SH_UHC_SCI,UHC service coverage index,2015,51.0,,,1
+Georgia,GEO,SH_UHC_SCI,UHC service coverage index,2019,69.0,,,1
+Georgia,GEO,SH_UHC_SCI,UHC service coverage index,2018,69.0,,,1
+Georgia,GEO,SH_UHC_SCI,UHC service coverage index,2017,70.0,,,1
+Georgia,GEO,SH_UHC_SCI,UHC service coverage index,2016,70.0,,,1
+Georgia,GEO,SH_UHC_SCI,UHC service coverage index,2015,70.0,,,1
+Germany,DEU,SH_UHC_SCI,UHC service coverage index,2019,86.0,,,1
+Germany,DEU,SH_UHC_SCI,UHC service coverage index,2018,86.0,,,1
+Germany,DEU,SH_UHC_SCI,UHC service coverage index,2017,87.0,,,1
+Germany,DEU,SH_UHC_SCI,UHC service coverage index,2016,86.0,,,1
+Germany,DEU,SH_UHC_SCI,UHC service coverage index,2015,86.0,,,1
+Ghana,GHA,SH_UHC_SCI,UHC service coverage index,2019,51.0,,,1
+Ghana,GHA,SH_UHC_SCI,UHC service coverage index,2018,53.0,,,1
+Ghana,GHA,SH_UHC_SCI,UHC service coverage index,2017,50.0,,,1
+Ghana,GHA,SH_UHC_SCI,UHC service coverage index,2016,50.0,,,1
+Ghana,GHA,SH_UHC_SCI,UHC service coverage index,2015,49.0,,,1
+Gibraltar,GIB,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Gibraltar,GIB,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Gibraltar,GIB,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Gibraltar,GIB,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Gibraltar,GIB,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Greece,GRC,SH_UHC_SCI,UHC service coverage index,2019,76.0,,,1
+Greece,GRC,SH_UHC_SCI,UHC service coverage index,2018,75.0,,,1
+Greece,GRC,SH_UHC_SCI,UHC service coverage index,2017,75.0,,,1
+Greece,GRC,SH_UHC_SCI,UHC service coverage index,2016,75.0,,,1
+Greece,GRC,SH_UHC_SCI,UHC service coverage index,2015,74.0,,,1
+Greenland,GRL,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Greenland,GRL,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Greenland,GRL,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Greenland,GRL,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Greenland,GRL,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Grenada,GRD,SH_UHC_SCI,UHC service coverage index,2019,78.0,,,1
+Grenada,GRD,SH_UHC_SCI,UHC service coverage index,2018,78.0,,,1
+Grenada,GRD,SH_UHC_SCI,UHC service coverage index,2017,77.0,,,1
+Grenada,GRD,SH_UHC_SCI,UHC service coverage index,2016,77.0,,,1
+Grenada,GRD,SH_UHC_SCI,UHC service coverage index,2015,77.0,,,1
+Guam,GUM,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Guam,GUM,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Guam,GUM,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Guam,GUM,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Guam,GUM,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Guatemala,GTM,SH_UHC_SCI,UHC service coverage index,2019,59.0,,,1
+Guatemala,GTM,SH_UHC_SCI,UHC service coverage index,2018,57.0,,,1
+Guatemala,GTM,SH_UHC_SCI,UHC service coverage index,2017,56.0,,,1
+Guatemala,GTM,SH_UHC_SCI,UHC service coverage index,2016,56.0,,,1
+Guatemala,GTM,SH_UHC_SCI,UHC service coverage index,2015,58.0,,,1
+Guinea,GIN,SH_UHC_SCI,UHC service coverage index,2019,43.0,,,1
+Guinea,GIN,SH_UHC_SCI,UHC service coverage index,2018,38.0,,,1
+Guinea,GIN,SH_UHC_SCI,UHC service coverage index,2017,37.0,,,1
+Guinea,GIN,SH_UHC_SCI,UHC service coverage index,2016,32.0,,,1
+Guinea,GIN,SH_UHC_SCI,UHC service coverage index,2015,34.0,,,1
+Guinea-Bissau,GNB,SH_UHC_SCI,UHC service coverage index,2019,42.0,,,1
+Guinea-Bissau,GNB,SH_UHC_SCI,UHC service coverage index,2018,44.0,,,1
+Guinea-Bissau,GNB,SH_UHC_SCI,UHC service coverage index,2017,45.0,,,1
+Guinea-Bissau,GNB,SH_UHC_SCI,UHC service coverage index,2016,43.0,,,1
+Guinea-Bissau,GNB,SH_UHC_SCI,UHC service coverage index,2015,45.0,,,1
+Guyana,GUY,SH_UHC_SCI,UHC service coverage index,2019,78.0,,,1
+Guyana,GUY,SH_UHC_SCI,UHC service coverage index,2018,74.0,,,1
+Guyana,GUY,SH_UHC_SCI,UHC service coverage index,2017,73.0,,,1
+Guyana,GUY,SH_UHC_SCI,UHC service coverage index,2016,73.0,,,1
+Guyana,GUY,SH_UHC_SCI,UHC service coverage index,2015,71.0,,,1
+Haiti,HTI,SH_UHC_SCI,UHC service coverage index,2019,41.0,,,1
+Haiti,HTI,SH_UHC_SCI,UHC service coverage index,2018,41.0,,,1
+Haiti,HTI,SH_UHC_SCI,UHC service coverage index,2017,41.0,,,1
+Haiti,HTI,SH_UHC_SCI,UHC service coverage index,2016,41.0,,,1
+Haiti,HTI,SH_UHC_SCI,UHC service coverage index,2015,40.0,,,1
+Honduras,HND,SH_UHC_SCI,UHC service coverage index,2019,64.0,,,1
+Honduras,HND,SH_UHC_SCI,UHC service coverage index,2018,60.0,,,1
+Honduras,HND,SH_UHC_SCI,UHC service coverage index,2017,63.0,,,1
+Honduras,HND,SH_UHC_SCI,UHC service coverage index,2016,65.0,,,1
+Honduras,HND,SH_UHC_SCI,UHC service coverage index,2015,64.0,,,1
+"Hong Kong SAR, China",HKG,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+"Hong Kong SAR, China",HKG,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+"Hong Kong SAR, China",HKG,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+"Hong Kong SAR, China",HKG,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+"Hong Kong SAR, China",HKG,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Hungary,HUN,SH_UHC_SCI,UHC service coverage index,2019,79.0,,,1
+Hungary,HUN,SH_UHC_SCI,UHC service coverage index,2018,79.0,,,1
+Hungary,HUN,SH_UHC_SCI,UHC service coverage index,2017,80.0,,,1
+Hungary,HUN,SH_UHC_SCI,UHC service coverage index,2016,80.0,,,1
+Hungary,HUN,SH_UHC_SCI,UHC service coverage index,2015,80.0,,,1
+Iceland,ISL,SH_UHC_SCI,UHC service coverage index,2019,90.0,,,1
+Iceland,ISL,SH_UHC_SCI,UHC service coverage index,2018,90.0,,,1
+Iceland,ISL,SH_UHC_SCI,UHC service coverage index,2017,88.0,,,1
+Iceland,ISL,SH_UHC_SCI,UHC service coverage index,2016,88.0,,,1
+Iceland,ISL,SH_UHC_SCI,UHC service coverage index,2015,89.0,,,1
+India,IND,SH_UHC_SCI,UHC service coverage index,2019,65.0,,,1
+India,IND,SH_UHC_SCI,UHC service coverage index,2018,63.0,,,1
+India,IND,SH_UHC_SCI,UHC service coverage index,2017,64.0,,,1
+India,IND,SH_UHC_SCI,UHC service coverage index,2016,63.0,,,1
+India,IND,SH_UHC_SCI,UHC service coverage index,2015,62.0,,,1
+Indonesia,IDN,SH_UHC_SCI,UHC service coverage index,2019,65.0,,,1
+Indonesia,IDN,SH_UHC_SCI,UHC service coverage index,2018,63.0,,,1
+Indonesia,IDN,SH_UHC_SCI,UHC service coverage index,2017,63.0,,,1
+Indonesia,IDN,SH_UHC_SCI,UHC service coverage index,2016,60.0,,,1
+Indonesia,IDN,SH_UHC_SCI,UHC service coverage index,2015,59.0,,,1
+"Iran, Islamic Rep.",IRN,SH_UHC_SCI,UHC service coverage index,2019,80.0,,,1
+"Iran, Islamic Rep.",IRN,SH_UHC_SCI,UHC service coverage index,2018,79.0,,,1
+"Iran, Islamic Rep.",IRN,SH_UHC_SCI,UHC service coverage index,2017,78.0,,,1
+"Iran, Islamic Rep.",IRN,SH_UHC_SCI,UHC service coverage index,2016,78.0,,,1
+"Iran, Islamic Rep.",IRN,SH_UHC_SCI,UHC service coverage index,2015,77.0,,,1
+Iraq,IRQ,SH_UHC_SCI,UHC service coverage index,2019,66.0,,,1
+Iraq,IRQ,SH_UHC_SCI,UHC service coverage index,2018,66.0,,,1
+Iraq,IRQ,SH_UHC_SCI,UHC service coverage index,2017,67.0,,,1
+Iraq,IRQ,SH_UHC_SCI,UHC service coverage index,2016,67.0,,,1
+Iraq,IRQ,SH_UHC_SCI,UHC service coverage index,2015,67.0,,,1
+Ireland,IRL,SH_UHC_SCI,UHC service coverage index,2019,81.0,,,1
+Ireland,IRL,SH_UHC_SCI,UHC service coverage index,2018,81.0,,,1
+Ireland,IRL,SH_UHC_SCI,UHC service coverage index,2017,81.0,,,1
+Ireland,IRL,SH_UHC_SCI,UHC service coverage index,2016,81.0,,,1
+Ireland,IRL,SH_UHC_SCI,UHC service coverage index,2015,81.0,,,1
+Isle of Man,IMN,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Isle of Man,IMN,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Isle of Man,IMN,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Isle of Man,IMN,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Isle of Man,IMN,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Israel,ISR,SH_UHC_SCI,UHC service coverage index,2019,84.0,,,1
+Israel,ISR,SH_UHC_SCI,UHC service coverage index,2018,85.0,,,1
+Israel,ISR,SH_UHC_SCI,UHC service coverage index,2017,84.0,,,1
+Israel,ISR,SH_UHC_SCI,UHC service coverage index,2016,82.0,,,1
+Israel,ISR,SH_UHC_SCI,UHC service coverage index,2015,82.0,,,1
+Italy,ITA,SH_UHC_SCI,UHC service coverage index,2019,83.0,,,1
+Italy,ITA,SH_UHC_SCI,UHC service coverage index,2018,83.0,,,1
+Italy,ITA,SH_UHC_SCI,UHC service coverage index,2017,83.0,,,1
+Italy,ITA,SH_UHC_SCI,UHC service coverage index,2016,83.0,,,1
+Italy,ITA,SH_UHC_SCI,UHC service coverage index,2015,82.0,,,1
+Jamaica,JAM,SH_UHC_SCI,UHC service coverage index,2019,74.0,,,1
+Jamaica,JAM,SH_UHC_SCI,UHC service coverage index,2018,72.0,,,1
+Jamaica,JAM,SH_UHC_SCI,UHC service coverage index,2017,74.0,,,1
+Jamaica,JAM,SH_UHC_SCI,UHC service coverage index,2016,75.0,,,1
+Jamaica,JAM,SH_UHC_SCI,UHC service coverage index,2015,73.0,,,1
+Japan,JPN,SH_UHC_SCI,UHC service coverage index,2019,84.0,,,1
+Japan,JPN,SH_UHC_SCI,UHC service coverage index,2018,84.0,,,1
+Japan,JPN,SH_UHC_SCI,UHC service coverage index,2017,83.0,,,1
+Japan,JPN,SH_UHC_SCI,UHC service coverage index,2016,83.0,,,1
+Japan,JPN,SH_UHC_SCI,UHC service coverage index,2015,82.0,,,1
+Jordan,JOR,SH_UHC_SCI,UHC service coverage index,2019,69.0,,,1
+Jordan,JOR,SH_UHC_SCI,UHC service coverage index,2018,69.0,,,1
+Jordan,JOR,SH_UHC_SCI,UHC service coverage index,2017,72.0,,,1
+Jordan,JOR,SH_UHC_SCI,UHC service coverage index,2016,73.0,,,1
+Jordan,JOR,SH_UHC_SCI,UHC service coverage index,2015,75.0,,,1
+Kazakhstan,KAZ,SH_UHC_SCI,UHC service coverage index,2019,83.0,,,1
+Kazakhstan,KAZ,SH_UHC_SCI,UHC service coverage index,2018,82.0,,,1
+Kazakhstan,KAZ,SH_UHC_SCI,UHC service coverage index,2017,82.0,,,1
+Kazakhstan,KAZ,SH_UHC_SCI,UHC service coverage index,2016,82.0,,,1
+Kazakhstan,KAZ,SH_UHC_SCI,UHC service coverage index,2015,82.0,,,1
+Kenya,KEN,SH_UHC_SCI,UHC service coverage index,2019,52.0,,,1
+Kenya,KEN,SH_UHC_SCI,UHC service coverage index,2018,54.0,,,1
+Kenya,KEN,SH_UHC_SCI,UHC service coverage index,2017,56.0,,,1
+Kenya,KEN,SH_UHC_SCI,UHC service coverage index,2016,55.0,,,1
+Kenya,KEN,SH_UHC_SCI,UHC service coverage index,2015,53.0,,,1
+Kiribati,KIR,SH_UHC_SCI,UHC service coverage index,2019,51.0,,,1
+Kiribati,KIR,SH_UHC_SCI,UHC service coverage index,2018,50.0,,,1
+Kiribati,KIR,SH_UHC_SCI,UHC service coverage index,2017,50.0,,,1
+Kiribati,KIR,SH_UHC_SCI,UHC service coverage index,2016,50.0,,,1
+Kiribati,KIR,SH_UHC_SCI,UHC service coverage index,2015,50.0,,,1
+"Korea, Dem. People's Rep.",PRK,SH_UHC_SCI,UHC service coverage index,2019,80.0,,,1
+"Korea, Dem. People's Rep.",PRK,SH_UHC_SCI,UHC service coverage index,2018,79.0,,,1
+"Korea, Dem. People's Rep.",PRK,SH_UHC_SCI,UHC service coverage index,2017,80.0,,,1
+"Korea, Dem. People's Rep.",PRK,SH_UHC_SCI,UHC service coverage index,2016,80.0,,,1
+"Korea, Dem. People's Rep.",PRK,SH_UHC_SCI,UHC service coverage index,2015,79.0,,,1
+"Korea, Rep.",KOR,SH_UHC_SCI,UHC service coverage index,2019,87.0,,,1
+"Korea, Rep.",KOR,SH_UHC_SCI,UHC service coverage index,2018,87.0,,,1
+"Korea, Rep.",KOR,SH_UHC_SCI,UHC service coverage index,2017,87.0,,,1
+"Korea, Rep.",KOR,SH_UHC_SCI,UHC service coverage index,2016,86.0,,,1
+"Korea, Rep.",KOR,SH_UHC_SCI,UHC service coverage index,2015,86.0,,,1
+Kosovo,XKX,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Kosovo,XKX,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Kosovo,XKX,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Kosovo,XKX,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Kosovo,XKX,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Kuwait,KWT,SH_UHC_SCI,UHC service coverage index,2019,83.0,,,1
+Kuwait,KWT,SH_UHC_SCI,UHC service coverage index,2018,80.0,,,1
+Kuwait,KWT,SH_UHC_SCI,UHC service coverage index,2017,83.0,,,1
+Kuwait,KWT,SH_UHC_SCI,UHC service coverage index,2016,83.0,,,1
+Kuwait,KWT,SH_UHC_SCI,UHC service coverage index,2015,83.0,,,1
+Kyrgyz Republic,KGZ,SH_UHC_SCI,UHC service coverage index,2019,74.0,,,1
+Kyrgyz Republic,KGZ,SH_UHC_SCI,UHC service coverage index,2018,75.0,,,1
+Kyrgyz Republic,KGZ,SH_UHC_SCI,UHC service coverage index,2017,74.0,,,1
+Kyrgyz Republic,KGZ,SH_UHC_SCI,UHC service coverage index,2016,74.0,,,1
+Kyrgyz Republic,KGZ,SH_UHC_SCI,UHC service coverage index,2015,74.0,,,1
+Lao PDR,LAO,SH_UHC_SCI,UHC service coverage index,2019,58.0,,,1
+Lao PDR,LAO,SH_UHC_SCI,UHC service coverage index,2018,56.0,,,1
+Lao PDR,LAO,SH_UHC_SCI,UHC service coverage index,2017,57.0,,,1
+Lao PDR,LAO,SH_UHC_SCI,UHC service coverage index,2016,57.0,,,1
+Lao PDR,LAO,SH_UHC_SCI,UHC service coverage index,2015,55.0,,,1
+Latvia,LVA,SH_UHC_SCI,UHC service coverage index,2019,77.0,,,1
+Latvia,LVA,SH_UHC_SCI,UHC service coverage index,2018,76.0,,,1
+Latvia,LVA,SH_UHC_SCI,UHC service coverage index,2017,77.0,,,1
+Latvia,LVA,SH_UHC_SCI,UHC service coverage index,2016,77.0,,,1
+Latvia,LVA,SH_UHC_SCI,UHC service coverage index,2015,76.0,,,1
+Lebanon,LBN,SH_UHC_SCI,UHC service coverage index,2019,69.0,,,1
+Lebanon,LBN,SH_UHC_SCI,UHC service coverage index,2018,67.0,,,1
+Lebanon,LBN,SH_UHC_SCI,UHC service coverage index,2017,69.0,,,1
+Lebanon,LBN,SH_UHC_SCI,UHC service coverage index,2016,68.0,,,1
+Lebanon,LBN,SH_UHC_SCI,UHC service coverage index,2015,68.0,,,1
+Lesotho,LSO,SH_UHC_SCI,UHC service coverage index,2019,53.0,,,1
+Lesotho,LSO,SH_UHC_SCI,UHC service coverage index,2018,55.0,,,1
+Lesotho,LSO,SH_UHC_SCI,UHC service coverage index,2017,57.0,,,1
+Lesotho,LSO,SH_UHC_SCI,UHC service coverage index,2016,56.0,,,1
+Lesotho,LSO,SH_UHC_SCI,UHC service coverage index,2015,55.0,,,1
+Liberia,LBR,SH_UHC_SCI,UHC service coverage index,2019,46.0,,,1
+Liberia,LBR,SH_UHC_SCI,UHC service coverage index,2018,46.0,,,1
+Liberia,LBR,SH_UHC_SCI,UHC service coverage index,2017,41.0,,,1
+Liberia,LBR,SH_UHC_SCI,UHC service coverage index,2016,42.0,,,1
+Liberia,LBR,SH_UHC_SCI,UHC service coverage index,2015,42.0,,,1
+Libya,LBY,SH_UHC_SCI,UHC service coverage index,2019,70.0,,,1
+Libya,LBY,SH_UHC_SCI,UHC service coverage index,2018,68.0,,,1
+Libya,LBY,SH_UHC_SCI,UHC service coverage index,2017,71.0,,,1
+Libya,LBY,SH_UHC_SCI,UHC service coverage index,2016,71.0,,,1
+Libya,LBY,SH_UHC_SCI,UHC service coverage index,2015,71.0,,,1
+Liechtenstein,LIE,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Liechtenstein,LIE,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Liechtenstein,LIE,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Liechtenstein,LIE,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Liechtenstein,LIE,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Lithuania,LTU,SH_UHC_SCI,UHC service coverage index,2019,76.0,,,1
+Lithuania,LTU,SH_UHC_SCI,UHC service coverage index,2018,76.0,,,1
+Lithuania,LTU,SH_UHC_SCI,UHC service coverage index,2017,75.0,,,1
+Lithuania,LTU,SH_UHC_SCI,UHC service coverage index,2016,75.0,,,1
+Lithuania,LTU,SH_UHC_SCI,UHC service coverage index,2015,75.0,,,1
+Luxembourg,LUX,SH_UHC_SCI,UHC service coverage index,2019,86.0,,,1
+Luxembourg,LUX,SH_UHC_SCI,UHC service coverage index,2018,84.0,,,1
+Luxembourg,LUX,SH_UHC_SCI,UHC service coverage index,2017,85.0,,,1
+Luxembourg,LUX,SH_UHC_SCI,UHC service coverage index,2016,85.0,,,1
+Luxembourg,LUX,SH_UHC_SCI,UHC service coverage index,2015,85.0,,,1
+"Macao SAR, China",MAC,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+"Macao SAR, China",MAC,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+"Macao SAR, China",MAC,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+"Macao SAR, China",MAC,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+"Macao SAR, China",MAC,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Madagascar,MDG,SH_UHC_SCI,UHC service coverage index,2019,33.0,,,1
+Madagascar,MDG,SH_UHC_SCI,UHC service coverage index,2018,32.0,,,1
+Madagascar,MDG,SH_UHC_SCI,UHC service coverage index,2017,31.0,,,1
+Madagascar,MDG,SH_UHC_SCI,UHC service coverage index,2016,32.0,,,1
+Madagascar,MDG,SH_UHC_SCI,UHC service coverage index,2015,31.0,,,1
+Malawi,MWI,SH_UHC_SCI,UHC service coverage index,2019,55.0,,,1
+Malawi,MWI,SH_UHC_SCI,UHC service coverage index,2018,54.0,,,1
+Malawi,MWI,SH_UHC_SCI,UHC service coverage index,2017,52.0,,,1
+Malawi,MWI,SH_UHC_SCI,UHC service coverage index,2016,50.0,,,1
+Malawi,MWI,SH_UHC_SCI,UHC service coverage index,2015,45.0,,,1
+Malaysia,MYS,SH_UHC_SCI,UHC service coverage index,2019,80.0,,,1
+Malaysia,MYS,SH_UHC_SCI,UHC service coverage index,2018,80.0,,,1
+Malaysia,MYS,SH_UHC_SCI,UHC service coverage index,2017,80.0,,,1
+Malaysia,MYS,SH_UHC_SCI,UHC service coverage index,2016,80.0,,,1
+Malaysia,MYS,SH_UHC_SCI,UHC service coverage index,2015,80.0,,,1
+Maldives,MDV,SH_UHC_SCI,UHC service coverage index,2019,68.0,,,1
+Maldives,MDV,SH_UHC_SCI,UHC service coverage index,2018,67.0,,,1
+Maldives,MDV,SH_UHC_SCI,UHC service coverage index,2017,68.0,,,1
+Maldives,MDV,SH_UHC_SCI,UHC service coverage index,2016,66.0,,,1
+Maldives,MDV,SH_UHC_SCI,UHC service coverage index,2015,68.0,,,1
+Mali,MLI,SH_UHC_SCI,UHC service coverage index,2019,42.0,,,1
+Mali,MLI,SH_UHC_SCI,UHC service coverage index,2018,41.0,,,1
+Mali,MLI,SH_UHC_SCI,UHC service coverage index,2017,38.0,,,1
+Mali,MLI,SH_UHC_SCI,UHC service coverage index,2016,37.0,,,1
+Mali,MLI,SH_UHC_SCI,UHC service coverage index,2015,37.0,,,1
+Malta,MLT,SH_UHC_SCI,UHC service coverage index,2019,81.0,,,1
+Malta,MLT,SH_UHC_SCI,UHC service coverage index,2018,80.0,,,1
+Malta,MLT,SH_UHC_SCI,UHC service coverage index,2017,82.0,,,1
+Malta,MLT,SH_UHC_SCI,UHC service coverage index,2016,82.0,,,1
+Malta,MLT,SH_UHC_SCI,UHC service coverage index,2015,82.0,,,1
+Marshall Islands,MHL,SH_UHC_SCI,UHC service coverage index,2019,66.0,,,1
+Marshall Islands,MHL,SH_UHC_SCI,UHC service coverage index,2018,66.0,,,1
+Marshall Islands,MHL,SH_UHC_SCI,UHC service coverage index,2017,67.0,,,1
+Marshall Islands,MHL,SH_UHC_SCI,UHC service coverage index,2016,66.0,,,1
+Marshall Islands,MHL,SH_UHC_SCI,UHC service coverage index,2015,66.0,,,1
+Mauritania,MRT,SH_UHC_SCI,UHC service coverage index,2019,38.0,,,1
+Mauritania,MRT,SH_UHC_SCI,UHC service coverage index,2018,41.0,,,1
+Mauritania,MRT,SH_UHC_SCI,UHC service coverage index,2017,39.0,,,1
+Mauritania,MRT,SH_UHC_SCI,UHC service coverage index,2016,32.0,,,1
+Mauritania,MRT,SH_UHC_SCI,UHC service coverage index,2015,31.0,,,1
+Mauritius,MUS,SH_UHC_SCI,UHC service coverage index,2019,77.0,,,1
+Mauritius,MUS,SH_UHC_SCI,UHC service coverage index,2018,76.0,,,1
+Mauritius,MUS,SH_UHC_SCI,UHC service coverage index,2017,76.0,,,1
+Mauritius,MUS,SH_UHC_SCI,UHC service coverage index,2016,75.0,,,1
+Mauritius,MUS,SH_UHC_SCI,UHC service coverage index,2015,74.0,,,1
+Mexico,MEX,SH_UHC_SCI,UHC service coverage index,2019,78.0,,,1
+Mexico,MEX,SH_UHC_SCI,UHC service coverage index,2018,78.0,,,1
+Mexico,MEX,SH_UHC_SCI,UHC service coverage index,2017,78.0,,,1
+Mexico,MEX,SH_UHC_SCI,UHC service coverage index,2016,78.0,,,1
+Mexico,MEX,SH_UHC_SCI,UHC service coverage index,2015,77.0,,,1
+"Micronesia, Fed. Sts.",FSM,SH_UHC_SCI,UHC service coverage index,2019,62.0,,,1
+"Micronesia, Fed. Sts.",FSM,SH_UHC_SCI,UHC service coverage index,2018,65.0,,,1
+"Micronesia, Fed. Sts.",FSM,SH_UHC_SCI,UHC service coverage index,2017,67.0,,,1
+"Micronesia, Fed. Sts.",FSM,SH_UHC_SCI,UHC service coverage index,2016,66.0,,,1
+"Micronesia, Fed. Sts.",FSM,SH_UHC_SCI,UHC service coverage index,2015,64.0,,,1
+Moldova,MDA,SH_UHC_SCI,UHC service coverage index,2019,70.0,,,1
+Moldova,MDA,SH_UHC_SCI,UHC service coverage index,2018,70.0,,,1
+Moldova,MDA,SH_UHC_SCI,UHC service coverage index,2017,71.0,,,1
+Moldova,MDA,SH_UHC_SCI,UHC service coverage index,2016,72.0,,,1
+Moldova,MDA,SH_UHC_SCI,UHC service coverage index,2015,71.0,,,1
+Monaco,MCO,SH_UHC_SCI,UHC service coverage index,2019,85.0,,,1
+Monaco,MCO,SH_UHC_SCI,UHC service coverage index,2018,85.0,,,1
+Monaco,MCO,SH_UHC_SCI,UHC service coverage index,2017,85.0,,,1
+Monaco,MCO,SH_UHC_SCI,UHC service coverage index,2016,85.0,,,1
+Monaco,MCO,SH_UHC_SCI,UHC service coverage index,2015,85.0,,,1
+Mongolia,MNG,SH_UHC_SCI,UHC service coverage index,2019,71.0,,,1
+Mongolia,MNG,SH_UHC_SCI,UHC service coverage index,2018,70.0,,,1
+Mongolia,MNG,SH_UHC_SCI,UHC service coverage index,2017,70.0,,,1
+Mongolia,MNG,SH_UHC_SCI,UHC service coverage index,2016,69.0,,,1
+Mongolia,MNG,SH_UHC_SCI,UHC service coverage index,2015,69.0,,,1
+Montenegro,MNE,SH_UHC_SCI,UHC service coverage index,2019,69.0,,,1
+Montenegro,MNE,SH_UHC_SCI,UHC service coverage index,2018,68.0,,,1
+Montenegro,MNE,SH_UHC_SCI,UHC service coverage index,2017,69.0,,,1
+Montenegro,MNE,SH_UHC_SCI,UHC service coverage index,2016,69.0,,,1
+Montenegro,MNE,SH_UHC_SCI,UHC service coverage index,2015,69.0,,,1
+Morocco,MAR,SH_UHC_SCI,UHC service coverage index,2019,65.0,,,1
+Morocco,MAR,SH_UHC_SCI,UHC service coverage index,2018,65.0,,,1
+Morocco,MAR,SH_UHC_SCI,UHC service coverage index,2017,66.0,,,1
+Morocco,MAR,SH_UHC_SCI,UHC service coverage index,2016,66.0,,,1
+Morocco,MAR,SH_UHC_SCI,UHC service coverage index,2015,66.0,,,1
+Mozambique,MOZ,SH_UHC_SCI,UHC service coverage index,2019,46.0,,,1
+Mozambique,MOZ,SH_UHC_SCI,UHC service coverage index,2018,46.0,,,1
+Mozambique,MOZ,SH_UHC_SCI,UHC service coverage index,2017,46.0,,,1
+Mozambique,MOZ,SH_UHC_SCI,UHC service coverage index,2016,43.0,,,1
+Mozambique,MOZ,SH_UHC_SCI,UHC service coverage index,2015,45.0,,,1
+Myanmar,MMR,SH_UHC_SCI,UHC service coverage index,2019,54.0,,,1
+Myanmar,MMR,SH_UHC_SCI,UHC service coverage index,2018,53.0,,,1
+Myanmar,MMR,SH_UHC_SCI,UHC service coverage index,2017,53.0,,,1
+Myanmar,MMR,SH_UHC_SCI,UHC service coverage index,2016,53.0,,,1
+Myanmar,MMR,SH_UHC_SCI,UHC service coverage index,2015,52.0,,,1
+Namibia,NAM,SH_UHC_SCI,UHC service coverage index,2019,60.0,,,1
+Namibia,NAM,SH_UHC_SCI,UHC service coverage index,2018,58.0,,,1
+Namibia,NAM,SH_UHC_SCI,UHC service coverage index,2017,60.0,,,1
+Namibia,NAM,SH_UHC_SCI,UHC service coverage index,2016,60.0,,,1
+Namibia,NAM,SH_UHC_SCI,UHC service coverage index,2015,59.0,,,1
+Nauru,NRU,SH_UHC_SCI,UHC service coverage index,2019,59.0,,,1
+Nauru,NRU,SH_UHC_SCI,UHC service coverage index,2018,59.0,,,1
+Nauru,NRU,SH_UHC_SCI,UHC service coverage index,2017,58.0,,,1
+Nauru,NRU,SH_UHC_SCI,UHC service coverage index,2016,58.0,,,1
+Nauru,NRU,SH_UHC_SCI,UHC service coverage index,2015,58.0,,,1
+Nepal,NPL,SH_UHC_SCI,UHC service coverage index,2019,51.0,,,1
+Nepal,NPL,SH_UHC_SCI,UHC service coverage index,2018,47.0,,,1
+Nepal,NPL,SH_UHC_SCI,UHC service coverage index,2017,45.0,,,1
+Nepal,NPL,SH_UHC_SCI,UHC service coverage index,2016,48.0,,,1
+Nepal,NPL,SH_UHC_SCI,UHC service coverage index,2015,46.0,,,1
+Netherlands,NLD,SH_UHC_SCI,UHC service coverage index,2019,85.0,,,1
+Netherlands,NLD,SH_UHC_SCI,UHC service coverage index,2018,84.0,,,1
+Netherlands,NLD,SH_UHC_SCI,UHC service coverage index,2017,85.0,,,1
+Netherlands,NLD,SH_UHC_SCI,UHC service coverage index,2016,84.0,,,1
+Netherlands,NLD,SH_UHC_SCI,UHC service coverage index,2015,84.0,,,1
+New Caledonia,NCL,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+New Caledonia,NCL,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+New Caledonia,NCL,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+New Caledonia,NCL,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+New Caledonia,NCL,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+New Zealand,NZL,SH_UHC_SCI,UHC service coverage index,2019,88.0,,,1
+New Zealand,NZL,SH_UHC_SCI,UHC service coverage index,2018,89.0,,,1
+New Zealand,NZL,SH_UHC_SCI,UHC service coverage index,2017,89.0,,,1
+New Zealand,NZL,SH_UHC_SCI,UHC service coverage index,2016,89.0,,,1
+New Zealand,NZL,SH_UHC_SCI,UHC service coverage index,2015,89.0,,,1
+Nicaragua,NIC,SH_UHC_SCI,UHC service coverage index,2019,71.0,,,1
+Nicaragua,NIC,SH_UHC_SCI,UHC service coverage index,2018,70.0,,,1
+Nicaragua,NIC,SH_UHC_SCI,UHC service coverage index,2017,72.0,,,1
+Nicaragua,NIC,SH_UHC_SCI,UHC service coverage index,2016,71.0,,,1
+Nicaragua,NIC,SH_UHC_SCI,UHC service coverage index,2015,70.0,,,1
+Niger,NER,SH_UHC_SCI,UHC service coverage index,2019,35.0,,,1
+Niger,NER,SH_UHC_SCI,UHC service coverage index,2018,35.0,,,1
+Niger,NER,SH_UHC_SCI,UHC service coverage index,2017,35.0,,,1
+Niger,NER,SH_UHC_SCI,UHC service coverage index,2016,36.0,,,1
+Niger,NER,SH_UHC_SCI,UHC service coverage index,2015,34.0,,,1
+Nigeria,NGA,SH_UHC_SCI,UHC service coverage index,2019,47.0,,,1
+Nigeria,NGA,SH_UHC_SCI,UHC service coverage index,2018,46.0,,,1
+Nigeria,NGA,SH_UHC_SCI,UHC service coverage index,2017,42.0,,,1
+Nigeria,NGA,SH_UHC_SCI,UHC service coverage index,2016,44.0,,,1
+Nigeria,NGA,SH_UHC_SCI,UHC service coverage index,2015,43.0,,,1
+North Macedonia,MKD,SH_UHC_SCI,UHC service coverage index,2019,67.0,,,1
+North Macedonia,MKD,SH_UHC_SCI,UHC service coverage index,2018,66.0,,,1
+North Macedonia,MKD,SH_UHC_SCI,UHC service coverage index,2017,68.0,,,1
+North Macedonia,MKD,SH_UHC_SCI,UHC service coverage index,2016,68.0,,,1
+North Macedonia,MKD,SH_UHC_SCI,UHC service coverage index,2015,67.0,,,1
+Northern Mariana Islands,MNP,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Northern Mariana Islands,MNP,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Northern Mariana Islands,MNP,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Northern Mariana Islands,MNP,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Northern Mariana Islands,MNP,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Norway,NOR,SH_UHC_SCI,UHC service coverage index,2019,88.0,,,1
+Norway,NOR,SH_UHC_SCI,UHC service coverage index,2018,87.0,,,1
+Norway,NOR,SH_UHC_SCI,UHC service coverage index,2017,87.0,,,1
+Norway,NOR,SH_UHC_SCI,UHC service coverage index,2016,87.0,,,1
+Norway,NOR,SH_UHC_SCI,UHC service coverage index,2015,87.0,,,1
+Oman,OMN,SH_UHC_SCI,UHC service coverage index,2019,74.0,,,1
+Oman,OMN,SH_UHC_SCI,UHC service coverage index,2018,75.0,,,1
+Oman,OMN,SH_UHC_SCI,UHC service coverage index,2017,74.0,,,1
+Oman,OMN,SH_UHC_SCI,UHC service coverage index,2016,75.0,,,1
+Oman,OMN,SH_UHC_SCI,UHC service coverage index,2015,75.0,,,1
+Pakistan,PAK,SH_UHC_SCI,UHC service coverage index,2019,52.0,,,1
+Pakistan,PAK,SH_UHC_SCI,UHC service coverage index,2018,53.0,,,1
+Pakistan,PAK,SH_UHC_SCI,UHC service coverage index,2017,51.0,,,1
+Pakistan,PAK,SH_UHC_SCI,UHC service coverage index,2016,50.0,,,1
+Pakistan,PAK,SH_UHC_SCI,UHC service coverage index,2015,49.0,,,1
+Palau,PLW,SH_UHC_SCI,UHC service coverage index,2019,75.0,,,1
+Palau,PLW,SH_UHC_SCI,UHC service coverage index,2018,74.0,,,1
+Palau,PLW,SH_UHC_SCI,UHC service coverage index,2017,77.0,,,1
+Palau,PLW,SH_UHC_SCI,UHC service coverage index,2016,76.0,,,1
+Palau,PLW,SH_UHC_SCI,UHC service coverage index,2015,76.0,,,1
+Panama,PAN,SH_UHC_SCI,UHC service coverage index,2019,81.0,,,1
+Panama,PAN,SH_UHC_SCI,UHC service coverage index,2018,80.0,,,1
+Panama,PAN,SH_UHC_SCI,UHC service coverage index,2017,80.0,,,1
+Panama,PAN,SH_UHC_SCI,UHC service coverage index,2016,79.0,,,1
+Panama,PAN,SH_UHC_SCI,UHC service coverage index,2015,78.0,,,1
+Papua New Guinea,PNG,SH_UHC_SCI,UHC service coverage index,2019,26.0,,,1
+Papua New Guinea,PNG,SH_UHC_SCI,UHC service coverage index,2018,28.0,,,1
+Papua New Guinea,PNG,SH_UHC_SCI,UHC service coverage index,2017,28.0,,,1
+Papua New Guinea,PNG,SH_UHC_SCI,UHC service coverage index,2016,28.0,,,1
+Papua New Guinea,PNG,SH_UHC_SCI,UHC service coverage index,2015,28.0,,,1
+Paraguay,PRY,SH_UHC_SCI,UHC service coverage index,2019,77.0,,,1
+Paraguay,PRY,SH_UHC_SCI,UHC service coverage index,2018,73.0,,,1
+Paraguay,PRY,SH_UHC_SCI,UHC service coverage index,2017,72.0,,,1
+Paraguay,PRY,SH_UHC_SCI,UHC service coverage index,2016,72.0,,,1
+Paraguay,PRY,SH_UHC_SCI,UHC service coverage index,2015,71.0,,,1
+Peru,PER,SH_UHC_SCI,UHC service coverage index,2019,69.0,,,1
+Peru,PER,SH_UHC_SCI,UHC service coverage index,2018,70.0,,,1
+Peru,PER,SH_UHC_SCI,UHC service coverage index,2017,70.0,,,1
+Peru,PER,SH_UHC_SCI,UHC service coverage index,2016,70.0,,,1
+Peru,PER,SH_UHC_SCI,UHC service coverage index,2015,71.0,,,1
+Philippines,PHL,SH_UHC_SCI,UHC service coverage index,2019,66.0,,,1
+Philippines,PHL,SH_UHC_SCI,UHC service coverage index,2018,67.0,,,1
+Philippines,PHL,SH_UHC_SCI,UHC service coverage index,2017,68.0,,,1
+Philippines,PHL,SH_UHC_SCI,UHC service coverage index,2016,68.0,,,1
+Philippines,PHL,SH_UHC_SCI,UHC service coverage index,2015,66.0,,,1
+Poland,POL,SH_UHC_SCI,UHC service coverage index,2019,81.0,,,1
+Poland,POL,SH_UHC_SCI,UHC service coverage index,2018,81.0,,,1
+Poland,POL,SH_UHC_SCI,UHC service coverage index,2017,81.0,,,1
+Poland,POL,SH_UHC_SCI,UHC service coverage index,2016,80.0,,,1
+Poland,POL,SH_UHC_SCI,UHC service coverage index,2015,80.0,,,1
+Portugal,PRT,SH_UHC_SCI,UHC service coverage index,2019,83.0,,,1
+Portugal,PRT,SH_UHC_SCI,UHC service coverage index,2018,83.0,,,1
+Portugal,PRT,SH_UHC_SCI,UHC service coverage index,2017,84.0,,,1
+Portugal,PRT,SH_UHC_SCI,UHC service coverage index,2016,84.0,,,1
+Portugal,PRT,SH_UHC_SCI,UHC service coverage index,2015,84.0,,,1
+Puerto Rico (US),PRI,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Puerto Rico (US),PRI,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Puerto Rico (US),PRI,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Puerto Rico (US),PRI,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Puerto Rico (US),PRI,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Qatar,QAT,SH_UHC_SCI,UHC service coverage index,2019,83.0,,,1
+Qatar,QAT,SH_UHC_SCI,UHC service coverage index,2018,82.0,,,1
+Qatar,QAT,SH_UHC_SCI,UHC service coverage index,2017,80.0,,,1
+Qatar,QAT,SH_UHC_SCI,UHC service coverage index,2016,81.0,,,1
+Qatar,QAT,SH_UHC_SCI,UHC service coverage index,2015,82.0,,,1
+Romania,ROU,SH_UHC_SCI,UHC service coverage index,2019,76.0,,,1
+Romania,ROU,SH_UHC_SCI,UHC service coverage index,2018,76.0,,,1
+Romania,ROU,SH_UHC_SCI,UHC service coverage index,2017,75.0,,,1
+Romania,ROU,SH_UHC_SCI,UHC service coverage index,2016,75.0,,,1
+Romania,ROU,SH_UHC_SCI,UHC service coverage index,2015,74.0,,,1
+Russian Federation,RUS,SH_UHC_SCI,UHC service coverage index,2019,79.0,,,1
+Russian Federation,RUS,SH_UHC_SCI,UHC service coverage index,2018,79.0,,,1
+Russian Federation,RUS,SH_UHC_SCI,UHC service coverage index,2017,78.0,,,1
+Russian Federation,RUS,SH_UHC_SCI,UHC service coverage index,2016,78.0,,,1
+Russian Federation,RUS,SH_UHC_SCI,UHC service coverage index,2015,76.0,,,1
+Rwanda,RWA,SH_UHC_SCI,UHC service coverage index,2019,55.0,,,1
+Rwanda,RWA,SH_UHC_SCI,UHC service coverage index,2018,57.0,,,1
+Rwanda,RWA,SH_UHC_SCI,UHC service coverage index,2017,56.0,,,1
+Rwanda,RWA,SH_UHC_SCI,UHC service coverage index,2016,52.0,,,1
+Rwanda,RWA,SH_UHC_SCI,UHC service coverage index,2015,50.0,,,1
+Samoa,WSM,SH_UHC_SCI,UHC service coverage index,2019,63.0,,,1
+Samoa,WSM,SH_UHC_SCI,UHC service coverage index,2018,62.0,,,1
+Samoa,WSM,SH_UHC_SCI,UHC service coverage index,2017,62.0,,,1
+Samoa,WSM,SH_UHC_SCI,UHC service coverage index,2016,62.0,,,1
+Samoa,WSM,SH_UHC_SCI,UHC service coverage index,2015,62.0,,,1
+San Marino,SMR,SH_UHC_SCI,UHC service coverage index,2019,74.0,,,1
+San Marino,SMR,SH_UHC_SCI,UHC service coverage index,2018,74.0,,,1
+San Marino,SMR,SH_UHC_SCI,UHC service coverage index,2017,78.0,,,1
+San Marino,SMR,SH_UHC_SCI,UHC service coverage index,2016,78.0,,,1
+San Marino,SMR,SH_UHC_SCI,UHC service coverage index,2015,77.0,,,1
+Sao Tome and Principe,STP,SH_UHC_SCI,UHC service coverage index,2019,58.0,,,1
+Sao Tome and Principe,STP,SH_UHC_SCI,UHC service coverage index,2018,58.0,,,1
+Sao Tome and Principe,STP,SH_UHC_SCI,UHC service coverage index,2017,53.0,,,1
+Sao Tome and Principe,STP,SH_UHC_SCI,UHC service coverage index,2016,53.0,,,1
+Sao Tome and Principe,STP,SH_UHC_SCI,UHC service coverage index,2015,52.0,,,1
+Saudi Arabia,SAU,SH_UHC_SCI,UHC service coverage index,2019,80.0,,,1
+Saudi Arabia,SAU,SH_UHC_SCI,UHC service coverage index,2018,80.0,,,1
+Saudi Arabia,SAU,SH_UHC_SCI,UHC service coverage index,2017,82.0,,,1
+Saudi Arabia,SAU,SH_UHC_SCI,UHC service coverage index,2016,82.0,,,1
+Saudi Arabia,SAU,SH_UHC_SCI,UHC service coverage index,2015,82.0,,,1
+Senegal,SEN,SH_UHC_SCI,UHC service coverage index,2019,50.0,,,1
+Senegal,SEN,SH_UHC_SCI,UHC service coverage index,2018,47.0,,,1
+Senegal,SEN,SH_UHC_SCI,UHC service coverage index,2017,47.0,,,1
+Senegal,SEN,SH_UHC_SCI,UHC service coverage index,2016,46.0,,,1
+Senegal,SEN,SH_UHC_SCI,UHC service coverage index,2015,42.0,,,1
+Serbia,SRB,SH_UHC_SCI,UHC service coverage index,2019,71.0,,,1
+Serbia,SRB,SH_UHC_SCI,UHC service coverage index,2018,71.0,,,1
+Serbia,SRB,SH_UHC_SCI,UHC service coverage index,2017,68.0,,,1
+Serbia,SRB,SH_UHC_SCI,UHC service coverage index,2016,67.0,,,1
+Serbia,SRB,SH_UHC_SCI,UHC service coverage index,2015,67.0,,,1
+Seychelles,SYC,SH_UHC_SCI,UHC service coverage index,2019,78.0,,,1
+Seychelles,SYC,SH_UHC_SCI,UHC service coverage index,2018,78.0,,,1
+Seychelles,SYC,SH_UHC_SCI,UHC service coverage index,2017,81.0,,,1
+Seychelles,SYC,SH_UHC_SCI,UHC service coverage index,2016,81.0,,,1
+Seychelles,SYC,SH_UHC_SCI,UHC service coverage index,2015,80.0,,,1
+Sierra Leone,SLE,SH_UHC_SCI,UHC service coverage index,2019,42.0,,,1
+Sierra Leone,SLE,SH_UHC_SCI,UHC service coverage index,2018,42.0,,,1
+Sierra Leone,SLE,SH_UHC_SCI,UHC service coverage index,2017,44.0,,,1
+Sierra Leone,SLE,SH_UHC_SCI,UHC service coverage index,2016,40.0,,,1
+Sierra Leone,SLE,SH_UHC_SCI,UHC service coverage index,2015,43.0,,,1
+Singapore,SGP,SH_UHC_SCI,UHC service coverage index,2019,88.0,,,1
+Singapore,SGP,SH_UHC_SCI,UHC service coverage index,2018,88.0,,,1
+Singapore,SGP,SH_UHC_SCI,UHC service coverage index,2017,88.0,,,1
+Singapore,SGP,SH_UHC_SCI,UHC service coverage index,2016,88.0,,,1
+Singapore,SGP,SH_UHC_SCI,UHC service coverage index,2015,88.0,,,1
+Sint Maarten (Dutch part),SXM,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Sint Maarten (Dutch part),SXM,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Sint Maarten (Dutch part),SXM,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Sint Maarten (Dutch part),SXM,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Sint Maarten (Dutch part),SXM,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Slovak Republic,SVK,SH_UHC_SCI,UHC service coverage index,2019,81.0,,,1
+Slovak Republic,SVK,SH_UHC_SCI,UHC service coverage index,2018,80.0,,,1
+Slovak Republic,SVK,SH_UHC_SCI,UHC service coverage index,2017,82.0,,,1
+Slovak Republic,SVK,SH_UHC_SCI,UHC service coverage index,2016,82.0,,,1
+Slovak Republic,SVK,SH_UHC_SCI,UHC service coverage index,2015,82.0,,,1
+Slovenia,SVN,SH_UHC_SCI,UHC service coverage index,2019,84.0,,,1
+Slovenia,SVN,SH_UHC_SCI,UHC service coverage index,2018,83.0,,,1
+Slovenia,SVN,SH_UHC_SCI,UHC service coverage index,2017,83.0,,,1
+Slovenia,SVN,SH_UHC_SCI,UHC service coverage index,2016,82.0,,,1
+Slovenia,SVN,SH_UHC_SCI,UHC service coverage index,2015,82.0,,,1
+Solomon Islands,SLB,SH_UHC_SCI,UHC service coverage index,2019,45.0,,,1
+Solomon Islands,SLB,SH_UHC_SCI,UHC service coverage index,2018,44.0,,,1
+Solomon Islands,SLB,SH_UHC_SCI,UHC service coverage index,2017,46.0,,,1
+Solomon Islands,SLB,SH_UHC_SCI,UHC service coverage index,2016,46.0,,,1
+Solomon Islands,SLB,SH_UHC_SCI,UHC service coverage index,2015,45.0,,,1
+"Somalia, Fed. Rep.",SOM,SH_UHC_SCI,UHC service coverage index,2019,28.0,,,1
+"Somalia, Fed. Rep.",SOM,SH_UHC_SCI,UHC service coverage index,2018,29.0,,,1
+"Somalia, Fed. Rep.",SOM,SH_UHC_SCI,UHC service coverage index,2017,28.0,,,1
+"Somalia, Fed. Rep.",SOM,SH_UHC_SCI,UHC service coverage index,2016,26.0,,,1
+"Somalia, Fed. Rep.",SOM,SH_UHC_SCI,UHC service coverage index,2015,24.0,,,1
+South Africa,ZAF,SH_UHC_SCI,UHC service coverage index,2019,67.0,,,1
+South Africa,ZAF,SH_UHC_SCI,UHC service coverage index,2018,67.0,,,1
+South Africa,ZAF,SH_UHC_SCI,UHC service coverage index,2017,68.0,,,1
+South Africa,ZAF,SH_UHC_SCI,UHC service coverage index,2016,68.0,,,1
+South Africa,ZAF,SH_UHC_SCI,UHC service coverage index,2015,68.0,,,1
+South Sudan,SSD,SH_UHC_SCI,UHC service coverage index,2019,36.0,,,1
+South Sudan,SSD,SH_UHC_SCI,UHC service coverage index,2018,35.0,,,1
+South Sudan,SSD,SH_UHC_SCI,UHC service coverage index,2017,35.0,,,1
+South Sudan,SSD,SH_UHC_SCI,UHC service coverage index,2016,35.0,,,1
+South Sudan,SSD,SH_UHC_SCI,UHC service coverage index,2015,31.0,,,1
+Spain,ESP,SH_UHC_SCI,UHC service coverage index,2019,84.0,,,1
+Spain,ESP,SH_UHC_SCI,UHC service coverage index,2018,83.0,,,1
+Spain,ESP,SH_UHC_SCI,UHC service coverage index,2017,84.0,,,1
+Spain,ESP,SH_UHC_SCI,UHC service coverage index,2016,84.0,,,1
+Spain,ESP,SH_UHC_SCI,UHC service coverage index,2015,83.0,,,1
+Sri Lanka,LKA,SH_UHC_SCI,UHC service coverage index,2019,70.0,,,1
+Sri Lanka,LKA,SH_UHC_SCI,UHC service coverage index,2018,68.0,,,1
+Sri Lanka,LKA,SH_UHC_SCI,UHC service coverage index,2017,70.0,,,1
+Sri Lanka,LKA,SH_UHC_SCI,UHC service coverage index,2016,70.0,,,1
+Sri Lanka,LKA,SH_UHC_SCI,UHC service coverage index,2015,69.0,,,1
+St. Kitts and Nevis,KNA,SH_UHC_SCI,UHC service coverage index,2019,78.0,,,1
+St. Kitts and Nevis,KNA,SH_UHC_SCI,UHC service coverage index,2018,78.0,,,1
+St. Kitts and Nevis,KNA,SH_UHC_SCI,UHC service coverage index,2017,78.0,,,1
+St. Kitts and Nevis,KNA,SH_UHC_SCI,UHC service coverage index,2016,79.0,,,1
+St. Kitts and Nevis,KNA,SH_UHC_SCI,UHC service coverage index,2015,79.0,,,1
+St. Lucia,LCA,SH_UHC_SCI,UHC service coverage index,2019,78.0,,,1
+St. Lucia,LCA,SH_UHC_SCI,UHC service coverage index,2018,76.0,,,1
+St. Lucia,LCA,SH_UHC_SCI,UHC service coverage index,2017,76.0,,,1
+St. Lucia,LCA,SH_UHC_SCI,UHC service coverage index,2016,77.0,,,1
+St. Lucia,LCA,SH_UHC_SCI,UHC service coverage index,2015,75.0,,,1
+St. Martin (French part),MAF,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+St. Martin (French part),MAF,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+St. Martin (French part),MAF,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+St. Martin (French part),MAF,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+St. Martin (French part),MAF,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+St. Vincent and the Grenadines,VCT,SH_UHC_SCI,UHC service coverage index,2019,79.0,,,1
+St. Vincent and the Grenadines,VCT,SH_UHC_SCI,UHC service coverage index,2018,78.0,,,1
+St. Vincent and the Grenadines,VCT,SH_UHC_SCI,UHC service coverage index,2017,79.0,,,1
+St. Vincent and the Grenadines,VCT,SH_UHC_SCI,UHC service coverage index,2016,80.0,,,1
+St. Vincent and the Grenadines,VCT,SH_UHC_SCI,UHC service coverage index,2015,76.0,,,1
+Sudan,SDN,SH_UHC_SCI,UHC service coverage index,2019,47.0,,,1
+Sudan,SDN,SH_UHC_SCI,UHC service coverage index,2018,47.0,,,1
+Sudan,SDN,SH_UHC_SCI,UHC service coverage index,2017,47.0,,,1
+Sudan,SDN,SH_UHC_SCI,UHC service coverage index,2016,46.0,,,1
+Sudan,SDN,SH_UHC_SCI,UHC service coverage index,2015,45.0,,,1
+Suriname,SUR,SH_UHC_SCI,UHC service coverage index,2019,77.0,,,1
+Suriname,SUR,SH_UHC_SCI,UHC service coverage index,2018,76.0,,,1
+Suriname,SUR,SH_UHC_SCI,UHC service coverage index,2017,75.0,,,1
+Suriname,SUR,SH_UHC_SCI,UHC service coverage index,2016,75.0,,,1
+Suriname,SUR,SH_UHC_SCI,UHC service coverage index,2015,74.0,,,1
+Sweden,SWE,SH_UHC_SCI,UHC service coverage index,2019,84.0,,,1
+Sweden,SWE,SH_UHC_SCI,UHC service coverage index,2018,84.0,,,1
+Sweden,SWE,SH_UHC_SCI,UHC service coverage index,2017,84.0,,,1
+Sweden,SWE,SH_UHC_SCI,UHC service coverage index,2016,83.0,,,1
+Sweden,SWE,SH_UHC_SCI,UHC service coverage index,2015,83.0,,,1
+Switzerland,CHE,SH_UHC_SCI,UHC service coverage index,2019,86.0,,,1
+Switzerland,CHE,SH_UHC_SCI,UHC service coverage index,2018,86.0,,,1
+Switzerland,CHE,SH_UHC_SCI,UHC service coverage index,2017,86.0,,,1
+Switzerland,CHE,SH_UHC_SCI,UHC service coverage index,2016,86.0,,,1
+Switzerland,CHE,SH_UHC_SCI,UHC service coverage index,2015,86.0,,,1
+Syrian Arab Republic,SYR,SH_UHC_SCI,UHC service coverage index,2019,70.0,,,1
+Syrian Arab Republic,SYR,SH_UHC_SCI,UHC service coverage index,2018,72.0,,,1
+Syrian Arab Republic,SYR,SH_UHC_SCI,UHC service coverage index,2017,72.0,,,1
+Syrian Arab Republic,SYR,SH_UHC_SCI,UHC service coverage index,2016,70.0,,,1
+Syrian Arab Republic,SYR,SH_UHC_SCI,UHC service coverage index,2015,71.0,,,1
+Tajikistan,TJK,SH_UHC_SCI,UHC service coverage index,2019,71.0,,,1
+Tajikistan,TJK,SH_UHC_SCI,UHC service coverage index,2018,71.0,,,1
+Tajikistan,TJK,SH_UHC_SCI,UHC service coverage index,2017,72.0,,,1
+Tajikistan,TJK,SH_UHC_SCI,UHC service coverage index,2016,72.0,,,1
+Tajikistan,TJK,SH_UHC_SCI,UHC service coverage index,2015,73.0,,,1
+Tanzania,TZA,SH_UHC_SCI,UHC service coverage index,2019,44.0,,,1
+Tanzania,TZA,SH_UHC_SCI,UHC service coverage index,2018,42.0,,,1
+Tanzania,TZA,SH_UHC_SCI,UHC service coverage index,2017,44.0,,,1
+Tanzania,TZA,SH_UHC_SCI,UHC service coverage index,2016,43.0,,,1
+Tanzania,TZA,SH_UHC_SCI,UHC service coverage index,2015,42.0,,,1
+Thailand,THA,SH_UHC_SCI,UHC service coverage index,2019,81.0,,,1
+Thailand,THA,SH_UHC_SCI,UHC service coverage index,2018,80.0,,,1
+Thailand,THA,SH_UHC_SCI,UHC service coverage index,2017,81.0,,,1
+Thailand,THA,SH_UHC_SCI,UHC service coverage index,2016,81.0,,,1
+Thailand,THA,SH_UHC_SCI,UHC service coverage index,2015,80.0,,,1
+Timor-Leste,TLS,SH_UHC_SCI,UHC service coverage index,2019,44.0,,,1
+Timor-Leste,TLS,SH_UHC_SCI,UHC service coverage index,2018,44.0,,,1
+Timor-Leste,TLS,SH_UHC_SCI,UHC service coverage index,2017,46.0,,,1
+Timor-Leste,TLS,SH_UHC_SCI,UHC service coverage index,2016,44.0,,,1
+Timor-Leste,TLS,SH_UHC_SCI,UHC service coverage index,2015,43.0,,,1
+Togo,TGO,SH_UHC_SCI,UHC service coverage index,2019,40.0,,,1
+Togo,TGO,SH_UHC_SCI,UHC service coverage index,2018,39.0,,,1
+Togo,TGO,SH_UHC_SCI,UHC service coverage index,2017,40.0,,,1
+Togo,TGO,SH_UHC_SCI,UHC service coverage index,2016,36.0,,,1
+Togo,TGO,SH_UHC_SCI,UHC service coverage index,2015,37.0,,,1
+Tonga,TON,SH_UHC_SCI,UHC service coverage index,2019,70.0,,,1
+Tonga,TON,SH_UHC_SCI,UHC service coverage index,2018,69.0,,,1
+Tonga,TON,SH_UHC_SCI,UHC service coverage index,2017,69.0,,,1
+Tonga,TON,SH_UHC_SCI,UHC service coverage index,2016,69.0,,,1
+Tonga,TON,SH_UHC_SCI,UHC service coverage index,2015,69.0,,,1
+Trinidad and Tobago,TTO,SH_UHC_SCI,UHC service coverage index,2019,74.0,,,1
+Trinidad and Tobago,TTO,SH_UHC_SCI,UHC service coverage index,2018,74.0,,,1
+Trinidad and Tobago,TTO,SH_UHC_SCI,UHC service coverage index,2017,76.0,,,1
+Trinidad and Tobago,TTO,SH_UHC_SCI,UHC service coverage index,2016,77.0,,,1
+Trinidad and Tobago,TTO,SH_UHC_SCI,UHC service coverage index,2015,76.0,,,1
+Tunisia,TUN,SH_UHC_SCI,UHC service coverage index,2019,75.0,,,1
+Tunisia,TUN,SH_UHC_SCI,UHC service coverage index,2018,75.0,,,1
+Tunisia,TUN,SH_UHC_SCI,UHC service coverage index,2017,74.0,,,1
+Tunisia,TUN,SH_UHC_SCI,UHC service coverage index,2016,73.0,,,1
+Tunisia,TUN,SH_UHC_SCI,UHC service coverage index,2015,73.0,,,1
+Turkiye,TUR,SH_UHC_SCI,UHC service coverage index,2019,76.0,,,1
+Turkiye,TUR,SH_UHC_SCI,UHC service coverage index,2018,75.0,,,1
+Turkiye,TUR,SH_UHC_SCI,UHC service coverage index,2017,76.0,,,1
+Turkiye,TUR,SH_UHC_SCI,UHC service coverage index,2016,75.0,,,1
+Turkiye,TUR,SH_UHC_SCI,UHC service coverage index,2015,75.0,,,1
+Turkmenistan,TKM,SH_UHC_SCI,UHC service coverage index,2019,79.0,,,1
+Turkmenistan,TKM,SH_UHC_SCI,UHC service coverage index,2018,79.0,,,1
+Turkmenistan,TKM,SH_UHC_SCI,UHC service coverage index,2017,79.0,,,1
+Turkmenistan,TKM,SH_UHC_SCI,UHC service coverage index,2016,80.0,,,1
+Turkmenistan,TKM,SH_UHC_SCI,UHC service coverage index,2015,80.0,,,1
+Turks and Caicos Islands,TCA,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Turks and Caicos Islands,TCA,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Turks and Caicos Islands,TCA,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Turks and Caicos Islands,TCA,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Turks and Caicos Islands,TCA,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+Tuvalu,TUV,SH_UHC_SCI,UHC service coverage index,2019,63.0,,,1
+Tuvalu,TUV,SH_UHC_SCI,UHC service coverage index,2018,64.0,,,1
+Tuvalu,TUV,SH_UHC_SCI,UHC service coverage index,2017,63.0,,,1
+Tuvalu,TUV,SH_UHC_SCI,UHC service coverage index,2016,64.0,,,1
+Tuvalu,TUV,SH_UHC_SCI,UHC service coverage index,2015,65.0,,,1
+Uganda,UGA,SH_UHC_SCI,UHC service coverage index,2019,49.0,,,1
+Uganda,UGA,SH_UHC_SCI,UHC service coverage index,2018,49.0,,,1
+Uganda,UGA,SH_UHC_SCI,UHC service coverage index,2017,51.0,,,1
+Uganda,UGA,SH_UHC_SCI,UHC service coverage index,2016,49.0,,,1
+Uganda,UGA,SH_UHC_SCI,UHC service coverage index,2015,49.0,,,1
+Ukraine,UKR,SH_UHC_SCI,UHC service coverage index,2019,78.0,,,1
+Ukraine,UKR,SH_UHC_SCI,UHC service coverage index,2018,79.0,,,1
+Ukraine,UKR,SH_UHC_SCI,UHC service coverage index,2017,75.0,,,1
+Ukraine,UKR,SH_UHC_SCI,UHC service coverage index,2016,77.0,,,1
+Ukraine,UKR,SH_UHC_SCI,UHC service coverage index,2015,78.0,,,1
+United Arab Emirates,ARE,SH_UHC_SCI,UHC service coverage index,2019,84.0,,,1
+United Arab Emirates,ARE,SH_UHC_SCI,UHC service coverage index,2018,83.0,,,1
+United Arab Emirates,ARE,SH_UHC_SCI,UHC service coverage index,2017,82.0,,,1
+United Arab Emirates,ARE,SH_UHC_SCI,UHC service coverage index,2016,81.0,,,1
+United Arab Emirates,ARE,SH_UHC_SCI,UHC service coverage index,2015,81.0,,,1
+United Kingdom,GBR,SH_UHC_SCI,UHC service coverage index,2019,87.0,,,1
+United Kingdom,GBR,SH_UHC_SCI,UHC service coverage index,2018,87.0,,,1
+United Kingdom,GBR,SH_UHC_SCI,UHC service coverage index,2017,87.0,,,1
+United Kingdom,GBR,SH_UHC_SCI,UHC service coverage index,2016,86.0,,,1
+United Kingdom,GBR,SH_UHC_SCI,UHC service coverage index,2015,86.0,,,1
+United States,USA,SH_UHC_SCI,UHC service coverage index,2019,87.0,,,1
+United States,USA,SH_UHC_SCI,UHC service coverage index,2018,87.0,,,1
+United States,USA,SH_UHC_SCI,UHC service coverage index,2017,87.0,,,1
+United States,USA,SH_UHC_SCI,UHC service coverage index,2016,87.0,,,1
+United States,USA,SH_UHC_SCI,UHC service coverage index,2015,87.0,,,1
+Uruguay,URY,SH_UHC_SCI,UHC service coverage index,2019,85.0,,,1
+Uruguay,URY,SH_UHC_SCI,UHC service coverage index,2018,85.0,,,1
+Uruguay,URY,SH_UHC_SCI,UHC service coverage index,2017,85.0,,,1
+Uruguay,URY,SH_UHC_SCI,UHC service coverage index,2016,84.0,,,1
+Uruguay,URY,SH_UHC_SCI,UHC service coverage index,2015,84.0,,,1
+Uzbekistan,UZB,SH_UHC_SCI,UHC service coverage index,2019,78.0,,,1
+Uzbekistan,UZB,SH_UHC_SCI,UHC service coverage index,2018,77.0,,,1
+Uzbekistan,UZB,SH_UHC_SCI,UHC service coverage index,2017,78.0,,,1
+Uzbekistan,UZB,SH_UHC_SCI,UHC service coverage index,2016,79.0,,,1
+Uzbekistan,UZB,SH_UHC_SCI,UHC service coverage index,2015,80.0,,,1
+Vanuatu,VUT,SH_UHC_SCI,UHC service coverage index,2019,51.0,,,1
+Vanuatu,VUT,SH_UHC_SCI,UHC service coverage index,2018,50.0,,,1
+Vanuatu,VUT,SH_UHC_SCI,UHC service coverage index,2017,51.0,,,1
+Vanuatu,VUT,SH_UHC_SCI,UHC service coverage index,2016,51.0,,,1
+Vanuatu,VUT,SH_UHC_SCI,UHC service coverage index,2015,52.0,,,1
+"Venezuela, RB",VEN,SH_UHC_SCI,UHC service coverage index,2019,76.0,,,1
+"Venezuela, RB",VEN,SH_UHC_SCI,UHC service coverage index,2018,77.0,,,1
+"Venezuela, RB",VEN,SH_UHC_SCI,UHC service coverage index,2017,77.0,,,1
+"Venezuela, RB",VEN,SH_UHC_SCI,UHC service coverage index,2016,77.0,,,1
+"Venezuela, RB",VEN,SH_UHC_SCI,UHC service coverage index,2015,75.0,,,1
+Viet Nam,VNM,SH_UHC_SCI,UHC service coverage index,2019,70.0,,,1
+Viet Nam,VNM,SH_UHC_SCI,UHC service coverage index,2018,69.0,,,1
+Viet Nam,VNM,SH_UHC_SCI,UHC service coverage index,2017,72.0,,,1
+Viet Nam,VNM,SH_UHC_SCI,UHC service coverage index,2016,71.0,,,1
+Viet Nam,VNM,SH_UHC_SCI,UHC service coverage index,2015,71.0,,,1
+Virgin Islands (U.S.),VIR,SH_UHC_SCI,UHC service coverage index,2019,,,,1
+Virgin Islands (U.S.),VIR,SH_UHC_SCI,UHC service coverage index,2018,,,,1
+Virgin Islands (U.S.),VIR,SH_UHC_SCI,UHC service coverage index,2017,,,,1
+Virgin Islands (U.S.),VIR,SH_UHC_SCI,UHC service coverage index,2016,,,,1
+Virgin Islands (U.S.),VIR,SH_UHC_SCI,UHC service coverage index,2015,,,,1
+West Bank and Gaza,PSE,SH_UHC_SCI,UHC service coverage index,2019,65.0,,,1
+West Bank and Gaza,PSE,SH_UHC_SCI,UHC service coverage index,2018,66.0,,,1
+West Bank and Gaza,PSE,SH_UHC_SCI,UHC service coverage index,2017,70.0,,,1
+West Bank and Gaza,PSE,SH_UHC_SCI,UHC service coverage index,2016,70.0,,,1
+West Bank and Gaza,PSE,SH_UHC_SCI,UHC service coverage index,2015,69.0,,,1
+"Yemen, Rep.",YEM,SH_UHC_SCI,UHC service coverage index,2019,45.0,,,1
+"Yemen, Rep.",YEM,SH_UHC_SCI,UHC service coverage index,2018,45.0,,,1
+"Yemen, Rep.",YEM,SH_UHC_SCI,UHC service coverage index,2017,44.0,,,1
+"Yemen, Rep.",YEM,SH_UHC_SCI,UHC service coverage index,2016,44.0,,,1
+"Yemen, Rep.",YEM,SH_UHC_SCI,UHC service coverage index,2015,44.0,,,1
+Zambia,ZMB,SH_UHC_SCI,UHC service coverage index,2019,55.0,,,1
+Zambia,ZMB,SH_UHC_SCI,UHC service coverage index,2018,54.0,,,1
+Zambia,ZMB,SH_UHC_SCI,UHC service coverage index,2017,55.0,,,1
+Zambia,ZMB,SH_UHC_SCI,UHC service coverage index,2016,51.0,,,1
+Zambia,ZMB,SH_UHC_SCI,UHC service coverage index,2015,55.0,,,1
+Zimbabwe,ZWE,SH_UHC_SCI,UHC service coverage index,2019,55.0,,,1
+Zimbabwe,ZWE,SH_UHC_SCI,UHC service coverage index,2018,54.0,,,1
+Zimbabwe,ZWE,SH_UHC_SCI,UHC service coverage index,2017,57.0,,,1
+Zimbabwe,ZWE,SH_UHC_SCI,UHC service coverage index,2016,53.0,,,1
+Zimbabwe,ZWE,SH_UHC_SCI,UHC service coverage index,2015,49.0,,,1

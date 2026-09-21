@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,variable
+Africa Eastern and Southern,AFE,EN.POP.DNST,Population density (people per sq. km of land area),2019,45.5334654681731,population_density
+Africa Eastern and Southern,AFE,EN.POP.DNST,Population density (people per sq. km of land area),2018,44.3109394118317,population_density
+Africa Eastern and Southern,AFE,EN.POP.DNST,Population density (people per sq. km of land area),2017,43.1158195866339,population_density
+Africa Eastern and Southern,AFE,EN.POP.DNST,Population density (people per sq. km of land area),2016,41.9915537679033,population_density
+Africa Eastern and Southern,AFE,EN.POP.DNST,Population density (people per sq. km of land area),2015,40.8971995109358,population_density
+Africa Western and Central,AFW,EN.POP.DNST,Population density (people per sq. km of land area),2019,51.2245254219844,population_density
+Africa Western and Central,AFW,EN.POP.DNST,Population density (people per sq. km of land area),2018,49.9897095662287,population_density
+Africa Western and Central,AFW,EN.POP.DNST,Population density (people per sq. km of land area),2017,48.7390701520488,population_density
+Africa Western and Central,AFW,EN.POP.DNST,Population density (people per sq. km of land area),2016,47.4757006029331,population_density
+Africa Western and Central,AFW,EN.POP.DNST,Population density (people per sq. km of land area),2015,46.2235257766605,population_density
+Arab World,ARB,EN.POP.DNST,Population density (people per sq. km of land area),2019,33.9131958947659,population_density
+Arab World,ARB,EN.POP.DNST,Population density (people per sq. km of land area),2018,33.2809532562352,population_density
+Arab World,ARB,EN.POP.DNST,Population density (people per sq. km of land area),2017,32.6945464038478,population_density
+Arab World,ARB,EN.POP.DNST,Population density (people per sq. km of land area),2016,32.0451442075354,population_density
+Arab World,ARB,EN.POP.DNST,Population density (people per sq. km of land area),2015,31.3110035717644,population_density
+Caribbean small states,CSS,EN.POP.DNST,Population density (people per sq. km of land area),2019,11.1488737254616,population_density
+Caribbean small states,CSS,EN.POP.DNST,Population density (people per sq. km of land area),2018,11.059856053637,population_density
+Caribbean small states,CSS,EN.POP.DNST,Population density (people per sq. km of land area),2017,10.9556775752626,population_density
+Caribbean small states,CSS,EN.POP.DNST,Population density (people per sq. km of land area),2016,10.8934309469801,population_density
+Caribbean small states,CSS,EN.POP.DNST,Population density (people per sq. km of land area),2015,10.8253252516181,population_density
+Central Europe and the Baltics,CEB,EN.POP.DNST,Population density (people per sq. km of land area),2019,92.1854556712536,population_density
+Central Europe and the Baltics,CEB,EN.POP.DNST,Population density (people per sq. km of land area),2018,92.3692084301826,population_density
+Central Europe and the Baltics,CEB,EN.POP.DNST,Population density (people per sq. km of land area),2017,92.6047341774741,population_density
+Central Europe and the Baltics,CEB,EN.POP.DNST,Population density (people per sq. km of land area),2016,92.8247588904212,population_density
+Central Europe and the Baltics,CEB,EN.POP.DNST,Population density (people per sq. km of land area),2015,93.1179707001656,population_density
+Early-demographic dividend,EAR,EN.POP.DNST,Population density (people per sq. km of land area),2019,100.705896897962,population_density
+Early-demographic dividend,EAR,EN.POP.DNST,Population density (people per sq. km of land area),2018,99.4817619661395,population_density
+Early-demographic dividend,EAR,EN.POP.DNST,Population density (people per sq. km of land area),2017,98.2755925064534,population_density
+Early-demographic dividend,EAR,EN.POP.DNST,Population density (people per sq. km of land area),2016,97.0256299345761,population_density
+Early-demographic dividend,EAR,EN.POP.DNST,Population density (people per sq. km of land area),2015,95.7429697331358,population_density
+East Asia & Pacific,EAS,EN.POP.DNST,Population density (people per sq. km of land area),2019,96.4380766594786,population_density
+East Asia & Pacific,EAS,EN.POP.DNST,Population density (people per sq. km of land area),2018,95.9404015370252,population_density
+East Asia & Pacific,EAS,EN.POP.DNST,Population density (people per sq. km of land area),2017,95.3640917843833,population_density
+East Asia & Pacific,EAS,EN.POP.DNST,Population density (people per sq. km of land area),2016,94.6937276463779,population_density
+East Asia & Pacific,EAS,EN.POP.DNST,Population density (people per sq. km of land area),2015,94.0667650140412,population_density
+East Asia & Pacific (excluding high income),EAP,EN.POP.DNST,Population density (people per sq. km of land area),2019,132.134925461608,population_density
+East Asia & Pacific (excluding high income),EAP,EN.POP.DNST,Population density (people per sq. km of land area),2018,131.409868337961,population_density
+East Asia & Pacific (excluding high income),EAP,EN.POP.DNST,Population density (people per sq. km of land area),2017,130.567654797603,population_density
+East Asia & Pacific (excluding high income),EAP,EN.POP.DNST,Population density (people per sq. km of land area),2016,129.581742367703,population_density
+East Asia & Pacific (excluding high income),EAP,EN.POP.DNST,Population density (people per sq. km of land area),2015,128.613801730869,population_density
+East Asia & Pacific (IDA & IBRD countries),TEA,EN.POP.DNST,Population density (people per sq. km of land area),2019,131.494477158156,population_density
+East Asia & Pacific (IDA & IBRD countries),TEA,EN.POP.DNST,Population density (people per sq. km of land area),2018,130.770644859426,population_density
+East Asia & Pacific (IDA & IBRD countries),TEA,EN.POP.DNST,Population density (people per sq. km of land area),2017,129.92920605548,population_density
+East Asia & Pacific (IDA & IBRD countries),TEA,EN.POP.DNST,Population density (people per sq. km of land area),2016,128.943356299366,population_density
+East Asia & Pacific (IDA & IBRD countries),TEA,EN.POP.DNST,Population density (people per sq. km of land area),2015,127.975847866414,population_density
+Euro area,EMU,EN.POP.DNST,Population density (people per sq. km of land area),2019,126.636297354644,population_density
+Euro area,EMU,EN.POP.DNST,Population density (people per sq. km of land area),2018,126.404243914838,population_density
+Euro area,EMU,EN.POP.DNST,Population density (people per sq. km of land area),2017,126.028700924669,population_density
+Euro area,EMU,EN.POP.DNST,Population density (people per sq. km of land area),2016,125.74801921269,population_density
+Euro area,EMU,EN.POP.DNST,Population density (people per sq. km of land area),2015,125.417955535534,population_density
+Europe & Central Asia,ECS,EN.POP.DNST,Population density (people per sq. km of land area),2019,33.5921361078478,population_density
+Europe & Central Asia,ECS,EN.POP.DNST,Population density (people per sq. km of land area),2018,33.4737570087959,population_density
+Europe & Central Asia,ECS,EN.POP.DNST,Population density (people per sq. km of land area),2017,33.3427486883178,population_density
+Europe & Central Asia,ECS,EN.POP.DNST,Population density (people per sq. km of land area),2016,33.2148080937239,population_density
+Europe & Central Asia,ECS,EN.POP.DNST,Population density (people per sq. km of land area),2015,33.0676117815085,population_density
+Europe & Central Asia (excluding high income),ECA,EN.POP.DNST,Population density (people per sq. km of land area),2019,42.0532363737648,population_density
+Europe & Central Asia (excluding high income),ECA,EN.POP.DNST,Population density (people per sq. km of land area),2018,41.6847494495179,population_density
+Europe & Central Asia (excluding high income),ECA,EN.POP.DNST,Population density (people per sq. km of land area),2017,41.3314112003313,population_density
+Europe & Central Asia (excluding high income),ECA,EN.POP.DNST,Population density (people per sq. km of land area),2016,40.9788296619889,population_density
+Europe & Central Asia (excluding high income),ECA,EN.POP.DNST,Population density (people per sq. km of land area),2015,40.616709392448,population_density
+Europe & Central Asia (IDA & IBRD countries),TEC,EN.POP.DNST,Population density (people per sq. km of land area),2019,20.094026148344,population_density
+Europe & Central Asia (IDA & IBRD countries),TEC,EN.POP.DNST,Population density (people per sq. km of land area),2018,20.0075287890585,population_density
+Europe & Central Asia (IDA & IBRD countries),TEC,EN.POP.DNST,Population density (people per sq. km of land area),2017,19.9233397185183,population_density
+Europe & Central Asia (IDA & IBRD countries),TEC,EN.POP.DNST,Population density (people per sq. km of land area),2016,19.8321144333003,population_density
+Europe & Central Asia (IDA & IBRD countries),TEC,EN.POP.DNST,Population density (people per sq. km of land area),2015,19.7342063886841,population_density
+European Union,EUU,EN.POP.DNST,Population density (people per sq. km of land area),2019,111.821235691404,population_density
+European Union,EUU,EN.POP.DNST,Population density (people per sq. km of land area),2018,111.672659926438,population_density
+European Union,EUU,EN.POP.DNST,Population density (people per sq. km of land area),2017,111.42564117038,population_density
+European Union,EUU,EN.POP.DNST,Population density (people per sq. km of land area),2016,111.244316879376,population_density
+European Union,EUU,EN.POP.DNST,Population density (people per sq. km of land area),2015,111.034208891564,population_density
+Fragile and conflict affected situations,FCS,EN.POP.DNST,Population density (people per sq. km of land area),2019,47.5710181630295,population_density
+Fragile and conflict affected situations,FCS,EN.POP.DNST,Population density (people per sq. km of land area),2018,46.535393078334,population_density
+Fragile and conflict affected situations,FCS,EN.POP.DNST,Population density (people per sq. km of land area),2017,45.5270131066182,population_density
+Fragile and conflict affected situations,FCS,EN.POP.DNST,Population density (people per sq. km of land area),2016,44.5302624176423,population_density
+Fragile and conflict affected situations,FCS,EN.POP.DNST,Population density (people per sq. km of land area),2015,43.5534678248018,population_density
+Heavily indebted poor countries (HIPC),HPC,EN.POP.DNST,Population density (people per sq. km of land area),2019,42.5190680719139,population_density
+Heavily indebted poor countries (HIPC),HPC,EN.POP.DNST,Population density (people per sq. km of land area),2018,41.3523557492643,population_density
+Heavily indebted poor countries (HIPC),HPC,EN.POP.DNST,Population density (people per sq. km of land area),2017,40.1855427979159,population_density
+Heavily indebted poor countries (HIPC),HPC,EN.POP.DNST,Population density (people per sq. km of land area),2016,39.025674597164,population_density
+Heavily indebted poor countries (HIPC),HPC,EN.POP.DNST,Population density (people per sq. km of land area),2015,37.9189176723804,population_density
+High income,,EN.POP.DNST,Population density (people per sq. km of land area),2019,26.7360259861526,population_density
+High income,,EN.POP.DNST,Population density (people per sq. km of land area),2018,26.6462181721644,population_density
+High income,,EN.POP.DNST,Population density (people per sq. km of land area),2017,26.5546210258502,population_density
+High income,,EN.POP.DNST,Population density (people per sq. km of land area),2016,26.4381447156711,population_density
+High income,,EN.POP.DNST,Population density (people per sq. km of land area),2015,26.2841461617825,population_density
+IBRD only,IBD,EN.POP.DNST,Population density (people per sq. km of land area),2019,68.4589690843195,population_density
+IBRD only,IBD,EN.POP.DNST,Population density (people per sq. km of land area),2018,67.9205648201147,population_density
+IBRD only,IBD,EN.POP.DNST,Population density (people per sq. km of land area),2017,67.3384457700949,population_density
+IBRD only,IBD,EN.POP.DNST,Population density (people per sq. km of land area),2016,66.7079526735412,population_density
+IBRD only,IBD,EN.POP.DNST,Population density (people per sq. km of land area),2015,66.0751142241427,population_density
+IDA & IBRD total,IBT,EN.POP.DNST,Population density (people per sq. km of land area),2019,68.6449514027532,population_density
+IDA & IBRD total,IBT,EN.POP.DNST,Population density (people per sq. km of land area),2018,67.8520171826622,population_density
+IDA & IBRD total,IBT,EN.POP.DNST,Population density (people per sq. km of land area),2017,67.0396174172364,population_density
+IDA & IBRD total,IBT,EN.POP.DNST,Population density (people per sq. km of land area),2016,66.2039448504935,population_density
+IDA & IBRD total,IBT,EN.POP.DNST,Population density (people per sq. km of land area),2015,65.3794503123962,population_density
+IDA blend,IDB,EN.POP.DNST,Population density (people per sq. km of land area),2019,125.231895343451,population_density
+IDA blend,IDB,EN.POP.DNST,Population density (people per sq. km of land area),2018,122.770294331703,population_density
+IDA blend,IDB,EN.POP.DNST,Population density (people per sq. km of land area),2017,120.337543397582,population_density
+IDA blend,IDB,EN.POP.DNST,Population density (people per sq. km of land area),2016,117.979685012637,population_density
+IDA blend,IDB,EN.POP.DNST,Population density (people per sq. km of land area),2015,115.689153675963,population_density
+IDA only,IDX,EN.POP.DNST,Population density (people per sq. km of land area),2019,55.681005468268,population_density
+IDA only,IDX,EN.POP.DNST,Population density (people per sq. km of land area),2018,54.4056735061853,population_density
+IDA only,IDX,EN.POP.DNST,Population density (people per sq. km of land area),2017,53.1835769718324,population_density
+IDA only,IDX,EN.POP.DNST,Population density (people per sq. km of land area),2016,52.0015998511586,population_density
+IDA only,IDX,EN.POP.DNST,Population density (people per sq. km of land area),2015,50.864452516561,population_density
+IDA total,IDA,EN.POP.DNST,Population density (people per sq. km of land area),2019,69.1654337294484,population_density
+IDA total,IDA,EN.POP.DNST,Population density (people per sq. km of land area),2018,67.6601823751493,population_density
+IDA total,IDA,EN.POP.DNST,Population density (people per sq. km of land area),2017,66.2033317611789,population_density
+IDA total,IDA,EN.POP.DNST,Population density (people per sq. km of land area),2016,64.7933355771926,population_density
+IDA total,IDA,EN.POP.DNST,Population density (people per sq. km of land area),2015,63.4324586140116,population_density
+Late-demographic dividend,LTE,EN.POP.DNST,Population density (people per sq. km of land area),2019,51.8561187728491,population_density
+Late-demographic dividend,LTE,EN.POP.DNST,Population density (people per sq. km of land area),2018,51.6205889989605,population_density
+Late-demographic dividend,LTE,EN.POP.DNST,Population density (people per sq. km of land area),2017,51.3399364854318,population_density
+Late-demographic dividend,LTE,EN.POP.DNST,Population density (people per sq. km of land area),2016,51.0016007577816,population_density
+Late-demographic dividend,LTE,EN.POP.DNST,Population density (people per sq. km of land area),2015,50.6711186110935,population_density
+Latin America & Caribbean,LCN,EN.POP.DNST,Population density (people per sq. km of land area),2019,31.9787636490052,population_density
+Latin America & Caribbean,LCN,EN.POP.DNST,Population density (people per sq. km of land area),2018,31.7199328465571,population_density
+Latin America & Caribbean,LCN,EN.POP.DNST,Population density (people per sq. km of land area),2017,31.4524540545887,population_density
+Latin America & Caribbean,LCN,EN.POP.DNST,Population density (people per sq. km of land area),2016,31.1688358715504,population_density
+Latin America & Caribbean,LCN,EN.POP.DNST,Population density (people per sq. km of land area),2015,30.8759165980304,population_density
+Latin America & Caribbean (excluding high income),LAC,EN.POP.DNST,Population density (people per sq. km of land area),2019,32.0408546856498,population_density
+Latin America & Caribbean (excluding high income),LAC,EN.POP.DNST,Population density (people per sq. km of land area),2018,31.7276580583473,population_density
+Latin America & Caribbean (excluding high income),LAC,EN.POP.DNST,Population density (people per sq. km of land area),2017,31.4060855350308,population_density
+Latin America & Caribbean (excluding high income),LAC,EN.POP.DNST,Population density (people per sq. km of land area),2016,31.0973457581053,population_density
+Latin America & Caribbean (excluding high income),LAC,EN.POP.DNST,Population density (people per sq. km of land area),2015,30.7974052455631,population_density
+Latin America & the Caribbean (IDA & IBRD countries),TLA,EN.POP.DNST,Population density (people per sq. km of land area),2019,31.4016447900623,population_density
+Latin America & the Caribbean (IDA & IBRD countries),TLA,EN.POP.DNST,Population density (people per sq. km of land area),2018,31.1407608410961,population_density
+Latin America & the Caribbean (IDA & IBRD countries),TLA,EN.POP.DNST,Population density (people per sq. km of land area),2017,30.8648395091605,population_density
+Latin America & the Caribbean (IDA & IBRD countries),TLA,EN.POP.DNST,Population density (people per sq. km of land area),2016,30.5756789555618,population_density
+Latin America & the Caribbean (IDA & IBRD countries),TLA,EN.POP.DNST,Population density (people per sq. km of land area),2015,30.2781963771345,population_density
+Least developed countries: UN classification,LDC,EN.POP.DNST,Population density (people per sq. km of land area),2019,51.967591243585,population_density
+Least developed countries: UN classification,LDC,EN.POP.DNST,Population density (people per sq. km of land area),2018,50.7444246385833,population_density
+Least developed countries: UN classification,LDC,EN.POP.DNST,Population density (people per sq. km of land area),2017,49.5597657740462,population_density
+Least developed countries: UN classification,LDC,EN.POP.DNST,Population density (people per sq. km of land area),2016,48.4015353371021,population_density
+Least developed countries: UN classification,LDC,EN.POP.DNST,Population density (people per sq. km of land area),2015,47.275728089177,population_density
+Low & middle income,LMY,EN.POP.DNST,Population density (people per sq. km of land area),2019,82.1988223064499,population_density
+Low & middle income,LMY,EN.POP.DNST,Population density (people per sq. km of land area),2018,81.2256919138532,population_density
+Low & middle income,LMY,EN.POP.DNST,Population density (people per sq. km of land area),2017,80.2292753022611,population_density
+Low & middle income,LMY,EN.POP.DNST,Population density (people per sq. km of land area),2016,79.2105438249939,population_density
+Low & middle income,LMY,EN.POP.DNST,Population density (people per sq. km of land area),2015,78.2111823740089,population_density
+Low income,,EN.POP.DNST,Population density (people per sq. km of land area),2019,40.0227778795972,population_density
+Low income,,EN.POP.DNST,Population density (people per sq. km of land area),2018,38.8874991570558,population_density
+Low income,,EN.POP.DNST,Population density (people per sq. km of land area),2017,37.8129946019888,population_density
+Low income,,EN.POP.DNST,Population density (people per sq. km of land area),2016,36.803838760481,population_density
+Low income,,EN.POP.DNST,Population density (people per sq. km of land area),2015,35.8607769920239,population_density
+Lower middle income,,EN.POP.DNST,Population density (people per sq. km of land area),2019,156.644254270395,population_density
+Lower middle income,,EN.POP.DNST,Population density (people per sq. km of land area),2018,154.501586622722,population_density
+Lower middle income,,EN.POP.DNST,Population density (people per sq. km of land area),2017,152.327884395316,population_density
+Lower middle income,,EN.POP.DNST,Population density (people per sq. km of land area),2016,150.116538465077,population_density
+Lower middle income,,EN.POP.DNST,Population density (people per sq. km of land area),2015,147.890413606845,population_density
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,EN.POP.DNST,Population density (people per sq. km of land area),2019,58.7580654693081,population_density
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,EN.POP.DNST,Population density (people per sq. km of land area),2018,57.7809296801308,population_density
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,EN.POP.DNST,Population density (people per sq. km of land area),2017,56.8731349878273,population_density
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,EN.POP.DNST,Population density (people per sq. km of land area),2016,55.9068416627011,population_density
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,EN.POP.DNST,Population density (people per sq. km of land area),2015,54.8954519831127,population_density
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,EN.POP.DNST,Population density (people per sq. km of land area),2019,67.6570070470602,population_density
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,EN.POP.DNST,Population density (people per sq. km of land area),2018,66.4596824458768,population_density
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,EN.POP.DNST,Population density (people per sq. km of land area),2017,65.2984288331834,population_density
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,EN.POP.DNST,Population density (people per sq. km of land area),2016,64.1718148657434,population_density
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,EN.POP.DNST,Population density (people per sq. km of land area),2015,63.1299804385823,population_density
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,EN.POP.DNST,Population density (people per sq. km of land area),2019,67.2314161863196,population_density
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,EN.POP.DNST,Population density (people per sq. km of land area),2018,66.0449357978312,population_density
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,EN.POP.DNST,Population density (people per sq. km of land area),2017,64.8943558936358,population_density
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,EN.POP.DNST,Population density (people per sq. km of land area),2016,63.7760400764393,population_density
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,EN.POP.DNST,Population density (people per sq. km of land area),2015,62.7432255878524,population_density
+Middle income,MIC,EN.POP.DNST,Population density (people per sq. km of land area),2019,91.4112200387327,population_density
+Middle income,MIC,EN.POP.DNST,Population density (people per sq. km of land area),2018,90.4734833962662,population_density
+Middle income,MIC,EN.POP.DNST,Population density (people per sq. km of land area),2017,89.494121972458,population_density
+Middle income,MIC,EN.POP.DNST,Population density (people per sq. km of land area),2016,88.4723292901493,population_density
+Middle income,MIC,EN.POP.DNST,Population density (people per sq. km of land area),2015,87.4606316909979,population_density
+North America,NAC,EN.POP.DNST,Population density (people per sq. km of land area),2019,20.3117942386777,population_density
+North America,NAC,EN.POP.DNST,Population density (people per sq. km of land area),2018,20.1879719521777,population_density
+North America,NAC,EN.POP.DNST,Population density (people per sq. km of land area),2017,20.052778591187,population_density
+North America,NAC,EN.POP.DNST,Population density (people per sq. km of land area),2016,19.9042852164603,population_density
+North America,NAC,EN.POP.DNST,Population density (people per sq. km of land area),2015,19.7417224937758,population_density
+Not classified,,EN.POP.DNST,Population density (people per sq. km of land area),2019,,population_density
+Not classified,,EN.POP.DNST,Population density (people per sq. km of land area),2018,,population_density
+Not classified,,EN.POP.DNST,Population density (people per sq. km of land area),2017,,population_density
+Not classified,,EN.POP.DNST,Population density (people per sq. km of land area),2016,,population_density
+Not classified,,EN.POP.DNST,Population density (people per sq. km of land area),2015,,population_density
+OECD members,OED,EN.POP.DNST,Population density (people per sq. km of land area),2019,38.4162625914934,population_density
+OECD members,OED,EN.POP.DNST,Population density (people per sq. km of land area),2018,38.2000604347237,population_density
+OECD members,OED,EN.POP.DNST,Population density (people per sq. km of land area),2017,37.9659116421334,population_density
+OECD members,OED,EN.POP.DNST,Population density (people per sq. km of land area),2016,37.7402639098425,population_density
+OECD members,OED,EN.POP.DNST,Population density (people per sq. km of land area),2015,37.5125065390958,population_density
+Other small states,OSS,EN.POP.DNST,Population density (people per sq. km of land area),2019,44.6748012134527,population_density
+Other small states,OSS,EN.POP.DNST,Population density (people per sq. km of land area),2018,44.1414058010025,population_density
+Other small states,OSS,EN.POP.DNST,Population density (people per sq. km of land area),2017,43.702265785042,population_density
+Other small states,OSS,EN.POP.DNST,Population density (people per sq. km of land area),2016,43.0881692127593,population_density
+Other small states,OSS,EN.POP.DNST,Population density (people per sq. km of land area),2015,42.6214772665297,population_density
+Pacific island small states,PSS,EN.POP.DNST,Population density (people per sq. km of land area),2019,40.0414029618083,population_density
+Pacific island small states,PSS,EN.POP.DNST,Population density (people per sq. km of land area),2018,39.626017147311,population_density
+Pacific island small states,PSS,EN.POP.DNST,Population density (people per sq. km of land area),2017,39.1270303975058,population_density
+Pacific island small states,PSS,EN.POP.DNST,Population density (people per sq. km of land area),2016,38.5949221183801,population_density
+Pacific island small states,PSS,EN.POP.DNST,Population density (people per sq. km of land area),2015,38.0995171339564,population_density
+Post-demographic dividend,PST,EN.POP.DNST,Population density (people per sq. km of land area),2019,35.5671793502924,population_density
+Post-demographic dividend,PST,EN.POP.DNST,Population density (people per sq. km of land area),2018,35.4548360427958,population_density
+Post-demographic dividend,PST,EN.POP.DNST,Population density (people per sq. km of land area),2017,35.3206844345793,population_density
+Post-demographic dividend,PST,EN.POP.DNST,Population density (people per sq. km of land area),2016,35.1866090006505,population_density
+Post-demographic dividend,PST,EN.POP.DNST,Population density (people per sq. km of land area),2015,35.0358978994957,population_density
+Pre-demographic dividend,PRE,EN.POP.DNST,Population density (people per sq. km of land area),2019,47.8761105936639,population_density
+Pre-demographic dividend,PRE,EN.POP.DNST,Population density (people per sq. km of land area),2018,46.5966013671188,population_density
+Pre-demographic dividend,PRE,EN.POP.DNST,Population density (people per sq. km of land area),2017,45.3287624097443,population_density
+Pre-demographic dividend,PRE,EN.POP.DNST,Population density (people per sq. km of land area),2016,44.0815584681259,population_density
+Pre-demographic dividend,PRE,EN.POP.DNST,Population density (people per sq. km of land area),2015,42.8676680117645,population_density
+Small states,SST,EN.POP.DNST,Population density (people per sq. km of land area),2019,26.157554001711,population_density
+Small states,SST,EN.POP.DNST,Population density (people per sq. km of land area),2018,25.8745222195669,population_density
+Small states,SST,EN.POP.DNST,Population density (people per sq. km of land area),2017,25.5970204103524,population_density
+Small states,SST,EN.POP.DNST,Population density (people per sq. km of land area),2016,25.30673344668,population_density
+Small states,SST,EN.POP.DNST,Population density (people per sq. km of land area),2015,25.0522020897752,population_density
+South Asia,SAS,EN.POP.DNST,Population density (people per sq. km of land area),2019,479.655227185199,population_density
+South Asia,SAS,EN.POP.DNST,Population density (people per sq. km of land area),2018,474.800737015142,population_density
+South Asia,SAS,EN.POP.DNST,Population density (people per sq. km of land area),2017,469.82322835622,population_density
+South Asia,SAS,EN.POP.DNST,Population density (people per sq. km of land area),2016,464.622057592857,population_density
+South Asia,SAS,EN.POP.DNST,Population density (people per sq. km of land area),2015,459.325034807082,population_density
+South Asia (IDA & IBRD),TSA,EN.POP.DNST,Population density (people per sq. km of land area),2019,479.655227185199,population_density
+South Asia (IDA & IBRD),TSA,EN.POP.DNST,Population density (people per sq. km of land area),2018,474.800737015142,population_density
+South Asia (IDA & IBRD),TSA,EN.POP.DNST,Population density (people per sq. km of land area),2017,469.82322835622,population_density
+South Asia (IDA & IBRD),TSA,EN.POP.DNST,Population density (people per sq. km of land area),2016,464.622057592857,population_density
+South Asia (IDA & IBRD),TSA,EN.POP.DNST,Population density (people per sq. km of land area),2015,459.325034807082,population_density
+Sub-Saharan Africa,SSF,EN.POP.DNST,Population density (people per sq. km of land area),2019,47.6882621146341,population_density
+Sub-Saharan Africa,SSF,EN.POP.DNST,Population density (people per sq. km of land area),2018,46.4610849355483,population_density
+Sub-Saharan Africa,SSF,EN.POP.DNST,Population density (people per sq. km of land area),2017,45.2449451429594,population_density
+Sub-Saharan Africa,SSF,EN.POP.DNST,Population density (people per sq. km of land area),2016,44.068009585861,population_density
+Sub-Saharan Africa,SSF,EN.POP.DNST,Population density (people per sq. km of land area),2015,42.9139005765658,population_density
+Sub-Saharan Africa (excluding high income),SSA,EN.POP.DNST,Population density (people per sq. km of land area),2019,44.9646949255304,population_density
+Sub-Saharan Africa (excluding high income),SSA,EN.POP.DNST,Population density (people per sq. km of land area),2018,43.8116831200619,population_density
+Sub-Saharan Africa (excluding high income),SSA,EN.POP.DNST,Population density (people per sq. km of land area),2017,42.6669406215545,population_density
+Sub-Saharan Africa (excluding high income),SSA,EN.POP.DNST,Population density (people per sq. km of land area),2016,41.5612196237525,population_density
+Sub-Saharan Africa (excluding high income),SSA,EN.POP.DNST,Population density (people per sq. km of land area),2015,40.4751402687706,population_density
+Sub-Saharan Africa (IDA & IBRD countries),TSS,EN.POP.DNST,Population density (people per sq. km of land area),2019,47.6882621146341,population_density
+Sub-Saharan Africa (IDA & IBRD countries),TSS,EN.POP.DNST,Population density (people per sq. km of land area),2018,46.4610849355483,population_density
+Sub-Saharan Africa (IDA & IBRD countries),TSS,EN.POP.DNST,Population density (people per sq. km of land area),2017,45.2449451429594,population_density
+Sub-Saharan Africa (IDA & IBRD countries),TSS,EN.POP.DNST,Population density (people per sq. km of land area),2016,44.068009585861,population_density
+Sub-Saharan Africa (IDA & IBRD countries),TSS,EN.POP.DNST,Population density (people per sq. km of land area),2015,42.9139005765658,population_density
+Upper middle income,,EN.POP.DNST,Population density (people per sq. km of land area),2019,63.4671118119566,population_density
+Upper middle income,,EN.POP.DNST,Population density (people per sq. km of land area),2018,63.045577325264,population_density
+Upper middle income,,EN.POP.DNST,Population density (people per sq. km of land area),2017,62.5777070078512,population_density
+Upper middle income,,EN.POP.DNST,Population density (people per sq. km of land area),2016,62.0694204456148,population_density
+Upper middle income,,EN.POP.DNST,Population density (people per sq. km of land area),2015,61.5775169432308,population_density
+World,WLD,EN.POP.DNST,Population density (people per sq. km of land area),2019,59.8544799078542,population_density
+World,WLD,EN.POP.DNST,Population density (people per sq. km of land area),2018,59.2328051474011,population_density
+World,WLD,EN.POP.DNST,Population density (people per sq. km of land area),2017,58.5967120693699,population_density
+World,WLD,EN.POP.DNST,Population density (people per sq. km of land area),2016,57.9344044255455,population_density
+World,WLD,EN.POP.DNST,Population density (people per sq. km of land area),2015,57.2677024052238,population_density
+Afghanistan,AFG,EN.POP.DNST,Population density (people per sq. km of land area),2019,58.0410606687825,population_density
+Afghanistan,AFG,EN.POP.DNST,Population density (people per sq. km of land area),2018,56.3344817012404,population_density
+Afghanistan,AFG,EN.POP.DNST,Population density (people per sq. km of land area),2017,54.7183278904681,population_density
+Afghanistan,AFG,EN.POP.DNST,Population density (people per sq. km of land area),2016,53.2030296061205,population_density
+Afghanistan,AFG,EN.POP.DNST,Population density (people per sq. km of land area),2015,51.8709105683578,population_density
+Albania,ALB,EN.POP.DNST,Population density (people per sq. km of land area),2019,93.7153649635036,population_density
+Albania,ALB,EN.POP.DNST,Population density (people per sq. km of land area),2018,95.1727372262774,population_density
+Albania,ALB,EN.POP.DNST,Population density (people per sq. km of land area),2017,96.6527372262774,population_density
+Albania,ALB,EN.POP.DNST,Population density (people per sq. km of land area),2016,98.155802919708,population_density
+Albania,ALB,EN.POP.DNST,Population density (people per sq. km of land area),2015,99.6822262773723,population_density
+Algeria,DZA,EN.POP.DNST,Population density (people per sq. km of land area),2019,18.1776961381175,population_density
+Algeria,DZA,EN.POP.DNST,Population density (people per sq. km of land area),2018,17.846203680417,population_density
+Algeria,DZA,EN.POP.DNST,Population density (people per sq. km of land area),2017,17.5037080018356,population_density
+Algeria,DZA,EN.POP.DNST,Population density (people per sq. km of land area),2016,17.1516218598076,population_density
+Algeria,DZA,EN.POP.DNST,Population density (people per sq. km of land area),2015,16.8026368106356,population_density
+American Samoa,ASM,EN.POP.DNST,Population density (people per sq. km of land area),2019,251.045,population_density
+American Samoa,ASM,EN.POP.DNST,Population density (people per sq. km of land area),2018,254.54,population_density
+American Samoa,ASM,EN.POP.DNST,Population density (people per sq. km of land area),2017,257.93,population_density
+American Samoa,ASM,EN.POP.DNST,Population density (people per sq. km of land area),2016,261.225,population_density
+American Samoa,ASM,EN.POP.DNST,Population density (people per sq. km of land area),2015,264.39,population_density
+Andorra,AND,EN.POP.DNST,Population density (people per sq. km of land area),2019,162.710638297872,population_density
+Andorra,AND,EN.POP.DNST,Population density (people per sq. km of land area),2018,159.91914893617,population_density
+Andorra,AND,EN.POP.DNST,Population density (people per sq. km of land area),2017,156.942553191489,population_density
+Andorra,AND,EN.POP.DNST,Population density (people per sq. km of land area),2016,153.576595744681,population_density
+Andorra,AND,EN.POP.DNST,Population density (people per sq. km of land area),2015,153.56170212766,population_density
+Angola,AGO,EN.POP.DNST,Population density (people per sq. km of land area),2019,25.969063928772,population_density
+Angola,AGO,EN.POP.DNST,Population density (people per sq. km of land area),2018,25.1039985561883,population_density
+Angola,AGO,EN.POP.DNST,Population density (people per sq. km of land area),2017,24.2518962059838,population_density
+Angola,AGO,EN.POP.DNST,Population density (people per sq. km of land area),2016,23.4082537900056,population_density
+Angola,AGO,EN.POP.DNST,Population density (people per sq. km of land area),2015,22.5858650838213,population_density
+Antigua and Barbuda,ATG,EN.POP.DNST,Population density (people per sq. km of land area),2019,207.645454545455,population_density
+Antigua and Barbuda,ATG,EN.POP.DNST,Population density (people per sq. km of land area),2018,206.65,population_density
+Antigua and Barbuda,ATG,EN.POP.DNST,Population density (people per sq. km of land area),2017,205.609090909091,population_density
+Antigua and Barbuda,ATG,EN.POP.DNST,Population density (people per sq. km of land area),2016,204.475,population_density
+Antigua and Barbuda,ATG,EN.POP.DNST,Population density (people per sq. km of land area),2015,203.202272727273,population_density
+Argentina,ARG,EN.POP.DNST,Population density (people per sq. km of land area),2019,16.4335255363231,population_density
+Argentina,ARG,EN.POP.DNST,Population density (people per sq. km of land area),2018,16.3171137395905,population_density
+Argentina,ARG,EN.POP.DNST,Population density (people per sq. km of land area),2017,16.1833799224611,population_density
+Argentina,ARG,EN.POP.DNST,Population density (people per sq. km of land area),2016,16.0413905118958,population_density
+Argentina,ARG,EN.POP.DNST,Population density (people per sq. km of land area),2015,15.8867142423877,population_density
+Armenia,ARM,EN.POP.DNST,Population density (people per sq. km of land area),2019,104.056902002107,population_density
+Armenia,ARM,EN.POP.DNST,Population density (people per sq. km of land area),2018,104.285212504391,population_density
+Armenia,ARM,EN.POP.DNST,Population density (people per sq. km of land area),2017,104.650509308044,population_density
+Armenia,ARM,EN.POP.DNST,Population density (people per sq. km of land area),2016,105.103617843344,population_density
+Armenia,ARM,EN.POP.DNST,Population density (people per sq. km of land area),2015,105.535651563049,population_density
+Aruba,ABW,EN.POP.DNST,Population density (people per sq. km of land area),2019,606.683333333333,population_density
+Aruba,ABW,EN.POP.DNST,Population density (people per sq. km of land area),2018,605.044444444444,population_density
+Aruba,ABW,EN.POP.DNST,Population density (people per sq. km of land area),2017,604.083333333333,population_density
+Aruba,ABW,EN.POP.DNST,Population density (people per sq. km of land area),2016,604.038888888889,population_density
+Aruba,ABW,EN.POP.DNST,Population density (people per sq. km of land area),2015,599.477777777778,population_density
+Australia,AUS,EN.POP.DNST,Population density (people per sq. km of land area),2019,3.29365056253104,population_density
+Australia,AUS,EN.POP.DNST,Population density (people per sq. km of land area),2018,3.24534491589985,population_density
+Australia,AUS,EN.POP.DNST,Population density (people per sq. km of land area),2017,3.19715601363491,population_density
+Australia,AUS,EN.POP.DNST,Population density (people per sq. km of land area),2016,3.14493553058884,population_density
+Australia,AUS,EN.POP.DNST,Population density (people per sq. km of land area),2015,3.10011259648803,population_density
+Austria,AUT,EN.POP.DNST,Population density (people per sq. km of land area),2019,107.609306834707,population_density
+Austria,AUT,EN.POP.DNST,Population density (people per sq. km of land area),2018,107.131858943286,population_density
+Austria,AUT,EN.POP.DNST,Population density (people per sq. km of land area),2017,106.61131846825,population_density
+Austria,AUT,EN.POP.DNST,Population density (people per sq. km of land area),2016,105.873339796413,population_density
+Austria,AUT,EN.POP.DNST,Population density (people per sq. km of land area),2015,104.734597673291,population_density
+Azerbaijan,AZE,EN.POP.DNST,Population density (people per sq. km of land area),2019,121.280071139933,population_density
+Azerbaijan,AZE,EN.POP.DNST,Population density (people per sq. km of land area),2018,120.25759188908,population_density
+Azerbaijan,AZE,EN.POP.DNST,Population density (people per sq. km of land area),2017,119.208741622511,population_density
+Azerbaijan,AZE,EN.POP.DNST,Population density (people per sq. km of land area),2016,118.033288980283,population_density
+Azerbaijan,AZE,EN.POP.DNST,Population density (people per sq. km of land area),2015,116.731076781631,population_density
+"Bahamas, The",BHS,EN.POP.DNST,Population density (people per sq. km of land area),2019,39.4280719280719,population_density
+"Bahamas, The",BHS,EN.POP.DNST,Population density (people per sq. km of land area),2018,39.2324675324675,population_density
+"Bahamas, The",BHS,EN.POP.DNST,Population density (people per sq. km of land area),2017,39.0094905094905,population_density
+"Bahamas, The",BHS,EN.POP.DNST,Population density (people per sq. km of land area),2016,38.7667332667333,population_density
+"Bahamas, The",BHS,EN.POP.DNST,Population density (people per sq. km of land area),2015,38.4961038961039,population_density
+Bahrain,BHR,EN.POP.DNST,Population density (people per sq. km of land area),2019,1902.25128205128,population_density
+Bahrain,BHR,EN.POP.DNST,Population density (people per sq. km of land area),2018,1931.99357326478,population_density
+Bahrain,BHR,EN.POP.DNST,Population density (people per sq. km of land area),2017,1924.50769230769,population_density
+Bahrain,BHR,EN.POP.DNST,Population density (people per sq. km of land area),2016,1827.63286264442,population_density
+Bahrain,BHR,EN.POP.DNST,Population density (people per sq. km of land area),2015,1761.33933161954,population_density
+Bangladesh,BGD,EN.POP.DNST,Population density (people per sq. km of land area),2019,1266.90523930245,population_density
+Bangladesh,BGD,EN.POP.DNST,Population density (people per sq. km of land area),2018,1256.22726434662,population_density
+Bangladesh,BGD,EN.POP.DNST,Population density (people per sq. km of land area),2017,1245.95641852962,population_density
+Bangladesh,BGD,EN.POP.DNST,Population density (people per sq. km of land area),2016,1235.3993393255,population_density
+Bangladesh,BGD,EN.POP.DNST,Population density (people per sq. km of land area),2015,1224.42328493508,population_density
+Barbados,BRB,EN.POP.DNST,Population density (people per sq. km of land area),2019,653.96976744186,population_density
+Barbados,BRB,EN.POP.DNST,Population density (people per sq. km of land area),2018,652.816279069767,population_density
+Barbados,BRB,EN.POP.DNST,Population density (people per sq. km of land area),2017,651.560465116279,population_density
+Barbados,BRB,EN.POP.DNST,Population density (people per sq. km of land area),2016,650.227906976744,population_density
+Barbados,BRB,EN.POP.DNST,Population density (people per sq. km of land area),2015,648.813953488372,population_density
+Belarus,BLR,EN.POP.DNST,Population density (people per sq. km of land area),2019,46.4107506220284,population_density
+Belarus,BLR,EN.POP.DNST,Population density (people per sq. km of land area),2018,46.5010592176569,population_density
+Belarus,BLR,EN.POP.DNST,Population density (people per sq. km of land area),2017,46.5987595325832,population_density
+Belarus,BLR,EN.POP.DNST,Population density (people per sq. km of land area),2016,46.6499448243246,population_density
+Belarus,BLR,EN.POP.DNST,Population density (people per sq. km of land area),2015,46.611337189252,population_density
+Belgium,BEL,EN.POP.DNST,Population density (people per sq. km of land area),2019,376.761985964452,population_density
+Belgium,BEL,EN.POP.DNST,Population density (people per sq. km of land area),2018,374.74351490506,population_density
+Belgium,BEL,EN.POP.DNST,Population density (people per sq. km of land area),2017,375.009329772855,population_density
+Belgium,BEL,EN.POP.DNST,Population density (people per sq. km of land area),2016,373.567467774371,population_density
+Belgium,BEL,EN.POP.DNST,Population density (people per sq. km of land area),2015,371.680875614018,population_density
+Belize,BLZ,EN.POP.DNST,Population density (people per sq. km of land area),2019,16.9149057430951,population_density
+Belize,BLZ,EN.POP.DNST,Population density (people per sq. km of land area),2018,16.6692678649715,population_density
+Belize,BLZ,EN.POP.DNST,Population density (people per sq. km of land area),2017,16.3613327487944,population_density
+Belize,BLZ,EN.POP.DNST,Population density (people per sq. km of land area),2016,15.9888206926786,population_density
+Belize,BLZ,EN.POP.DNST,Population density (people per sq. km of land area),2015,15.6217886891714,population_density
+Benin,BEN,EN.POP.DNST,Population density (people per sq. km of land area),2019,112.865865555161,population_density
+Benin,BEN,EN.POP.DNST,Population density (people per sq. km of land area),2018,109.820388435615,population_density
+Benin,BEN,EN.POP.DNST,Population density (people per sq. km of land area),2017,106.773501241575,population_density
+Benin,BEN,EN.POP.DNST,Population density (people per sq. km of land area),2016,103.741060659808,population_density
+Benin,BEN,EN.POP.DNST,Population density (people per sq. km of land area),2015,100.750984391628,population_density
+Bermuda,BMU,EN.POP.DNST,Population density (people per sq. km of land area),2019,1187.16666666667,population_density
+Bermuda,BMU,EN.POP.DNST,Population density (people per sq. km of land area),2018,1182.05555555556,population_density
+Bermuda,BMU,EN.POP.DNST,Population density (people per sq. km of land area),2017,1177.37037037037,population_density
+Bermuda,BMU,EN.POP.DNST,Population density (people per sq. km of land area),2016,1174.98148148148,population_density
+Bermuda,BMU,EN.POP.DNST,Population density (people per sq. km of land area),2015,1175.25925925926,population_density
+Bhutan,BTN,EN.POP.DNST,Population density (people per sq. km of land area),2019,20.0530676455165,population_density
+Bhutan,BTN,EN.POP.DNST,Population density (people per sq. km of land area),2018,19.920267435763,population_density
+Bhutan,BTN,EN.POP.DNST,Population density (people per sq. km of land area),2017,19.7759804949664,population_density
+Bhutan,BTN,EN.POP.DNST,Population density (people per sq. km of land area),2016,19.6063863255034,population_density
+Bhutan,BTN,EN.POP.DNST,Population density (people per sq. km of land area),2015,19.4301230422121,population_density
+Bolivia,BOL,EN.POP.DNST,Population density (people per sq. km of land area),2019,10.7739185821102,population_density
+Bolivia,BOL,EN.POP.DNST,Population density (people per sq. km of land area),2018,10.6234357980246,population_density
+Bolivia,BOL,EN.POP.DNST,Population density (people per sq. km of land area),2017,10.4722486845749,population_density
+Bolivia,BOL,EN.POP.DNST,Population density (people per sq. km of land area),2016,10.3203360103388,population_density
+Bolivia,BOL,EN.POP.DNST,Population density (people per sq. km of land area),2015,10.1677328533186,population_density
+Bosnia and Herzegovina,BIH,EN.POP.DNST,Population density (people per sq. km of land area),2019,65.34244140625,population_density
+Bosnia and Herzegovina,BIH,EN.POP.DNST,Population density (people per sq. km of land area),2018,66.15234375,population_density
+Bosnia and Herzegovina,BIH,EN.POP.DNST,Population density (people per sq. km of land area),2017,66.9664453125,population_density
+Bosnia and Herzegovina,BIH,EN.POP.DNST,Population density (people per sq. km of land area),2016,67.83208984375,population_density
+Bosnia and Herzegovina,BIH,EN.POP.DNST,Population density (people per sq. km of land area),2015,68.72150390625,population_density
+Botswana,BWA,EN.POP.DNST,Population density (people per sq. km of land area),2019,4.11498067863004,population_density
+Botswana,BWA,EN.POP.DNST,Population density (people per sq. km of land area),2018,4.05685423393856,population_density
+Botswana,BWA,EN.POP.DNST,Population density (people per sq. km of land area),2017,3.99969473999965,population_density
+Botswana,BWA,EN.POP.DNST,Population density (people per sq. km of land area),2016,3.94328163322923,population_density
+Botswana,BWA,EN.POP.DNST,Population density (people per sq. km of land area),2015,3.88769431651757,population_density
+Brazil,BRA,EN.POP.DNST,Population density (people per sq. km of land area),2019,24.8207686159839,population_density
+Brazil,BRA,EN.POP.DNST,Population density (people per sq. km of land area),2018,24.659465024515,population_density
+Brazil,BRA,EN.POP.DNST,Population density (people per sq. km of land area),2017,24.4915070817191,population_density
+Brazil,BRA,EN.POP.DNST,Population density (people per sq. km of land area),2016,24.3137963709629,population_density
+Brazil,BRA,EN.POP.DNST,Population density (people per sq. km of land area),2015,24.1292359304821,population_density
+British Virgin Islands,VGB,EN.POP.DNST,Population density (people per sq. km of land area),2019,242.633333333333,population_density
+British Virgin Islands,VGB,EN.POP.DNST,Population density (people per sq. km of land area),2018,231.046666666667,population_density
+British Virgin Islands,VGB,EN.POP.DNST,Population density (people per sq. km of land area),2017,217.993333333333,population_density
+British Virgin Islands,VGB,EN.POP.DNST,Population density (people per sq. km of land area),2016,225.853333333333,population_density
+British Virgin Islands,VGB,EN.POP.DNST,Population density (people per sq. km of land area),2015,229.986666666667,population_density
+Brunei Darussalam,BRN,EN.POP.DNST,Population density (people per sq. km of land area),2019,84.0,population_density
+Brunei Darussalam,BRN,EN.POP.DNST,Population density (people per sq. km of land area),2018,83.0759013282732,population_density
+Brunei Darussalam,BRN,EN.POP.DNST,Population density (people per sq. km of land area),2017,82.1199240986717,population_density
+Brunei Darussalam,BRN,EN.POP.DNST,Population density (people per sq. km of land area),2016,81.1316888045541,population_density
+Brunei Darussalam,BRN,EN.POP.DNST,Population density (people per sq. km of land area),2015,80.1161290322581,population_density
+Bulgaria,BGR,EN.POP.DNST,Population density (people per sq. km of land area),2019,60.9499447310243,population_density
+Bulgaria,BGR,EN.POP.DNST,Population density (people per sq. km of land area),2018,61.816488577745,population_density
+Bulgaria,BGR,EN.POP.DNST,Population density (people per sq. km of land area),2017,62.6701179071481,population_density
+Bulgaria,BGR,EN.POP.DNST,Population density (people per sq. km of land area),2016,63.5053334561533,population_density
+Bulgaria,BGR,EN.POP.DNST,Population density (people per sq. km of land area),2015,64.3351602800295,population_density
+Burkina Faso,BFA,EN.POP.DNST,Population density (people per sq. km of land area),2019,76.6153216374269,population_density
+Burkina Faso,BFA,EN.POP.DNST,Population density (people per sq. km of land area),2018,74.7013450292398,population_density
+Burkina Faso,BFA,EN.POP.DNST,Population density (people per sq. km of land area),2017,72.713475877193,population_density
+Burkina Faso,BFA,EN.POP.DNST,Population density (people per sq. km of land area),2016,70.6683333333333,population_density
+Burkina Faso,BFA,EN.POP.DNST,Population density (people per sq. km of land area),2015,68.6311659356725,population_density
+Burundi,BDI,EN.POP.DNST,Population density (people per sq. km of land area),2019,477.232710280374,population_density
+Burundi,BDI,EN.POP.DNST,Population density (people per sq. km of land area),2018,461.816433021807,population_density
+Burundi,BDI,EN.POP.DNST,Population density (people per sq. km of land area),2017,448.082632398754,population_density
+Burundi,BDI,EN.POP.DNST,Population density (people per sq. km of land area),2016,437.673325545171,population_density
+Burundi,BDI,EN.POP.DNST,Population density (people per sq. km of land area),2015,430.201713395639,population_density
+Cabo Verde,CPV,EN.POP.DNST,Population density (people per sq. km of land area),2019,127.569230769231,population_density
+Cabo Verde,CPV,EN.POP.DNST,Population density (people per sq. km of land area),2018,127.398263027295,population_density
+Cabo Verde,CPV,EN.POP.DNST,Population density (people per sq. km of land area),2017,127.268734491315,population_density
+Cabo Verde,CPV,EN.POP.DNST,Population density (people per sq. km of land area),2016,127.184615384615,population_density
+Cabo Verde,CPV,EN.POP.DNST,Population density (people per sq. km of land area),2015,127.144913151365,population_density
+Cambodia,KHM,EN.POP.DNST,Population density (people per sq. km of land area),2019,93.3679129843644,population_density
+Cambodia,KHM,EN.POP.DNST,Population density (people per sq. km of land area),2018,92.1964763199638,population_density
+Cambodia,KHM,EN.POP.DNST,Population density (people per sq. km of land area),2017,91.0569453886245,population_density
+Cambodia,KHM,EN.POP.DNST,Population density (people per sq. km of land area),2016,89.8074042601405,population_density
+Cambodia,KHM,EN.POP.DNST,Population density (people per sq. km of land area),2015,88.5069737140267,population_density
+Cameroon,CMR,EN.POP.DNST,Population density (people per sq. km of land area),2019,53.9571724736096,population_density
+Cameroon,CMR,EN.POP.DNST,Population density (people per sq. km of land area),2018,52.4769583888642,population_density
+Cameroon,CMR,EN.POP.DNST,Population density (people per sq. km of land area),2017,51.0431363838294,population_density
+Cameroon,CMR,EN.POP.DNST,Population density (people per sq. km of land area),2016,49.6163842525015,population_density
+Cameroon,CMR,EN.POP.DNST,Population density (people per sq. km of land area),2015,48.1551352837892,population_density
+Canada,CAN,EN.POP.DNST,Population density (people per sq. km of land area),2019,4.19587500655283,population_density
+Canada,CAN,EN.POP.DNST,Population density (people per sq. km of land area),2018,4.13498944297029,population_density
+Canada,CAN,EN.POP.DNST,Population density (people per sq. km of land area),2017,4.07614836279598,population_density
+Canada,CAN,EN.POP.DNST,Population density (people per sq. km of land area),2016,4.02771072511681,population_density
+Canada,CAN,EN.POP.DNST,Population density (people per sq. km of land area),2015,3.98239245827659,population_density
+Cayman Islands,CYM,EN.POP.DNST,Population density (people per sq. km of land area),2019,280.529166666667,population_density
+Cayman Islands,CYM,EN.POP.DNST,Population density (people per sq. km of land area),2018,274.754166666667,population_density
+Cayman Islands,CYM,EN.POP.DNST,Population density (people per sq. km of land area),2017,268.895833333333,population_density
+Cayman Islands,CYM,EN.POP.DNST,Population density (people per sq. km of land area),2016,262.916666666667,population_density
+Cayman Islands,CYM,EN.POP.DNST,Population density (people per sq. km of land area),2015,256.841666666667,population_density
+Central African Republic,CAF,EN.POP.DNST,Population density (people per sq. km of land area),2019,7.93717775851552,population_density
+Central African Republic,CAF,EN.POP.DNST,Population density (people per sq. km of land area),2018,7.83116151401329,population_density
+Central African Republic,CAF,EN.POP.DNST,Population density (people per sq. km of land area),2017,7.6944861793316,population_density
+Central African Republic,CAF,EN.POP.DNST,Population density (people per sq. km of land area),2016,7.56631513050178,population_density
+Central African Republic,CAF,EN.POP.DNST,Population density (people per sq. km of land area),2015,7.430928761758,population_density
+Chad,TCD,EN.POP.DNST,Population density (people per sq. km of land area),2019,13.2506535895807,population_density
+Chad,TCD,EN.POP.DNST,Population density (people per sq. km of land area),2018,12.830790184244,population_density
+Chad,TCD,EN.POP.DNST,Population density (people per sq. km of land area),2017,12.4068924714104,population_density
+Chad,TCD,EN.POP.DNST,Population density (people per sq. km of land area),2016,12.0033791296061,population_density
+Chad,TCD,EN.POP.DNST,Population density (people per sq. km of land area),2015,11.6324817344346,population_density
+Channel Islands,CHI,EN.POP.DNST,Population density (people per sq. km of land area),2019,836.560606060606,population_density
+Channel Islands,CHI,EN.POP.DNST,Population density (people per sq. km of land area),2018,833.075757575758,population_density
+Channel Islands,CHI,EN.POP.DNST,Population density (people per sq. km of land area),2017,829.893939393939,population_density
+Channel Islands,CHI,EN.POP.DNST,Population density (people per sq. km of land area),2016,827.691919191919,population_density
+Channel Islands,CHI,EN.POP.DNST,Population density (people per sq. km of land area),2015,825.525252525253,population_density
+Chile,CHL,EN.POP.DNST,Population density (people per sq. km of land area),2019,25.84400416762,population_density
+Chile,CHL,EN.POP.DNST,Population density (people per sq. km of land area),2018,25.4526848895971,population_density
+Chile,CHL,EN.POP.DNST,Population density (people per sq. km of land area),2017,25.002288872834,population_density
+Chile,CHL,EN.POP.DNST,Population density (people per sq. km of land area),2016,24.6093854617587,population_density
+Chile,CHL,EN.POP.DNST,Population density (people per sq. km of land area),2015,24.333348398175,population_density
+China,CHN,EN.POP.DNST,Population density (people per sq. km of land area),2019,149.948179684945,population_density
+China,CHN,EN.POP.DNST,Population density (people per sq. km of land area),2018,149.417194545073,population_density
+China,CHN,EN.POP.DNST,Population density (people per sq. km of land area),2017,148.720043543977,population_density
+China,CHN,EN.POP.DNST,Population density (people per sq. km of land area),2016,147.822641376791,population_density
+China,CHN,EN.POP.DNST,Population density (people per sq. km of land area),2015,146.977949259981,population_density
+Colombia,COL,EN.POP.DNST,Population density (people per sq. km of land area),2019,44.9824109959441,population_density
+Colombia,COL,EN.POP.DNST,Population density (people per sq. km of land area),2018,44.1860883280757,population_density
+Colombia,COL,EN.POP.DNST,Population density (people per sq. km of land area),2017,43.3808724650744,population_density
+Colombia,COL,EN.POP.DNST,Population density (people per sq. km of land area),2016,42.7557566471383,population_density
+Colombia,COL,EN.POP.DNST,Population density (people per sq. km of land area),2015,42.3343307796305,population_density
+Comoros,COM,EN.POP.DNST,Population density (people per sq. km of land area),2019,422.664159054272,population_density
+Comoros,COM,EN.POP.DNST,Population density (people per sq. km of land area),2018,414.610424502955,population_density
+Comoros,COM,EN.POP.DNST,Population density (people per sq. km of land area),2017,406.592692101021,population_density
+Comoros,COM,EN.POP.DNST,Population density (people per sq. km of land area),2016,398.571198280494,population_density
+Comoros,COM,EN.POP.DNST,Population density (people per sq. km of land area),2015,390.479312197743,population_density
+"Congo, Dem. Rep.",COD,EN.POP.DNST,Population density (people per sq. km of land area),2019,40.9992907081891,population_density
+"Congo, Dem. Rep.",COD,EN.POP.DNST,Population density (people per sq. km of land area),2018,39.7201843805827,population_density
+"Congo, Dem. Rep.",COD,EN.POP.DNST,Population density (people per sq. km of land area),2017,38.4126499194989,population_density
+"Congo, Dem. Rep.",COD,EN.POP.DNST,Population density (people per sq. km of land area),2016,37.0333318629938,population_density
+"Congo, Dem. Rep.",COD,EN.POP.DNST,Population density (people per sq. km of land area),2015,35.7449244613043,population_density
+"Congo, Rep.",COG,EN.POP.DNST,Population density (people per sq. km of land area),2019,16.4470307467057,population_density
+"Congo, Rep.",COG,EN.POP.DNST,Population density (people per sq. km of land area),2018,16.0559824304539,population_density
+"Congo, Rep.",COG,EN.POP.DNST,Population density (people per sq. km of land area),2017,15.6691390922401,population_density
+"Congo, Rep.",COG,EN.POP.DNST,Population density (people per sq. km of land area),2016,15.2929311859444,population_density
+"Congo, Rep.",COG,EN.POP.DNST,Population density (people per sq. km of land area),2015,14.9270307467057,population_density
+Costa Rica,CRI,EN.POP.DNST,Population density (people per sq. km of land area),2019,97.9152565609087,population_density
+Costa Rica,CRI,EN.POP.DNST,Population density (people per sq. km of land area),2018,97.0978848413631,population_density
+Costa Rica,CRI,EN.POP.DNST,Population density (people per sq. km of land area),2017,96.2235996866432,population_density
+Costa Rica,CRI,EN.POP.DNST,Population density (people per sq. km of land area),2016,95.3191931061496,population_density
+Costa Rica,CRI,EN.POP.DNST,Population density (people per sq. km of land area),2015,94.360321190756,population_density
+Cote d'Ivoire,CIV,EN.POP.DNST,Population density (people per sq. km of land area),2019,88.6572610062893,population_density
+Cote d'Ivoire,CIV,EN.POP.DNST,Population density (people per sq. km of land area),2018,86.3653238993711,population_density
+Cote d'Ivoire,CIV,EN.POP.DNST,Population density (people per sq. km of land area),2017,84.0672075471698,population_density
+Cote d'Ivoire,CIV,EN.POP.DNST,Population density (people per sq. km of land area),2016,81.7276886792453,population_density
+Cote d'Ivoire,CIV,EN.POP.DNST,Population density (people per sq. km of land area),2015,79.3910125786164,population_density
+Croatia,HRV,EN.POP.DNST,Population density (people per sq. km of land area),2019,70.5701879779859,population_density
+Croatia,HRV,EN.POP.DNST,Population density (people per sq. km of land area),2018,71.2739439639768,population_density
+Croatia,HRV,EN.POP.DNST,Population density (people per sq. km of land area),2017,72.2144056893717,population_density
+Croatia,HRV,EN.POP.DNST,Population density (people per sq. km of land area),2016,73.3840861982703,population_density
+Croatia,HRV,EN.POP.DNST,Population density (people per sq. km of land area),2015,74.1856371953399,population_density
+Cuba,CUB,EN.POP.DNST,Population density (people per sq. km of land area),2019,107.927225433526,population_density
+Cuba,CUB,EN.POP.DNST,Population density (people per sq. km of land area),2018,108.16105973025,population_density
+Cuba,CUB,EN.POP.DNST,Population density (people per sq. km of land area),2017,108.360587668593,population_density
+Cuba,CUB,EN.POP.DNST,Population density (people per sq. km of land area),2016,108.2815455594,population_density
+Cuba,CUB,EN.POP.DNST,Population density (people per sq. km of land area),2015,108.309942363112,population_density
+Curacao,CUW,EN.POP.DNST,Population density (people per sq. km of land area),2019,354.596846846847,population_density
+Curacao,CUW,EN.POP.DNST,Population density (people per sq. km of land area),2018,358.864864864865,population_density
+Curacao,CUW,EN.POP.DNST,Population density (people per sq. km of land area),2017,360.754504504504,population_density
+Curacao,CUW,EN.POP.DNST,Population density (people per sq. km of land area),2016,359.603603603604,population_density
+Curacao,CUW,EN.POP.DNST,Population density (people per sq. km of land area),2015,355.810810810811,population_density
+Cyprus,CYP,EN.POP.DNST,Population density (people per sq. km of land area),2019,139.250108225108,population_density
+Cyprus,CYP,EN.POP.DNST,Population density (people per sq. km of land area),2018,137.525649350649,population_density
+Cyprus,CYP,EN.POP.DNST,Population density (people per sq. km of land area),2017,135.744047619048,population_density
+Cyprus,CYP,EN.POP.DNST,Population density (people per sq. km of land area),2016,133.88658008658,population_density
+Cyprus,CYP,EN.POP.DNST,Population density (people per sq. km of land area),2015,131.980735930736,population_density
+Czechia,CZE,EN.POP.DNST,Population density (people per sq. km of land area),2019,138.226810266108,population_density
+Czechia,CZE,EN.POP.DNST,Population density (people per sq. km of land area),2018,137.675534257221,population_density
+Czechia,CZE,EN.POP.DNST,Population density (people per sq. km of land area),2017,137.21587877218,population_density
+Czechia,CZE,EN.POP.DNST,Population density (people per sq. km of land area),2016,136.851858567543,population_density
+Czechia,CZE,EN.POP.DNST,Population density (people per sq. km of land area),2015,136.589288952208,population_density
+Denmark,DNK,EN.POP.DNST,Population density (people per sq. km of land area),2019,145.36055,population_density
+Denmark,DNK,EN.POP.DNST,Population density (people per sq. km of land area),2018,144.8409,population_density
+Denmark,DNK,EN.POP.DNST,Population density (people per sq. km of land area),2017,144.1245,population_density
+Denmark,DNK,EN.POP.DNST,Population density (people per sq. km of land area),2016,143.20025,population_density
+Denmark,DNK,EN.POP.DNST,Population density (people per sq. km of land area),2015,142.087075,population_density
+Djibouti,DJI,EN.POP.DNST,Population density (people per sq. km of land area),2019,46.9676013805004,population_density
+Djibouti,DJI,EN.POP.DNST,Population density (people per sq. km of land area),2018,46.2416738567731,population_density
+Djibouti,DJI,EN.POP.DNST,Population density (people per sq. km of land area),2017,45.5065142364107,population_density
+Djibouti,DJI,EN.POP.DNST,Population density (people per sq. km of land area),2016,44.7650129421915,population_density
+Djibouti,DJI,EN.POP.DNST,Population density (people per sq. km of land area),2015,44.0169542709232,population_density
+Dominica,DMA,EN.POP.DNST,Population density (people per sq. km of land area),2019,90.5066666666667,population_density
+Dominica,DMA,EN.POP.DNST,Population density (people per sq. km of land area),2018,90.8986666666667,population_density
+Dominica,DMA,EN.POP.DNST,Population density (people per sq. km of land area),2017,91.328,population_density
+Dominica,DMA,EN.POP.DNST,Population density (people per sq. km of land area),2016,92.808,population_density
+Dominica,DMA,EN.POP.DNST,Population density (people per sq. km of land area),2015,93.88,population_density
+Dominican Republic,DOM,EN.POP.DNST,Population density (people per sq. km of land area),2019,226.026774543851,population_density
+Dominican Republic,DOM,EN.POP.DNST,Population density (people per sq. km of land area),2018,223.18470296005,population_density
+Dominican Republic,DOM,EN.POP.DNST,Population density (people per sq. km of land area),2017,220.799896501759,population_density
+Dominican Republic,DOM,EN.POP.DNST,Population density (people per sq. km of land area),2016,218.410888014904,population_density
+Dominican Republic,DOM,EN.POP.DNST,Population density (people per sq. km of land area),2015,215.997288346098,population_density
+Ecuador,ECU,EN.POP.DNST,Population density (people per sq. km of land area),2019,69.8180906748269,population_density
+Ecuador,ECU,EN.POP.DNST,Population density (people per sq. km of land area),2018,68.6485223063295,population_density
+Ecuador,ECU,EN.POP.DNST,Population density (people per sq. km of land area),2017,67.4807497181511,population_density
+Ecuador,ECU,EN.POP.DNST,Population density (people per sq. km of land area),2016,66.4565107102593,population_density
+Ecuador,ECU,EN.POP.DNST,Population density (people per sq. km of land area),2015,65.4945442100177,population_density
+"Egypt, Arab Rep.",EGY,EN.POP.DNST,Population density (people per sq. km of land area),2019,108.044761665578,population_density
+"Egypt, Arab Rep.",EGY,EN.POP.DNST,Population density (people per sq. km of land area),2018,106.165145411623,population_density
+"Egypt, Arab Rep.",EGY,EN.POP.DNST,Population density (people per sq. km of land area),2017,104.170030639409,population_density
+"Egypt, Arab Rep.",EGY,EN.POP.DNST,Population density (people per sq. km of land area),2016,102.109185795369,population_density
+"Egypt, Arab Rep.",EGY,EN.POP.DNST,Population density (people per sq. km of land area),2015,100.052581244663,population_density
+El Salvador,SLV,EN.POP.DNST,Population density (people per sq. km of land area),2019,300.304922779923,population_density
+El Salvador,SLV,EN.POP.DNST,Population density (people per sq. km of land area),2018,300.183735521236,population_density
+El Salvador,SLV,EN.POP.DNST,Population density (people per sq. km of land area),2017,299.880936293436,population_density
+El Salvador,SLV,EN.POP.DNST,Population density (people per sq. km of land area),2016,299.266409266409,population_density
+El Salvador,SLV,EN.POP.DNST,Population density (people per sq. km of land area),2015,298.439961389961,population_density
+Equatorial Guinea,GNQ,EN.POP.DNST,Population density (people per sq. km of land area),2019,59.5428520499109,population_density
+Equatorial Guinea,GNQ,EN.POP.DNST,Population density (people per sq. km of land area),2018,57.6264527629233,population_density
+Equatorial Guinea,GNQ,EN.POP.DNST,Population density (people per sq. km of land area),2017,55.7003921568627,population_density
+Equatorial Guinea,GNQ,EN.POP.DNST,Population density (people per sq. km of land area),2016,53.7677718360071,population_density
+Equatorial Guinea,GNQ,EN.POP.DNST,Population density (people per sq. km of land area),2015,51.8332620320856,population_density
+Eritrea,ERI,EN.POP.DNST,Population density (people per sq. km of land area),2019,26.7606490641362,population_density
+Eritrea,ERI,EN.POP.DNST,Population density (people per sq. km of land area),2018,26.3695100817645,population_density
+Eritrea,ERI,EN.POP.DNST,Population density (people per sq. km of land area),2017,26.0206072238481,population_density
+Eritrea,ERI,EN.POP.DNST,Population density (people per sq. km of land area),2016,25.8074296058691,population_density
+Eritrea,ERI,EN.POP.DNST,Population density (people per sq. km of land area),2015,25.6468528978016,population_density
+Estonia,EST,EN.POP.DNST,Population density (people per sq. km of land area),2019,31.0385497076023,population_density
+Estonia,EST,EN.POP.DNST,Population density (people per sq. km of land area),2018,30.9234385964912,population_density
+Estonia,EST,EN.POP.DNST,Population density (people per sq. km of land area),2017,30.816,population_density
+Estonia,EST,EN.POP.DNST,Population density (people per sq. km of land area),2016,30.2689210950081,population_density
+Estonia,EST,EN.POP.DNST,Population density (people per sq. km of land area),2015,30.26011042098,population_density
+Eswatini,SWZ,EN.POP.DNST,Population density (people per sq. km of land area),2019,68.5973255813954,population_density
+Eswatini,SWZ,EN.POP.DNST,Population density (people per sq. km of land area),2018,67.960988372093,population_density
+Eswatini,SWZ,EN.POP.DNST,Population density (people per sq. km of land area),2017,67.3369186046512,population_density
+Eswatini,SWZ,EN.POP.DNST,Population density (people per sq. km of land area),2016,66.8318023255814,population_density
+Eswatini,SWZ,EN.POP.DNST,Population density (people per sq. km of land area),2015,66.4426162790698,population_density
+Ethiopia,ETH,EN.POP.DNST,Population density (people per sq. km of land area),2019,102.552159549746,population_density
+Ethiopia,ETH,EN.POP.DNST,Population density (people per sq. km of land area),2018,99.8298825389562,population_density
+Ethiopia,ETH,EN.POP.DNST,Population density (people per sq. km of land area),2017,97.1744352590326,population_density
+Ethiopia,ETH,EN.POP.DNST,Population density (people per sq. km of land area),2016,94.5614799764478,population_density
+Ethiopia,ETH,EN.POP.DNST,Population density (people per sq. km of land area),2015,92.0367822337439,population_density
+Faroe Islands,FRO,EN.POP.DNST,Population density (people per sq. km of land area),2019,37.1002865329513,population_density
+Faroe Islands,FRO,EN.POP.DNST,Population density (people per sq. km of land area),2018,36.5300859598854,population_density
+Faroe Islands,FRO,EN.POP.DNST,Population density (people per sq. km of land area),2017,35.945558739255,population_density
+Faroe Islands,FRO,EN.POP.DNST,Population density (people per sq. km of land area),2016,35.432664756447,population_density
+Faroe Islands,FRO,EN.POP.DNST,Population density (people per sq. km of land area),2015,35.0279369627507,population_density
+Fiji,FJI,EN.POP.DNST,Population density (people per sq. km of land area),2019,50.0765736179529,population_density
+Fiji,FJI,EN.POP.DNST,Population density (people per sq. km of land area),2018,50.2014230979748,population_density
+Fiji,FJI,EN.POP.DNST,Population density (people per sq. km of land area),2017,50.2878489326765,population_density
+Fiji,FJI,EN.POP.DNST,Population density (people per sq. km of land area),2016,50.3101258894362,population_density
+Fiji,FJI,EN.POP.DNST,Population density (people per sq. km of land area),2015,50.2779419813903,population_density
+Finland,FIN,EN.POP.DNST,Population density (people per sq. km of land area),2019,18.1673609054717,population_density
+Finland,FIN,EN.POP.DNST,Population density (people per sq. km of land area),2018,18.1479501184522,population_density
+Finland,FIN,EN.POP.DNST,Population density (people per sq. km of land area),2017,18.1238944459068,population_density
+Finland,FIN,EN.POP.DNST,Population density (people per sq. km of land area),2016,18.0820078312658,population_density
+Finland,FIN,EN.POP.DNST,Population density (people per sq. km of land area),2015,18.0301108880919,population_density
+France,FRA,EN.POP.DNST,Population density (people per sq. km of land area),2019,125.024698023935,population_density
+France,FRA,EN.POP.DNST,Population density (people per sq. km of land area),2018,124.609607570276,population_density
+France,FRA,EN.POP.DNST,Population density (people per sq. km of land area),2017,124.163688653864,population_density
+France,FRA,EN.POP.DNST,Population density (people per sq. km of land area),2016,123.803885332591,population_density
+France,FRA,EN.POP.DNST,Population density (people per sq. km of land area),2015,123.477636144355,population_density
+French Polynesia,PYF,EN.POP.DNST,Population density (people per sq. km of land area),2019,80.3900893114376,population_density
+French Polynesia,PYF,EN.POP.DNST,Population density (people per sq. km of land area),2018,80.6150965139729,population_density
+French Polynesia,PYF,EN.POP.DNST,Population density (people per sq. km of land area),2017,80.6934600979545,population_density
+French Polynesia,PYF,EN.POP.DNST,Population density (people per sq. km of land area),2016,80.431575914722,population_density
+French Polynesia,PYF,EN.POP.DNST,Population density (people per sq. km of land area),2015,80.0535868625756,population_density
+Gabon,GAB,EN.POP.DNST,Population density (people per sq. km of land area),2019,8.80081499592502,population_density
+Gabon,GAB,EN.POP.DNST,Population density (people per sq. km of land area),2018,8.58585788023441,population_density
+Gabon,GAB,EN.POP.DNST,Population density (people per sq. km of land area),2017,8.37078433655451,population_density
+Gabon,GAB,EN.POP.DNST,Population density (people per sq. km of land area),2016,8.15114681569449,population_density
+Gabon,GAB,EN.POP.DNST,Population density (people per sq. km of land area),2015,7.92094151434005,population_density
+"Gambia, The",GMB,EN.POP.DNST,Population density (people per sq. km of land area),2019,242.771146245059,population_density
+"Gambia, The",GMB,EN.POP.DNST,Population density (people per sq. km of land area),2018,237.117786561265,population_density
+"Gambia, The",GMB,EN.POP.DNST,Population density (people per sq. km of land area),2017,231.441600790514,population_density
+"Gambia, The",GMB,EN.POP.DNST,Population density (people per sq. km of land area),2016,225.668873517787,population_density
+"Gambia, The",GMB,EN.POP.DNST,Population density (people per sq. km of land area),2015,219.815118577075,population_density
+Georgia,GEO,EN.POP.DNST,Population density (people per sq. km of land area),2019,65.0855698239966,population_density
+Georgia,GEO,EN.POP.DNST,Population density (people per sq. km of land area),2018,65.197330207495,population_density
+Georgia,GEO,EN.POP.DNST,Population density (people per sq. km of land area),2017,65.2227859617201,population_density
+Georgia,GEO,EN.POP.DNST,Population density (people per sq. km of land area),2016,65.2140557752196,population_density
+Georgia,GEO,EN.POP.DNST,Population density (people per sq. km of land area),2015,65.1750586094685,population_density
+Germany,DEU,EN.POP.DNST,Population density (people per sq. km of land area),2019,237.822954291766,population_density
+Germany,DEU,EN.POP.DNST,Population density (people per sq. km of land area),2018,237.294012250272,population_density
+Germany,DEU,EN.POP.DNST,Population density (people per sq. km of land area),2017,236.588722557747,population_density
+Germany,DEU,EN.POP.DNST,Population density (people per sq. km of land area),2016,235.712929356538,population_density
+Germany,DEU,EN.POP.DNST,Population density (people per sq. km of land area),2015,234.152986871524,population_density
+Ghana,GHA,EN.POP.DNST,Population density (people per sq. km of land area),2019,137.382028101418,population_density
+Ghana,GHA,EN.POP.DNST,Population density (people per sq. km of land area),2018,134.647029093786,population_density
+Ghana,GHA,EN.POP.DNST,Population density (people per sq. km of land area),2017,131.88166476224,population_density
+Ghana,GHA,EN.POP.DNST,Population density (people per sq. km of land area),2016,129.017939702909,population_density
+Ghana,GHA,EN.POP.DNST,Population density (people per sq. km of land area),2015,126.114388678914,population_density
+Gibraltar,GIB,EN.POP.DNST,Population density (people per sq. km of land area),2019,3549.4,population_density
+Gibraltar,GIB,EN.POP.DNST,Population density (people per sq. km of land area),2018,3485.4,population_density
+Gibraltar,GIB,EN.POP.DNST,Population density (people per sq. km of land area),2017,3424.5,population_density
+Gibraltar,GIB,EN.POP.DNST,Population density (people per sq. km of land area),2016,3365.8,population_density
+Gibraltar,GIB,EN.POP.DNST,Population density (people per sq. km of land area),2015,3319.3,population_density
+Greece,GRC,EN.POP.DNST,Population density (people per sq. km of land area),2019,83.1775174553918,population_density
+Greece,GRC,EN.POP.DNST,Population density (people per sq. km of land area),2018,83.2651823118697,population_density
+Greece,GRC,EN.POP.DNST,Population density (people per sq. km of land area),2017,83.4342823894492,population_density
+Greece,GRC,EN.POP.DNST,Population density (people per sq. km of land area),2016,83.5994647013189,population_density
+Greece,GRC,EN.POP.DNST,Population density (people per sq. km of land area),2015,83.947889837083,population_density
+Greenland,GRL,EN.POP.DNST,Population density (people per sq. km of land area),2019,0.136983798270191,population_density
+Greenland,GRL,EN.POP.DNST,Population density (people per sq. km of land area),2018,0.136491655500061,population_density
+Greenland,GRL,EN.POP.DNST,Population density (people per sq. km of land area),2017,0.136854671701791,population_density
+Greenland,GRL,EN.POP.DNST,Population density (people per sq. km of land area),2016,0.136888780606651,population_density
+Greenland,GRL,EN.POP.DNST,Population density (people per sq. km of land area),2015,0.136713363381654,population_density
+Grenada,GRD,EN.POP.DNST,Population density (people per sq. km of land area),2019,341.120588235294,population_density
+Grenada,GRD,EN.POP.DNST,Population density (people per sq. km of land area),2018,340.267647058824,population_density
+Grenada,GRD,EN.POP.DNST,Population density (people per sq. km of land area),2017,339.523529411765,population_density
+Grenada,GRD,EN.POP.DNST,Population density (people per sq. km of land area),2016,338.617647058824,population_density
+Grenada,GRD,EN.POP.DNST,Population density (people per sq. km of land area),2015,337.282352941176,population_density
+Guam,GUM,EN.POP.DNST,Population density (people per sq. km of land area),2019,299.644444444444,population_density
+Guam,GUM,EN.POP.DNST,Population density (people per sq. km of land area),2018,301.257407407407,population_density
+Guam,GUM,EN.POP.DNST,Population density (people per sq. km of land area),2017,302.759259259259,population_density
+Guam,GUM,EN.POP.DNST,Population density (people per sq. km of land area),2016,304.135185185185,population_density
+Guam,GUM,EN.POP.DNST,Population density (people per sq. km of land area),2015,305.37962962963,population_density
+Guatemala,GTM,EN.POP.DNST,Population density (people per sq. km of land area),2019,159.609957073535,population_density
+Guatemala,GTM,EN.POP.DNST,Population density (people per sq. km of land area),2018,157.201241134752,population_density
+Guatemala,GTM,EN.POP.DNST,Population density (people per sq. km of land area),2017,154.603928704741,population_density
+Guatemala,GTM,EN.POP.DNST,Population density (people per sq. km of land area),2016,151.817469204927,population_density
+Guatemala,GTM,EN.POP.DNST,Population density (people per sq. km of land area),2015,149.045754012691,population_density
+Guinea,GIN,EN.POP.DNST,Population density (people per sq. km of land area),2019,53.0455233599219,population_density
+Guinea,GIN,EN.POP.DNST,Population density (people per sq. km of land area),2018,51.7042731564382,population_density
+Guinea,GIN,EN.POP.DNST,Population density (people per sq. km of land area),2017,50.4055795214065,population_density
+Guinea,GIN,EN.POP.DNST,Population density (people per sq. km of land area),2016,49.1332817841446,population_density
+Guinea,GIN,EN.POP.DNST,Population density (people per sq. km of land area),2015,47.8881246947745,population_density
+Guinea-Bissau,GNB,EN.POP.DNST,Population density (people per sq. km of land area),2019,69.9749644381223,population_density
+Guinea-Bissau,GNB,EN.POP.DNST,Population density (people per sq. km of land area),2018,68.3559032716927,population_density
+Guinea-Bissau,GNB,EN.POP.DNST,Population density (people per sq. km of land area),2017,66.7522048364154,population_density
+Guinea-Bissau,GNB,EN.POP.DNST,Population density (people per sq. km of land area),2016,65.1455547652916,population_density
+Guinea-Bissau,GNB,EN.POP.DNST,Population density (people per sq. km of land area),2015,63.5297652916074,population_density
+Guyana,GUY,EN.POP.DNST,Population density (people per sq. km of land area),2019,4.10294640589281,population_density
+Guyana,GUY,EN.POP.DNST,Population density (people per sq. km of land area),2018,4.02111252222504,population_density
+Guyana,GUY,EN.POP.DNST,Population density (people per sq. km of land area),2017,3.90388112776226,population_density
+Guyana,GUY,EN.POP.DNST,Population density (people per sq. km of land area),2016,3.8788315976632,population_density
+Guyana,GUY,EN.POP.DNST,Population density (people per sq. km of land area),2015,3.85461518923038,population_density
+Haiti,HTI,EN.POP.DNST,Population density (people per sq. km of land area),2019,402.944956458636,population_density
+Haiti,HTI,EN.POP.DNST,Population density (people per sq. km of land area),2018,397.763497822932,population_density
+Haiti,HTI,EN.POP.DNST,Population density (people per sq. km of land area),2017,392.516473149492,population_density
+Haiti,HTI,EN.POP.DNST,Population density (people per sq. km of land area),2016,387.208164005806,population_density
+Haiti,HTI,EN.POP.DNST,Population density (people per sq. km of land area),2015,381.830261248186,population_density
+Honduras,HND,EN.POP.DNST,Population density (people per sq. km of land area),2019,88.8697202609706,population_density
+Honduras,HND,EN.POP.DNST,Population density (people per sq. km of land area),2018,87.2750916078291,population_density
+Honduras,HND,EN.POP.DNST,Population density (people per sq. km of land area),2017,85.6925283760837,population_density
+Honduras,HND,EN.POP.DNST,Population density (people per sq. km of land area),2016,84.121726695862,population_density
+Honduras,HND,EN.POP.DNST,Population density (people per sq. km of land area),2015,82.5570202877826,population_density
+"Hong Kong SAR, China",HKG,EN.POP.DNST,Population density (people per sq. km of land area),2019,7150.38095238095,population_density
+"Hong Kong SAR, China",HKG,EN.POP.DNST,Population density (people per sq. km of land area),2018,7097.71428571429,population_density
+"Hong Kong SAR, China",HKG,EN.POP.DNST,Population density (people per sq. km of land area),2017,7041.14285714286,population_density
+"Hong Kong SAR, China",HKG,EN.POP.DNST,Population density (people per sq. km of land area),2016,6987.2380952381,population_density
+"Hong Kong SAR, China",HKG,EN.POP.DNST,Population density (people per sq. km of land area),2015,6944.09523809524,population_density
+Hungary,HUN,EN.POP.DNST,Population density (people per sq. km of land area),2019,106.233004602235,population_density
+Hungary,HUN,EN.POP.DNST,Population density (people per sq. km of land area),2018,106.366031119877,population_density
+Hungary,HUN,EN.POP.DNST,Population density (people per sq. km of land area),2017,106.582905982906,population_density
+Hungary,HUN,EN.POP.DNST,Population density (people per sq. km of land area),2016,106.944499232961,population_density
+Hungary,HUN,EN.POP.DNST,Population density (people per sq. km of land area),2015,107.360891957046,population_density
+Iceland,ISL,EN.POP.DNST,Population density (people per sq. km of land area),2019,3.5759496181692,population_density
+Iceland,ISL,EN.POP.DNST,Population density (people per sq. km of land area),2018,3.49817514628583,population_density
+Iceland,ISL,EN.POP.DNST,Population density (people per sq. km of land area),2017,3.42543640897756,population_density
+Iceland,ISL,EN.POP.DNST,Population density (people per sq. km of land area),2016,3.34602493765586,population_density
+Iceland,ISL,EN.POP.DNST,Population density (people per sq. km of land area),2015,3.29990024937656,population_density
+India,IND,EN.POP.DNST,Population density (people per sq. km of land area),2019,467.185182245332,population_density
+India,IND,EN.POP.DNST,Population density (people per sq. km of land area),2018,462.351569862673,population_density
+India,IND,EN.POP.DNST,Population density (people per sq. km of land area),2017,457.30592394028,population_density
+India,IND,EN.POP.DNST,Population density (people per sq. km of land area),2016,452.020992940243,population_density
+India,IND,EN.POP.DNST,Population density (people per sq. km of land area),2015,446.666542669658,population_density
+Indonesia,IDN,EN.POP.DNST,Population density (people per sq. km of land area),2019,145.132688936836,population_density
+Indonesia,IDN,EN.POP.DNST,Population density (people per sq. km of land area),2018,143.781152680745,population_density
+Indonesia,IDN,EN.POP.DNST,Population density (people per sq. km of land area),2017,142.393583234045,population_density
+Indonesia,IDN,EN.POP.DNST,Population density (people per sq. km of land area),2016,140.945267664402,population_density
+Indonesia,IDN,EN.POP.DNST,Population density (people per sq. km of land area),2015,139.438934572699,population_density
+"Iran, Islamic Rep.",IRN,EN.POP.DNST,Population density (people per sq. km of land area),2019,53.6527876733436,population_density
+"Iran, Islamic Rep.",IRN,EN.POP.DNST,Population density (people per sq. km of land area),2018,53.0773485362096,population_density
+"Iran, Islamic Rep.",IRN,EN.POP.DNST,Population density (people per sq. km of land area),2017,52.4047790446841,population_density
+"Iran, Islamic Rep.",IRN,EN.POP.DNST,Population density (people per sq. km of land area),2016,51.4576905130283,population_density
+"Iran, Islamic Rep.",IRN,EN.POP.DNST,Population density (people per sq. km of land area),2015,50.7253137356025,population_density
+Iraq,IRQ,EN.POP.DNST,Population density (people per sq. km of land area),2019,94.8844148066247,population_density
+Iraq,IRQ,EN.POP.DNST,Population density (people per sq. km of land area),2018,92.7505804739616,population_density
+Iraq,IRQ,EN.POP.DNST,Population density (people per sq. km of land area),2017,90.6123378358457,population_density
+Iraq,IRQ,EN.POP.DNST,Population density (people per sq. km of land area),2016,88.6135586739395,population_density
+Iraq,IRQ,EN.POP.DNST,Population density (people per sq. km of land area),2015,86.5194942505436,population_density
+Ireland,IRL,EN.POP.DNST,Population density (people per sq. km of land area),2019,72.237712294963,population_density
+Ireland,IRL,EN.POP.DNST,Population density (people per sq. km of land area),2018,71.0991725939904,population_density
+Ireland,IRL,EN.POP.DNST,Population density (people per sq. km of land area),2017,70.0746842792858,population_density
+Ireland,IRL,EN.POP.DNST,Population density (people per sq. km of land area),2016,69.1351720133546,population_density
+Ireland,IRL,EN.POP.DNST,Population density (people per sq. km of land area),2015,68.2531136594571,population_density
+Isle of Man,IMN,EN.POP.DNST,Population density (people per sq. km of land area),2019,147.29298245614,population_density
+Isle of Man,IMN,EN.POP.DNST,Population density (people per sq. km of land area),2018,147.026315789474,population_density
+Isle of Man,IMN,EN.POP.DNST,Population density (people per sq. km of land area),2017,146.682456140351,population_density
+Isle of Man,IMN,EN.POP.DNST,Population density (people per sq. km of land area),2016,146.431578947368,population_density
+Isle of Man,IMN,EN.POP.DNST,Population density (people per sq. km of land area),2015,146.654385964912,population_density
+Israel,ISR,EN.POP.DNST,Population density (people per sq. km of land area),2019,418.391866913124,population_density
+Israel,ISR,EN.POP.DNST,Population density (people per sq. km of land area),2018,410.480591497227,population_density
+Israel,ISR,EN.POP.DNST,Population density (people per sq. km of land area),2017,402.647874306839,population_density
+Israel,ISR,EN.POP.DNST,Population density (people per sq. km of land area),2016,394.916820702403,population_density
+Israel,ISR,EN.POP.DNST,Population density (people per sq. km of land area),2015,387.250462107209,population_density
+Italy,ITA,EN.POP.DNST,Population density (people per sq. km of land area),2019,201.980545589195,population_density
+Italy,ITA,EN.POP.DNST,Population density (people per sq. km of land area),2018,203.398704170865,population_density
+Italy,ITA,EN.POP.DNST,Population density (people per sq. km of land area),2017,202.903617635721,population_density
+Italy,ITA,EN.POP.DNST,Population density (people per sq. km of land area),2016,203.285640373599,population_density
+Italy,ITA,EN.POP.DNST,Population density (people per sq. km of land area),2015,203.672434549131,population_density
+Jamaica,JAM,EN.POP.DNST,Population density (people per sq. km of land area),2019,260.689843028624,population_density
+Jamaica,JAM,EN.POP.DNST,Population density (people per sq. km of land area),2018,260.39676823638,population_density
+Jamaica,JAM,EN.POP.DNST,Population density (people per sq. km of land area),2017,259.996675900277,population_density
+Jamaica,JAM,EN.POP.DNST,Population density (people per sq. km of land area),2016,259.456602031394,population_density
+Jamaica,JAM,EN.POP.DNST,Population density (people per sq. km of land area),2015,258.775069252078,population_density
+Japan,JPN,EN.POP.DNST,Population density (people per sq. km of land area),2019,347.415637860082,population_density
+Japan,JPN,EN.POP.DNST,Population density (people per sq. km of land area),2018,347.903978052126,population_density
+Japan,JPN,EN.POP.DNST,Population density (people per sq. km of land area),2017,348.345679012346,population_density
+Japan,JPN,EN.POP.DNST,Population density (people per sq. km of land area),2016,348.631001371742,population_density
+Japan,JPN,EN.POP.DNST,Population density (people per sq. km of land area),2015,348.809327846365,population_density
+Jordan,JOR,EN.POP.DNST,Population density (people per sq. km of land area),2019,120.187073450909,population_density
+Jordan,JOR,EN.POP.DNST,Population density (people per sq. km of land area),2018,117.84530299617,population_density
+Jordan,JOR,EN.POP.DNST,Population density (people per sq. km of land area),2017,115.276255913494,population_density
+Jordan,JOR,EN.POP.DNST,Population density (people per sq. km of land area),2016,112.70969813021,population_density
+Jordan,JOR,EN.POP.DNST,Population density (people per sq. km of land area),2015,107.509900878576,population_density
+Kazakhstan,KAZ,EN.POP.DNST,Population density (people per sq. km of land area),2019,7.11544060451161,population_density
+Kazakhstan,KAZ,EN.POP.DNST,Population density (people per sq. km of land area),2018,7.01290032225803,population_density
+Kazakhstan,KAZ,EN.POP.DNST,Population density (people per sq. km of land area),2017,6.90889024706449,population_density
+Kazakhstan,KAZ,EN.POP.DNST,Population density (people per sq. km of land area),2016,6.80208912101345,population_density
+Kazakhstan,KAZ,EN.POP.DNST,Population density (people per sq. km of land area),2015,6.69858465755454,population_density
+Kenya,KEN,EN.POP.DNST,Population density (people per sq. km of land area),2019,88.4453894988127,population_density
+Kenya,KEN,EN.POP.DNST,Population density (people per sq. km of land area),2018,87.019449386981,population_density
+Kenya,KEN,EN.POP.DNST,Population density (people per sq. km of land area),2017,85.5601194522199,population_density
+Kenya,KEN,EN.POP.DNST,Population density (people per sq. km of land area),2016,84.0057771361452,population_density
+Kenya,KEN,EN.POP.DNST,Population density (people per sq. km of land area),2015,82.4529008736797,population_density
+Kiribati,KIR,EN.POP.DNST,Population density (people per sq. km of land area),2019,152.988888888889,population_density
+Kiribati,KIR,EN.POP.DNST,Population density (people per sq. km of land area),2018,150.720987654321,population_density
+Kiribati,KIR,EN.POP.DNST,Population density (people per sq. km of land area),2017,148.487654320988,population_density
+Kiribati,KIR,EN.POP.DNST,Population density (people per sq. km of land area),2016,146.269135802469,population_density
+Kiribati,KIR,EN.POP.DNST,Population density (people per sq. km of land area),2015,144.216049382716,population_density
+"Korea, Dem. People's Rep.",PRK,EN.POP.DNST,Population density (people per sq. km of land area),2019,216.241441740719,population_density
+"Korea, Dem. People's Rep.",PRK,EN.POP.DNST,Population density (people per sq. km of land area),2018,215.357088281704,population_density
+"Korea, Dem. People's Rep.",PRK,EN.POP.DNST,Population density (people per sq. km of land area),2017,214.414990449298,population_density
+"Korea, Dem. People's Rep.",PRK,EN.POP.DNST,Population density (people per sq. km of land area),2016,213.423519641226,population_density
+"Korea, Dem. People's Rep.",PRK,EN.POP.DNST,Population density (people per sq. km of land area),2015,212.402209118844,population_density
+"Korea, Rep.",KOR,EN.POP.DNST,Population density (people per sq. km of land area),2019,530.377274590164,population_density
+"Korea, Rep.",KOR,EN.POP.DNST,Population density (people per sq. km of land area),2018,528.969011484824,population_density
+"Korea, Rep.",KOR,EN.POP.DNST,Population density (people per sq. km of land area),2017,526.734806686494,population_density
+"Korea, Rep.",KOR,EN.POP.DNST,Population density (people per sq. km of land area),2016,525.370072521002,population_density
+"Korea, Rep.",KOR,EN.POP.DNST,Population density (people per sq. km of land area),2015,523.525547744882,population_density
+Kosovo,XKX,EN.POP.DNST,Population density (people per sq. km of land area),2019,,population_density
+Kosovo,XKX,EN.POP.DNST,Population density (people per sq. km of land area),2018,,population_density
+Kosovo,XKX,EN.POP.DNST,Population density (people per sq. km of land area),2017,,population_density
+Kosovo,XKX,EN.POP.DNST,Population density (people per sq. km of land area),2016,,population_density
+Kosovo,XKX,EN.POP.DNST,Population density (people per sq. km of land area),2015,,population_density
+Kuwait,KWT,EN.POP.DNST,Population density (people per sq. km of land area),2019,249.288215488215,population_density
+Kuwait,KWT,EN.POP.DNST,Population density (people per sq. km of land area),2018,242.621492704826,population_density
+Kuwait,KWT,EN.POP.DNST,Population density (people per sq. km of land area),2017,233.1544332211,population_density
+Kuwait,KWT,EN.POP.DNST,Population density (people per sq. km of land area),2016,224.696745230079,population_density
+Kuwait,KWT,EN.POP.DNST,Population density (people per sq. km of land area),2015,215.183726150393,population_density
+Kyrgyz Republic,KGZ,EN.POP.DNST,Population density (people per sq. km of land area),2019,34.3598070907195,population_density
+Kyrgyz Republic,KGZ,EN.POP.DNST,Population density (people per sq. km of land area),2018,33.5979092805005,population_density
+Kyrgyz Republic,KGZ,EN.POP.DNST,Population density (people per sq. km of land area),2017,32.8816266944734,population_density
+Kyrgyz Republic,KGZ,EN.POP.DNST,Population density (people per sq. km of land area),2016,32.1967570385819,population_density
+Kyrgyz Republic,KGZ,EN.POP.DNST,Population density (people per sq. km of land area),2015,31.4913242961418,population_density
+Lao PDR,LAO,EN.POP.DNST,Population density (people per sq. km of land area),2019,31.3589081455806,population_density
+Lao PDR,LAO,EN.POP.DNST,Population density (people per sq. km of land area),2018,30.8840771230503,population_density
+Lao PDR,LAO,EN.POP.DNST,Population density (people per sq. km of land area),2017,30.4079159445407,population_density
+Lao PDR,LAO,EN.POP.DNST,Population density (people per sq. km of land area),2016,29.934150779896,population_density
+Lao PDR,LAO,EN.POP.DNST,Population density (people per sq. km of land area),2015,29.4698656845754,population_density
+Latvia,LVA,EN.POP.DNST,Population density (people per sq. km of land area),2019,30.755491989008,population_density
+Latvia,LVA,EN.POP.DNST,Population density (people per sq. km of land area),2018,30.9700612274415,population_density
+Latvia,LVA,EN.POP.DNST,Population density (people per sq. km of land area),2017,31.2123033409935,population_density
+Latvia,LVA,EN.POP.DNST,Population density (people per sq. km of land area),2016,31.4901409356067,population_density
+Latvia,LVA,EN.POP.DNST,Population density (people per sq. km of land area),2015,31.7792437366417,population_density
+Lebanon,LBN,EN.POP.DNST,Population density (people per sq. km of land area),2019,566.431476050831,population_density
+Lebanon,LBN,EN.POP.DNST,Population density (people per sq. km of land area),2018,584.957869012708,population_density
+Lebanon,LBN,EN.POP.DNST,Population density (people per sq. km of land area),2017,602.163049853372,population_density
+Lebanon,LBN,EN.POP.DNST,Population density (people per sq. km of land area),2016,618.089931573803,population_density
+Lebanon,LBN,EN.POP.DNST,Population density (people per sq. km of land area),2015,632.694916911046,population_density
+Lesotho,LSO,EN.POP.DNST,Population density (people per sq. km of land area),2019,72.7735507246377,population_density
+Lesotho,LSO,EN.POP.DNST,Population density (people per sq. km of land area),2018,71.9236824769433,population_density
+Lesotho,LSO,EN.POP.DNST,Population density (people per sq. km of land area),2017,71.0510540184453,population_density
+Lesotho,LSO,EN.POP.DNST,Population density (people per sq. km of land area),2016,70.1720026350461,population_density
+Lesotho,LSO,EN.POP.DNST,Population density (people per sq. km of land area),2015,69.321837944664,population_density
+Liberia,LBR,EN.POP.DNST,Population density (people per sq. km of land area),2019,52.3642130398671,population_density
+Liberia,LBR,EN.POP.DNST,Population density (people per sq. km of land area),2018,51.3364410299003,population_density
+Liberia,LBR,EN.POP.DNST,Population density (people per sq. km of land area),2017,50.3418293189369,population_density
+Liberia,LBR,EN.POP.DNST,Population density (people per sq. km of land area),2016,49.3730066445183,population_density
+Liberia,LBR,EN.POP.DNST,Population density (people per sq. km of land area),2015,48.3744912790698,population_density
+Libya,LBY,EN.POP.DNST,Population density (people per sq. km of land area),2019,3.95048308080521,population_density
+Libya,LBY,EN.POP.DNST,Population density (people per sq. km of land area),2018,3.89252588744786,population_density
+Libya,LBY,EN.POP.DNST,Population density (people per sq. km of land area),2017,3.8298475737977,population_density
+Libya,LBY,EN.POP.DNST,Population density (people per sq. km of land area),2016,3.76923855098492,population_density
+Libya,LBY,EN.POP.DNST,Population density (people per sq. km of land area),2015,3.71223103765757,population_density
+Liechtenstein,LIE,EN.POP.DNST,Population density (people per sq. km of land area),2019,241.01875,population_density
+Liechtenstein,LIE,EN.POP.DNST,Population density (people per sq. km of land area),2018,239.0375,population_density
+Liechtenstein,LIE,EN.POP.DNST,Population density (people per sq. km of land area),2017,237.2625,population_density
+Liechtenstein,LIE,EN.POP.DNST,Population density (people per sq. km of land area),2016,235.725,population_density
+Liechtenstein,LIE,EN.POP.DNST,Population density (people per sq. km of land area),2015,234.3375,population_density
+Lithuania,LTU,EN.POP.DNST,Population density (people per sq. km of land area),2019,44.8912328329607,population_density
+Lithuania,LTU,EN.POP.DNST,Population density (people per sq. km of land area),2018,45.0135717707169,population_density
+Lithuania,LTU,EN.POP.DNST,Population density (people per sq. km of land area),2017,45.3798470650213,population_density
+Lithuania,LTU,EN.POP.DNST,Population density (people per sq. km of land area),2016,45.9328405861882,population_density
+Lithuania,LTU,EN.POP.DNST,Population density (people per sq. km of land area),2015,46.4662250598563,population_density
+Luxembourg,LUX,EN.POP.DNST,Population density (people per sq. km of land area),2019,240.827591028798,population_density
+Luxembourg,LUX,EN.POP.DNST,Population density (people per sq. km of land area),2018,236.146609386046,population_density
+Luxembourg,LUX,EN.POP.DNST,Population density (people per sq. km of land area),2017,231.635372078028,population_density
+Luxembourg,LUX,EN.POP.DNST,Population density (people per sq. km of land area),2016,226.072263698018,population_density
+Luxembourg,LUX,EN.POP.DNST,Population density (people per sq. km of land area),2015,221.251835336342,population_density
+"Macao SAR, China",MAC,EN.POP.DNST,Population density (people per sq. km of land area),2019,20425.5319148936,population_density
+"Macao SAR, China",MAC,EN.POP.DNST,Population density (people per sq. km of land area),2018,20027.3556231003,population_density
+"Macao SAR, China",MAC,EN.POP.DNST,Population density (people per sq. km of land area),2017,21051.9480519481,population_density
+"Macao SAR, China",MAC,EN.POP.DNST,Population density (people per sq. km of land area),2016,21393.4426229508,population_density
+"Macao SAR, China",MAC,EN.POP.DNST,Population density (people per sq. km of land area),2015,21148.0263157895,population_density
+Madagascar,MDG,EN.POP.DNST,Population density (people per sq. km of land area),2019,48.5038741835682,population_density
+Madagascar,MDG,EN.POP.DNST,Population density (people per sq. km of land area),2018,47.2583808869027,population_density
+Madagascar,MDG,EN.POP.DNST,Population density (people per sq. km of land area),2017,46.0439584049502,population_density
+Madagascar,MDG,EN.POP.DNST,Population density (people per sq. km of land area),2016,44.8606943966999,population_density
+Madagascar,MDG,EN.POP.DNST,Population density (people per sq. km of land area),2015,43.7035097971812,population_density
+Malawi,MWI,EN.POP.DNST,Population density (people per sq. km of land area),2019,201.800509121765,population_density
+Malawi,MWI,EN.POP.DNST,Population density (people per sq. km of land area),2018,196.521860415783,population_density
+Malawi,MWI,EN.POP.DNST,Population density (people per sq. km of land area),2017,191.341907085278,population_density
+Malawi,MWI,EN.POP.DNST,Population density (people per sq. km of land area),2016,186.229730589733,population_density
+Malawi,MWI,EN.POP.DNST,Population density (people per sq. km of land area),2015,181.221754348748,population_density
+Malaysia,MYS,EN.POP.DNST,Population density (people per sq. km of land area),2019,101.782364936844,population_density
+Malaysia,MYS,EN.POP.DNST,Population density (people per sq. km of land area),2018,100.170345457312,population_density
+Malaysia,MYS,EN.POP.DNST,Population density (people per sq. km of land area),2017,98.4801217470705,population_density
+Malaysia,MYS,EN.POP.DNST,Population density (people per sq. km of land area),2016,96.7575254907929,population_density
+Malaysia,MYS,EN.POP.DNST,Population density (people per sq. km of land area),2015,95.0625414700959,population_density
+Maldives,MDV,EN.POP.DNST,Population density (people per sq. km of land area),2019,1625.77,population_density
+Maldives,MDV,EN.POP.DNST,Population density (people per sq. km of land area),2018,1576.99666666667,population_density
+Maldives,MDV,EN.POP.DNST,Population density (people per sq. km of land area),2017,1527.62333333333,population_density
+Maldives,MDV,EN.POP.DNST,Population density (people per sq. km of land area),2016,1477.69333333333,population_density
+Maldives,MDV,EN.POP.DNST,Population density (people per sq. km of land area),2015,1427.18,population_density
+Mali,MLI,EN.POP.DNST,Population density (people per sq. km of land area),2019,17.2664953818668,population_density
+Mali,MLI,EN.POP.DNST,Population density (people per sq. km of land area),2018,16.7531531974529,population_density
+Mali,MLI,EN.POP.DNST,Population density (people per sq. km of land area),2017,16.2376441373884,population_density
+Mali,MLI,EN.POP.DNST,Population density (people per sq. km of land area),2016,15.7281152935199,population_density
+Mali,MLI,EN.POP.DNST,Population density (people per sq. km of land area),2015,15.2378088658324,population_density
+Malta,MLT,EN.POP.DNST,Population density (people per sq. km of land area),2019,1574.725,population_density
+Malta,MLT,EN.POP.DNST,Population density (people per sq. km of land area),2018,1512.196875,population_density
+Malta,MLT,EN.POP.DNST,Population density (people per sq. km of land area),2017,1459.70625,population_density
+Malta,MLT,EN.POP.DNST,Population density (people per sq. km of land area),2016,1420.328125,population_density
+Malta,MLT,EN.POP.DNST,Population density (people per sq. km of land area),2015,1388.1875,population_density
+Marshall Islands,MHL,EN.POP.DNST,Population density (people per sq. km of land area),2019,244.483333333333,population_density
+Marshall Islands,MHL,EN.POP.DNST,Population density (people per sq. km of land area),2018,251.583333333333,population_density
+Marshall Islands,MHL,EN.POP.DNST,Population density (people per sq. km of land area),2017,258.494444444444,population_density
+Marshall Islands,MHL,EN.POP.DNST,Population density (people per sq. km of land area),2016,265.05,population_density
+Marshall Islands,MHL,EN.POP.DNST,Population density (people per sq. km of land area),2015,271.111111111111,population_density
+Mauritania,MRT,EN.POP.DNST,Population density (people per sq. km of land area),2019,4.33463471427185,population_density
+Mauritania,MRT,EN.POP.DNST,Population density (people per sq. km of land area),2018,4.20848452508004,population_density
+Mauritania,MRT,EN.POP.DNST,Population density (people per sq. km of land area),2017,4.08518482584651,population_density
+Mauritania,MRT,EN.POP.DNST,Population density (people per sq. km of land area),2016,3.96493354031241,population_density
+Mauritania,MRT,EN.POP.DNST,Population density (people per sq. km of land area),2015,3.84783060056272,population_density
+Mauritius,MUS,EN.POP.DNST,Population density (people per sq. km of land area),2019,633.943415122684,population_density
+Mauritius,MUS,EN.POP.DNST,Population density (people per sq. km of land area),2018,633.739108662994,population_density
+Mauritius,MUS,EN.POP.DNST,Population density (people per sq. km of land area),2017,633.393590385578,population_density
+Mauritius,MUS,EN.POP.DNST,Population density (people per sq. km of land area),2016,632.822734101152,population_density
+Mauritius,MUS,EN.POP.DNST,Population density (people per sq. km of land area),2015,632.388082123185,population_density
+Mexico,MEX,EN.POP.DNST,Population density (people per sq. km of land area),2019,64.6945559299365,population_density
+Mexico,MEX,EN.POP.DNST,Population density (people per sq. km of land area),2018,64.0827752771419,population_density
+Mexico,MEX,EN.POP.DNST,Population density (people per sq. km of land area),2017,63.4790282671879,population_density
+Mexico,MEX,EN.POP.DNST,Population density (people per sq. km of land area),2016,62.8881149206513,population_density
+Mexico,MEX,EN.POP.DNST,Population density (people per sq. km of land area),2015,62.2815946912215,population_density
+"Micronesia, Fed. Sts.",FSM,EN.POP.DNST,Population density (people per sq. km of land area),2019,157.545714285714,population_density
+"Micronesia, Fed. Sts.",FSM,EN.POP.DNST,Population density (people per sq. km of land area),2018,157.012857142857,population_density
+"Micronesia, Fed. Sts.",FSM,EN.POP.DNST,Population density (people per sq. km of land area),2017,156.401428571429,population_density
+"Micronesia, Fed. Sts.",FSM,EN.POP.DNST,Population density (people per sq. km of land area),2016,155.821428571429,population_density
+"Micronesia, Fed. Sts.",FSM,EN.POP.DNST,Population density (people per sq. km of land area),2015,155.308571428571,population_density
+Moldova,MDA,EN.POP.DNST,Population density (people per sq. km of land area),2019,92.756093569939,population_density
+Moldova,MDA,EN.POP.DNST,Population density (people per sq. km of land area),2018,94.2543946689506,population_density
+Moldova,MDA,EN.POP.DNST,Population density (people per sq. km of land area),2017,95.9093883802694,population_density
+Moldova,MDA,EN.POP.DNST,Population density (people per sq. km of land area),2016,97.614165825121,population_density
+Moldova,MDA,EN.POP.DNST,Population density (people per sq. km of land area),2015,98.7560678343838,population_density
+Monaco,MCO,EN.POP.DNST,Population density (people per sq. km of land area),2019,18800.6906758757,population_density
+Monaco,MCO,EN.POP.DNST,Population density (people per sq. km of land area),2018,18822.8909718796,population_density
+Monaco,MCO,EN.POP.DNST,Population density (people per sq. km of land area),2017,18588.061174149,population_density
+Monaco,MCO,EN.POP.DNST,Population density (people per sq. km of land area),2016,18389.7385298471,population_density
+Monaco,MCO,EN.POP.DNST,Population density (people per sq. km of land area),2015,18133.6951159349,population_density
+Mongolia,MNG,EN.POP.DNST,Population density (people per sq. km of land area),2019,2.09835043390369,population_density
+Mongolia,MNG,EN.POP.DNST,Population density (people per sq. km of land area),2018,2.06015649331677,population_density
+Mongolia,MNG,EN.POP.DNST,Population density (people per sq. km of land area),2017,2.02209412791248,population_density
+Mongolia,MNG,EN.POP.DNST,Population density (people per sq. km of land area),2016,1.98352563105577,population_density
+Mongolia,MNG,EN.POP.DNST,Population density (people per sq. km of land area),2015,1.94371713207737,population_density
+Montenegro,MNE,EN.POP.DNST,Population density (people per sq. km of land area),2019,46.5987360594796,population_density
+Montenegro,MNE,EN.POP.DNST,Population density (people per sq. km of land area),2018,46.5753159851301,population_density
+Montenegro,MNE,EN.POP.DNST,Population density (people per sq. km of land area),2017,46.5414126394052,population_density
+Montenegro,MNE,EN.POP.DNST,Population density (people per sq. km of land area),2016,46.4946468401487,population_density
+Montenegro,MNE,EN.POP.DNST,Population density (people per sq. km of land area),2015,46.4424535315985,population_density
+Morocco,MAR,EN.POP.DNST,Population density (people per sq. km of land area),2019,81.1357786242438,population_density
+Morocco,MAR,EN.POP.DNST,Population density (people per sq. km of land area),2018,80.3041900067219,population_density
+Morocco,MAR,EN.POP.DNST,Population density (people per sq. km of land area),2017,79.4227918440511,population_density
+Morocco,MAR,EN.POP.DNST,Population density (people per sq. km of land area),2016,78.4751445216222,population_density
+Morocco,MAR,EN.POP.DNST,Population density (people per sq. km of land area),2015,77.5433295989245,population_density
+Mozambique,MOZ,EN.POP.DNST,Population density (people per sq. km of land area),2019,38.0024670006867,population_density
+Mozambique,MOZ,EN.POP.DNST,Population density (people per sq. km of land area),2018,36.9015539561026,population_density
+Mozambique,MOZ,EN.POP.DNST,Population density (people per sq. km of land area),2017,35.8177891095908,population_density
+Mozambique,MOZ,EN.POP.DNST,Population density (people per sq. km of land area),2016,34.7632251583204,population_density
+Mozambique,MOZ,EN.POP.DNST,Population density (people per sq. km of land area),2015,33.7592156463796,population_density
+Myanmar,MMR,EN.POP.DNST,Population density (people per sq. km of land area),2019,80.6507017006282,population_density
+Myanmar,MMR,EN.POP.DNST,Population density (people per sq. km of land area),2018,80.0861758847863,population_density
+Myanmar,MMR,EN.POP.DNST,Population density (people per sq. km of land area),2017,79.5020114898506,population_density
+Myanmar,MMR,EN.POP.DNST,Population density (people per sq. km of land area),2016,78.8867551089188,population_density
+Myanmar,MMR,EN.POP.DNST,Population density (people per sq. km of land area),2015,78.2278679487965,population_density
+Namibia,NAM,EN.POP.DNST,Population density (people per sq. km of land area),2019,3.21939292351419,population_density
+Namibia,NAM,EN.POP.DNST,Population density (people per sq. km of land area),2018,3.13052144444849,population_density
+Namibia,NAM,EN.POP.DNST,Population density (people per sq. km of land area),2017,3.04492098774429,population_density
+Namibia,NAM,EN.POP.DNST,Population density (people per sq. km of land area),2016,2.96276281747622,population_density
+Namibia,NAM,EN.POP.DNST,Population density (people per sq. km of land area),2015,2.88391696728978,population_density
+Nauru,NRU,EN.POP.DNST,Population density (people per sq. km of land area),2019,579.35,population_density
+Nauru,NRU,EN.POP.DNST,Population density (people per sq. km of land area),2018,573.85,population_density
+Nauru,NRU,EN.POP.DNST,Population density (people per sq. km of land area),2017,566.2,population_density
+Nauru,NRU,EN.POP.DNST,Population density (people per sq. km of land area),2016,557.5,population_density
+Nauru,NRU,EN.POP.DNST,Population density (people per sq. km of land area),2015,547.7,population_density
+Nepal,NPL,EN.POP.DNST,Population density (people per sq. km of land area),2019,198.214607603767,population_density
+Nepal,NPL,EN.POP.DNST,Population density (people per sq. km of land area),2018,195.882029996512,population_density
+Nepal,NPL,EN.POP.DNST,Population density (people per sq. km of land area),2017,195.404659923265,population_density
+Nepal,NPL,EN.POP.DNST,Population density (people per sq. km of land area),2016,195.015430763865,population_density
+Nepal,NPL,EN.POP.DNST,Population density (people per sq. km of land area),2015,194.095772584583,population_density
+Netherlands,NLD,EN.POP.DNST,Population density (people per sq. km of land area),2019,515.143272943273,population_density
+Netherlands,NLD,EN.POP.DNST,Population density (people per sq. km of land area),2018,511.779744579745,population_density
+Netherlands,NLD,EN.POP.DNST,Population density (people per sq. km of land area),2017,508.8,population_density
+Netherlands,NLD,EN.POP.DNST,Population density (people per sq. km of land area),2016,505.800831600832,population_density
+Netherlands,NLD,EN.POP.DNST,Population density (people per sq. km of land area),2015,503.116216216216,population_density
+New Caledonia,NCL,EN.POP.DNST,Population density (people per sq. km of land area),2019,15.5145514223195,population_density
+New Caledonia,NCL,EN.POP.DNST,Population density (people per sq. km of land area),2018,15.5109956236324,population_density
+New Caledonia,NCL,EN.POP.DNST,Population density (people per sq. km of land area),2017,15.5112691466083,population_density
+New Caledonia,NCL,EN.POP.DNST,Population density (people per sq. km of land area),2016,15.5045404814004,population_density
+New Caledonia,NCL,EN.POP.DNST,Population density (people per sq. km of land area),2015,15.490590809628,population_density
+New Zealand,NZL,EN.POP.DNST,Population density (people per sq. km of land area),2019,18.8762295393263,population_density
+New Zealand,NZL,EN.POP.DNST,Population density (people per sq. km of land area),2018,18.6115225399719,population_density
+New Zealand,NZL,EN.POP.DNST,Population density (people per sq. km of land area),2017,18.2811135163875,population_density
+New Zealand,NZL,EN.POP.DNST,Population density (people per sq. km of land area),2016,17.9032319319433,population_density
+New Zealand,NZL,EN.POP.DNST,Population density (people per sq. km of land area),2015,17.5056017621815,population_density
+Nicaragua,NIC,EN.POP.DNST,Population density (people per sq. km of land area),2019,53.8778211733422,population_density
+Nicaragua,NIC,EN.POP.DNST,Population density (people per sq. km of land area),2018,53.1833139438258,population_density
+Nicaragua,NIC,EN.POP.DNST,Population density (people per sq. km of land area),2017,52.4865464517201,population_density
+Nicaragua,NIC,EN.POP.DNST,Population density (people per sq. km of land area),2016,51.7921389396709,population_density
+Nicaragua,NIC,EN.POP.DNST,Population density (people per sq. km of land area),2015,51.100357320924,population_density
+Niger,NER,EN.POP.DNST,Population density (people per sq. km of land area),2019,18.1161735217494,population_density
+Niger,NER,EN.POP.DNST,Population density (people per sq. km of land area),2018,17.5164356201153,population_density
+Niger,NER,EN.POP.DNST,Population density (people per sq. km of land area),2017,16.9222752032841,population_density
+Niger,NER,EN.POP.DNST,Population density (people per sq. km of land area),2016,16.3304278834768,population_density
+Niger,NER,EN.POP.DNST,Population density (people per sq. km of land area),2015,15.741294702771,population_density
+Nigeria,NGA,EN.POP.DNST,Population density (people per sq. km of land area),2019,230.009377779242,population_density
+Nigeria,NGA,EN.POP.DNST,Population density (people per sq. km of land area),2018,225.017024056568,population_density
+Nigeria,NGA,EN.POP.DNST,Population density (people per sq. km of land area),2017,219.873929751749,population_density
+Nigeria,NGA,EN.POP.DNST,Population density (people per sq. km of land area),2016,214.591719094832,population_density
+Nigeria,NGA,EN.POP.DNST,Population density (people per sq. km of land area),2015,209.352391932101,population_density
+North Macedonia,MKD,EN.POP.DNST,Population density (people per sq. km of land area),2019,74.3957969865186,population_density
+North Macedonia,MKD,EN.POP.DNST,Population density (people per sq. km of land area),2018,74.9028945281523,population_density
+North Macedonia,MKD,EN.POP.DNST,Population density (people per sq. km of land area),2017,75.2837827121332,population_density
+North Macedonia,MKD,EN.POP.DNST,Population density (people per sq. km of land area),2016,75.5873513084853,population_density
+North Macedonia,MKD,EN.POP.DNST,Population density (people per sq. km of land area),2015,75.8298969072165,population_density
+Northern Mariana Islands,MNP,EN.POP.DNST,Population density (people per sq. km of land area),2019,104.628260869565,population_density
+Northern Mariana Islands,MNP,EN.POP.DNST,Population density (people per sq. km of land area),2018,106.689130434783,population_density
+Northern Mariana Islands,MNP,EN.POP.DNST,Population density (people per sq. km of land area),2017,108.60652173913,population_density
+Northern Mariana Islands,MNP,EN.POP.DNST,Population density (people per sq. km of land area),2016,110.376086956522,population_density
+Northern Mariana Islands,MNP,EN.POP.DNST,Population density (people per sq. km of land area),2015,111.986956521739,population_density
+Norway,NOR,EN.POP.DNST,Population density (people per sq. km of land area),2019,14.6479975020132,population_density
+Norway,NOR,EN.POP.DNST,Population density (people per sq. km of land area),2018,14.5488896436123,population_density
+Norway,NOR,EN.POP.DNST,Population density (people per sq. km of land area),2017,14.452576255125,population_density
+Norway,NOR,EN.POP.DNST,Population density (people per sq. km of land area),2016,14.3354243797401,population_density
+Norway,NOR,EN.POP.DNST,Population density (people per sq. km of land area),2015,14.2079384825517,population_density
+Oman,OMN,EN.POP.DNST,Population density (people per sq. km of land area),2019,14.8343812600969,population_density
+Oman,OMN,EN.POP.DNST,Population density (people per sq. km of land area),2018,14.8558222940226,population_density
+Oman,OMN,EN.POP.DNST,Population density (people per sq. km of land area),2017,14.6604071082391,population_density
+Oman,OMN,EN.POP.DNST,Population density (people per sq. km of land area),2016,14.1870016155089,population_density
+Oman,OMN,EN.POP.DNST,Population density (people per sq. km of land area),2015,13.5214701130856,population_density
+Pakistan,PAK,EN.POP.DNST,Population density (people per sq. km of land area),2019,299.399256693649,population_density
+Pakistan,PAK,EN.POP.DNST,Population density (people per sq. km of land area),2018,294.376416562889,population_density
+Pakistan,PAK,EN.POP.DNST,Population density (people per sq. km of land area),2017,289.635179275633,population_density
+Pakistan,PAK,EN.POP.DNST,Population density (people per sq. km of land area),2016,285.568271326276,population_density
+Pakistan,PAK,EN.POP.DNST,Population density (people per sq. km of land area),2015,281.873810450394,population_density
+Palau,PLW,EN.POP.DNST,Population density (people per sq. km of land area),2019,38.6913043478261,population_density
+Palau,PLW,EN.POP.DNST,Population density (people per sq. km of land area),2018,38.7260869565217,population_density
+Palau,PLW,EN.POP.DNST,Population density (people per sq. km of land area),2017,38.7217391304348,population_density
+Palau,PLW,EN.POP.DNST,Population density (people per sq. km of land area),2016,38.6891304347826,population_density
+Palau,PLW,EN.POP.DNST,Population density (people per sq. km of land area),2015,38.6304347826087,population_density
+Panama,PAN,EN.POP.DNST,Population density (people per sq. km of land area),2019,57.0868158533297,population_density
+Panama,PAN,EN.POP.DNST,Population density (people per sq. km of land area),2018,56.1857643569695,population_density
+Panama,PAN,EN.POP.DNST,Population density (people per sq. km of land area),2017,55.298259579061,population_density
+Panama,PAN,EN.POP.DNST,Population density (people per sq. km of land area),2016,54.3589584457636,population_density
+Panama,PAN,EN.POP.DNST,Population density (people per sq. km of land area),2015,53.4273475445224,population_density
+Papua New Guinea,PNG,EN.POP.DNST,Population density (people per sq. km of land area),2019,21.2185001987369,population_density
+Papua New Guinea,PNG,EN.POP.DNST,Population density (people per sq. km of land area),2018,20.744850505675,population_density
+Papua New Guinea,PNG,EN.POP.DNST,Population density (people per sq. km of land area),2017,20.268325751888,population_density
+Papua New Guinea,PNG,EN.POP.DNST,Population density (people per sq. km of land area),2016,19.7891577971117,population_density
+Papua New Guinea,PNG,EN.POP.DNST,Population density (people per sq. km of land area),2015,19.306730556905,population_density
+Paraguay,PRY,EN.POP.DNST,Population density (people per sq. km of land area),2019,16.3983337528316,population_density
+Paraguay,PRY,EN.POP.DNST,Population density (people per sq. km of land area),2018,16.1776541656179,population_density
+Paraguay,PRY,EN.POP.DNST,Population density (people per sq. km of land area),2017,15.9543418071986,population_density
+Paraguay,PRY,EN.POP.DNST,Population density (people per sq. km of land area),2016,15.7289856531588,population_density
+Paraguay,PRY,EN.POP.DNST,Population density (people per sq. km of land area),2015,15.5023986911654,population_density
+Peru,PER,EN.POP.DNST,Population density (people per sq. km of land area),2019,25.35101796875,population_density
+Peru,PER,EN.POP.DNST,Population density (people per sq. km of land area),2018,24.9199875,population_density
+Peru,PER,EN.POP.DNST,Population density (people per sq. km of land area),2017,24.47237265625,population_density
+Peru,PER,EN.POP.DNST,Population density (people per sq. km of land area),2016,24.1144484375,population_density
+Peru,PER,EN.POP.DNST,Population density (people per sq. km of land area),2015,23.795,population_density
+Philippines,PHL,EN.POP.DNST,Population density (people per sq. km of land area),2019,371.615799711574,population_density
+Philippines,PHL,EN.POP.DNST,Population density (people per sq. km of land area),2018,367.123744843546,population_density
+Philippines,PHL,EN.POP.DNST,Population density (people per sq. km of land area),2017,362.61090317604,population_density
+Philippines,PHL,EN.POP.DNST,Population density (people per sq. km of land area),2016,357.969342992253,population_density
+Philippines,PHL,EN.POP.DNST,Population density (people per sq. km of land area),2015,353.197813327967,population_density
+Poland,POL,EN.POP.DNST,Population density (people per sq. km of land area),2019,124.025595374212,population_density
+Poland,POL,EN.POP.DNST,Population density (people per sq. km of land area),2018,124.031583760656,population_density
+Poland,POL,EN.POP.DNST,Population density (people per sq. km of land area),2017,124.0237303635,population_density
+Poland,POL,EN.POP.DNST,Population density (people per sq. km of land area),2016,124.008253045495,population_density
+Poland,POL,EN.POP.DNST,Population density (people per sq. km of land area),2015,124.061569613639,population_density
+Portugal,PRT,EN.POP.DNST,Population density (people per sq. km of land area),2019,112.288582794065,population_density
+Portugal,PRT,EN.POP.DNST,Population density (people per sq. km of land area),2018,112.261935951514,population_density
+Portugal,PRT,EN.POP.DNST,Population density (people per sq. km of land area),2017,112.441815784188,population_density
+Portugal,PRT,EN.POP.DNST,Population density (people per sq. km of land area),2016,112.716384151187,population_density
+Portugal,PRT,EN.POP.DNST,Population density (people per sq. km of land area),2015,113.072519583956,population_density
+Puerto Rico (US),PRI,EN.POP.DNST,Population density (people per sq. km of land area),2019,372.34396843292,population_density
+Puerto Rico (US),PRI,EN.POP.DNST,Population density (people per sq. km of land area),2018,370.990980834273,population_density
+Puerto Rico (US),PRI,EN.POP.DNST,Population density (people per sq. km of land area),2017,384.536302142052,population_density
+Puerto Rico (US),PRI,EN.POP.DNST,Population density (people per sq. km of land area),2016,392.382412626832,population_density
+Puerto Rico (US),PRI,EN.POP.DNST,Population density (people per sq. km of land area),2015,398.55321307779,population_density
+Qatar,QAT,EN.POP.DNST,Population density (people per sq. km of land area),2019,229.648128807659,population_density
+Qatar,QAT,EN.POP.DNST,Population density (people per sq. km of land area),2018,224.606962576153,population_density
+Qatar,QAT,EN.POP.DNST,Population density (people per sq. km of land area),2017,221.568320278503,population_density
+Qatar,QAT,EN.POP.DNST,Population density (people per sq. km of land area),2016,215.588598781549,population_density
+Qatar,QAT,EN.POP.DNST,Population density (people per sq. km of land area),2015,204.051958224543,population_density
+Romania,ROU,EN.POP.DNST,Population density (people per sq. km of land area),2019,84.1952712100139,population_density
+Romania,ROU,EN.POP.DNST,Population density (people per sq. km of land area),2018,84.6399947844228,population_density
+Romania,ROU,EN.POP.DNST,Population density (people per sq. km of land area),2017,85.1387126216968,population_density
+Romania,ROU,EN.POP.DNST,Population density (people per sq. km of land area),2016,85.6322453059805,population_density
+Romania,ROU,EN.POP.DNST,Population density (people per sq. km of land area),2015,86.1248956884562,population_density
+Russian Federation,RUS,EN.POP.DNST,Population density (people per sq. km of land area),2019,8.88162945666663,population_density
+Russian Federation,RUS,EN.POP.DNST,Population density (people per sq. km of land area),2018,8.87825976514438,population_density
+Russian Federation,RUS,EN.POP.DNST,Population density (people per sq. km of land area),2017,8.87185768709161,population_density
+Russian Federation,RUS,EN.POP.DNST,Population density (people per sq. km of land area),2016,8.85489473873823,population_density
+Russian Federation,RUS,EN.POP.DNST,Population density (people per sq. km of land area),2015,8.8320122221157,population_density
+Rwanda,RWA,EN.POP.DNST,Population density (people per sq. km of land area),2019,517.880137819214,population_density
+Rwanda,RWA,EN.POP.DNST,Population density (people per sq. km of land area),2018,506.201702472639,population_density
+Rwanda,RWA,EN.POP.DNST,Population density (people per sq. km of land area),2017,494.611268747467,population_density
+Rwanda,RWA,EN.POP.DNST,Population density (people per sq. km of land area),2016,483.144831779489,population_density
+Rwanda,RWA,EN.POP.DNST,Population density (people per sq. km of land area),2015,471.829023104986,population_density
+Samoa,WSM,EN.POP.DNST,Population density (people per sq. km of land area),2019,75.4604316546763,population_density
+Samoa,WSM,EN.POP.DNST,Population density (people per sq. km of land area),2018,74.6697841726619,population_density
+Samoa,WSM,EN.POP.DNST,Population density (people per sq. km of land area),2017,73.8902877697842,population_density
+Samoa,WSM,EN.POP.DNST,Population density (people per sq. km of land area),2016,71.9077738515901,population_density
+Samoa,WSM,EN.POP.DNST,Population density (people per sq. km of land area),2015,71.3010600706714,population_density
+San Marino,SMR,EN.POP.DNST,Population density (people per sq. km of land area),2019,577.716666666667,population_density
+San Marino,SMR,EN.POP.DNST,Population density (people per sq. km of land area),2018,575.366666666667,population_density
+San Marino,SMR,EN.POP.DNST,Population density (people per sq. km of land area),2017,563.75,population_density
+San Marino,SMR,EN.POP.DNST,Population density (people per sq. km of land area),2016,551.683333333333,population_density
+San Marino,SMR,EN.POP.DNST,Population density (people per sq. km of land area),2015,548.283333333333,population_density
+Sao Tome and Principe,STP,EN.POP.DNST,Population density (people per sq. km of land area),2019,222.283333333333,population_density
+Sao Tome and Principe,STP,EN.POP.DNST,Population density (people per sq. km of land area),2018,218.944791666667,population_density
+Sao Tome and Principe,STP,EN.POP.DNST,Population density (people per sq. km of land area),2017,215.59375,population_density
+Sao Tome and Principe,STP,EN.POP.DNST,Population density (people per sq. km of land area),2016,212.176041666667,population_density
+Sao Tome and Principe,STP,EN.POP.DNST,Population density (people per sq. km of land area),2015,208.636458333333,population_density
+Saudi Arabia,SAU,EN.POP.DNST,Population density (people per sq. km of land area),2019,13.9851787932213,population_density
+Saudi Arabia,SAU,EN.POP.DNST,Population density (people per sq. km of land area),2018,14.0468072140634,population_density
+Saudi Arabia,SAU,EN.POP.DNST,Population density (people per sq. km of land area),2017,14.4101498355577,population_density
+Saudi Arabia,SAU,EN.POP.DNST,Population density (people per sq. km of land area),2016,14.399377584675,population_density
+Saudi Arabia,SAU,EN.POP.DNST,Population density (people per sq. km of land area),2015,13.8700845238151,population_density
+Senegal,SEN,EN.POP.DNST,Population density (people per sq. km of land area),2019,84.9370072196541,population_density
+Senegal,SEN,EN.POP.DNST,Population density (people per sq. km of land area),2018,82.6598348309354,population_density
+Senegal,SEN,EN.POP.DNST,Population density (people per sq. km of land area),2017,80.3770944787825,population_density
+Senegal,SEN,EN.POP.DNST,Population density (people per sq. km of land area),2016,78.0892380408248,population_density
+Senegal,SEN,EN.POP.DNST,Population density (people per sq. km of land area),2015,75.7976990598868,population_density
+Serbia,SRB,EN.POP.DNST,Population density (people per sq. km of land area),2019,79.4104161902584,population_density
+Serbia,SRB,EN.POP.DNST,Population density (people per sq. km of land area),2018,79.8376857992225,population_density
+Serbia,SRB,EN.POP.DNST,Population density (people per sq. km of land area),2017,80.275074319689,population_density
+Serbia,SRB,EN.POP.DNST,Population density (people per sq. km of land area),2016,80.7034301394923,population_density
+Serbia,SRB,EN.POP.DNST,Population density (people per sq. km of land area),2015,81.1271781385776,population_density
+Seychelles,SYC,EN.POP.DNST,Population density (people per sq. km of land area),2019,212.228260869565,population_density
+Seychelles,SYC,EN.POP.DNST,Population density (people per sq. km of land area),2018,210.352173913043,population_density
+Seychelles,SYC,EN.POP.DNST,Population density (people per sq. km of land area),2017,208.354347826087,population_density
+Seychelles,SYC,EN.POP.DNST,Population density (people per sq. km of land area),2016,205.819565217391,population_density
+Seychelles,SYC,EN.POP.DNST,Population density (people per sq. km of land area),2015,203.084782608696,population_density
+Sierra Leone,SLE,EN.POP.DNST,Population density (people per sq. km of land area),2019,107.120961485176,population_density
+Sierra Leone,SLE,EN.POP.DNST,Population density (people per sq. km of land area),2018,104.662829038515,population_density
+Sierra Leone,SLE,EN.POP.DNST,Population density (people per sq. km of land area),2017,102.234677195899,population_density
+Sierra Leone,SLE,EN.POP.DNST,Population density (people per sq. km of land area),2016,99.8244389027431,population_density
+Sierra Leone,SLE,EN.POP.DNST,Population density (people per sq. km of land area),2015,97.5014546965918,population_density
+Singapore,SGP,EN.POP.DNST,Population density (people per sq. km of land area),2019,7965.87849162011,population_density
+Singapore,SGP,EN.POP.DNST,Population density (people per sq. km of land area),2018,7897.30532212885,population_density
+Singapore,SGP,EN.POP.DNST,Population density (people per sq. km of land area),2017,7882.37780898876,population_density
+Singapore,SGP,EN.POP.DNST,Population density (people per sq. km of land area),2016,7908.72073342736,population_density
+Singapore,SGP,EN.POP.DNST,Population density (people per sq. km of land area),2015,7806.77291960508,population_density
+Sint Maarten (Dutch part),SXM,EN.POP.DNST,Population density (people per sq. km of land area),2019,1187.79411764706,population_density
+Sint Maarten (Dutch part),SXM,EN.POP.DNST,Population density (people per sq. km of land area),2018,1168.0,population_density
+Sint Maarten (Dutch part),SXM,EN.POP.DNST,Population density (people per sq. km of land area),2017,1146.94117647059,population_density
+Sint Maarten (Dutch part),SXM,EN.POP.DNST,Population density (people per sq. km of land area),2016,1124.97058823529,population_density
+Sint Maarten (Dutch part),SXM,EN.POP.DNST,Population density (people per sq. km of land area),2015,1102.08823529412,population_density
+Slovak Republic,SVK,EN.POP.DNST,Population density (people per sq. km of land area),2019,113.43899750416,population_density
+Slovak Republic,SVK,EN.POP.DNST,Population density (people per sq. km of land area),2018,113.285586522463,population_density
+Slovak Republic,SVK,EN.POP.DNST,Population density (people per sq. km of land area),2017,113.128785357737,population_density
+Slovak Republic,SVK,EN.POP.DNST,Population density (people per sq. km of land area),2016,112.953369384359,population_density
+Slovak Republic,SVK,EN.POP.DNST,Population density (people per sq. km of land area),2015,112.803148787488,population_density
+Slovenia,SVN,EN.POP.DNST,Population density (people per sq. km of land area),2019,103.711934605987,population_density
+Slovenia,SVN,EN.POP.DNST,Population density (people per sq. km of land area),2018,102.992292564709,population_density
+Slovenia,SVN,EN.POP.DNST,Population density (people per sq. km of land area),2017,102.610871929328,population_density
+Slovenia,SVN,EN.POP.DNST,Population density (people per sq. km of land area),2016,102.52417833383,population_density
+Slovenia,SVN,EN.POP.DNST,Population density (people per sq. km of land area),2015,102.446109241111,population_density
+Solomon Islands,SLB,EN.POP.DNST,Population density (people per sq. km of land area),2019,26.014540907467,population_density
+Solomon Islands,SLB,EN.POP.DNST,Population density (people per sq. km of land area),2018,25.3340836012862,population_density
+Solomon Islands,SLB,EN.POP.DNST,Population density (people per sq. km of land area),2017,24.497034655234,population_density
+Solomon Islands,SLB,EN.POP.DNST,Population density (people per sq. km of land area),2016,23.6648445873526,population_density
+Solomon Islands,SLB,EN.POP.DNST,Population density (people per sq. km of land area),2015,22.8444087173991,population_density
+"Somalia, Fed. Rep.",SOM,EN.POP.DNST,Population density (people per sq. km of land area),2019,25.5538798737527,population_density
+"Somalia, Fed. Rep.",SOM,EN.POP.DNST,Population density (people per sq. km of land area),2018,24.6317578984283,population_density
+"Somalia, Fed. Rep.",SOM,EN.POP.DNST,Population density (people per sq. km of land area),2017,23.7775831287659,population_density
+"Somalia, Fed. Rep.",SOM,EN.POP.DNST,Population density (people per sq. km of land area),2016,22.8723499218924,population_density
+"Somalia, Fed. Rep.",SOM,EN.POP.DNST,Population density (people per sq. km of land area),2015,22.0087400771511,population_density
+South Africa,ZAF,EN.POP.DNST,Population density (people per sq. km of land area),2019,49.1207453692636,population_density
+South Africa,ZAF,EN.POP.DNST,Population density (people per sq. km of land area),2018,48.3171083761304,population_density
+South Africa,ZAF,EN.POP.DNST,Population density (people per sq. km of land area),2017,47.5110354549127,population_density
+South Africa,ZAF,EN.POP.DNST,Population density (people per sq. km of land area),2016,47.2014038529705,population_density
+South Africa,ZAF,EN.POP.DNST,Population density (people per sq. km of land area),2015,46.7595454582925,population_density
+South Sudan,SSD,EN.POP.DNST,Population density (people per sq. km of land area),2019,16.4945231275616,population_density
+South Sudan,SSD,EN.POP.DNST,Population density (people per sq. km of land area),2018,16.0191429430475,population_density
+South Sudan,SSD,EN.POP.DNST,Population density (people per sq. km of land area),2017,16.234636747741,population_density
+South Sudan,SSD,EN.POP.DNST,Population density (people per sq. km of land area),2016,17.1381355529885,population_density
+South Sudan,SSD,EN.POP.DNST,Population density (people per sq. km of land area),2015,17.5772015887836,population_density
+Spain,ESP,EN.POP.DNST,Population density (people per sq. km of land area),2019,94.3181087826492,population_density
+Spain,ESP,EN.POP.DNST,Population density (people per sq. km of land area),2018,93.638281089712,population_density
+Spain,ESP,EN.POP.DNST,Population density (people per sq. km of land area),2017,93.2268622784207,population_density
+Spain,ESP,EN.POP.DNST,Population density (people per sq. km of land area),2016,92.9973717081295,population_density
+Spain,ESP,EN.POP.DNST,Population density (people per sq. km of land area),2015,92.907597351004,population_density
+Sri Lanka,LKA,EN.POP.DNST,Population density (people per sq. km of land area),2019,352.431694638296,population_density
+Sri Lanka,LKA,EN.POP.DNST,Population density (people per sq. km of land area),2018,350.284495021337,population_density
+Sri Lanka,LKA,EN.POP.DNST,Population density (people per sq. km of land area),2017,346.614318258931,population_density
+Sri Lanka,LKA,EN.POP.DNST,Population density (people per sq. km of land area),2016,342.672030762768,population_density
+Sri Lanka,LKA,EN.POP.DNST,Population density (people per sq. km of land area),2015,338.810527846445,population_density
+St. Kitts and Nevis,KNA,EN.POP.DNST,Population density (people per sq. km of land area),2019,180.584615384615,population_density
+St. Kitts and Nevis,KNA,EN.POP.DNST,Population density (people per sq. km of land area),2018,180.8,population_density
+St. Kitts and Nevis,KNA,EN.POP.DNST,Population density (people per sq. km of land area),2017,180.961538461538,population_density
+St. Kitts and Nevis,KNA,EN.POP.DNST,Population density (people per sq. km of land area),2016,181.057692307692,population_density
+St. Kitts and Nevis,KNA,EN.POP.DNST,Population density (people per sq. km of land area),2015,181.103846153846,population_density
+St. Lucia,LCA,EN.POP.DNST,Population density (people per sq. km of land area),2019,291.247540983607,population_density
+St. Lucia,LCA,EN.POP.DNST,Population density (people per sq. km of land area),2018,290.191803278688,population_density
+St. Lucia,LCA,EN.POP.DNST,Population density (people per sq. km of land area),2017,289.085245901639,population_density
+St. Lucia,LCA,EN.POP.DNST,Population density (people per sq. km of land area),2016,287.944262295082,population_density
+St. Lucia,LCA,EN.POP.DNST,Population density (people per sq. km of land area),2015,286.729508196721,population_density
+St. Martin (French part),MAF,EN.POP.DNST,Population density (people per sq. km of land area),2019,685.34,population_density
+St. Martin (French part),MAF,EN.POP.DNST,Population density (people per sq. km of land area),2018,720.24,population_density
+St. Martin (French part),MAF,EN.POP.DNST,Population density (people per sq. km of land area),2017,736.74,population_density
+St. Martin (French part),MAF,EN.POP.DNST,Population density (people per sq. km of land area),2016,743.5,population_density
+St. Martin (French part),MAF,EN.POP.DNST,Population density (people per sq. km of land area),2015,747.38,population_density
+St. Vincent and the Grenadines,VCT,EN.POP.DNST,Population density (people per sq. km of land area),2019,267.094871794872,population_density
+St. Vincent and the Grenadines,VCT,EN.POP.DNST,Population density (people per sq. km of land area),2018,269.041025641026,population_density
+St. Vincent and the Grenadines,VCT,EN.POP.DNST,Population density (people per sq. km of land area),2017,270.930769230769,population_density
+St. Vincent and the Grenadines,VCT,EN.POP.DNST,Population density (people per sq. km of land area),2016,272.689743589744,population_density
+St. Vincent and the Grenadines,VCT,EN.POP.DNST,Population density (people per sq. km of land area),2015,274.25641025641,population_density
+Sudan,SDN,EN.POP.DNST,Population density (people per sq. km of land area),2019,24.3833913276231,population_density
+Sudan,SDN,EN.POP.DNST,Population density (people per sq. km of land area),2018,23.6780492505353,population_density
+Sudan,SDN,EN.POP.DNST,Population density (people per sq. km of land area),2017,22.8663308351178,population_density
+Sudan,SDN,EN.POP.DNST,Population density (people per sq. km of land area),2016,22.0877366167024,population_density
+Sudan,SDN,EN.POP.DNST,Population density (people per sq. km of land area),2015,21.4263549250535,population_density
+Suriname,SUR,EN.POP.DNST,Population density (people per sq. km of land area),2019,3.77407650640365,population_density
+Suriname,SUR,EN.POP.DNST,Population density (people per sq. km of land area),2018,3.73510639152873,population_density
+Suriname,SUR,EN.POP.DNST,Population density (people per sq. km of land area),2017,3.69897103321145,population_density
+Suriname,SUR,EN.POP.DNST,Population density (people per sq. km of land area),2016,3.66186375836012,population_density
+Suriname,SUR,EN.POP.DNST,Population density (people per sq. km of land area),2015,3.62367242275927,population_density
+Sweden,SWE,EN.POP.DNST,Population density (people per sq. km of land area),2019,25.2378879395011,population_density
+Sweden,SWE,EN.POP.DNST,Population density (people per sq. km of land area),2018,24.9814588688378,population_density
+Sweden,SWE,EN.POP.DNST,Population density (people per sq. km of land area),2017,24.6929419766692,population_density
+Sweden,SWE,EN.POP.DNST,Population density (people per sq. km of land area),2016,24.362449750883,population_density
+Sweden,SWE,EN.POP.DNST,Population density (people per sq. km of land area),2015,24.0582617728817,population_density
+Switzerland,CHE,EN.POP.DNST,Population density (people per sq. km of land area),2019,217.042781721823,population_density
+Switzerland,CHE,EN.POP.DNST,Population density (people per sq. km of land area),2018,215.500094533915,population_density
+Switzerland,CHE,EN.POP.DNST,Population density (people per sq. km of land area),2017,213.918480127503,population_density
+Switzerland,CHE,EN.POP.DNST,Population density (people per sq. km of land area),2016,211.931572125581,population_density
+Switzerland,CHE,EN.POP.DNST,Population density (people per sq. km of land area),2015,209.626620751132,population_density
+Syrian Arab Republic,SYR,EN.POP.DNST,Population density (people per sq. km of land area),2019,110.839917224854,population_density
+Syrian Arab Republic,SYR,EN.POP.DNST,Population density (people per sq. km of land area),2018,106.615721831945,population_density
+Syrian Arab Republic,SYR,EN.POP.DNST,Population density (people per sq. km of land area),2017,104.692414093558,population_density
+Syrian Arab Republic,SYR,EN.POP.DNST,Population density (people per sq. km of land area),2016,104.524500353973,population_density
+Syrian Arab Republic,SYR,EN.POP.DNST,Population density (people per sq. km of land area),2015,105.781288460491,population_density
+Tajikistan,TJK,EN.POP.DNST,Population density (people per sq. km of land area),2019,68.6646444268319,population_density
+Tajikistan,TJK,EN.POP.DNST,Population density (people per sq. km of land area),2018,67.060544707832,population_density
+Tajikistan,TJK,EN.POP.DNST,Population density (people per sq. km of land area),2017,65.4654225808776,population_density
+Tajikistan,TJK,EN.POP.DNST,Population density (people per sq. km of land area),2016,63.8780243533396,population_density
+Tajikistan,TJK,EN.POP.DNST,Population density (people per sq. km of land area),2015,62.2799913538439,population_density
+Tanzania,TZA,EN.POP.DNST,Population density (people per sq. km of land area),2019,66.8038959132987,population_density
+Tanzania,TZA,EN.POP.DNST,Population density (people per sq. km of land area),2018,64.842114472793,population_density
+Tanzania,TZA,EN.POP.DNST,Population density (people per sq. km of land area),2017,62.8278279521337,population_density
+Tanzania,TZA,EN.POP.DNST,Population density (people per sq. km of land area),2016,60.7631666290359,population_density
+Tanzania,TZA,EN.POP.DNST,Population density (people per sq. km of land area),2015,58.7276608715286,population_density
+Thailand,THA,EN.POP.DNST,Population density (people per sq. km of land area),2019,139.995441288731,population_density
+Thailand,THA,EN.POP.DNST,Population density (people per sq. km of land area),2018,139.709289670966,population_density
+Thailand,THA,EN.POP.DNST,Population density (people per sq. km of land area),2017,139.286709467791,population_density
+Thailand,THA,EN.POP.DNST,Population density (people per sq. km of land area),2016,138.698821664155,population_density
+Thailand,THA,EN.POP.DNST,Population density (people per sq. km of land area),2015,138.07433106931,population_density
+Timor-Leste,TLS,EN.POP.DNST,Population density (people per sq. km of land area),2019,87.4878950907868,population_density
+Timor-Leste,TLS,EN.POP.DNST,Population density (people per sq. km of land area),2018,85.8075991930061,population_density
+Timor-Leste,TLS,EN.POP.DNST,Population density (people per sq. km of land area),2017,84.1763954270343,population_density
+Timor-Leste,TLS,EN.POP.DNST,Population density (people per sq. km of land area),2016,82.6033624747814,population_density
+Timor-Leste,TLS,EN.POP.DNST,Population density (people per sq. km of land area),2015,81.0444519166106,population_density
+Togo,TGO,EN.POP.DNST,Population density (people per sq. km of land area),2019,155.599705828277,population_density
+Togo,TGO,EN.POP.DNST,Population density (people per sq. km of land area),2018,151.843684500827,population_density
+Togo,TGO,EN.POP.DNST,Population density (people per sq. km of land area),2017,148.136422136422,population_density
+Togo,TGO,EN.POP.DNST,Population density (people per sq. km of land area),2016,144.480400808972,population_density
+Togo,TGO,EN.POP.DNST,Population density (people per sq. km of land area),2015,140.893454679169,population_density
+Tonga,TON,EN.POP.DNST,Population density (people per sq. km of land area),2019,146.7625,population_density
+Tonga,TON,EN.POP.DNST,Population density (people per sq. km of land area),2018,146.620833333333,population_density
+Tonga,TON,EN.POP.DNST,Population density (people per sq. km of land area),2017,146.327777777778,population_density
+Tonga,TON,EN.POP.DNST,Population density (people per sq. km of land area),2016,146.561111111111,population_density
+Tonga,TON,EN.POP.DNST,Population density (people per sq. km of land area),2015,147.354166666667,population_density
+Trinidad and Tobago,TTO,EN.POP.DNST,Population density (people per sq. km of land area),2019,265.884015594542,population_density
+Trinidad and Tobago,TTO,EN.POP.DNST,Population density (people per sq. km of land area),2018,264.949902534113,population_density
+Trinidad and Tobago,TTO,EN.POP.DNST,Population density (people per sq. km of land area),2017,264.450877192982,population_density
+Trinidad and Tobago,TTO,EN.POP.DNST,Population density (people per sq. km of land area),2016,263.917153996101,population_density
+Trinidad and Tobago,TTO,EN.POP.DNST,Population density (people per sq. km of land area),2015,263.09298245614,population_density
+Tunisia,TUN,EN.POP.DNST,Population density (people per sq. km of land area),2019,76.4358972708548,population_density
+Tunisia,TUN,EN.POP.DNST,Population density (people per sq. km of land area),2018,75.7306513903193,population_density
+Tunisia,TUN,EN.POP.DNST,Population density (people per sq. km of land area),2017,74.9903321318229,population_density
+Tunisia,TUN,EN.POP.DNST,Population density (people per sq. km of land area),2016,74.2061920700309,population_density
+Tunisia,TUN,EN.POP.DNST,Population density (people per sq. km of land area),2015,73.3925334706488,population_density
+Turkiye,TUR,EN.POP.DNST,Population density (people per sq. km of land area),2019,107.297584553617,population_density
+Turkiye,TUR,EN.POP.DNST,Population density (people per sq. km of land area),2018,105.774468250978,population_density
+Turkiye,TUR,EN.POP.DNST,Population density (people per sq. km of land area),2017,104.352348531112,population_density
+Turkiye,TUR,EN.POP.DNST,Population density (people per sq. km of land area),2016,103.007889505347,population_density
+Turkiye,TUR,EN.POP.DNST,Population density (people per sq. km of land area),2015,101.631276067721,population_density
+Turkmenistan,TKM,EN.POP.DNST,Population density (people per sq. km of land area),2019,14.4786329878918,population_density
+Turkmenistan,TKM,EN.POP.DNST,Population density (people per sq. km of land area),2018,14.1627987147022,population_density
+Turkmenistan,TKM,EN.POP.DNST,Population density (people per sq. km of land area),2017,13.8468729385228,population_density
+Turkmenistan,TKM,EN.POP.DNST,Population density (people per sq. km of land area),2016,13.5340178324431,population_density
+Turkmenistan,TKM,EN.POP.DNST,Population density (people per sq. km of land area),2015,13.2270125337816,population_density
+Turks and Caicos Islands,TCA,EN.POP.DNST,Population density (people per sq. km of land area),2019,45.4378947368421,population_density
+Turks and Caicos Islands,TCA,EN.POP.DNST,Population density (people per sq. km of land area),2018,43.7463157894737,population_density
+Turks and Caicos Islands,TCA,EN.POP.DNST,Population density (people per sq. km of land area),2017,42.0136842105263,population_density
+Turks and Caicos Islands,TCA,EN.POP.DNST,Population density (people per sq. km of land area),2016,40.3315789473684,population_density
+Turks and Caicos Islands,TCA,EN.POP.DNST,Population density (people per sq. km of land area),2015,38.5315789473684,population_density
+Tuvalu,TUV,EN.POP.DNST,Population density (people per sq. km of land area),2019,352.7,population_density
+Tuvalu,TUV,EN.POP.DNST,Population density (people per sq. km of land area),2018,358.366666666667,population_density
+Tuvalu,TUV,EN.POP.DNST,Population density (people per sq. km of land area),2017,362.3,population_density
+Tuvalu,TUV,EN.POP.DNST,Population density (people per sq. km of land area),2016,364.333333333333,population_density
+Tuvalu,TUV,EN.POP.DNST,Population density (people per sq. km of land area),2015,365.433333333333,population_density
+Uganda,UGA,EN.POP.DNST,Population density (people per sq. km of land area),2019,214.440639337722,population_density
+Uganda,UGA,EN.POP.DNST,Population density (people per sq. km of land area),2018,207.290200478755,population_density
+Uganda,UGA,EN.POP.DNST,Population density (people per sq. km of land area),2017,200.365988430082,population_density
+Uganda,UGA,EN.POP.DNST,Population density (people per sq. km of land area),2016,193.49267903451,population_density
+Uganda,UGA,EN.POP.DNST,Population density (people per sq. km of land area),2015,187.170586475165,population_density
+Ukraine,UKR,EN.POP.DNST,Population density (people per sq. km of land area),2019,77.5931273731446,population_density
+Ukraine,UKR,EN.POP.DNST,Population density (people per sq. km of land area),2018,78.0271090783569,population_density
+Ukraine,UKR,EN.POP.DNST,Population density (people per sq. km of land area),2017,78.432661833247,population_density
+Ukraine,UKR,EN.POP.DNST,Population density (people per sq. km of land area),2016,78.7461064406429,population_density
+Ukraine,UKR,EN.POP.DNST,Population density (people per sq. km of land area),2015,79.0362271055948,population_density
+United Arab Emirates,ARE,EN.POP.DNST,Population density (people per sq. km of land area),2019,133.001760067587,population_density
+United Arab Emirates,ARE,EN.POP.DNST,Population density (people per sq. km of land area),2018,131.606603773585,population_density
+United Arab Emirates,ARE,EN.POP.DNST,Population density (people per sq. km of land area),2017,129.867994931005,population_density
+United Arab Emirates,ARE,EN.POP.DNST,Population density (people per sq. km of land area),2016,125.8109687412,population_density
+United Arab Emirates,ARE,EN.POP.DNST,Population density (people per sq. km of land area),2015,119.75833568009,population_density
+United Kingdom,GBR,EN.POP.DNST,Population density (people per sq. km of land area),2019,275.414376059191,population_density
+United Kingdom,GBR,EN.POP.DNST,Population density (people per sq. km of land area),2018,274.000744016864,population_density
+United Kingdom,GBR,EN.POP.DNST,Population density (people per sq. km of land area),2017,272.665647088001,population_density
+United Kingdom,GBR,EN.POP.DNST,Population density (people per sq. km of land area),2016,271.18174678626,population_density
+United Kingdom,GBR,EN.POP.DNST,Population density (people per sq. km of land area),2015,269.036498160625,population_density
+United States,USA,EN.POP.DNST,Population density (people per sq. km of land area),2019,36.1004771837305,population_density
+United States,USA,EN.POP.DNST,Population density (people per sq. km of land area),2018,35.9149986553586,population_density
+United States,USA,EN.POP.DNST,Population density (people per sq. km of land area),2017,35.7049975840182,population_density
+United States,USA,EN.POP.DNST,Population density (people per sq. km of land area),2016,35.4584505795077,population_density
+United States,USA,EN.POP.DNST,Population density (people per sq. km of land area),2015,35.1809713558577,population_density
+Uruguay,URY,EN.POP.DNST,Population density (people per sq. km of land area),2019,19.4103873842989,population_density
+Uruguay,URY,EN.POP.DNST,Population density (people per sq. km of land area),2018,19.3951205576506,population_density
+Uruguay,URY,EN.POP.DNST,Population density (people per sq. km of land area),2017,19.3602902525426,population_density
+Uruguay,URY,EN.POP.DNST,Population density (people per sq. km of land area),2016,19.3079819449206,population_density
+Uruguay,URY,EN.POP.DNST,Population density (people per sq. km of land area),2015,19.2436121586104,population_density
+Uzbekistan,UZB,EN.POP.DNST,Population density (people per sq. km of land area),2019,74.8253929702307,population_density
+Uzbekistan,UZB,EN.POP.DNST,Population density (people per sq. km of land area),2018,73.4780871882284,population_density
+Uzbekistan,UZB,EN.POP.DNST,Population density (people per sq. km of land area),2017,72.2198017195203,population_density
+Uzbekistan,UZB,EN.POP.DNST,Population density (people per sq. km of land area),2016,71.0059170523229,population_density
+Uzbekistan,UZB,EN.POP.DNST,Population density (people per sq. km of land area),2015,69.7897094870631,population_density
+Vanuatu,VUT,EN.POP.DNST,Population density (people per sq. km of land area),2019,23.9528301886792,population_density
+Vanuatu,VUT,EN.POP.DNST,Population density (people per sq. km of land area),2018,23.4010664479081,population_density
+Vanuatu,VUT,EN.POP.DNST,Population density (people per sq. km of land area),2017,22.8471698113208,population_density
+Vanuatu,VUT,EN.POP.DNST,Population density (people per sq. km of land area),2016,22.3205086136177,population_density
+Vanuatu,VUT,EN.POP.DNST,Population density (people per sq. km of land area),2015,21.829450369155,population_density
+"Venezuela, RB",VEN,EN.POP.DNST,Population density (people per sq. km of land area),2019,32.8077750694405,population_density
+"Venezuela, RB",VEN,EN.POP.DNST,Population density (people per sq. km of land area),2018,33.7935400487501,population_density
+"Venezuela, RB",VEN,EN.POP.DNST,Population density (people per sq. km of land area),2017,34.6525967915651,population_density
+"Venezuela, RB",VEN,EN.POP.DNST,Population density (people per sq. km of land area),2016,34.8797913950456,population_density
+"Venezuela, RB",VEN,EN.POP.DNST,Population density (people per sq. km of land area),2015,34.662402358143,population_density
+Viet Nam,VNM,EN.POP.DNST,Population density (people per sq. km of land area),2019,310.034412897339,population_density
+Viet Nam,VNM,EN.POP.DNST,Population density (people per sq. km of land area),2018,307.046632570694,population_density
+Viet Nam,VNM,EN.POP.DNST,Population density (people per sq. km of land area),2017,303.688787280275,population_density
+Viet Nam,VNM,EN.POP.DNST,Population density (people per sq. km of land area),2016,299.948999160782,population_density
+Viet Nam,VNM,EN.POP.DNST,Population density (people per sq. km of land area),2015,296.1974772084,population_density
+Virgin Islands (U.S.),VIR,EN.POP.DNST,Population density (people per sq. km of land area),2019,304.768571428571,population_density
+Virgin Islands (U.S.),VIR,EN.POP.DNST,Population density (people per sq. km of land area),2018,305.717142857143,population_density
+Virgin Islands (U.S.),VIR,EN.POP.DNST,Population density (people per sq. km of land area),2017,306.517142857143,population_density
+Virgin Islands (U.S.),VIR,EN.POP.DNST,Population density (people per sq. km of land area),2016,307.188571428571,population_density
+Virgin Islands (U.S.),VIR,EN.POP.DNST,Population density (people per sq. km of land area),2015,307.748571428571,population_density
+West Bank and Gaza,PSE,EN.POP.DNST,Population density (people per sq. km of land area),2019,778.290033222591,population_density
+West Bank and Gaza,PSE,EN.POP.DNST,Population density (people per sq. km of land area),2018,758.984551495017,population_density
+West Bank and Gaza,PSE,EN.POP.DNST,Population density (people per sq. km of land area),2017,740.000830564784,population_density
+West Bank and Gaza,PSE,EN.POP.DNST,Population density (people per sq. km of land area),2016,725.429900332226,population_density
+West Bank and Gaza,PSE,EN.POP.DNST,Population density (people per sq. km of land area),2015,709.317607973422,population_density
+"Yemen, Rep.",YEM,EN.POP.DNST,Population density (people per sq. km of land area),2019,66.5026573479554,population_density
+"Yemen, Rep.",YEM,EN.POP.DNST,Population density (people per sq. km of land area),2018,64.5589370608179,population_density
+"Yemen, Rep.",YEM,EN.POP.DNST,Population density (people per sq. km of land area),2017,62.6757599863629,population_density
+"Yemen, Rep.",YEM,EN.POP.DNST,Population density (people per sq. km of land area),2016,60.8159743924844,population_density
+"Yemen, Rep.",YEM,EN.POP.DNST,Population density (people per sq. km of land area),2015,59.0173286360967,population_density
+Zambia,ZMB,EN.POP.DNST,Population density (people per sq. km of land area),2019,24.9046113076582,population_density
+Zambia,ZMB,EN.POP.DNST,Population density (people per sq. km of land area),2018,24.1778460834824,population_density
+Zambia,ZMB,EN.POP.DNST,Population density (people per sq. km of land area),2017,23.4618706197285,population_density
+Zambia,ZMB,EN.POP.DNST,Population density (people per sq. km of land area),2016,22.7530946071376,population_density
+Zambia,ZMB,EN.POP.DNST,Population density (people per sq. km of land area),2015,22.0598730141648,population_density
+Zimbabwe,ZWE,EN.POP.DNST,Population density (people per sq. km of land area),2019,39.4762000775494,population_density
+Zimbabwe,ZWE,EN.POP.DNST,Population density (people per sq. km of land area),2018,38.8637766576192,population_density
+Zimbabwe,ZWE,EN.POP.DNST,Population density (people per sq. km of land area),2017,38.2899883675843,population_density
+Zimbabwe,ZWE,EN.POP.DNST,Population density (people per sq. km of land area),2016,37.7414863642239,population_density
+Zimbabwe,ZWE,EN.POP.DNST,Population density (people per sq. km of land area),2015,37.2211787514541,population_density

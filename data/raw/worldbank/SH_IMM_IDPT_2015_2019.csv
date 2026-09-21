@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,unit,obs_status,decimal
+Africa Eastern and Southern,AFE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,79.2273897950203,,,0
+Africa Eastern and Southern,AFE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,78.7384517179148,,,0
+Africa Eastern and Southern,AFE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,78.0278855164038,,,0
+Africa Eastern and Southern,AFE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,78.2381241580075,,,0
+Africa Eastern and Southern,AFE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,77.6619556668059,,,0
+Africa Western and Central,AFW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,72.1694786949218,,,0
+Africa Western and Central,AFW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,69.8476652868902,,,0
+Africa Western and Central,AFW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,67.6832211927826,,,0
+Africa Western and Central,AFW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,66.3442377918441,,,0
+Africa Western and Central,AFW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,60.2361373034085,,,0
+Arab World,ARB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,85.6972243628333,,,0
+Arab World,ARB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,85.406816331896,,,0
+Arab World,ARB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,85.9513271238158,,,0
+Arab World,ARB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,84.9112001925639,,,0
+Arab World,ARB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,84.2595277355622,,,0
+Caribbean small states,CSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,92.3926927545183,,,0
+Caribbean small states,CSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.6865019759964,,,0
+Caribbean small states,CSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,87.9896008851541,,,0
+Caribbean small states,CSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,93.298710683724,,,0
+Caribbean small states,CSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,91.9857381655226,,,0
+Central Europe and the Baltics,CEB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.0961032435057,,,0
+Central Europe and the Baltics,CEB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.5232083848151,,,0
+Central Europe and the Baltics,CEB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,93.0584651077718,,,0
+Central Europe and the Baltics,CEB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.2002900423646,,,0
+Central Europe and the Baltics,CEB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.1936518228541,,,0
+Early-demographic dividend,EAR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,87.1205275375674,,,0
+Early-demographic dividend,EAR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,86.6224208638036,,,0
+Early-demographic dividend,EAR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,86.1598267690634,,,0
+Early-demographic dividend,EAR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,86.216468531009,,,0
+Early-demographic dividend,EAR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,84.820956935647,,,0
+East Asia & Pacific,EAS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,93.9284852465565,,,0
+East Asia & Pacific,EAS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.5350315641193,,,0
+East Asia & Pacific,EAS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.4472773562893,,,0
+East Asia & Pacific,EAS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.5283911439363,,,0
+East Asia & Pacific,EAS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,93.9097932075772,,,0
+East Asia & Pacific (excluding high income),EAP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,93.733155451331,,,0
+East Asia & Pacific (excluding high income),EAP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.3172729270974,,,0
+East Asia & Pacific (excluding high income),EAP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.254382198542,,,0
+East Asia & Pacific (excluding high income),EAP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.3376659609955,,,0
+East Asia & Pacific (excluding high income),EAP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,93.7916992984144,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,93.6933303177722,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.275016230897,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.2228852130002,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.3190387531601,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,93.767388710203,,,0
+Euro area,EMU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.1309932993799,,,0
+Euro area,EMU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,94.0177440812162,,,0
+Euro area,EMU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.074454158521,,,0
+Euro area,EMU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.2407500764872,,,0
+Euro area,EMU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.054936893423,,,0
+Europe & Central Asia,ECS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.8166246513518,,,0
+Europe & Central Asia,ECS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,94.3187608325538,,,0
+Europe & Central Asia,ECS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,93.3486151444049,,,0
+Europe & Central Asia,ECS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,91.9395262844719,,,0
+Europe & Central Asia,ECS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,92.6336009508084,,,0
+Europe & Central Asia (excluding high income),ECA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.8223266949641,,,0
+Europe & Central Asia (excluding high income),ECA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.4740784613456,,,0
+Europe & Central Asia (excluding high income),ECA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,90.8235430791383,,,0
+Europe & Central Asia (excluding high income),ECA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,86.3630914574624,,,0
+Europe & Central Asia (excluding high income),ECA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,87.3883486326671,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,95.1600132460001,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,94.2778062689101,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,92.6243258867876,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,90.2156461051018,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,90.8564312109508,,,0
+European Union,EUU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.2318230738078,,,0
+European Union,EUU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,94.0080921238694,,,0
+European Union,EUU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,93.945147685153,,,0
+European Union,EUU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.5450586196634,,,0
+European Union,EUU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.1641493005826,,,0
+Fragile and conflict affected situations,FCS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,71.1543468609947,,,0
+Fragile and conflict affected situations,FCS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,69.2537672516718,,,0
+Fragile and conflict affected situations,FCS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,68.1557795212119,,,0
+Fragile and conflict affected situations,FCS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,66.878028174256,,,0
+Fragile and conflict affected situations,FCS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,63.7732499077616,,,0
+Heavily indebted poor countries (HIPC),HPC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,77.4671091303291,,,0
+Heavily indebted poor countries (HIPC),HPC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,77.4385140375022,,,0
+Heavily indebted poor countries (HIPC),HPC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,77.9642930852485,,,0
+Heavily indebted poor countries (HIPC),HPC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,77.7216147469853,,,0
+Heavily indebted poor countries (HIPC),HPC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,76.7701962344943,,,0
+High income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.9027174108351,,,0
+High income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,94.8792182679395,,,0
+High income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.9503755667858,,,0
+High income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.4538984437512,,,0
+High income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.3913960487409,,,0
+IBRD only,IBD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,90.8134168689944,,,0
+IBRD only,IBD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.1723532809373,,,0
+IBRD only,IBD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,90.7658129638239,,,0
+IBRD only,IBD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,90.7512471857505,,,0
+IBRD only,IBD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,90.2092220931336,,,0
+IDA & IBRD total,IBT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,85.9771381477056,,,0
+IDA & IBRD total,IBT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,85.7545376845269,,,0
+IDA & IBRD total,IBT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,85.0175533119337,,,0
+IDA & IBRD total,IBT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,84.9820320003504,,,0
+IDA & IBRD total,IBT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,83.7981531211703,,,0
+IDA blend,IDB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,76.8177188545087,,,0
+IDA blend,IDB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,73.6020055288307,,,0
+IDA blend,IDB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,69.0436369139179,,,0
+IDA blend,IDB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,69.3972815687675,,,0
+IDA blend,IDB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,63.768842265758,,,0
+IDA only,IDX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,79.996279969612,,,0
+IDA only,IDX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,79.5465190572372,,,0
+IDA only,IDX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,79.9476733146776,,,0
+IDA only,IDX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,79.4809967775444,,,0
+IDA only,IDX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,78.9319751533868,,,0
+IDA total,IDA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,78.8797443692867,,,0
+IDA total,IDA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,77.4384593281052,,,0
+IDA total,IDA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,76.041314707376,,,0
+IDA total,IDA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,75.8334418977392,,,0
+IDA total,IDA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,73.4224505076516,,,0
+Late-demographic dividend,LTE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.7827679270767,,,0
+Late-demographic dividend,LTE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.7817176937942,,,0
+Late-demographic dividend,LTE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,96.3620874196873,,,0
+Late-demographic dividend,LTE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.9150990802267,,,0
+Late-demographic dividend,LTE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.8572051252011,,,0
+Latin America & Caribbean,LCN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,79.8749196658701,,,0
+Latin America & Caribbean,LCN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,85.9316526627923,,,0
+Latin America & Caribbean,LCN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,84.8083787424849,,,0
+Latin America & Caribbean,LCN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,89.5252269182619,,,0
+Latin America & Caribbean,LCN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,89.8564771630599,,,0
+Latin America & Caribbean (excluding high income),LAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,80.0173161732444,,,0
+Latin America & Caribbean (excluding high income),LAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,87.0440162405725,,,0
+Latin America & Caribbean (excluding high income),LAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,85.5832100931742,,,0
+Latin America & Caribbean (excluding high income),LAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,89.6280510149344,,,0
+Latin America & Caribbean (excluding high income),LAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,89.9416323828164,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,79.6524293546811,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,85.7803842210861,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,84.6373569356819,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,89.4103892974071,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,89.7447345211559,,,0
+Least developed countries: UN classification,LDC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,78.5454163709628,,,0
+Least developed countries: UN classification,LDC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,78.251140031754,,,0
+Least developed countries: UN classification,LDC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,78.254774040212,,,0
+Least developed countries: UN classification,LDC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,78.0137803778677,,,0
+Least developed countries: UN classification,LDC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,77.5160640092691,,,0
+Low & middle income,LMY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,86.6503651062642,,,0
+Low & middle income,LMY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,86.374163455241,,,0
+Low & middle income,LMY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,85.4746612977545,,,0
+Low & middle income,LMY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,85.3339141402508,,,0
+Low & middle income,LMY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,84.1238143660181,,,0
+Low income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,77.4712073560769,,,0
+Low income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,76.3798779606623,,,0
+Low income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,76.1003960906612,,,0
+Low income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,75.3027016609995,,,0
+Low income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,74.4978593446025,,,0
+Lower middle income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,86.1792263432515,,,0
+Lower middle income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,84.6838801774593,,,0
+Lower middle income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,83.4404275860309,,,0
+Lower middle income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,83.2755687607501,,,0
+Lower middle income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,80.9886690116107,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,85.3001612003359,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,84.1873521054241,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,82.4679546858913,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,82.1591013871709,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,80.478718897538,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,84.578559484483,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,83.3995576546499,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,81.4962786156759,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,81.2052784337463,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,79.423059963848,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,84.4513418885764,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,83.2621188230909,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,81.3432821126413,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,81.0535496850082,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,79.2597448749456,,,0
+Middle income,MIC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,88.2888939035866,,,0
+Middle income,MIC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,88.084273183811,,,0
+Middle income,MIC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,87.0433226513124,,,0
+Middle income,MIC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,86.9804957463485,,,0
+Middle income,MIC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,85.674045595414,,,0
+North America,NAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,93.7297730655333,,,0
+North America,NAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.7318327683196,,,0
+North America,NAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,93.7336204917781,,,0
+North America,NAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.6459103445804,,,0
+North America,NAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,94.6448623326597,,,0
+Not classified,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Not classified,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Not classified,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Not classified,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Not classified,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+OECD members,OED,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,93.268377022251,,,0
+OECD members,OED,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.9306477873932,,,0
+OECD members,OED,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,93.4026988180471,,,0
+OECD members,OED,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.9354116402092,,,0
+OECD members,OED,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,93.9966177416274,,,0
+Other small states,OSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,89.3640112744367,,,0
+Other small states,OSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,89.5545015152844,,,0
+Other small states,OSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,88.6443162905347,,,0
+Other small states,OSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,86.9753098096277,,,0
+Other small states,OSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,88.9565544087919,,,0
+Pacific island small states,PSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,91.3353020263133,,,0
+Pacific island small states,PSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,84.4530007086721,,,0
+Pacific island small states,PSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,84.8154009441435,,,0
+Pacific island small states,PSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,88.8086107005383,,,0
+Pacific island small states,PSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,88.4081267042932,,,0
+Post-demographic dividend,PST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.0583756631271,,,0
+Post-demographic dividend,PST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.6269969556643,,,0
+Post-demographic dividend,PST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,92.9371415481744,,,0
+Post-demographic dividend,PST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,92.0093313230084,,,0
+Post-demographic dividend,PST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,92.0116455698407,,,0
+Pre-demographic dividend,PRE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,76.4274758143604,,,0
+Pre-demographic dividend,PRE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,75.1435198356922,,,0
+Pre-demographic dividend,PRE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,72.7821511612546,,,0
+Pre-demographic dividend,PRE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,72.1472359159919,,,0
+Pre-demographic dividend,PRE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,68.9622754836249,,,0
+Small states,SST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,90.3464094623335,,,0
+Small states,SST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,89.4445891889242,,,0
+Small states,SST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,87.7961803487752,,,0
+Small states,SST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,88.6193955183303,,,0
+Small states,SST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,89.4816141345711,,,0
+South Asia,SAS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,91.936868992899,,,0
+South Asia,SAS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.0258799504381,,,0
+South Asia,SAS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,90.1353353629688,,,0
+South Asia,SAS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,89.2178168358011,,,0
+South Asia,SAS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,88.4275947390716,,,0
+South Asia (IDA & IBRD),TSA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,91.936868992899,,,0
+South Asia (IDA & IBRD),TSA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.0258799504381,,,0
+South Asia (IDA & IBRD),TSA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,90.1353353629688,,,0
+South Asia (IDA & IBRD),TSA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,89.2178168358011,,,0
+South Asia (IDA & IBRD),TSA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,88.4275947390716,,,0
+Sub-Saharan Africa,SSF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,76.3082768656683,,,0
+Sub-Saharan Africa,SSF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,75.0175254522947,,,0
+Sub-Saharan Africa,SSF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,73.6621354004071,,,0
+Sub-Saharan Africa,SSF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,73.19595391451,,,0
+Sub-Saharan Africa,SSF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,70.2668570418098,,,0
+Sub-Saharan Africa (excluding high income),SSA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,77.9561786282012,,,0
+Sub-Saharan Africa (excluding high income),SSA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,76.3958460499577,,,0
+Sub-Saharan Africa (excluding high income),SSA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,74.5644886010695,,,0
+Sub-Saharan Africa (excluding high income),SSA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,74.1375014462008,,,0
+Sub-Saharan Africa (excluding high income),SSA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,71.1047730736041,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,76.3082768656683,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,75.0175254522947,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,73.6621354004071,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,73.19595391451,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,70.2668570418098,,,0
+Upper middle income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,91.6981717825953,,,0
+Upper middle income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.3570554952416,,,0
+Upper middle income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,92.6628034176009,,,0
+Upper middle income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,92.6737541046889,,,0
+Upper middle income,,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,92.8047851211746,,,0
+World,WLD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,86.7602356483201,,,0
+World,WLD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,86.5652440683969,,,0
+World,WLD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,85.9194849414335,,,0
+World,WLD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,85.913662261267,,,0
+World,WLD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,84.8333672144387,,,0
+Afghanistan,AFG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,65.0,,,0
+Afghanistan,AFG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,68.0,,,0
+Afghanistan,AFG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,64.0,,,0
+Afghanistan,AFG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,66.0,,,0
+Afghanistan,AFG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,64.0,,,0
+Albania,ALB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Albania,ALB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Albania,ALB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Albania,ALB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Albania,ALB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Algeria,DZA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,88.0,,,0
+Algeria,DZA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.0,,,0
+Algeria,DZA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,91.0,,,0
+Algeria,DZA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,91.0,,,0
+Algeria,DZA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.0,,,0
+American Samoa,ASM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+American Samoa,ASM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+American Samoa,ASM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+American Samoa,ASM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+American Samoa,ASM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Andorra,AND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Andorra,AND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Andorra,AND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Andorra,AND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Andorra,AND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+Angola,AGO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,64.0,,,0
+Angola,AGO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,67.0,,,0
+Angola,AGO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,58.0,,,0
+Angola,AGO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,59.0,,,0
+Angola,AGO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,57.0,,,0
+Antigua and Barbuda,ATG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Antigua and Barbuda,ATG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+Antigua and Barbuda,ATG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,95.0,,,0
+Antigua and Barbuda,ATG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,92.0,,,0
+Antigua and Barbuda,ATG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Argentina,ARG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,83.0,,,0
+Argentina,ARG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,86.0,,,0
+Argentina,ARG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,88.0,,,0
+Argentina,ARG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,92.0,,,0
+Argentina,ARG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,94.0,,,0
+Armenia,ARM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,92.0,,,0
+Armenia,ARM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,92.0,,,0
+Armenia,ARM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.0,,,0
+Armenia,ARM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.0,,,0
+Armenia,ARM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,94.0,,,0
+Aruba,ABW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Aruba,ABW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Aruba,ABW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Aruba,ABW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Aruba,ABW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Australia,AUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,95.0,,,0
+Australia,AUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+Australia,AUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,95.0,,,0
+Australia,AUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.0,,,0
+Australia,AUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,93.0,,,0
+Austria,AUT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,88.0,,,0
+Austria,AUT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,85.0,,,0
+Austria,AUT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,90.0,,,0
+Austria,AUT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,87.0,,,0
+Austria,AUT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,93.0,,,0
+Azerbaijan,AZE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,74.0,,,0
+Azerbaijan,AZE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,74.0,,,0
+Azerbaijan,AZE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,76.0,,,0
+Azerbaijan,AZE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,78.0,,,0
+Azerbaijan,AZE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,79.0,,,0
+"Bahamas, The",BHS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,89.0,,,0
+"Bahamas, The",BHS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,90.0,,,0
+"Bahamas, The",BHS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.0,,,0
+"Bahamas, The",BHS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.0,,,0
+"Bahamas, The",BHS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.0,,,0
+Bahrain,BHR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Bahrain,BHR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Bahrain,BHR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,97.0,,,0
+Bahrain,BHR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Bahrain,BHR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,98.0,,,0
+Bangladesh,BGD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+Bangladesh,BGD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,98.0,,,0
+Bangladesh,BGD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,98.0,,,0
+Bangladesh,BGD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Bangladesh,BGD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,98.0,,,0
+Barbados,BRB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,90.0,,,0
+Barbados,BRB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+Barbados,BRB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,90.0,,,0
+Barbados,BRB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,97.0,,,0
+Barbados,BRB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+Belarus,BLR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+Belarus,BLR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Belarus,BLR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,97.0,,,0
+Belarus,BLR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Belarus,BLR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Belgium,BEL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Belgium,BEL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,98.0,,,0
+Belgium,BEL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,98.0,,,0
+Belgium,BEL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Belgium,BEL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Belize,BLZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+Belize,BLZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,96.0,,,0
+Belize,BLZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,88.0,,,0
+Belize,BLZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+Belize,BLZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,94.0,,,0
+Benin,BEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,72.0,,,0
+Benin,BEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,74.0,,,0
+Benin,BEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,76.0,,,0
+Benin,BEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,78.0,,,0
+Benin,BEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,74.0,,,0
+Bermuda,BMU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Bermuda,BMU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Bermuda,BMU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Bermuda,BMU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Bermuda,BMU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Bhutan,BTN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Bhutan,BTN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Bhutan,BTN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,98.0,,,0
+Bhutan,BTN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Bhutan,BTN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Bolivia,BOL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,75.0,,,0
+Bolivia,BOL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,83.0,,,0
+Bolivia,BOL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,84.0,,,0
+Bolivia,BOL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,87.0,,,0
+Bolivia,BOL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,89.0,,,0
+Bosnia and Herzegovina,BIH,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,80.0,,,0
+Bosnia and Herzegovina,BIH,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,73.0,,,0
+Bosnia and Herzegovina,BIH,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,75.0,,,0
+Bosnia and Herzegovina,BIH,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,78.0,,,0
+Bosnia and Herzegovina,BIH,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,82.0,,,0
+Botswana,BWA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,95.0,,,0
+Botswana,BWA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+Botswana,BWA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,95.0,,,0
+Botswana,BWA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+Botswana,BWA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.0,,,0
+Brazil,BRA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,70.0,,,0
+Brazil,BRA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,87.0,,,0
+Brazil,BRA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,83.0,,,0
+Brazil,BRA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,89.0,,,0
+Brazil,BRA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,96.0,,,0
+British Virgin Islands,VGB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+British Virgin Islands,VGB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+British Virgin Islands,VGB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+British Virgin Islands,VGB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+British Virgin Islands,VGB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Brunei Darussalam,BRN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Brunei Darussalam,BRN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Brunei Darussalam,BRN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Brunei Darussalam,BRN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Brunei Darussalam,BRN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Bulgaria,BGR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,93.0,,,0
+Bulgaria,BGR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,92.0,,,0
+Bulgaria,BGR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,92.0,,,0
+Bulgaria,BGR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,92.0,,,0
+Bulgaria,BGR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,91.0,,,0
+Burkina Faso,BFA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,91.0,,,0
+Burkina Faso,BFA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.0,,,0
+Burkina Faso,BFA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,91.0,,,0
+Burkina Faso,BFA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,91.0,,,0
+Burkina Faso,BFA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,91.0,,,0
+Burundi,BDI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,93.0,,,0
+Burundi,BDI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,90.0,,,0
+Burundi,BDI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,91.0,,,0
+Burundi,BDI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.0,,,0
+Burundi,BDI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,94.0,,,0
+Cabo Verde,CPV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,96.0,,,0
+Cabo Verde,CPV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,98.0,,,0
+Cabo Verde,CPV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,96.0,,,0
+Cabo Verde,CPV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.0,,,0
+Cabo Verde,CPV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,93.0,,,0
+Cambodia,KHM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,88.0,,,0
+Cambodia,KHM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,89.0,,,0
+Cambodia,KHM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,90.0,,,0
+Cambodia,KHM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,91.0,,,0
+Cambodia,KHM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,91.0,,,0
+Cameroon,CMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,67.0,,,0
+Cameroon,CMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,68.0,,,0
+Cameroon,CMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,74.0,,,0
+Cameroon,CMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,78.0,,,0
+Cameroon,CMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,76.0,,,0
+Canada,CAN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,91.0,,,0
+Canada,CAN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.0,,,0
+Canada,CAN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,91.0,,,0
+Canada,CAN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,91.0,,,0
+Canada,CAN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,91.0,,,0
+Cayman Islands,CYM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Cayman Islands,CYM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Cayman Islands,CYM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Cayman Islands,CYM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Cayman Islands,CYM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Central African Republic,CAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,38.0,,,0
+Central African Republic,CAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,40.0,,,0
+Central African Republic,CAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,42.0,,,0
+Central African Republic,CAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,42.0,,,0
+Central African Republic,CAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,43.0,,,0
+Chad,TCD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,53.0,,,0
+Chad,TCD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,47.0,,,0
+Chad,TCD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,41.0,,,0
+Chad,TCD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,41.0,,,0
+Chad,TCD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,42.0,,,0
+Channel Islands,CHI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Channel Islands,CHI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Channel Islands,CHI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Channel Islands,CHI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Channel Islands,CHI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Chile,CHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,96.0,,,0
+Chile,CHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+Chile,CHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,93.0,,,0
+Chile,CHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+Chile,CHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,96.0,,,0
+China,CHN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+China,CHN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+China,CHN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+China,CHN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+China,CHN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Colombia,COL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.0,,,0
+Colombia,COL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,92.0,,,0
+Colombia,COL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,92.0,,,0
+Colombia,COL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,91.0,,,0
+Colombia,COL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,91.0,,,0
+Comoros,COM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,78.0,,,0
+Comoros,COM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,77.0,,,0
+Comoros,COM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,79.0,,,0
+Comoros,COM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,75.0,,,0
+Comoros,COM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,80.0,,,0
+"Congo, Dem. Rep.",COD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,73.0,,,0
+"Congo, Dem. Rep.",COD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,71.0,,,0
+"Congo, Dem. Rep.",COD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,71.0,,,0
+"Congo, Dem. Rep.",COD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,70.0,,,0
+"Congo, Dem. Rep.",COD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,70.0,,,0
+"Congo, Rep.",COG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,79.0,,,0
+"Congo, Rep.",COG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,75.0,,,0
+"Congo, Rep.",COG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,69.0,,,0
+"Congo, Rep.",COG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,71.0,,,0
+"Congo, Rep.",COG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,80.0,,,0
+Costa Rica,CRI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,95.0,,,0
+Costa Rica,CRI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,94.0,,,0
+Costa Rica,CRI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,96.0,,,0
+Costa Rica,CRI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,97.0,,,0
+Costa Rica,CRI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,92.0,,,0
+Cote d'Ivoire,CIV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,79.0,,,0
+Cote d'Ivoire,CIV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,83.0,,,0
+Cote d'Ivoire,CIV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,83.0,,,0
+Cote d'Ivoire,CIV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,87.0,,,0
+Cote d'Ivoire,CIV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,79.0,,,0
+Croatia,HRV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.0,,,0
+Croatia,HRV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.0,,,0
+Croatia,HRV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,92.0,,,0
+Croatia,HRV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,93.0,,,0
+Croatia,HRV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,94.0,,,0
+Cuba,CUB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Cuba,CUB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Cuba,CUB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Cuba,CUB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Cuba,CUB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Curacao,CUW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Curacao,CUW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Curacao,CUW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Curacao,CUW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Curacao,CUW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Cyprus,CYP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,96.0,,,0
+Cyprus,CYP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Cyprus,CYP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,97.0,,,0
+Cyprus,CYP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,97.0,,,0
+Cyprus,CYP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+Czechia,CZE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Czechia,CZE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Czechia,CZE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,96.0,,,0
+Czechia,CZE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.0,,,0
+Czechia,CZE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+Denmark,DNK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Denmark,DNK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Denmark,DNK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,98.0,,,0
+Denmark,DNK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.0,,,0
+Denmark,DNK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,93.0,,,0
+Djibouti,DJI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,85.0,,,0
+Djibouti,DJI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,84.0,,,0
+Djibouti,DJI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,76.0,,,0
+Djibouti,DJI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,68.0,,,0
+Djibouti,DJI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,84.0,,,0
+Dominica,DMA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Dominica,DMA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,94.0,,,0
+Dominica,DMA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,91.0,,,0
+Dominica,DMA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Dominica,DMA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,98.0,,,0
+Dominican Republic,DOM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,89.0,,,0
+Dominican Republic,DOM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,87.0,,,0
+Dominican Republic,DOM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,84.0,,,0
+Dominican Republic,DOM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,87.0,,,0
+Dominican Republic,DOM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,85.0,,,0
+Ecuador,ECU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,85.0,,,0
+Ecuador,ECU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,85.0,,,0
+Ecuador,ECU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,85.0,,,0
+Ecuador,ECU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,83.0,,,0
+Ecuador,ECU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,78.0,,,0
+"Egypt, Arab Rep.",EGY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,95.0,,,0
+"Egypt, Arab Rep.",EGY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+"Egypt, Arab Rep.",EGY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.0,,,0
+"Egypt, Arab Rep.",EGY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+"Egypt, Arab Rep.",EGY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,93.0,,,0
+El Salvador,SLV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,96.0,,,0
+El Salvador,SLV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,89.0,,,0
+El Salvador,SLV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,92.0,,,0
+El Salvador,SLV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+El Salvador,SLV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,94.0,,,0
+Equatorial Guinea,GNQ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,62.0,,,0
+Equatorial Guinea,GNQ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,59.0,,,0
+Equatorial Guinea,GNQ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,56.0,,,0
+Equatorial Guinea,GNQ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,53.0,,,0
+Equatorial Guinea,GNQ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,40.0,,,0
+Eritrea,ERI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,95.0,,,0
+Eritrea,ERI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+Eritrea,ERI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,95.0,,,0
+Eritrea,ERI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+Eritrea,ERI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.0,,,0
+Estonia,EST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,91.0,,,0
+Estonia,EST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,92.0,,,0
+Estonia,EST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,93.0,,,0
+Estonia,EST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,93.0,,,0
+Estonia,EST,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,93.0,,,0
+Eswatini,SWZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,90.0,,,0
+Eswatini,SWZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,90.0,,,0
+Eswatini,SWZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,90.0,,,0
+Eswatini,SWZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,90.0,,,0
+Eswatini,SWZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,90.0,,,0
+Ethiopia,ETH,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,61.0,,,0
+Ethiopia,ETH,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,62.0,,,0
+Ethiopia,ETH,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,65.0,,,0
+Ethiopia,ETH,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,64.0,,,0
+Ethiopia,ETH,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,62.0,,,0
+Faroe Islands,FRO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Faroe Islands,FRO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Faroe Islands,FRO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Faroe Islands,FRO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Faroe Islands,FRO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Fiji,FJI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Fiji,FJI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,94.0,,,0
+Fiji,FJI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,91.0,,,0
+Fiji,FJI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+Fiji,FJI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Finland,FIN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,91.0,,,0
+Finland,FIN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.0,,,0
+Finland,FIN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,89.0,,,0
+Finland,FIN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,92.0,,,0
+Finland,FIN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+France,FRA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,95.0,,,0
+France,FRA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+France,FRA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,95.0,,,0
+France,FRA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+France,FRA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,96.0,,,0
+French Polynesia,PYF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+French Polynesia,PYF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+French Polynesia,PYF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+French Polynesia,PYF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+French Polynesia,PYF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Gabon,GAB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,70.0,,,0
+Gabon,GAB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,70.0,,,0
+Gabon,GAB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,75.0,,,0
+Gabon,GAB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,75.0,,,0
+Gabon,GAB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,80.0,,,0
+"Gambia, The",GMB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,88.0,,,0
+"Gambia, The",GMB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.0,,,0
+"Gambia, The",GMB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,92.0,,,0
+"Gambia, The",GMB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+"Gambia, The",GMB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+Georgia,GEO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.0,,,0
+Georgia,GEO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.0,,,0
+Georgia,GEO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,91.0,,,0
+Georgia,GEO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,92.0,,,0
+Georgia,GEO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,94.0,,,0
+Germany,DEU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,91.0,,,0
+Germany,DEU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.0,,,0
+Germany,DEU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,91.0,,,0
+Germany,DEU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,91.0,,,0
+Germany,DEU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,93.0,,,0
+Ghana,GHA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Ghana,GHA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Ghana,GHA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Ghana,GHA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,93.0,,,0
+Ghana,GHA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,89.0,,,0
+Gibraltar,GIB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Gibraltar,GIB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Gibraltar,GIB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Gibraltar,GIB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Gibraltar,GIB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Greece,GRC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Greece,GRC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Greece,GRC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Greece,GRC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Greece,GRC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Greenland,GRL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Greenland,GRL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Greenland,GRL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Greenland,GRL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Greenland,GRL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Grenada,GRD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.0,,,0
+Grenada,GRD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+Grenada,GRD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,96.0,,,0
+Grenada,GRD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.0,,,0
+Grenada,GRD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,92.0,,,0
+Guam,GUM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Guam,GUM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Guam,GUM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Guam,GUM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Guam,GUM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Guatemala,GTM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,88.0,,,0
+Guatemala,GTM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,85.0,,,0
+Guatemala,GTM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,91.0,,,0
+Guatemala,GTM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,83.0,,,0
+Guatemala,GTM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,70.0,,,0
+Guinea,GIN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,53.0,,,0
+Guinea,GIN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,51.0,,,0
+Guinea,GIN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,49.0,,,0
+Guinea,GIN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,47.0,,,0
+Guinea,GIN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,48.0,,,0
+Guinea-Bissau,GNB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,78.0,,,0
+Guinea-Bissau,GNB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,82.0,,,0
+Guinea-Bissau,GNB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,79.0,,,0
+Guinea-Bissau,GNB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,85.0,,,0
+Guinea-Bissau,GNB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,86.0,,,0
+Guyana,GUY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Guyana,GUY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+Guyana,GUY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,97.0,,,0
+Guyana,GUY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,97.0,,,0
+Guyana,GUY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.0,,,0
+Haiti,HTI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,54.0,,,0
+Haiti,HTI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,57.0,,,0
+Haiti,HTI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,60.0,,,0
+Haiti,HTI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,59.0,,,0
+Haiti,HTI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,64.0,,,0
+Honduras,HND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,88.0,,,0
+Honduras,HND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.0,,,0
+Honduras,HND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,90.0,,,0
+Honduras,HND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+Honduras,HND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,98.0,,,0
+"Hong Kong SAR, China",HKG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+"Hong Kong SAR, China",HKG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+"Hong Kong SAR, China",HKG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+"Hong Kong SAR, China",HKG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+"Hong Kong SAR, China",HKG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Hungary,HUN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Hungary,HUN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Hungary,HUN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Hungary,HUN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Hungary,HUN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Iceland,ISL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,93.0,,,0
+Iceland,ISL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.0,,,0
+Iceland,ISL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,89.0,,,0
+Iceland,ISL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,91.0,,,0
+Iceland,ISL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,92.0,,,0
+India,IND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,91.0,,,0
+India,IND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,90.0,,,0
+India,IND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,89.0,,,0
+India,IND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,88.0,,,0
+India,IND,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,87.0,,,0
+Indonesia,IDN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,85.0,,,0
+Indonesia,IDN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,85.0,,,0
+Indonesia,IDN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,85.0,,,0
+Indonesia,IDN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,84.0,,,0
+Indonesia,IDN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,84.0,,,0
+"Iran, Islamic Rep.",IRN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+"Iran, Islamic Rep.",IRN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+"Iran, Islamic Rep.",IRN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+"Iran, Islamic Rep.",IRN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+"Iran, Islamic Rep.",IRN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,98.0,,,0
+Iraq,IRQ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,84.0,,,0
+Iraq,IRQ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,86.0,,,0
+Iraq,IRQ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,81.0,,,0
+Iraq,IRQ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,71.0,,,0
+Iraq,IRQ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,68.0,,,0
+Ireland,IRL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.0,,,0
+Ireland,IRL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,94.0,,,0
+Ireland,IRL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,95.0,,,0
+Ireland,IRL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+Ireland,IRL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.0,,,0
+Isle of Man,IMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Isle of Man,IMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Isle of Man,IMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Isle of Man,IMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Isle of Man,IMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Israel,ISR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+Israel,ISR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,98.0,,,0
+Israel,ISR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,98.0,,,0
+Israel,ISR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.0,,,0
+Israel,ISR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.0,,,0
+Italy,ITA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,96.0,,,0
+Italy,ITA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+Italy,ITA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,95.0,,,0
+Italy,ITA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.0,,,0
+Italy,ITA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,93.0,,,0
+Jamaica,JAM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,96.0,,,0
+Jamaica,JAM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Jamaica,JAM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,93.0,,,0
+Jamaica,JAM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Jamaica,JAM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,91.0,,,0
+Japan,JPN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+Japan,JPN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,98.0,,,0
+Japan,JPN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Japan,JPN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Japan,JPN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,96.0,,,0
+Jordan,JOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,89.0,,,0
+Jordan,JOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,96.0,,,0
+Jordan,JOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Jordan,JOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Jordan,JOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Kazakhstan,KAZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Kazakhstan,KAZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,98.0,,,0
+Kazakhstan,KAZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Kazakhstan,KAZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,83.0,,,0
+Kazakhstan,KAZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,98.0,,,0
+Kenya,KEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,93.0,,,0
+Kenya,KEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.0,,,0
+Kenya,KEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,81.0,,,0
+Kenya,KEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,88.0,,,0
+Kenya,KEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,89.0,,,0
+Kiribati,KIR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Kiribati,KIR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+Kiribati,KIR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,90.0,,,0
+Kiribati,KIR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,81.0,,,0
+Kiribati,KIR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,78.0,,,0
+"Korea, Dem. People's Rep.",PRK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+"Korea, Dem. People's Rep.",PRK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+"Korea, Dem. People's Rep.",PRK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,97.0,,,0
+"Korea, Dem. People's Rep.",PRK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.0,,,0
+"Korea, Dem. People's Rep.",PRK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,96.0,,,0
+"Korea, Rep.",KOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+"Korea, Rep.",KOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,98.0,,,0
+"Korea, Rep.",KOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,97.0,,,0
+"Korea, Rep.",KOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+"Korea, Rep.",KOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,98.0,,,0
+Kosovo,XKX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Kosovo,XKX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Kosovo,XKX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Kosovo,XKX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Kosovo,XKX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Kuwait,KWT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,92.0,,,0
+Kuwait,KWT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.0,,,0
+Kuwait,KWT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Kuwait,KWT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Kuwait,KWT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Kyrgyz Republic,KGZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,95.0,,,0
+Kyrgyz Republic,KGZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,94.0,,,0
+Kyrgyz Republic,KGZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,92.0,,,0
+Kyrgyz Republic,KGZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.0,,,0
+Kyrgyz Republic,KGZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+Lao PDR,LAO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,66.0,,,0
+Lao PDR,LAO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,75.0,,,0
+Lao PDR,LAO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,78.0,,,0
+Lao PDR,LAO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,82.0,,,0
+Lao PDR,LAO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,82.0,,,0
+Latvia,LVA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Latvia,LVA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,96.0,,,0
+Latvia,LVA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,98.0,,,0
+Latvia,LVA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Latvia,LVA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,94.0,,,0
+Lebanon,LBN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,83.0,,,0
+Lebanon,LBN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,83.0,,,0
+Lebanon,LBN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,83.0,,,0
+Lebanon,LBN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,83.0,,,0
+Lebanon,LBN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,83.0,,,0
+Lesotho,LSO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,92.0,,,0
+Lesotho,LSO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,90.0,,,0
+Lesotho,LSO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,89.0,,,0
+Lesotho,LSO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,87.0,,,0
+Lesotho,LSO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,83.0,,,0
+Liberia,LBR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,71.0,,,0
+Liberia,LBR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,81.0,,,0
+Liberia,LBR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,80.0,,,0
+Liberia,LBR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,73.0,,,0
+Liberia,LBR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,65.0,,,0
+Libya,LBY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,73.0,,,0
+Libya,LBY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,73.0,,,0
+Libya,LBY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,97.0,,,0
+Libya,LBY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,97.0,,,0
+Libya,LBY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+Liechtenstein,LIE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Liechtenstein,LIE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Liechtenstein,LIE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Liechtenstein,LIE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Liechtenstein,LIE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Lithuania,LTU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,92.0,,,0
+Lithuania,LTU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,92.0,,,0
+Lithuania,LTU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.0,,,0
+Lithuania,LTU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.0,,,0
+Lithuania,LTU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,93.0,,,0
+Luxembourg,LUX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Luxembourg,LUX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Luxembourg,LUX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Luxembourg,LUX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Luxembourg,LUX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+"Macao SAR, China",MAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+"Macao SAR, China",MAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+"Macao SAR, China",MAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+"Macao SAR, China",MAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+"Macao SAR, China",MAC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Madagascar,MDG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,69.0,,,0
+Madagascar,MDG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,74.0,,,0
+Madagascar,MDG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,65.0,,,0
+Madagascar,MDG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,68.0,,,0
+Madagascar,MDG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,62.0,,,0
+Malawi,MWI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,95.0,,,0
+Malawi,MWI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,92.0,,,0
+Malawi,MWI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,88.0,,,0
+Malawi,MWI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,84.0,,,0
+Malawi,MWI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,88.0,,,0
+Malaysia,MYS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+Malaysia,MYS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Malaysia,MYS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Malaysia,MYS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Malaysia,MYS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Maldives,MDV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+Maldives,MDV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,98.0,,,0
+Maldives,MDV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,98.0,,,0
+Maldives,MDV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Maldives,MDV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Mali,MLI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,77.0,,,0
+Mali,MLI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,76.0,,,0
+Mali,MLI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,77.0,,,0
+Mali,MLI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,76.0,,,0
+Mali,MLI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,70.0,,,0
+Malta,MLT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+Malta,MLT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Malta,MLT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,98.0,,,0
+Malta,MLT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,97.0,,,0
+Malta,MLT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+Marshall Islands,MHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,79.0,,,0
+Marshall Islands,MHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,81.0,,,0
+Marshall Islands,MHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,80.0,,,0
+Marshall Islands,MHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,71.0,,,0
+Marshall Islands,MHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,85.0,,,0
+Mauritania,MRT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,80.0,,,0
+Mauritania,MRT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,77.0,,,0
+Mauritania,MRT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,76.0,,,0
+Mauritania,MRT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,74.0,,,0
+Mauritania,MRT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,73.0,,,0
+Mauritius,MUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,96.0,,,0
+Mauritius,MUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Mauritius,MUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.0,,,0
+Mauritius,MUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.0,,,0
+Mauritius,MUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+Mexico,MEX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,82.0,,,0
+Mexico,MEX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,88.0,,,0
+Mexico,MEX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,85.0,,,0
+Mexico,MEX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,93.0,,,0
+Mexico,MEX,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,87.0,,,0
+"Micronesia, Fed. Sts.",FSM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,78.0,,,0
+"Micronesia, Fed. Sts.",FSM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,75.0,,,0
+"Micronesia, Fed. Sts.",FSM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,73.0,,,0
+"Micronesia, Fed. Sts.",FSM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,69.0,,,0
+"Micronesia, Fed. Sts.",FSM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,72.0,,,0
+Moldova,MDA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,91.0,,,0
+Moldova,MDA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.0,,,0
+Moldova,MDA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,88.0,,,0
+Moldova,MDA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,89.0,,,0
+Moldova,MDA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,87.0,,,0
+Monaco,MCO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Monaco,MCO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Monaco,MCO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Monaco,MCO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Monaco,MCO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Mongolia,MNG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+Mongolia,MNG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Mongolia,MNG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Mongolia,MNG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Mongolia,MNG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Montenegro,MNE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,87.0,,,0
+Montenegro,MNE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,86.0,,,0
+Montenegro,MNE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,87.0,,,0
+Montenegro,MNE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,89.0,,,0
+Montenegro,MNE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,89.0,,,0
+Morocco,MAR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Morocco,MAR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Morocco,MAR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Morocco,MAR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Morocco,MAR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Mozambique,MOZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,85.0,,,0
+Mozambique,MOZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,85.0,,,0
+Mozambique,MOZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,85.0,,,0
+Mozambique,MOZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,85.0,,,0
+Mozambique,MOZ,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,85.0,,,0
+Myanmar,MMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,90.0,,,0
+Myanmar,MMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.0,,,0
+Myanmar,MMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,89.0,,,0
+Myanmar,MMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,90.0,,,0
+Myanmar,MMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,89.0,,,0
+Namibia,NAM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,87.0,,,0
+Namibia,NAM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,89.0,,,0
+Namibia,NAM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,88.0,,,0
+Namibia,NAM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,85.0,,,0
+Namibia,NAM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,92.0,,,0
+Nauru,NRU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,96.0,,,0
+Nauru,NRU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,90.0,,,0
+Nauru,NRU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,87.0,,,0
+Nauru,NRU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,97.0,,,0
+Nauru,NRU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,91.0,,,0
+Nepal,NPL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,93.0,,,0
+Nepal,NPL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.0,,,0
+Nepal,NPL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,90.0,,,0
+Nepal,NPL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,87.0,,,0
+Nepal,NPL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,91.0,,,0
+Netherlands,NLD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.0,,,0
+Netherlands,NLD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.0,,,0
+Netherlands,NLD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.0,,,0
+Netherlands,NLD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+Netherlands,NLD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.0,,,0
+New Caledonia,NCL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+New Caledonia,NCL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+New Caledonia,NCL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+New Caledonia,NCL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+New Caledonia,NCL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+New Zealand,NZL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,92.0,,,0
+New Zealand,NZL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.0,,,0
+New Zealand,NZL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.0,,,0
+New Zealand,NZL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,92.0,,,0
+New Zealand,NZL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,92.0,,,0
+Nicaragua,NIC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+Nicaragua,NIC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,98.0,,,0
+Nicaragua,NIC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,98.0,,,0
+Nicaragua,NIC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Nicaragua,NIC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,98.0,,,0
+Niger,NER,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,81.0,,,0
+Niger,NER,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,79.0,,,0
+Niger,NER,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,85.0,,,0
+Niger,NER,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,80.0,,,0
+Niger,NER,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,84.0,,,0
+Nigeria,NGA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,66.0,,,0
+Nigeria,NGA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,61.0,,,0
+Nigeria,NGA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,55.0,,,0
+Nigeria,NGA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,53.0,,,0
+Nigeria,NGA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,42.0,,,0
+North Macedonia,MKD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,92.0,,,0
+North Macedonia,MKD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.0,,,0
+North Macedonia,MKD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,91.0,,,0
+North Macedonia,MKD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+North Macedonia,MKD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,91.0,,,0
+Northern Mariana Islands,MNP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Northern Mariana Islands,MNP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Northern Mariana Islands,MNP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Northern Mariana Islands,MNP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Northern Mariana Islands,MNP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Norway,NOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Norway,NOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,96.0,,,0
+Norway,NOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,96.0,,,0
+Norway,NOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.0,,,0
+Norway,NOR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.0,,,0
+Oman,OMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Oman,OMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Oman,OMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Oman,OMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Oman,OMN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Pakistan,PAK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,84.0,,,0
+Pakistan,PAK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,80.0,,,0
+Pakistan,PAK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,75.0,,,0
+Pakistan,PAK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,75.0,,,0
+Pakistan,PAK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,72.0,,,0
+Palau,PLW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Palau,PLW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+Palau,PLW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,97.0,,,0
+Palau,PLW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Palau,PLW,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,90.0,,,0
+Panama,PAN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,88.0,,,0
+Panama,PAN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,88.0,,,0
+Panama,PAN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,81.0,,,0
+Panama,PAN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,86.0,,,0
+Panama,PAN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,73.0,,,0
+Papua New Guinea,PNG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,35.0,,,0
+Papua New Guinea,PNG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,35.0,,,0
+Papua New Guinea,PNG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,36.0,,,0
+Papua New Guinea,PNG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,46.0,,,0
+Papua New Guinea,PNG,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,49.0,,,0
+Paraguay,PRY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,86.0,,,0
+Paraguay,PRY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,88.0,,,0
+Paraguay,PRY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,91.0,,,0
+Paraguay,PRY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,92.0,,,0
+Paraguay,PRY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,92.0,,,0
+Peru,PER,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,88.0,,,0
+Peru,PER,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,89.0,,,0
+Peru,PER,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,89.0,,,0
+Peru,PER,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,90.0,,,0
+Peru,PER,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,90.0,,,0
+Philippines,PHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,84.0,,,0
+Philippines,PHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,84.0,,,0
+Philippines,PHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,84.0,,,0
+Philippines,PHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,84.0,,,0
+Philippines,PHL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,76.0,,,0
+Poland,POL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,95.0,,,0
+Poland,POL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+Poland,POL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,96.0,,,0
+Poland,POL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Poland,POL,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,98.0,,,0
+Portugal,PRT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Portugal,PRT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Portugal,PRT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,98.0,,,0
+Portugal,PRT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Portugal,PRT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,98.0,,,0
+Puerto Rico (US),PRI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Puerto Rico (US),PRI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Puerto Rico (US),PRI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Puerto Rico (US),PRI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Puerto Rico (US),PRI,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Qatar,QAT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+Qatar,QAT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,98.0,,,0
+Qatar,QAT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,97.0,,,0
+Qatar,QAT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Qatar,QAT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Romania,ROU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,88.0,,,0
+Romania,ROU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,86.0,,,0
+Romania,ROU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,82.0,,,0
+Romania,ROU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,89.0,,,0
+Romania,ROU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,89.0,,,0
+Russian Federation,RUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Russian Federation,RUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Russian Federation,RUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,97.0,,,0
+Russian Federation,RUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,97.0,,,0
+Russian Federation,RUS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+Rwanda,RWA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+Rwanda,RWA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Rwanda,RWA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,98.0,,,0
+Rwanda,RWA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Rwanda,RWA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,98.0,,,0
+Samoa,WSM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,68.0,,,0
+Samoa,WSM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,44.0,,,0
+Samoa,WSM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,67.0,,,0
+Samoa,WSM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,74.0,,,0
+Samoa,WSM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,80.0,,,0
+San Marino,SMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,88.0,,,0
+San Marino,SMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,90.0,,,0
+San Marino,SMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,88.0,,,0
+San Marino,SMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,86.0,,,0
+San Marino,SMR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,85.0,,,0
+Sao Tome and Principe,STP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,95.0,,,0
+Sao Tome and Principe,STP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+Sao Tome and Principe,STP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,95.0,,,0
+Sao Tome and Principe,STP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.0,,,0
+Sao Tome and Principe,STP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,96.0,,,0
+Saudi Arabia,SAU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,96.0,,,0
+Saudi Arabia,SAU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,96.0,,,0
+Saudi Arabia,SAU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,98.0,,,0
+Saudi Arabia,SAU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Saudi Arabia,SAU,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,98.0,,,0
+Senegal,SEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,91.0,,,0
+Senegal,SEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,92.0,,,0
+Senegal,SEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,93.0,,,0
+Senegal,SEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,93.0,,,0
+Senegal,SEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,89.0,,,0
+Serbia,SRB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Serbia,SRB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Serbia,SRB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,95.0,,,0
+Serbia,SRB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,93.0,,,0
+Serbia,SRB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.0,,,0
+Seychelles,SYC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Seychelles,SYC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Seychelles,SYC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,97.0,,,0
+Seychelles,SYC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.0,,,0
+Seychelles,SYC,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+Sierra Leone,SLE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,95.0,,,0
+Sierra Leone,SLE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.0,,,0
+Sierra Leone,SLE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,90.0,,,0
+Sierra Leone,SLE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,84.0,,,0
+Sierra Leone,SLE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,86.0,,,0
+Singapore,SGP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Singapore,SGP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Singapore,SGP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,96.0,,,0
+Singapore,SGP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,97.0,,,0
+Singapore,SGP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,96.0,,,0
+Sint Maarten (Dutch part),SXM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Sint Maarten (Dutch part),SXM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Sint Maarten (Dutch part),SXM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Sint Maarten (Dutch part),SXM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Sint Maarten (Dutch part),SXM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Slovak Republic,SVK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Slovak Republic,SVK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Slovak Republic,SVK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,96.0,,,0
+Slovak Republic,SVK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.0,,,0
+Slovak Republic,SVK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,96.0,,,0
+Slovenia,SVN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,95.0,,,0
+Slovenia,SVN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.0,,,0
+Slovenia,SVN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.0,,,0
+Slovenia,SVN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.0,,,0
+Slovenia,SVN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.0,,,0
+Solomon Islands,SLB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.0,,,0
+Solomon Islands,SLB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,85.0,,,0
+Solomon Islands,SLB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,83.0,,,0
+Solomon Islands,SLB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.0,,,0
+Solomon Islands,SLB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,87.0,,,0
+"Somalia, Fed. Rep.",SOM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,57.0,,,0
+"Somalia, Fed. Rep.",SOM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,53.0,,,0
+"Somalia, Fed. Rep.",SOM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,51.0,,,0
+"Somalia, Fed. Rep.",SOM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,49.0,,,0
+"Somalia, Fed. Rep.",SOM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,48.0,,,0
+South Africa,ZAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,85.0,,,0
+South Africa,ZAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,82.0,,,0
+South Africa,ZAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,84.0,,,0
+South Africa,ZAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,85.0,,,0
+South Africa,ZAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,85.0,,,0
+South Sudan,SSD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,61.0,,,0
+South Sudan,SSD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,59.0,,,0
+South Sudan,SSD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,52.0,,,0
+South Sudan,SSD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,45.0,,,0
+South Sudan,SSD,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,46.0,,,0
+Spain,ESP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,95.0,,,0
+Spain,ESP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,96.0,,,0
+Spain,ESP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,95.0,,,0
+Spain,ESP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,97.0,,,0
+Spain,ESP,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+Sri Lanka,LKA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Sri Lanka,LKA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Sri Lanka,LKA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Sri Lanka,LKA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Sri Lanka,LKA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+St. Kitts and Nevis,KNA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+St. Kitts and Nevis,KNA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,98.0,,,0
+St. Kitts and Nevis,KNA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,98.0,,,0
+St. Kitts and Nevis,KNA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+St. Kitts and Nevis,KNA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,94.0,,,0
+St. Lucia,LCA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,92.0,,,0
+St. Lucia,LCA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,95.0,,,0
+St. Lucia,LCA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,80.0,,,0
+St. Lucia,LCA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+St. Lucia,LCA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+St. Martin (French part),MAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+St. Martin (French part),MAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+St. Martin (French part),MAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+St. Martin (French part),MAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+St. Martin (French part),MAF,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+St. Vincent and the Grenadines,VCT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+St. Vincent and the Grenadines,VCT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+St. Vincent and the Grenadines,VCT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+St. Vincent and the Grenadines,VCT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+St. Vincent and the Grenadines,VCT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Sudan,SDN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,93.0,,,0
+Sudan,SDN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.0,,,0
+Sudan,SDN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,95.0,,,0
+Sudan,SDN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,93.0,,,0
+Sudan,SDN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,93.0,,,0
+Suriname,SUR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,77.0,,,0
+Suriname,SUR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,81.0,,,0
+Suriname,SUR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,67.0,,,0
+Suriname,SUR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,77.0,,,0
+Suriname,SUR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,73.0,,,0
+Sweden,SWE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+Sweden,SWE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Sweden,SWE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,97.0,,,0
+Sweden,SWE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Sweden,SWE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,98.0,,,0
+Switzerland,CHE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,96.0,,,0
+Switzerland,CHE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,96.0,,,0
+Switzerland,CHE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,96.0,,,0
+Switzerland,CHE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.0,,,0
+Switzerland,CHE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,96.0,,,0
+Syrian Arab Republic,SYR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,67.0,,,0
+Syrian Arab Republic,SYR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,60.0,,,0
+Syrian Arab Republic,SYR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,61.0,,,0
+Syrian Arab Republic,SYR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,55.0,,,0
+Syrian Arab Republic,SYR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,54.0,,,0
+Tajikistan,TJK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Tajikistan,TJK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,96.0,,,0
+Tajikistan,TJK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,97.0,,,0
+Tajikistan,TJK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.0,,,0
+Tajikistan,TJK,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,96.0,,,0
+Tanzania,TZA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,91.0,,,0
+Tanzania,TZA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,89.0,,,0
+Tanzania,TZA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,90.0,,,0
+Tanzania,TZA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,92.0,,,0
+Tanzania,TZA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,96.0,,,0
+Thailand,THA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,97.0,,,0
+Thailand,THA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Thailand,THA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Thailand,THA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Thailand,THA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Timor-Leste,TLS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,83.0,,,0
+Timor-Leste,TLS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,83.0,,,0
+Timor-Leste,TLS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,83.0,,,0
+Timor-Leste,TLS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,79.0,,,0
+Timor-Leste,TLS,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,76.0,,,0
+Togo,TGO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,86.0,,,0
+Togo,TGO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,82.0,,,0
+Togo,TGO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,84.0,,,0
+Togo,TGO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,82.0,,,0
+Togo,TGO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,82.0,,,0
+Tonga,TON,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Tonga,TON,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Tonga,TON,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Tonga,TON,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.0,,,0
+Tonga,TON,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,96.0,,,0
+Trinidad and Tobago,TTO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,93.0,,,0
+Trinidad and Tobago,TTO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Trinidad and Tobago,TTO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,89.0,,,0
+Trinidad and Tobago,TTO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,97.0,,,0
+Trinidad and Tobago,TTO,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,96.0,,,0
+Tunisia,TUN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,98.0,,,0
+Tunisia,TUN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,97.0,,,0
+Tunisia,TUN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,98.0,,,0
+Tunisia,TUN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Tunisia,TUN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,98.0,,,0
+Turkiye,TUR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Turkiye,TUR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,98.0,,,0
+Turkiye,TUR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,96.0,,,0
+Turkiye,TUR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Turkiye,TUR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+Turkmenistan,TKM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+Turkmenistan,TKM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+Turkmenistan,TKM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Turkmenistan,TKM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,98.0,,,0
+Turkmenistan,TKM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Turks and Caicos Islands,TCA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Turks and Caicos Islands,TCA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Turks and Caicos Islands,TCA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Turks and Caicos Islands,TCA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Turks and Caicos Islands,TCA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+Tuvalu,TUV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,92.0,,,0
+Tuvalu,TUV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,89.0,,,0
+Tuvalu,TUV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,96.0,,,0
+Tuvalu,TUV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.0,,,0
+Tuvalu,TUV,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,96.0,,,0
+Uganda,UGA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,93.0,,,0
+Uganda,UGA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,93.0,,,0
+Uganda,UGA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.0,,,0
+Uganda,UGA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,93.0,,,0
+Uganda,UGA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,89.0,,,0
+Ukraine,UKR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,80.0,,,0
+Ukraine,UKR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,69.0,,,0
+Ukraine,UKR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,50.0,,,0
+Ukraine,UKR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,19.0,,,0
+Ukraine,UKR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,23.0,,,0
+United Arab Emirates,ARE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+United Arab Emirates,ARE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+United Arab Emirates,ARE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,97.0,,,0
+United Arab Emirates,ARE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+United Arab Emirates,ARE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+United Kingdom,GBR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,93.0,,,0
+United Kingdom,GBR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,94.0,,,0
+United Kingdom,GBR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.0,,,0
+United Kingdom,GBR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,94.0,,,0
+United Kingdom,GBR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.0,,,0
+United States,USA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.0,,,0
+United States,USA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,94.0,,,0
+United States,USA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.0,,,0
+United States,USA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+United States,USA,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.0,,,0
+Uruguay,URY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,94.0,,,0
+Uruguay,URY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,91.0,,,0
+Uruguay,URY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,93.0,,,0
+Uruguay,URY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+Uruguay,URY,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,95.0,,,0
+Uzbekistan,UZB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,96.0,,,0
+Uzbekistan,UZB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,98.0,,,0
+Uzbekistan,UZB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+Uzbekistan,UZB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+Uzbekistan,UZB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+Vanuatu,VUT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,90.0,,,0
+Vanuatu,VUT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,85.0,,,0
+Vanuatu,VUT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,85.0,,,0
+Vanuatu,VUT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,81.0,,,0
+Vanuatu,VUT,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,80.0,,,0
+"Venezuela, RB",VEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,64.0,,,0
+"Venezuela, RB",VEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,60.0,,,0
+"Venezuela, RB",VEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,66.0,,,0
+"Venezuela, RB",VEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,84.0,,,0
+"Venezuela, RB",VEN,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,87.0,,,0
+Viet Nam,VNM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,89.0,,,0
+Viet Nam,VNM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,75.0,,,0
+Viet Nam,VNM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.0,,,0
+Viet Nam,VNM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,96.0,,,0
+Viet Nam,VNM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,97.0,,,0
+Virgin Islands (U.S.),VIR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,,,,0
+Virgin Islands (U.S.),VIR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,,,,0
+Virgin Islands (U.S.),VIR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,,,,0
+Virgin Islands (U.S.),VIR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,,,,0
+Virgin Islands (U.S.),VIR,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,,,,0
+West Bank and Gaza,PSE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,99.0,,,0
+West Bank and Gaza,PSE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,99.0,,,0
+West Bank and Gaza,PSE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,99.0,,,0
+West Bank and Gaza,PSE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,99.0,,,0
+West Bank and Gaza,PSE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,99.0,,,0
+"Yemen, Rep.",YEM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,60.0,,,0
+"Yemen, Rep.",YEM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,54.0,,,0
+"Yemen, Rep.",YEM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,59.0,,,0
+"Yemen, Rep.",YEM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,63.0,,,0
+"Yemen, Rep.",YEM,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,63.0,,,0
+Zambia,ZMB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,88.0,,,0
+Zambia,ZMB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,90.0,,,0
+Zambia,ZMB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,94.0,,,0
+Zambia,ZMB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,95.0,,,0
+Zambia,ZMB,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,90.0,,,0
+Zimbabwe,ZWE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,90.0,,,0
+Zimbabwe,ZWE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,89.0,,,0
+Zimbabwe,ZWE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,89.0,,,0
+Zimbabwe,ZWE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,90.0,,,0
+Zimbabwe,ZWE,SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,87.0,,,0

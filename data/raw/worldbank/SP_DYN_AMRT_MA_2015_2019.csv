@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,unit,obs_status,decimal
+Africa Eastern and Southern,AFE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,301.917613488271,,,0
+Africa Eastern and Southern,AFE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,309.267565659061,,,0
+Africa Eastern and Southern,AFE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,318.596070447426,,,0
+Africa Eastern and Southern,AFE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,324.589008816724,,,0
+Africa Eastern and Southern,AFE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,329.501632484234,,,0
+Africa Western and Central,AFW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,329.888601038704,,,0
+Africa Western and Central,AFW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,329.381800556962,,,0
+Africa Western and Central,AFW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,333.887280543414,,,0
+Africa Western and Central,AFW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,335.096762224717,,,0
+Africa Western and Central,AFW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,339.593407910839,,,0
+Arab World,ARB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,156.292734970253,,,0
+Arab World,ARB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,162.561556976004,,,0
+Arab World,ARB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,167.683247642777,,,0
+Arab World,ARB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,173.614270242729,,,0
+Arab World,ARB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,174.965647062469,,,0
+Caribbean small states,CSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,211.265168775407,,,0
+Caribbean small states,CSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,212.864924204488,,,0
+Caribbean small states,CSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,211.071707834897,,,0
+Caribbean small states,CSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,212.854329342611,,,0
+Caribbean small states,CSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,214.562834542237,,,0
+Central Europe and the Baltics,CEB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,157.809768580936,,,0
+Central Europe and the Baltics,CEB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,161.650307416758,,,0
+Central Europe and the Baltics,CEB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,161.27652916056,,,0
+Central Europe and the Baltics,CEB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,164.20999450953,,,0
+Central Europe and the Baltics,CEB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,166.955371335911,,,0
+Early-demographic dividend,EAR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,193.013868396987,,,0
+Early-demographic dividend,EAR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,196.659075838351,,,0
+Early-demographic dividend,EAR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,199.382752350209,,,0
+Early-demographic dividend,EAR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,202.904385147684,,,0
+Early-demographic dividend,EAR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,205.91383403001,,,0
+East Asia & Pacific,EAS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,134.097746035326,,,0
+East Asia & Pacific,EAS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,135.886346367624,,,0
+East Asia & Pacific,EAS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,139.732297389491,,,0
+East Asia & Pacific,EAS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,139.398337350551,,,0
+East Asia & Pacific,EAS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,140.654528927401,,,0
+East Asia & Pacific (excluding high income),EAP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,141.01427094546,,,0
+East Asia & Pacific (excluding high income),EAP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,142.893992821898,,,0
+East Asia & Pacific (excluding high income),EAP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,146.988394382262,,,0
+East Asia & Pacific (excluding high income),EAP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,146.368874709447,,,0
+East Asia & Pacific (excluding high income),EAP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,147.626225878312,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,140.576895577958,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,142.577409456073,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,146.757240030981,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,146.167684068679,,,0
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,147.438974423052,,,0
+Euro area,EMU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,81.3894593263426,,,0
+Euro area,EMU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,84.1542685828639,,,0
+Euro area,EMU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,85.3000537056314,,,0
+Euro area,EMU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,87.1840482862649,,,0
+Euro area,EMU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,90.1495962503396,,,0
+Europe & Central Asia,ECS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,146.058255142389,,,0
+Europe & Central Asia,ECS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,149.354390484787,,,0
+Europe & Central Asia,ECS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,150.293146883224,,,0
+Europe & Central Asia,ECS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,156.501365250386,,,0
+Europe & Central Asia,ECS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,161.673679942508,,,0
+Europe & Central Asia (excluding high income),ECA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,173.820896917865,,,0
+Europe & Central Asia (excluding high income),ECA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,179.244160942701,,,0
+Europe & Central Asia (excluding high income),ECA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,181.315403647229,,,0
+Europe & Central Asia (excluding high income),ECA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,186.85407594858,,,0
+Europe & Central Asia (excluding high income),ECA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,192.080782478965,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,209.293845705377,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,211.752740714819,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,212.914622745941,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,223.436225846342,,,0
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,231.104343947284,,,0
+European Union,EUU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,95.9870352833569,,,0
+European Union,EUU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,99.0132114227351,,,0
+European Union,EUU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,99.9811856431414,,,0
+European Union,EUU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,102.021769125704,,,0
+European Union,EUU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,104.914398491606,,,0
+Fragile and conflict affected situations,FCS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,291.504066004259,,,0
+Fragile and conflict affected situations,FCS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,296.380497466921,,,0
+Fragile and conflict affected situations,FCS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,303.623190253891,,,0
+Fragile and conflict affected situations,FCS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,306.364525041204,,,0
+Fragile and conflict affected situations,FCS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,307.393927149714,,,0
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,287.329068488485,,,0
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,289.973213162723,,,0
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,294.569052325704,,,0
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,295.928778983864,,,0
+Heavily indebted poor countries (HIPC),HPC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,300.234447777505,,,0
+High income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,118.806525440789,,,0
+High income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,120.171610535522,,,0
+High income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,121.162586595544,,,0
+High income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,124.741402678737,,,0
+High income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,126.938173123933,,,0
+IBRD only,IBD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,165.593058663419,,,0
+IBRD only,IBD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,168.466888486144,,,0
+IBRD only,IBD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,172.196079626325,,,0
+IBRD only,IBD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,174.753488958322,,,0
+IBRD only,IBD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,176.579629732291,,,0
+IDA & IBRD total,IBT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,188.670816718078,,,0
+IDA & IBRD total,IBT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,191.477621171211,,,0
+IDA & IBRD total,IBT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,195.031315830326,,,0
+IDA & IBRD total,IBT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,197.157247560694,,,0
+IDA & IBRD total,IBT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,199.23176102113,,,0
+IDA blend,IDB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,288.809886911652,,,0
+IDA blend,IDB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,290.637453099688,,,0
+IDA blend,IDB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,292.53251921844,,,0
+IDA blend,IDB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,294.17906436415,,,0
+IDA blend,IDB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,297.215397773836,,,0
+IDA only,IDX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,253.454796534003,,,0
+IDA only,IDX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,258.837674541621,,,0
+IDA only,IDX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,264.485154274464,,,0
+IDA only,IDX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,266.543822158487,,,0
+IDA only,IDX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,271.33993801585,,,0
+IDA total,IDA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,265.997626404681,,,0
+IDA total,IDA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,270.141298188664,,,0
+IDA total,IDA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,274.472216601033,,,0
+IDA total,IDA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,276.406368672151,,,0
+IDA total,IDA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,280.598544068618,,,0
+Late-demographic dividend,LTE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,137.52363610133,,,0
+Late-demographic dividend,LTE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,139.829604622569,,,0
+Late-demographic dividend,LTE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,144.229321188795,,,0
+Late-demographic dividend,LTE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,145.450852983946,,,0
+Late-demographic dividend,LTE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,147.815095952564,,,0
+Latin America & Caribbean,LCN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,172.089947794466,,,0
+Latin America & Caribbean,LCN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,175.538423204293,,,0
+Latin America & Caribbean,LCN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,177.951949816822,,,0
+Latin America & Caribbean,LCN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,180.786143771922,,,0
+Latin America & Caribbean,LCN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,178.725258162736,,,0
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,173.62156942777,,,0
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,177.314465103569,,,0
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,178.941138263152,,,0
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,181.609570810162,,,0
+Latin America & Caribbean (excluding high income),LAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,180.378221525637,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,173.081464922749,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,176.650522313093,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,179.043168901659,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,182.015414155754,,,0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,179.96157521727,,,0
+Least developed countries: UN classification,LDC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,260.072068478803,,,0
+Least developed countries: UN classification,LDC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,264.044034101214,,,0
+Least developed countries: UN classification,LDC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,268.991351301527,,,0
+Least developed countries: UN classification,LDC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,270.679062707575,,,0
+Least developed countries: UN classification,LDC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,274.746776693286,,,0
+Low & middle income,LMY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,185.573969238881,,,0
+Low & middle income,LMY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,188.402675520017,,,0
+Low & middle income,LMY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,191.97766780425,,,0
+Low & middle income,LMY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,193.493030925151,,,0
+Low & middle income,LMY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,195.332743211287,,,0
+Low income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,287.015079020733,,,0
+Low income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,294.073831736369,,,0
+Low income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,301.814180080985,,,0
+Low income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,301.251073083076,,,0
+Low income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,306.349182732367,,,0
+Lower middle income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,213.358748132804,,,0
+Lower middle income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,216.239616994918,,,0
+Lower middle income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,219.280482104829,,,0
+Lower middle income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,222.570619946811,,,0
+Lower middle income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,225.894819541584,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,163.398652520132,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,167.971177116991,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,170.79012332734,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,173.647978868575,,,0
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,175.645644137867,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,176.384210797084,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,182.142923326698,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,185.708024519232,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,188.624308745404,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,189.815045726864,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,176.786444249684,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,182.547407558067,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,186.133624069565,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,189.044243595546,,,0
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,190.211448366582,,,0
+Middle income,MIC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,177.828054388748,,,0
+Middle income,MIC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,180.53113003813,,,0
+Middle income,MIC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,183.972473354771,,,0
+Middle income,MIC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,185.794759149716,,,0
+Middle income,MIC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,187.538957742735,,,0
+North America,NAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,131.30979530267,,,0
+North America,NAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,132.318318383697,,,0
+North America,NAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,133.858789748798,,,0
+North America,NAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,132.908581633994,,,0
+North America,NAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,128.968695111432,,,0
+Not classified,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,,,,0
+Not classified,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,,,,0
+Not classified,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,,,,0
+Not classified,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,,,,0
+Not classified,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,,,,0
+OECD members,OED,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,110.316865894478,,,0
+OECD members,OED,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,112.085451798681,,,0
+OECD members,OED,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,112.779462118369,,,0
+OECD members,OED,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,113.176659962818,,,0
+OECD members,OED,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,112.850441133827,,,0
+Other small states,OSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,181.388003915088,,,0
+Other small states,OSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,185.72817324823,,,0
+Other small states,OSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,188.350347664899,,,0
+Other small states,OSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,194.102770119889,,,0
+Other small states,OSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,198.110344555384,,,0
+Pacific island small states,PSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,231.354229530951,,,0
+Pacific island small states,PSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,233.772656055791,,,0
+Pacific island small states,PSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,236.844077053479,,,0
+Pacific island small states,PSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,240.069301131717,,,0
+Pacific island small states,PSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,248.30670894016,,,0
+Post-demographic dividend,PST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,103.170596207126,,,0
+Post-demographic dividend,PST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,106.153744869237,,,0
+Post-demographic dividend,PST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,106.997399984101,,,0
+Post-demographic dividend,PST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,108.247824081396,,,0
+Post-demographic dividend,PST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,108.936555790309,,,0
+Pre-demographic dividend,PRE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,312.137173762925,,,0
+Pre-demographic dividend,PRE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,315.635554644284,,,0
+Pre-demographic dividend,PRE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,324.332378716859,,,0
+Pre-demographic dividend,PRE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,327.099683810107,,,0
+Pre-demographic dividend,PRE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,328.212608122974,,,0
+Small states,SST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,194.459807922892,,,0
+Small states,SST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,197.980821614763,,,0
+Small states,SST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,199.64801185764,,,0
+Small states,SST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,204.190917323763,,,0
+Small states,SST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,208.191347126604,,,0
+South Asia,SAS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,187.682292016477,,,0
+South Asia,SAS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,191.262312598194,,,0
+South Asia,SAS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,194.900217621834,,,0
+South Asia,SAS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,198.506868506122,,,0
+South Asia,SAS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,202.299226521456,,,0
+South Asia (IDA & IBRD),TSA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,187.682292016477,,,0
+South Asia (IDA & IBRD),TSA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,191.262312598194,,,0
+South Asia (IDA & IBRD),TSA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,194.900217621834,,,0
+South Asia (IDA & IBRD),TSA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,198.506868506122,,,0
+South Asia (IDA & IBRD),TSA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,202.299226521456,,,0
+Sub-Saharan Africa,SSF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,313.28725322784,,,0
+Sub-Saharan Africa,SSF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,317.455330016808,,,0
+Sub-Saharan Africa,SSF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,324.829812569536,,,0
+Sub-Saharan Africa,SSF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,328.873155071842,,,0
+Sub-Saharan Africa,SSF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,333.617579887226,,,0
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,319.749388406938,,,0
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,323.880082918655,,,0
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,331.574040672501,,,0
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,335.394216591694,,,0
+Sub-Saharan Africa (excluding high income),SSA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,340.159138605211,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,313.28725322784,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,317.455330016808,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,324.829812569536,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,328.873155071842,,,0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,333.617579887226,,,0
+Upper middle income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,142.837073478402,,,0
+Upper middle income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,145.918969114668,,,0
+Upper middle income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,150.197655685068,,,0
+Upper middle income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,151.097576831436,,,0
+Upper middle income,,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,151.827219332481,,,0
+World,WLD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,174.44702659893,,,0
+World,WLD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,176.895797155371,,,0
+World,WLD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,179.914025346048,,,0
+World,WLD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,181.730953920495,,,0
+World,WLD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,183.44595104161,,,0
+Afghanistan,AFG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,315.945,,,0
+Afghanistan,AFG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,330.952,,,0
+Afghanistan,AFG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,322.115,,,0
+Afghanistan,AFG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,280.475,,,0
+Afghanistan,AFG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,283.387,,,0
+Albania,ALB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,94.919,,,0
+Albania,ALB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,98.063,,,0
+Albania,ALB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,100.915,,,0
+Albania,ALB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,105.184,,,0
+Albania,ALB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,108.939,,,0
+Algeria,DZA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,89.236,,,0
+Algeria,DZA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,91.263,,,0
+Algeria,DZA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,93.333,,,0
+Algeria,DZA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,94.973,,,0
+Algeria,DZA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,97.224,,,0
+American Samoa,ASM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,207.73,,,0
+American Samoa,ASM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,203.412,,,0
+American Samoa,ASM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,199.21,,,0
+American Samoa,ASM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,199.441,,,0
+American Samoa,ASM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,195.586,,,0
+Andorra,AND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,42.064,,,0
+Andorra,AND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,41.141,,,0
+Andorra,AND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,40.611,,,0
+Andorra,AND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,40.059,,,0
+Andorra,AND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,39.998,,,0
+Angola,AGO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,287.423,,,0
+Angola,AGO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,291.681,,,0
+Angola,AGO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,296.81,,,0
+Angola,AGO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,301.441,,,0
+Angola,AGO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,307.183,,,0
+Antigua and Barbuda,ATG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,130.309,,,0
+Antigua and Barbuda,ATG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,129.854,,,0
+Antigua and Barbuda,ATG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,129.66,,,0
+Antigua and Barbuda,ATG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,130.783,,,0
+Antigua and Barbuda,ATG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,132.706,,,0
+Argentina,ARG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,130.712,,,0
+Argentina,ARG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,135.063,,,0
+Argentina,ARG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,135.684,,,0
+Argentina,ARG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,146.239,,,0
+Argentina,ARG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,142.693,,,0
+Armenia,ARM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,184.204,,,0
+Armenia,ARM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,185.984,,,0
+Armenia,ARM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,187.611,,,0
+Armenia,ARM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,189.616,,,0
+Armenia,ARM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,192.047,,,0
+Aruba,ABW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,126.903,,,0
+Aruba,ABW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,130.119,,,0
+Aruba,ABW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,132.157,,,0
+Aruba,ABW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,134.527,,,0
+Aruba,ABW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,137.81,,,0
+Australia,AUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,75.203,,,0
+Australia,AUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,74.055,,,0
+Australia,AUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,77.31,,,0
+Australia,AUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,76.101,,,0
+Australia,AUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,78.367,,,0
+Austria,AUT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,75.489,,,0
+Austria,AUT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,79.401,,,0
+Austria,AUT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,79.032,,,0
+Austria,AUT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,80.37,,,0
+Austria,AUT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,84.688,,,0
+Azerbaijan,AZE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,165.759,,,0
+Azerbaijan,AZE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,172.541,,,0
+Azerbaijan,AZE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,178.338,,,0
+Azerbaijan,AZE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,174.364,,,0
+Azerbaijan,AZE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,180.769,,,0
+"Bahamas, The",BHS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,224.115,,,0
+"Bahamas, The",BHS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,214.439,,,0
+"Bahamas, The",BHS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,214.973,,,0
+"Bahamas, The",BHS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,216.127,,,0
+"Bahamas, The",BHS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,218.431,,,0
+Bahrain,BHR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,63.961,,,0
+Bahrain,BHR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,65.17,,,0
+Bahrain,BHR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,65.988,,,0
+Bahrain,BHR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,66.601,,,0
+Bahrain,BHR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,67.212,,,0
+Bangladesh,BGD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,161.882,,,0
+Bangladesh,BGD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,167.322,,,0
+Bangladesh,BGD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,172.886,,,0
+Bangladesh,BGD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,178.237,,,0
+Bangladesh,BGD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,183.044,,,0
+Barbados,BRB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,135.747,,,0
+Barbados,BRB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,137.05,,,0
+Barbados,BRB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,138.618,,,0
+Barbados,BRB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,139.768,,,0
+Barbados,BRB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,140.95,,,0
+Belarus,BLR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,,,,0
+Belarus,BLR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,231.323,,,0
+Belarus,BLR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,227.765,,,0
+Belarus,BLR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,234.903,,,0
+Belarus,BLR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,245.384,,,0
+Belgium,BEL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,77.72,,,0
+Belgium,BEL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,80.464,,,0
+Belgium,BEL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,82.997,,,0
+Belgium,BEL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,86.252,,,0
+Belgium,BEL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,89.437,,,0
+Belize,BLZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,208.514,,,0
+Belize,BLZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,212.994,,,0
+Belize,BLZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,217.41,,,0
+Belize,BLZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,220.35,,,0
+Belize,BLZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,222.867,,,0
+Benin,BEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,289.777,,,0
+Benin,BEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,287.678,,,0
+Benin,BEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,289.345,,,0
+Benin,BEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,289.781,,,0
+Benin,BEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,289.265,,,0
+Bermuda,BMU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,94.965,,,0
+Bermuda,BMU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,97.605,,,0
+Bermuda,BMU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,101.253,,,0
+Bermuda,BMU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,103.944,,,0
+Bermuda,BMU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,106.64,,,0
+Bhutan,BTN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,150.434,,,0
+Bhutan,BTN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,153.888,,,0
+Bhutan,BTN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,157.185,,,0
+Bhutan,BTN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,160.121,,,0
+Bhutan,BTN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,163.505,,,0
+Bolivia,BOL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,233.892,,,0
+Bolivia,BOL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,234.62,,,0
+Bolivia,BOL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,235.856,,,0
+Bolivia,BOL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,236.315,,,0
+Bolivia,BOL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,237.775,,,0
+Bosnia and Herzegovina,BIH,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,124.708,,,0
+Bosnia and Herzegovina,BIH,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,122.765,,,0
+Bosnia and Herzegovina,BIH,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,120.896,,,0
+Bosnia and Herzegovina,BIH,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,126.361,,,0
+Bosnia and Herzegovina,BIH,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,129.05,,,0
+Botswana,BWA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,260.564,,,0
+Botswana,BWA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,276.17,,,0
+Botswana,BWA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,295.151,,,0
+Botswana,BWA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,317.62,,,0
+Botswana,BWA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,340.507,,,0
+Brazil,BRA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,167.856,,,0
+Brazil,BRA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,173.671,,,0
+Brazil,BRA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,178.99,,,0
+Brazil,BRA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,185.917,,,0
+Brazil,BRA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,185.465,,,0
+British Virgin Islands,VGB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,104.827,,,0
+British Virgin Islands,VGB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,105.46,,,0
+British Virgin Islands,VGB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,109.956,,,0
+British Virgin Islands,VGB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,105.989,,,0
+British Virgin Islands,VGB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,106.19,,,0
+Brunei Darussalam,BRN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,141.614,,,0
+Brunei Darussalam,BRN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,142.533,,,0
+Brunei Darussalam,BRN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,143.31,,,0
+Brunei Darussalam,BRN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,143.941,,,0
+Brunei Darussalam,BRN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,144.419,,,0
+Bulgaria,BGR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,182.115,,,0
+Bulgaria,BGR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,183.928,,,0
+Bulgaria,BGR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,183.956,,,0
+Bulgaria,BGR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,187.257,,,0
+Bulgaria,BGR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,185.528,,,0
+Burkina Faso,BFA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,296.865,,,0
+Burkina Faso,BFA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,293.988,,,0
+Burkina Faso,BFA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,297.25,,,0
+Burkina Faso,BFA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,300.499,,,0
+Burkina Faso,BFA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,303.667,,,0
+Burundi,BDI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,298.92,,,0
+Burundi,BDI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,302.079,,,0
+Burundi,BDI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,306.464,,,0
+Burundi,BDI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,311.776,,,0
+Burundi,BDI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,321.905,,,0
+Cabo Verde,CPV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,172.377,,,0
+Cabo Verde,CPV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,176.019,,,0
+Cabo Verde,CPV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,179.933,,,0
+Cabo Verde,CPV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,185.213,,,0
+Cabo Verde,CPV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,188.117,,,0
+Cambodia,KHM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,211.548,,,0
+Cambodia,KHM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,211.763,,,0
+Cambodia,KHM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,212.064,,,0
+Cambodia,KHM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,213.631,,,0
+Cambodia,KHM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,215.206,,,0
+Cameroon,CMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,303.679,,,0
+Cameroon,CMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,311.566,,,0
+Cameroon,CMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,313.131,,,0
+Cameroon,CMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,319.138,,,0
+Cameroon,CMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,326.922,,,0
+Canada,CAN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,82.726,,,0
+Canada,CAN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,86.141,,,0
+Canada,CAN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,86.016,,,0
+Canada,CAN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,82.791,,,0
+Canada,CAN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,81.203,,,0
+Cayman Islands,CYM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,129.815,,,0
+Cayman Islands,CYM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,130.339,,,0
+Cayman Islands,CYM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,131.834,,,0
+Cayman Islands,CYM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,134.254,,,0
+Cayman Islands,CYM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,136.861,,,0
+Central African Republic,CAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,881.247,,,0
+Central African Republic,CAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,490.96,,,0
+Central African Republic,CAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,646.835,,,0
+Central African Republic,CAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,509.758,,,0
+Central African Republic,CAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,480.133,,,0
+Chad,TCD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,397.412,,,0
+Chad,TCD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,400.954,,,0
+Chad,TCD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,406.707,,,0
+Chad,TCD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,404.329,,,0
+Chad,TCD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,405.914,,,0
+Channel Islands,CHI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,63.0,,,0
+Channel Islands,CHI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,64.0,,,0
+Channel Islands,CHI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,64.0,,,0
+Channel Islands,CHI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,62.0,,,0
+Channel Islands,CHI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,61.0,,,0
+Chile,CHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,107.386,,,0
+Chile,CHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,103.499,,,0
+Chile,CHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,102.645,,,0
+Chile,CHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,105.275,,,0
+Chile,CHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,107.535,,,0
+China,CHN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,110.506,,,0
+China,CHN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,113.085,,,0
+China,CHN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,118.975,,,0
+China,CHN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,117.26,,,0
+China,CHN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,119.046,,,0
+Colombia,COL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,135.581,,,0
+Colombia,COL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,138.575,,,0
+Colombia,COL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,139.105,,,0
+Colombia,COL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,140.1,,,0
+Colombia,COL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,141.338,,,0
+Comoros,COM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,239.714,,,0
+Comoros,COM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,242.051,,,0
+Comoros,COM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,243.822,,,0
+Comoros,COM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,247.338,,,0
+Comoros,COM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,250.135,,,0
+"Congo, Dem. Rep.",COD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,300.878,,,0
+"Congo, Dem. Rep.",COD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,302.98,,,0
+"Congo, Dem. Rep.",COD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,305.87,,,0
+"Congo, Dem. Rep.",COD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,308.894,,,0
+"Congo, Dem. Rep.",COD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,312.278,,,0
+"Congo, Rep.",COG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,308.325,,,0
+"Congo, Rep.",COG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,289.105,,,0
+"Congo, Rep.",COG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,291.238,,,0
+"Congo, Rep.",COG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,294.263,,,0
+"Congo, Rep.",COG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,296.135,,,0
+Costa Rica,CRI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,114.38,,,0
+Costa Rica,CRI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,118.534,,,0
+Costa Rica,CRI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,114.996,,,0
+Costa Rica,CRI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,118.302,,,0
+Costa Rica,CRI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,113.642,,,0
+Cote d'Ivoire,CIV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,340.719,,,0
+Cote d'Ivoire,CIV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,346.909,,,0
+Cote d'Ivoire,CIV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,353.024,,,0
+Cote d'Ivoire,CIV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,359.042,,,0
+Cote d'Ivoire,CIV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,365.066,,,0
+Croatia,HRV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,120.964,,,0
+Croatia,HRV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,124.028,,,0
+Croatia,HRV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,122.353,,,0
+Croatia,HRV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,125.679,,,0
+Croatia,HRV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,127.876,,,0
+Cuba,CUB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,132.567,,,0
+Cuba,CUB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,130.765,,,0
+Cuba,CUB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,132.677,,,0
+Cuba,CUB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,131.816,,,0
+Cuba,CUB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,130.179,,,0
+Curacao,CUW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,138.3,,,0
+Curacao,CUW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,139.044,,,0
+Curacao,CUW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,139.643,,,0
+Curacao,CUW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,140.906,,,0
+Curacao,CUW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,134.507,,,0
+Cyprus,CYP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,62.309,,,0
+Cyprus,CYP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,62.491,,,0
+Cyprus,CYP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,63.405,,,0
+Cyprus,CYP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,64.895,,,0
+Cyprus,CYP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,65.924,,,0
+Czechia,CZE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,107.105,,,0
+Czechia,CZE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,110.448,,,0
+Czechia,CZE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,109.159,,,0
+Czechia,CZE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,109.118,,,0
+Czechia,CZE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,112.244,,,0
+Denmark,DNK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,73.629,,,0
+Denmark,DNK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,77.895,,,0
+Denmark,DNK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,78.186,,,0
+Denmark,DNK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,82.426,,,0
+Denmark,DNK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,82.945,,,0
+Djibouti,DJI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,267.784,,,0
+Djibouti,DJI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,270.655,,,0
+Djibouti,DJI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,274.902,,,0
+Djibouti,DJI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,279.034,,,0
+Djibouti,DJI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,286.379,,,0
+Dominica,DMA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,179.037,,,0
+Dominica,DMA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,176.666,,,0
+Dominica,DMA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,196.247,,,0
+Dominica,DMA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,184.11,,,0
+Dominica,DMA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,189.708,,,0
+Dominican Republic,DOM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,182.115,,,0
+Dominican Republic,DOM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,180.252,,,0
+Dominican Republic,DOM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,182.418,,,0
+Dominican Republic,DOM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,195.288,,,0
+Dominican Republic,DOM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,188.566,,,0
+Ecuador,ECU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,141.751,,,0
+Ecuador,ECU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,140.893,,,0
+Ecuador,ECU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,138.497,,,0
+Ecuador,ECU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,140.254,,,0
+Ecuador,ECU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,139.826,,,0
+"Egypt, Arab Rep.",EGY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,171.658,,,0
+"Egypt, Arab Rep.",EGY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,176.748,,,0
+"Egypt, Arab Rep.",EGY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,182.698,,,0
+"Egypt, Arab Rep.",EGY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,189.299,,,0
+"Egypt, Arab Rep.",EGY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,197.066,,,0
+El Salvador,SLV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,285.407,,,0
+El Salvador,SLV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,298.416,,,0
+El Salvador,SLV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,308.47,,,0
+El Salvador,SLV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,309.427,,,0
+El Salvador,SLV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,302.296,,,0
+Equatorial Guinea,GNQ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,273.066,,,0
+Equatorial Guinea,GNQ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,276.247,,,0
+Equatorial Guinea,GNQ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,280.775,,,0
+Equatorial Guinea,GNQ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,283.146,,,0
+Equatorial Guinea,GNQ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,287.465,,,0
+Eritrea,ERI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,232.112,,,0
+Eritrea,ERI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,235.896,,,0
+Eritrea,ERI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,239.994,,,0
+Eritrea,ERI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,244.603,,,0
+Eritrea,ERI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,247.112,,,0
+Estonia,EST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,147.038,,,0
+Estonia,EST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,157.234,,,0
+Estonia,EST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,154.542,,,0
+Estonia,EST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,168.184,,,0
+Estonia,EST,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,169.877,,,0
+Eswatini,SWZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,443.353,,,0
+Eswatini,SWZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,469.455,,,0
+Eswatini,SWZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,494.778,,,0
+Eswatini,SWZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,523.406,,,0
+Eswatini,SWZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,548.842,,,0
+Ethiopia,ETH,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,258.24,,,0
+Ethiopia,ETH,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,262.567,,,0
+Ethiopia,ETH,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,266.996,,,0
+Ethiopia,ETH,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,272.596,,,0
+Ethiopia,ETH,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,276.759,,,0
+Faroe Islands,FRO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,65.068,,,0
+Faroe Islands,FRO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,66.428,,,0
+Faroe Islands,FRO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,68.319,,,0
+Faroe Islands,FRO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,70.427,,,0
+Faroe Islands,FRO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,73.042,,,0
+Fiji,FJI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,261.445,,,0
+Fiji,FJI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,265.45,,,0
+Fiji,FJI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,269.328,,,0
+Fiji,FJI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,273.331,,,0
+Fiji,FJI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,289.36,,,0
+Finland,FIN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,87.746,,,0
+Finland,FIN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,89.882,,,0
+Finland,FIN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,90.175,,,0
+Finland,FIN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,94.85,,,0
+Finland,FIN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,94.538,,,0
+France,FRA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,91.761,,,0
+France,FRA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,94.2,,,0
+France,FRA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,95.38,,,0
+France,FRA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,97.921,,,0
+France,FRA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,101.59,,,0
+French Polynesia,PYF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,49.531,,,0
+French Polynesia,PYF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,50.94,,,0
+French Polynesia,PYF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,52.386,,,0
+French Polynesia,PYF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,53.908,,,0
+French Polynesia,PYF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,55.386,,,0
+Gabon,GAB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,252.323,,,0
+Gabon,GAB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,255.394,,,0
+Gabon,GAB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,256.765,,,0
+Gabon,GAB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,257.252,,,0
+Gabon,GAB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,258.185,,,0
+"Gambia, The",GMB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,259.059,,,0
+"Gambia, The",GMB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,263.202,,,0
+"Gambia, The",GMB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,265.331,,,0
+"Gambia, The",GMB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,267.62,,,0
+"Gambia, The",GMB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,270.232,,,0
+Georgia,GEO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,221.625,,,0
+Georgia,GEO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,226.744,,,0
+Georgia,GEO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,234.322,,,0
+Georgia,GEO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,240.464,,,0
+Georgia,GEO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,235.286,,,0
+Germany,DEU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,83.621,,,0
+Germany,DEU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,86.917,,,0
+Germany,DEU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,86.511,,,0
+Germany,DEU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,89.99,,,0
+Germany,DEU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,92.451,,,0
+Ghana,GHA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,272.585,,,0
+Ghana,GHA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,274.447,,,0
+Ghana,GHA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,276.379,,,0
+Ghana,GHA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,278.572,,,0
+Ghana,GHA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,281.229,,,0
+Gibraltar,GIB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,68.513,,,0
+Gibraltar,GIB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,69.672,,,0
+Gibraltar,GIB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,71.092,,,0
+Gibraltar,GIB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,72.065,,,0
+Gibraltar,GIB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,72.69,,,0
+Greece,GRC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,87.118,,,0
+Greece,GRC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,87.385,,,0
+Greece,GRC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,92.585,,,0
+Greece,GRC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,90.555,,,0
+Greece,GRC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,96.076,,,0
+Greenland,GRL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,218.781,,,0
+Greenland,GRL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,216.335,,,0
+Greenland,GRL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,215.299,,,0
+Greenland,GRL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,214.763,,,0
+Greenland,GRL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,216.885,,,0
+Grenada,GRD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,163.79,,,0
+Grenada,GRD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,165.096,,,0
+Grenada,GRD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,166.431,,,0
+Grenada,GRD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,167.871,,,0
+Grenada,GRD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,169.461,,,0
+Guam,GUM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,204.732,,,0
+Guam,GUM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,206.213,,,0
+Guam,GUM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,207.547,,,0
+Guam,GUM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,206.837,,,0
+Guam,GUM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,205.802,,,0
+Guatemala,GTM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,214.338,,,0
+Guatemala,GTM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,215.007,,,0
+Guatemala,GTM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,216.988,,,0
+Guatemala,GTM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,224.632,,,0
+Guatemala,GTM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,228.834,,,0
+Guinea,GIN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,280.567,,,0
+Guinea,GIN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,284.254,,,0
+Guinea,GIN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,288.144,,,0
+Guinea,GIN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,288.948,,,0
+Guinea,GIN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,297.606,,,0
+Guinea-Bissau,GNB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,295.575,,,0
+Guinea-Bissau,GNB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,301.491,,,0
+Guinea-Bissau,GNB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,307.392,,,0
+Guinea-Bissau,GNB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,313.377,,,0
+Guinea-Bissau,GNB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,319.76,,,0
+Guyana,GUY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,278.567,,,0
+Guyana,GUY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,282.886,,,0
+Guyana,GUY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,287.22,,,0
+Guyana,GUY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,294.672,,,0
+Guyana,GUY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,299.69,,,0
+Haiti,HTI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,276.405,,,0
+Haiti,HTI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,277.835,,,0
+Haiti,HTI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,279.048,,,0
+Haiti,HTI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,282.728,,,0
+Haiti,HTI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,283.399,,,0
+Honduras,HND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,183.007,,,0
+Honduras,HND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,183.864,,,0
+Honduras,HND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,185.677,,,0
+Honduras,HND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,186.978,,,0
+Honduras,HND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,190.602,,,0
+"Hong Kong SAR, China",HKG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,65.878,,,0
+"Hong Kong SAR, China",HKG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,66.141,,,0
+"Hong Kong SAR, China",HKG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,66.856,,,0
+"Hong Kong SAR, China",HKG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,67.231,,,0
+"Hong Kong SAR, China",HKG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,67.417,,,0
+Hungary,HUN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,159.172,,,0
+Hungary,HUN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,166.734,,,0
+Hungary,HUN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,168.058,,,0
+Hungary,HUN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,172.279,,,0
+Hungary,HUN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,177.627,,,0
+Iceland,ISL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,66.799,,,0
+Iceland,ISL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,71.189,,,0
+Iceland,ISL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,77.83,,,0
+Iceland,ISL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,67.526,,,0
+Iceland,ISL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,69.504,,,0
+India,IND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,191.12,,,0
+India,IND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,194.523,,,0
+India,IND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,197.986,,,0
+India,IND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,201.451,,,0
+India,IND,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,205.008,,,0
+Indonesia,IDN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,196.698,,,0
+Indonesia,IDN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,199.69,,,0
+Indonesia,IDN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,200.068,,,0
+Indonesia,IDN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,201.924,,,0
+Indonesia,IDN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,203.819,,,0
+"Iran, Islamic Rep.",IRN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,115.996,,,0
+"Iran, Islamic Rep.",IRN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,118.966,,,0
+"Iran, Islamic Rep.",IRN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,120.412,,,0
+"Iran, Islamic Rep.",IRN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,123.013,,,0
+"Iran, Islamic Rep.",IRN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,124.94,,,0
+Iraq,IRQ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,171.241,,,0
+Iraq,IRQ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,171.731,,,0
+Iraq,IRQ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,218.271,,,0
+Iraq,IRQ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,254.577,,,0
+Iraq,IRQ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,196.094,,,0
+Ireland,IRL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,79.415,,,0
+Ireland,IRL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,79.181,,,0
+Ireland,IRL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,78.688,,,0
+Ireland,IRL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,79.402,,,0
+Ireland,IRL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,81.439,,,0
+Isle of Man,IMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,81.249,,,0
+Isle of Man,IMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,81.55,,,0
+Isle of Man,IMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,81.681,,,0
+Isle of Man,IMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,81.854,,,0
+Isle of Man,IMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,82.113,,,0
+Israel,ISR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,69.139,,,0
+Israel,ISR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,70.479,,,0
+Israel,ISR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,69.934,,,0
+Israel,ISR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,70.229,,,0
+Israel,ISR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,72.927,,,0
+Italy,ITA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,61.477,,,0
+Italy,ITA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,63.213,,,0
+Italy,ITA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,66.516,,,0
+Italy,ITA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,64.479,,,0
+Italy,ITA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,67.307,,,0
+Jamaica,JAM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,199.149,,,0
+Jamaica,JAM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,197.139,,,0
+Jamaica,JAM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,188.991,,,0
+Jamaica,JAM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,184.195,,,0
+Jamaica,JAM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,179.589,,,0
+Japan,JPN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,64.385,,,0
+Japan,JPN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,65.299,,,0
+Japan,JPN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,66.614,,,0
+Japan,JPN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,68.747,,,0
+Japan,JPN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,70.19,,,0
+Jordan,JOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,95.697,,,0
+Jordan,JOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,99.518,,,0
+Jordan,JOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,104.27,,,0
+Jordan,JOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,110.424,,,0
+Jordan,JOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,116.073,,,0
+Kazakhstan,KAZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,223.888,,,0
+Kazakhstan,KAZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,231.022,,,0
+Kazakhstan,KAZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,239.429,,,0
+Kazakhstan,KAZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,249.331,,,0
+Kazakhstan,KAZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,260.95,,,0
+Kenya,KEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,365.562,,,0
+Kenya,KEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,367.198,,,0
+Kenya,KEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,368.645,,,0
+Kenya,KEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,370.23,,,0
+Kenya,KEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,372.268,,,0
+Kiribati,KIR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,228.085,,,0
+Kiribati,KIR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,228.708,,,0
+Kiribati,KIR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,228.819,,,0
+Kiribati,KIR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,228.523,,,0
+Kiribati,KIR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,227.975,,,0
+"Korea, Dem. People's Rep.",PRK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,176.274,,,0
+"Korea, Dem. People's Rep.",PRK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,168.516,,,0
+"Korea, Dem. People's Rep.",PRK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,165.83,,,0
+"Korea, Dem. People's Rep.",PRK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,162.889,,,0
+"Korea, Dem. People's Rep.",PRK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,163.07,,,0
+"Korea, Rep.",KOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,56.098,,,0
+"Korea, Rep.",KOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,59.866,,,0
+"Korea, Rep.",KOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,61.874,,,0
+"Korea, Rep.",KOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,66.208,,,0
+"Korea, Rep.",KOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,70.854,,,0
+Kosovo,XKX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,96.512,,,0
+Kosovo,XKX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,97.003,,,0
+Kosovo,XKX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,93.014,,,0
+Kosovo,XKX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,99.508,,,0
+Kosovo,XKX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,115.166,,,0
+Kuwait,KWT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,54.397,,,0
+Kuwait,KWT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,55.306,,,0
+Kuwait,KWT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,56.617,,,0
+Kuwait,KWT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,58.547,,,0
+Kuwait,KWT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,61.647,,,0
+Kyrgyz Republic,KGZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,233.647,,,0
+Kyrgyz Republic,KGZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,239.483,,,0
+Kyrgyz Republic,KGZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,246.353,,,0
+Kyrgyz Republic,KGZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,250.94,,,0
+Kyrgyz Republic,KGZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,260.482,,,0
+Lao PDR,LAO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,211.19,,,0
+Lao PDR,LAO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,213.857,,,0
+Lao PDR,LAO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,216.419,,,0
+Lao PDR,LAO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,220.379,,,0
+Lao PDR,LAO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,222.945,,,0
+Latvia,LVA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,210.61,,,0
+Latvia,LVA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,229.116,,,0
+Latvia,LVA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,228.584,,,0
+Latvia,LVA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,229.587,,,0
+Latvia,LVA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,234.554,,,0
+Lebanon,LBN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,81.525,,,0
+Lebanon,LBN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,81.612,,,0
+Lebanon,LBN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,86.411,,,0
+Lebanon,LBN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,83.762,,,0
+Lebanon,LBN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,83.67,,,0
+Lesotho,LSO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,511.503,,,0
+Lesotho,LSO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,526.129,,,0
+Lesotho,LSO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,545.103,,,0
+Lesotho,LSO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,570.0,,,0
+Lesotho,LSO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,600.246,,,0
+Liberia,LBR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,293.362,,,0
+Liberia,LBR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,294.092,,,0
+Liberia,LBR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,295.006,,,0
+Liberia,LBR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,296.818,,,0
+Liberia,LBR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,313.175,,,0
+Libya,LBY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,192.716,,,0
+Libya,LBY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,183.358,,,0
+Libya,LBY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,192.08,,,0
+Libya,LBY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,217.505,,,0
+Libya,LBY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,217.307,,,0
+Liechtenstein,LIE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,45.942,,,0
+Liechtenstein,LIE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,46.874,,,0
+Liechtenstein,LIE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,47.636,,,0
+Liechtenstein,LIE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,48.694,,,0
+Liechtenstein,LIE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,49.582,,,0
+Lithuania,LTU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,197.618,,,0
+Lithuania,LTU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,203.46,,,0
+Lithuania,LTU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,209.197,,,0
+Lithuania,LTU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,238.766,,,0
+Lithuania,LTU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,242.739,,,0
+Luxembourg,LUX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,66.112,,,0
+Luxembourg,LUX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,67.274,,,0
+Luxembourg,LUX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,66.343,,,0
+Luxembourg,LUX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,73.837,,,0
+Luxembourg,LUX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,72.385,,,0
+"Macao SAR, China",MAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,57.925,,,0
+"Macao SAR, China",MAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,57.126,,,0
+"Macao SAR, China",MAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,58.409,,,0
+"Macao SAR, China",MAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,59.559,,,0
+"Macao SAR, China",MAC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,58.609,,,0
+Madagascar,MDG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,258.689,,,0
+Madagascar,MDG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,258.334,,,0
+Madagascar,MDG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,259.433,,,0
+Madagascar,MDG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,259.508,,,0
+Madagascar,MDG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,260.451,,,0
+Malawi,MWI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,328.921,,,0
+Malawi,MWI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,337.37,,,0
+Malawi,MWI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,337.337,,,0
+Malawi,MWI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,347.941,,,0
+Malawi,MWI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,359.153,,,0
+Malaysia,MYS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,158.545,,,0
+Malaysia,MYS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,159.94,,,0
+Malaysia,MYS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,161.939,,,0
+Malaysia,MYS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,163.897,,,0
+Malaysia,MYS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,164.549,,,0
+Maldives,MDV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,54.894,,,0
+Maldives,MDV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,53.68,,,0
+Maldives,MDV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,52.08,,,0
+Maldives,MDV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,53.557,,,0
+Maldives,MDV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,57.169,,,0
+Mali,MLI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,282.898,,,0
+Mali,MLI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,285.409,,,0
+Mali,MLI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,285.752,,,0
+Mali,MLI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,285.055,,,0
+Mali,MLI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,290.085,,,0
+Malta,MLT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,53.77,,,0
+Malta,MLT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,65.801,,,0
+Malta,MLT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,62.677,,,0
+Malta,MLT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,71.942,,,0
+Malta,MLT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,66.052,,,0
+Marshall Islands,MHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,274.227,,,0
+Marshall Islands,MHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,275.82,,,0
+Marshall Islands,MHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,278.102,,,0
+Marshall Islands,MHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,280.451,,,0
+Marshall Islands,MHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,282.607,,,0
+Mauritania,MRT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,209.958,,,0
+Mauritania,MRT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,211.215,,,0
+Mauritania,MRT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,216.115,,,0
+Mauritania,MRT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,220.942,,,0
+Mauritania,MRT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,227.23,,,0
+Mauritius,MUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,193.881,,,0
+Mauritius,MUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,191.197,,,0
+Mauritius,MUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,182.679,,,0
+Mauritius,MUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,186.567,,,0
+Mauritius,MUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,187.401,,,0
+Mexico,MEX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,203.802,,,0
+Mexico,MEX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,204.952,,,0
+Mexico,MEX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,201.105,,,0
+Mexico,MEX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,193.513,,,0
+Mexico,MEX,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,188.499,,,0
+"Micronesia, Fed. Sts.",FSM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,313.15,,,0
+"Micronesia, Fed. Sts.",FSM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,314.006,,,0
+"Micronesia, Fed. Sts.",FSM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,313.742,,,0
+"Micronesia, Fed. Sts.",FSM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,314.532,,,0
+"Micronesia, Fed. Sts.",FSM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,315.883,,,0
+Moldova,MDA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,293.24,,,0
+Moldova,MDA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,291.426,,,0
+Moldova,MDA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,289.327,,,0
+Moldova,MDA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,291.794,,,0
+Moldova,MDA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,291.533,,,0
+Monaco,MCO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,32.253,,,0
+Monaco,MCO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,32.98,,,0
+Monaco,MCO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,34.587,,,0
+Monaco,MCO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,36.378,,,0
+Monaco,MCO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,38.774,,,0
+Mongolia,MNG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,284.507,,,0
+Mongolia,MNG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,285.067,,,0
+Mongolia,MNG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,290.555,,,0
+Mongolia,MNG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,296.268,,,0
+Mongolia,MNG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,303.857,,,0
+Montenegro,MNE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,143.144,,,0
+Montenegro,MNE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,132.977,,,0
+Montenegro,MNE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,138.876,,,0
+Montenegro,MNE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,132.77,,,0
+Montenegro,MNE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,132.514,,,0
+Morocco,MAR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,127.57,,,0
+Morocco,MAR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,130.268,,,0
+Morocco,MAR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,133.369,,,0
+Morocco,MAR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,136.945,,,0
+Morocco,MAR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,141.058,,,0
+Mozambique,MOZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,346.482,,,0
+Mozambique,MOZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,353.41,,,0
+Mozambique,MOZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,362.329,,,0
+Mozambique,MOZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,372.246,,,0
+Mozambique,MOZ,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,382.682,,,0
+Myanmar,MMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,258.485,,,0
+Myanmar,MMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,260.153,,,0
+Myanmar,MMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,264.679,,,0
+Myanmar,MMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,268.057,,,0
+Myanmar,MMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,273.204,,,0
+Namibia,NAM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,393.019,,,0
+Namibia,NAM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,414.036,,,0
+Namibia,NAM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,433.47,,,0
+Namibia,NAM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,451.014,,,0
+Namibia,NAM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,465.972,,,0
+Nauru,NRU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,409.251,,,0
+Nauru,NRU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,413.984,,,0
+Nauru,NRU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,417.672,,,0
+Nauru,NRU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,419.964,,,0
+Nauru,NRU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,421.476,,,0
+Nepal,NPL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,192.065,,,0
+Nepal,NPL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,194.801,,,0
+Nepal,NPL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,197.319,,,0
+Nepal,NPL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,200.194,,,0
+Nepal,NPL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,212.397,,,0
+Netherlands,NLD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,62.374,,,0
+Netherlands,NLD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,63.963,,,0
+Netherlands,NLD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,64.74,,,0
+Netherlands,NLD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,65.56,,,0
+Netherlands,NLD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,66.691,,,0
+New Caledonia,NCL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,148.292,,,0
+New Caledonia,NCL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,134.736,,,0
+New Caledonia,NCL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,132.639,,,0
+New Caledonia,NCL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,133.552,,,0
+New Caledonia,NCL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,134.483,,,0
+New Zealand,NZL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,82.524,,,0
+New Zealand,NZL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,80.075,,,0
+New Zealand,NZL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,79.952,,,0
+New Zealand,NZL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,79.171,,,0
+New Zealand,NZL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,76.511,,,0
+Nicaragua,NIC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,181.818,,,0
+Nicaragua,NIC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,187.037,,,0
+Nicaragua,NIC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,188.63,,,0
+Nicaragua,NIC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,195.703,,,0
+Nicaragua,NIC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,203.861,,,0
+Niger,NER,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,238.433,,,0
+Niger,NER,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,241.387,,,0
+Niger,NER,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,244.143,,,0
+Niger,NER,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,248.481,,,0
+Niger,NER,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,255.218,,,0
+Nigeria,NGA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,368.64,,,0
+Nigeria,NGA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,372.09,,,0
+Nigeria,NGA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,374.323,,,0
+Nigeria,NGA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,375.861,,,0
+Nigeria,NGA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,379.757,,,0
+North Macedonia,MKD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,112.669,,,0
+North Macedonia,MKD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,116.859,,,0
+North Macedonia,MKD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,116.165,,,0
+North Macedonia,MKD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,126.333,,,0
+North Macedonia,MKD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,124.766,,,0
+Northern Mariana Islands,MNP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,96.739,,,0
+Northern Mariana Islands,MNP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,99.239,,,0
+Northern Mariana Islands,MNP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,100.314,,,0
+Northern Mariana Islands,MNP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,100.984,,,0
+Northern Mariana Islands,MNP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,101.373,,,0
+Norway,NOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,60.834,,,0
+Norway,NOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,62.496,,,0
+Norway,NOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,61.92,,,0
+Norway,NOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,65.857,,,0
+Norway,NOR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,65.805,,,0
+Oman,OMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,63.264,,,0
+Oman,OMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,64.936,,,0
+Oman,OMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,66.884,,,0
+Oman,OMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,69.235,,,0
+Oman,OMN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,72.127,,,0
+Pakistan,PAK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,206.59,,,0
+Pakistan,PAK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,208.249,,,0
+Pakistan,PAK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,210.159,,,0
+Pakistan,PAK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,212.514,,,0
+Pakistan,PAK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,215.344,,,0
+Palau,PLW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,240.973,,,0
+Palau,PLW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,244.201,,,0
+Palau,PLW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,247.31,,,0
+Palau,PLW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,250.064,,,0
+Palau,PLW,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,252.742,,,0
+Panama,PAN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,124.04,,,0
+Panama,PAN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,126.466,,,0
+Panama,PAN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,126.296,,,0
+Panama,PAN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,129.941,,,0
+Panama,PAN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,136.065,,,0
+Papua New Guinea,PNG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,275.25,,,0
+Papua New Guinea,PNG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,276.432,,,0
+Papua New Guinea,PNG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,278.561,,,0
+Papua New Guinea,PNG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,280.507,,,0
+Papua New Guinea,PNG,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,282.455,,,0
+Paraguay,PRY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,181.491,,,0
+Paraguay,PRY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,181.273,,,0
+Paraguay,PRY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,181.064,,,0
+Paraguay,PRY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,180.631,,,0
+Paraguay,PRY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,181.012,,,0
+Peru,PER,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,143.468,,,0
+Peru,PER,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,152.433,,,0
+Peru,PER,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,154.042,,,0
+Peru,PER,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,155.852,,,0
+Peru,PER,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,158.869,,,0
+Philippines,PHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,231.544,,,0
+Philippines,PHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,232.319,,,0
+Philippines,PHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,233.974,,,0
+Philippines,PHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,243.294,,,0
+Philippines,PHL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,240.963,,,0
+Poland,POL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,157.011,,,0
+Poland,POL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,160.252,,,0
+Poland,POL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,159.354,,,0
+Poland,POL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,161.101,,,0
+Poland,POL,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,164.241,,,0
+Portugal,PRT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,95.705,,,0
+Portugal,PRT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,100.503,,,0
+Portugal,PRT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,102.077,,,0
+Portugal,PRT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,103.067,,,0
+Portugal,PRT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,104.024,,,0
+Puerto Rico (US),PRI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,119.806,,,0
+Puerto Rico (US),PRI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,123.301,,,0
+Puerto Rico (US),PRI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,136.815,,,0
+Puerto Rico (US),PRI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,131.907,,,0
+Puerto Rico (US),PRI,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,130.125,,,0
+Qatar,QAT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,35.269,,,0
+Qatar,QAT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,37.179,,,0
+Qatar,QAT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,39.315,,,0
+Qatar,QAT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,41.676,,,0
+Qatar,QAT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,44.254,,,0
+Romania,ROU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,189.004,,,0
+Romania,ROU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,190.35,,,0
+Romania,ROU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,190.212,,,0
+Romania,ROU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,192.331,,,0
+Romania,ROU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,191.256,,,0
+Russian Federation,RUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,289.46,,,0
+Russian Federation,RUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,288.509,,,0
+Russian Federation,RUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,288.463,,,0
+Russian Federation,RUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,310.981,,,0
+Russian Federation,RUS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,325.084,,,0
+Rwanda,RWA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,267.176,,,0
+Rwanda,RWA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,271.281,,,0
+Rwanda,RWA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,275.082,,,0
+Rwanda,RWA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,279.558,,,0
+Rwanda,RWA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,282.404,,,0
+Samoa,WSM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,204.381,,,0
+Samoa,WSM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,193.708,,,0
+Samoa,WSM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,194.911,,,0
+Samoa,WSM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,195.242,,,0
+Samoa,WSM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,194.981,,,0
+San Marino,SMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,39.635,,,0
+San Marino,SMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,40.589,,,0
+San Marino,SMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,41.835,,,0
+San Marino,SMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,43.137,,,0
+San Marino,SMR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,44.392,,,0
+Sao Tome and Principe,STP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,298.248,,,0
+Sao Tome and Principe,STP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,304.006,,,0
+Sao Tome and Principe,STP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,309.881,,,0
+Sao Tome and Principe,STP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,315.88,,,0
+Sao Tome and Principe,STP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,322.192,,,0
+Saudi Arabia,SAU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,88.49,,,0
+Saudi Arabia,SAU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,83.438,,,0
+Saudi Arabia,SAU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,83.651,,,0
+Saudi Arabia,SAU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,87.798,,,0
+Saudi Arabia,SAU,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,95.154,,,0
+Senegal,SEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,211.564,,,0
+Senegal,SEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,213.918,,,0
+Senegal,SEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,216.818,,,0
+Senegal,SEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,219.984,,,0
+Senegal,SEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,223.166,,,0
+Serbia,SRB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,146.857,,,0
+Serbia,SRB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,144.076,,,0
+Serbia,SRB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,148.786,,,0
+Serbia,SRB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,150.365,,,0
+Serbia,SRB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,152.093,,,0
+Seychelles,SYC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,210.225,,,0
+Seychelles,SYC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,209.847,,,0
+Seychelles,SYC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,209.708,,,0
+Seychelles,SYC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,210.589,,,0
+Seychelles,SYC,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,210.671,,,0
+Sierra Leone,SLE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,257.721,,,0
+Sierra Leone,SLE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,261.111,,,0
+Sierra Leone,SLE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,279.231,,,0
+Sierra Leone,SLE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,291.195,,,0
+Sierra Leone,SLE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,314.963,,,0
+Singapore,SGP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,59.639,,,0
+Singapore,SGP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,61.89,,,0
+Singapore,SGP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,64.134,,,0
+Singapore,SGP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,65.729,,,0
+Singapore,SGP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,67.064,,,0
+Sint Maarten (Dutch part),SXM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,117.102,,,0
+Sint Maarten (Dutch part),SXM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,117.291,,,0
+Sint Maarten (Dutch part),SXM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,118.484,,,0
+Sint Maarten (Dutch part),SXM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,116.508,,,0
+Sint Maarten (Dutch part),SXM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,117.749,,,0
+Slovak Republic,SVK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,139.729,,,0
+Slovak Republic,SVK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,147.131,,,0
+Slovak Republic,SVK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,144.036,,,0
+Slovak Republic,SVK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,143.67,,,0
+Slovak Republic,SVK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,155.245,,,0
+Slovenia,SVN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,87.422,,,0
+Slovenia,SVN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,87.09,,,0
+Slovenia,SVN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,90.934,,,0
+Slovenia,SVN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,97.882,,,0
+Slovenia,SVN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,101.185,,,0
+Solomon Islands,SLB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,191.057,,,0
+Solomon Islands,SLB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,194.188,,,0
+Solomon Islands,SLB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,196.883,,,0
+Solomon Islands,SLB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,199.741,,,0
+Solomon Islands,SLB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,202.737,,,0
+"Somalia, Fed. Rep.",SOM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,324.429,,,0
+"Somalia, Fed. Rep.",SOM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,351.945,,,0
+"Somalia, Fed. Rep.",SOM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,376.1,,,0
+"Somalia, Fed. Rep.",SOM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,354.039,,,0
+"Somalia, Fed. Rep.",SOM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,349.066,,,0
+South Africa,ZAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,342.77,,,0
+South Africa,ZAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,359.292,,,0
+South Africa,ZAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,370.427,,,0
+South Africa,ZAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,381.314,,,0
+South Africa,ZAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,391.264,,,0
+South Sudan,SSD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,336.056,,,0
+South Sudan,SSD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,421.407,,,0
+South Sudan,SSD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,651.461,,,0
+South Sudan,SSD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,632.679,,,0
+South Sudan,SSD,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,585.629,,,0
+Spain,ESP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,69.622,,,0
+Spain,ESP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,72.324,,,0
+Spain,ESP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,73.051,,,0
+Spain,ESP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,74.559,,,0
+Spain,ESP,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,77.049,,,0
+Sri Lanka,LKA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,142.664,,,0
+Sri Lanka,LKA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,147.198,,,0
+Sri Lanka,LKA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,151.018,,,0
+Sri Lanka,LKA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,153.107,,,0
+Sri Lanka,LKA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,155.948,,,0
+St. Kitts and Nevis,KNA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,222.484,,,0
+St. Kitts and Nevis,KNA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,226.003,,,0
+St. Kitts and Nevis,KNA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,226.005,,,0
+St. Kitts and Nevis,KNA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,225.663,,,0
+St. Kitts and Nevis,KNA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,224.111,,,0
+St. Lucia,LCA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,204.491,,,0
+St. Lucia,LCA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,191.495,,,0
+St. Lucia,LCA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,194.469,,,0
+St. Lucia,LCA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,187.748,,,0
+St. Lucia,LCA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,175.884,,,0
+St. Martin (French part),MAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,82.186,,,0
+St. Martin (French part),MAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,82.801,,,0
+St. Martin (French part),MAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,88.553,,,0
+St. Martin (French part),MAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,83.555,,,0
+St. Martin (French part),MAF,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,83.529,,,0
+St. Vincent and the Grenadines,VCT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,225.314,,,0
+St. Vincent and the Grenadines,VCT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,224.12,,,0
+St. Vincent and the Grenadines,VCT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,223.152,,,0
+St. Vincent and the Grenadines,VCT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,221.635,,,0
+St. Vincent and the Grenadines,VCT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,224.548,,,0
+Sudan,SDN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,246.676,,,0
+Sudan,SDN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,250.268,,,0
+Sudan,SDN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,254.058,,,0
+Sudan,SDN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,263.119,,,0
+Sudan,SDN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,265.282,,,0
+Suriname,SUR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,220.435,,,0
+Suriname,SUR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,224.971,,,0
+Suriname,SUR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,227.192,,,0
+Suriname,SUR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,232.367,,,0
+Suriname,SUR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,238.334,,,0
+Sweden,SWE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,58.136,,,0
+Sweden,SWE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,62.062,,,0
+Sweden,SWE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,63.288,,,0
+Sweden,SWE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,63.956,,,0
+Sweden,SWE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,66.933,,,0
+Switzerland,CHE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,54.626,,,0
+Switzerland,CHE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,57.573,,,0
+Switzerland,CHE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,60.213,,,0
+Switzerland,CHE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,58.204,,,0
+Switzerland,CHE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,62.284,,,0
+Syrian Arab Republic,SYR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,208.12,,,0
+Syrian Arab Republic,SYR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,295.917,,,0
+Syrian Arab Republic,SYR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,354.949,,,0
+Syrian Arab Republic,SYR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,373.314,,,0
+Syrian Arab Republic,SYR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,414.09,,,0
+Tajikistan,TJK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,169.895,,,0
+Tajikistan,TJK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,174.811,,,0
+Tajikistan,TJK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,177.503,,,0
+Tajikistan,TJK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,188.277,,,0
+Tajikistan,TJK,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,198.391,,,0
+Tanzania,TZA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,294.104,,,0
+Tanzania,TZA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,299.144,,,0
+Tanzania,TZA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,303.406,,,0
+Tanzania,TZA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,308.418,,,0
+Tanzania,TZA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,311.957,,,0
+Thailand,THA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,207.606,,,0
+Thailand,THA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,205.18,,,0
+Thailand,THA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,205.996,,,0
+Thailand,THA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,206.446,,,0
+Thailand,THA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,206.049,,,0
+Timor-Leste,TLS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,218.672,,,0
+Timor-Leste,TLS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,221.64,,,0
+Timor-Leste,TLS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,224.708,,,0
+Timor-Leste,TLS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,227.865,,,0
+Timor-Leste,TLS,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,231.116,,,0
+Togo,TGO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,272.445,,,0
+Togo,TGO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,278.951,,,0
+Togo,TGO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,286.483,,,0
+Togo,TGO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,291.916,,,0
+Togo,TGO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,298.335,,,0
+Tonga,TON,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,220.03,,,0
+Tonga,TON,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,221.791,,,0
+Tonga,TON,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,223.141,,,0
+Tonga,TON,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,225.17,,,0
+Tonga,TON,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,226.862,,,0
+Trinidad and Tobago,TTO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,193.65,,,0
+Trinidad and Tobago,TTO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,198.265,,,0
+Trinidad and Tobago,TTO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,188.306,,,0
+Trinidad and Tobago,TTO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,188.281,,,0
+Trinidad and Tobago,TTO,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,188.147,,,0
+Tunisia,TUN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,121.311,,,0
+Tunisia,TUN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,122.817,,,0
+Tunisia,TUN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,124.088,,,0
+Tunisia,TUN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,125.075,,,0
+Tunisia,TUN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,125.245,,,0
+Turkiye,TUR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,108.758,,,0
+Turkiye,TUR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,112.191,,,0
+Turkiye,TUR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,117.247,,,0
+Turkiye,TUR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,123.83,,,0
+Turkiye,TUR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,123.431,,,0
+Turkmenistan,TKM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,214.666,,,0
+Turkmenistan,TKM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,217.859,,,0
+Turkmenistan,TKM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,219.499,,,0
+Turkmenistan,TKM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,220.724,,,0
+Turkmenistan,TKM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,223.736,,,0
+Turks and Caicos Islands,TCA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,111.603,,,0
+Turks and Caicos Islands,TCA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,112.301,,,0
+Turks and Caicos Islands,TCA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,112.752,,,0
+Turks and Caicos Islands,TCA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,113.147,,,0
+Turks and Caicos Islands,TCA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,113.635,,,0
+Tuvalu,TUV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,327.385,,,0
+Tuvalu,TUV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,330.531,,,0
+Tuvalu,TUV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,333.026,,,0
+Tuvalu,TUV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,335.332,,,0
+Tuvalu,TUV,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,336.159,,,0
+Uganda,UGA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,300.936,,,0
+Uganda,UGA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,308.31,,,0
+Uganda,UGA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,316.326,,,0
+Uganda,UGA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,325.608,,,0
+Uganda,UGA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,332.567,,,0
+Ukraine,UKR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,249.581,,,0
+Ukraine,UKR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,254.486,,,0
+Ukraine,UKR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,247.585,,,0
+Ukraine,UKR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,255.492,,,0
+Ukraine,UKR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,268.138,,,0
+United Arab Emirates,ARE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,39.807,,,0
+United Arab Emirates,ARE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,40.565,,,0
+United Arab Emirates,ARE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,41.26,,,0
+United Arab Emirates,ARE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,41.909,,,0
+United Arab Emirates,ARE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,42.54,,,0
+United Kingdom,GBR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,85.187,,,0
+United Kingdom,GBR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,86.971,,,0
+United Kingdom,GBR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,84.428,,,0
+United Kingdom,GBR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,85.495,,,0
+United Kingdom,GBR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,84.408,,,0
+United States,USA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,136.829,,,0
+United States,USA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,137.524,,,0
+United States,USA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,139.215,,,0
+United States,USA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,138.505,,,0
+United States,USA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,134.303,,,0
+Uruguay,URY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,145.596,,,0
+Uruguay,URY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,148.261,,,0
+Uruguay,URY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,140.518,,,0
+Uruguay,URY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,144.773,,,0
+Uruguay,URY,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,147.718,,,0
+Uzbekistan,UZB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,207.918,,,0
+Uzbekistan,UZB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,205.744,,,0
+Uzbekistan,UZB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,206.346,,,0
+Uzbekistan,UZB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,204.241,,,0
+Uzbekistan,UZB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,206.083,,,0
+Vanuatu,VUT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,197.843,,,0
+Vanuatu,VUT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,199.479,,,0
+Vanuatu,VUT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,200.582,,,0
+Vanuatu,VUT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,202.63,,,0
+Vanuatu,VUT,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,206.596,,,0
+"Venezuela, RB",VEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,210.409,,,0
+"Venezuela, RB",VEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,212.337,,,0
+"Venezuela, RB",VEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,231.987,,,0
+"Venezuela, RB",VEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,237.423,,,0
+"Venezuela, RB",VEN,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,215.717,,,0
+Viet Nam,VNM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,186.788,,,0
+Viet Nam,VNM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,188.213,,,0
+Viet Nam,VNM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,189.245,,,0
+Viet Nam,VNM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,190.006,,,0
+Viet Nam,VNM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,189.94,,,0
+Virgin Islands (U.S.),VIR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,187.207,,,0
+Virgin Islands (U.S.),VIR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,191.152,,,0
+Virgin Islands (U.S.),VIR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,194.254,,,0
+Virgin Islands (U.S.),VIR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,192.895,,,0
+Virgin Islands (U.S.),VIR,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,192.022,,,0
+West Bank and Gaza,PSE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,112.504,,,0
+West Bank and Gaza,PSE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,117.472,,,0
+West Bank and Gaza,PSE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,117.177,,,0
+West Bank and Gaza,PSE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,120.715,,,0
+West Bank and Gaza,PSE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,125.109,,,0
+"Yemen, Rep.",YEM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,267.757,,,0
+"Yemen, Rep.",YEM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,288.921,,,0
+"Yemen, Rep.",YEM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,245.247,,,0
+"Yemen, Rep.",YEM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,240.428,,,0
+"Yemen, Rep.",YEM,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,247.331,,,0
+Zambia,ZMB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,313.438,,,0
+Zambia,ZMB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,328.242,,,0
+Zambia,ZMB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,339.027,,,0
+Zambia,ZMB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,343.616,,,0
+Zambia,ZMB,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,349.717,,,0
+Zimbabwe,ZWE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2019,389.287,,,0
+Zimbabwe,ZWE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2018,385.737,,,0
+Zimbabwe,ZWE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2017,395.518,,,0
+Zimbabwe,ZWE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2016,400.331,,,0
+Zimbabwe,ZWE,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",2015,410.176,,,0

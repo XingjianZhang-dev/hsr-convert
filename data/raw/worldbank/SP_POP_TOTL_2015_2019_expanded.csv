@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,variable
+Africa Eastern and Southern,AFE,SP.POP.TOTL,"Population, total",2019,675950189.0,population_total
+Africa Eastern and Southern,AFE,SP.POP.TOTL,"Population, total",2018,657801085.0,population_total
+Africa Eastern and Southern,AFE,SP.POP.TOTL,"Population, total",2017,640058741.0,population_total
+Africa Eastern and Southern,AFE,SP.POP.TOTL,"Population, total",2016,623369401.0,population_total
+Africa Eastern and Southern,AFE,SP.POP.TOTL,"Population, total",2015,607123269.0,population_total
+Africa Western and Central,AFW,SP.POP.TOTL,"Population, total",2019,463365429.0,population_total
+Africa Western and Central,AFW,SP.POP.TOTL,"Population, total",2018,452195915.0,population_total
+Africa Western and Central,AFW,SP.POP.TOTL,"Population, total",2017,440882906.0,population_total
+Africa Western and Central,AFW,SP.POP.TOTL,"Population, total",2016,429454743.0,population_total
+Africa Western and Central,AFW,SP.POP.TOTL,"Population, total",2015,418127845.0,population_total
+Arab World,ARB,SP.POP.TOTL,"Population, total",2019,444281315.0,population_total
+Arab World,ARB,SP.POP.TOTL,"Population, total",2018,435998060.0,population_total
+Arab World,ARB,SP.POP.TOTL,"Population, total",2017,428315886.0,population_total
+Arab World,ARB,SP.POP.TOTL,"Population, total",2016,419808341.0,population_total
+Arab World,ARB,SP.POP.TOTL,"Population, total",2015,410190679.0,population_total
+Caribbean small states,CSS,SP.POP.TOTL,"Population, total",2019,4443134.0,population_total
+Caribbean small states,CSS,SP.POP.TOTL,"Population, total",2018,4407658.0,population_total
+Caribbean small states,CSS,SP.POP.TOTL,"Population, total",2017,4366140.0,population_total
+Caribbean small states,CSS,SP.POP.TOTL,"Population, total",2016,4341333.0,population_total
+Caribbean small states,CSS,SP.POP.TOTL,"Population, total",2015,4314191.0,population_total
+Central Europe and the Baltics,CEB,SP.POP.TOTL,"Population, total",2019,101864274.0,population_total
+Central Europe and the Baltics,CEB,SP.POP.TOTL,"Population, total",2018,102074201.0,population_total
+Central Europe and the Baltics,CEB,SP.POP.TOTL,"Population, total",2017,102337501.0,population_total
+Central Europe and the Baltics,CEB,SP.POP.TOTL,"Population, total",2016,102647939.0,population_total
+Central Europe and the Baltics,CEB,SP.POP.TOTL,"Population, total",2015,102973167.0,population_total
+Early-demographic dividend,EAR,SP.POP.TOTL,"Population, total",2019,3355014793.0,population_total
+Early-demographic dividend,EAR,SP.POP.TOTL,"Population, total",2018,3314245247.0,population_total
+Early-demographic dividend,EAR,SP.POP.TOTL,"Population, total",2017,3274060446.0,population_total
+Early-demographic dividend,EAR,SP.POP.TOTL,"Population, total",2016,3233033717.0,population_total
+Early-demographic dividend,EAR,SP.POP.TOTL,"Population, total",2015,3190318707.0,population_total
+East Asia & Pacific,EAS,SP.POP.TOTL,"Population, total",2019,2359762190.0,population_total
+East Asia & Pacific,EAS,SP.POP.TOTL,"Population, total",2018,2347576325.0,population_total
+East Asia & Pacific,EAS,SP.POP.TOTL,"Population, total",2017,2333475520.0,population_total
+East Asia & Pacific,EAS,SP.POP.TOTL,"Population, total",2016,2317076058.0,population_total
+East Asia & Pacific,EAS,SP.POP.TOTL,"Population, total",2015,2300844269.0,population_total
+East Asia & Pacific (excluding high income),EAP,SP.POP.TOTL,"Population, total",2019,2112289891.0,population_total
+East Asia & Pacific (excluding high income),EAP,SP.POP.TOTL,"Population, total",2018,2100698838.0,population_total
+East Asia & Pacific (excluding high income),EAP,SP.POP.TOTL,"Population, total",2017,2087238522.0,population_total
+East Asia & Pacific (excluding high income),EAP,SP.POP.TOTL,"Population, total",2016,2071486140.0,population_total
+East Asia & Pacific (excluding high income),EAP,SP.POP.TOTL,"Population, total",2015,2056050896.0,population_total
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.POP.TOTL,"Population, total",2019,2086281644.0,population_total
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.POP.TOTL,"Population, total",2018,2074796982.0,population_total
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.POP.TOTL,"Population, total",2017,2061449949.0,population_total
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.POP.TOTL,"Population, total",2016,2045816761.0,population_total
+East Asia & Pacific (IDA & IBRD countries),TEA,SP.POP.TOTL,"Population, total",2015,2030504270.0,population_total
+Euro area,EMU,SP.POP.TOTL,"Population, total",2019,346496601.0,population_total
+Euro area,EMU,SP.POP.TOTL,"Population, total",2018,345864630.0,population_total
+Euro area,EMU,SP.POP.TOTL,"Population, total",2017,344810179.0,population_total
+Euro area,EMU,SP.POP.TOTL,"Population, total",2016,344132977.0,population_total
+Euro area,EMU,SP.POP.TOTL,"Population, total",2015,343180482.0,population_total
+Europe & Central Asia,ECS,SP.POP.TOTL,"Population, total",2019,921932163.0,population_total
+Europe & Central Asia,ECS,SP.POP.TOTL,"Population, total",2018,918689254.0,population_total
+Europe & Central Asia,ECS,SP.POP.TOTL,"Population, total",2017,915065824.0,population_total
+Europe & Central Asia,ECS,SP.POP.TOTL,"Population, total",2016,911579016.0,population_total
+Europe & Central Asia,ECS,SP.POP.TOTL,"Population, total",2015,907527486.0,population_total
+Europe & Central Asia (excluding high income),ECA,SP.POP.TOTL,"Population, total",2019,248576676.0,population_total
+Europe & Central Asia (excluding high income),ECA,SP.POP.TOTL,"Population, total",2018,246400484.0,population_total
+Europe & Central Asia (excluding high income),ECA,SP.POP.TOTL,"Population, total",2017,244308649.0,population_total
+Europe & Central Asia (excluding high income),ECA,SP.POP.TOTL,"Population, total",2016,242224182.0,population_total
+Europe & Central Asia (excluding high income),ECA,SP.POP.TOTL,"Population, total",2015,240083379.0,population_total
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.POP.TOTL,"Population, total",2019,461933206.0,population_total
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.POP.TOTL,"Population, total",2018,459946883.0,population_total
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.POP.TOTL,"Population, total",2017,458010325.0,population_total
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.POP.TOTL,"Population, total",2016,455913002.0,population_total
+Europe & Central Asia (IDA & IBRD countries),TEC,SP.POP.TOTL,"Population, total",2015,453662073.0,population_total
+European Union,EUU,SP.POP.TOTL,"Population, total",2019,446910453.0,population_total
+European Union,EUU,SP.POP.TOTL,"Population, total",2018,446329890.0,population_total
+European Union,EUU,SP.POP.TOTL,"Population, total",2017,445321060.0,population_total
+European Union,EUU,SP.POP.TOTL,"Population, total",2016,444676652.0,population_total
+European Union,EUU,SP.POP.TOTL,"Population, total",2015,443793218.0,population_total
+Fragile and conflict affected situations,FCS,SP.POP.TOTL,"Population, total",2019,973035228.0,population_total
+Fragile and conflict affected situations,FCS,SP.POP.TOTL,"Population, total",2018,951851595.0,population_total
+Fragile and conflict affected situations,FCS,SP.POP.TOTL,"Population, total",2017,931222867.0,population_total
+Fragile and conflict affected situations,FCS,SP.POP.TOTL,"Population, total",2016,910836458.0,population_total
+Fragile and conflict affected situations,FCS,SP.POP.TOTL,"Population, total",2015,890869511.0,population_total
+Heavily indebted poor countries (HIPC),HPC,SP.POP.TOTL,"Population, total",2019,824649053.0,population_total
+Heavily indebted poor countries (HIPC),HPC,SP.POP.TOTL,"Population, total",2018,802020674.0,population_total
+Heavily indebted poor countries (HIPC),HPC,SP.POP.TOTL,"Population, total",2017,779389964.0,population_total
+Heavily indebted poor countries (HIPC),HPC,SP.POP.TOTL,"Population, total",2016,756895035.0,population_total
+Heavily indebted poor countries (HIPC),HPC,SP.POP.TOTL,"Population, total",2015,735429414.0,population_total
+High income,,SP.POP.TOTL,"Population, total",2019,1389770301.0,population_total
+High income,,SP.POP.TOTL,"Population, total",2018,1385103279.0,population_total
+High income,,SP.POP.TOTL,"Population, total",2017,1380319892.0,population_total
+High income,,SP.POP.TOTL,"Population, total",2016,1374284415.0,population_total
+High income,,SP.POP.TOTL,"Population, total",2015,1366013614.0,population_total
+IBRD only,IBD,SP.POP.TOTL,"Population, total",2019,4845075024.0,population_total
+IBRD only,IBD,SP.POP.TOTL,"Population, total",2018,4806981820.0,population_total
+IBRD only,IBD,SP.POP.TOTL,"Population, total",2017,4765773411.0,population_total
+IBRD only,IBD,SP.POP.TOTL,"Population, total",2016,4721566970.0,population_total
+IBRD only,IBD,SP.POP.TOTL,"Population, total",2015,4676773551.0,population_total
+IDA & IBRD total,IBT,SP.POP.TOTL,"Population, total",2019,6594216452.0,population_total
+IDA & IBRD total,IBT,SP.POP.TOTL,"Population, total",2018,6518058354.0,population_total
+IDA & IBRD total,IBT,SP.POP.TOTL,"Population, total",2017,6440011821.0,population_total
+IDA & IBRD total,IBT,SP.POP.TOTL,"Population, total",2016,6360153661.0,population_total
+IDA & IBRD total,IBT,SP.POP.TOTL,"Population, total",2015,6280961830.0,population_total
+IDA blend,IDB,SP.POP.TOTL,"Population, total",2019,614017319.0,population_total
+IDA blend,IDB,SP.POP.TOTL,"Population, total",2018,601951913.0,population_total
+IDA blend,IDB,SP.POP.TOTL,"Population, total",2017,590024074.0,population_total
+IDA blend,IDB,SP.POP.TOTL,"Population, total",2016,578463670.0,population_total
+IDA blend,IDB,SP.POP.TOTL,"Population, total",2015,567234056.0,population_total
+IDA only,IDX,SP.POP.TOTL,"Population, total",2019,1135124109.0,population_total
+IDA only,IDX,SP.POP.TOTL,"Population, total",2018,1109124621.0,population_total
+IDA only,IDX,SP.POP.TOTL,"Population, total",2017,1084214336.0,population_total
+IDA only,IDX,SP.POP.TOTL,"Population, total",2016,1060123021.0,population_total
+IDA only,IDX,SP.POP.TOTL,"Population, total",2015,1036954223.0,population_total
+IDA total,IDA,SP.POP.TOTL,"Population, total",2019,1749141428.0,population_total
+IDA total,IDA,SP.POP.TOTL,"Population, total",2018,1711076534.0,population_total
+IDA total,IDA,SP.POP.TOTL,"Population, total",2017,1674238410.0,population_total
+IDA total,IDA,SP.POP.TOTL,"Population, total",2016,1638586691.0,population_total
+IDA total,IDA,SP.POP.TOTL,"Population, total",2015,1604188279.0,population_total
+Late-demographic dividend,LTE,SP.POP.TOTL,"Population, total",2019,2308878047.0,population_total
+Late-demographic dividend,LTE,SP.POP.TOTL,"Population, total",2018,2298394042.0,population_total
+Late-demographic dividend,LTE,SP.POP.TOTL,"Population, total",2017,2285870134.0,population_total
+Late-demographic dividend,LTE,SP.POP.TOTL,"Population, total",2016,2270841806.0,population_total
+Late-demographic dividend,LTE,SP.POP.TOTL,"Population, total",2015,2256126712.0,population_total
+Latin America & Caribbean,LCN,SP.POP.TOTL,"Population, total",2019,640962372.0,population_total
+Latin America & Caribbean,LCN,SP.POP.TOTL,"Population, total",2018,635778081.0,population_total
+Latin America & Caribbean,LCN,SP.POP.TOTL,"Population, total",2017,630414986.0,population_total
+Latin America & Caribbean,LCN,SP.POP.TOTL,"Population, total",2016,624737786.0,population_total
+Latin America & Caribbean,LCN,SP.POP.TOTL,"Population, total",2015,618868462.0,population_total
+Latin America & Caribbean (excluding high income),LAC,SP.POP.TOTL,"Population, total",2019,573311679.0,population_total
+Latin America & Caribbean (excluding high income),LAC,SP.POP.TOTL,"Population, total",2018,567711159.0,population_total
+Latin America & Caribbean (excluding high income),LAC,SP.POP.TOTL,"Population, total",2017,561957179.0,population_total
+Latin America & Caribbean (excluding high income),LAC,SP.POP.TOTL,"Population, total",2016,556440282.0,population_total
+Latin America & Caribbean (excluding high income),LAC,SP.POP.TOTL,"Population, total",2015,551075145.0,population_total
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.POP.TOTL,"Population, total",2019,625467307.0,population_total
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.POP.TOTL,"Population, total",2018,620274430.0,population_total
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.POP.TOTL,"Population, total",2017,614776664.0,population_total
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.POP.TOTL,"Population, total",2016,609017063.0,population_total
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SP.POP.TOTL,"Population, total",2015,603091701.0,population_total
+Least developed countries: UN classification,LDC,SP.POP.TOTL,"Population, total",2019,1058013514.0,population_total
+Least developed countries: UN classification,LDC,SP.POP.TOTL,"Population, total",2018,1033110314.0,population_total
+Least developed countries: UN classification,LDC,SP.POP.TOTL,"Population, total",2017,1008993468.0,population_total
+Least developed countries: UN classification,LDC,SP.POP.TOTL,"Population, total",2016,985414939.0,population_total
+Least developed countries: UN classification,LDC,SP.POP.TOTL,"Population, total",2015,962508256.0,population_total
+Low & middle income,LMY,SP.POP.TOTL,"Population, total",2019,6243562839.0,population_total
+Low & middle income,LMY,SP.POP.TOTL,"Population, total",2018,6169658713.0,population_total
+Low & middle income,LMY,SP.POP.TOTL,"Population, total",2017,6093971714.0,population_total
+Low & middle income,LMY,SP.POP.TOTL,"Population, total",2016,6017111688.0,population_total
+Low & middle income,LMY,SP.POP.TOTL,"Population, total",2015,5941222744.0,population_total
+Low income,,SP.POP.TOTL,"Population, total",2019,544980983.0,population_total
+Low income,,SP.POP.TOTL,"Population, total",2018,529522043.0,population_total
+Low income,,SP.POP.TOTL,"Population, total",2017,514890519.0,population_total
+Low income,,SP.POP.TOTL,"Population, total",2016,501149314.0,population_total
+Low income,,SP.POP.TOTL,"Population, total",2015,488308267.0,population_total
+Lower middle income,,SP.POP.TOTL,"Population, total",2019,2928617292.0,population_total
+Lower middle income,,SP.POP.TOTL,"Population, total",2018,2888561818.0,population_total
+Lower middle income,,SP.POP.TOTL,"Population, total",2017,2847931114.0,population_total
+Lower middle income,,SP.POP.TOTL,"Population, total",2016,2806590212.0,population_total
+Lower middle income,,SP.POP.TOTL,"Population, total",2015,2765011526.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.POP.TOTL,"Population, total",2019,742714463.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.POP.TOTL,"Population, total",2018,730362334.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.POP.TOTL,"Population, total",2017,718887744.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.POP.TOTL,"Population, total",2016,707023525.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SP.POP.TOTL,"Population, total",2015,694232973.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.POP.TOTL,"Population, total",2019,680490997.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.POP.TOTL,"Population, total",2018,668447432.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.POP.TOTL,"Population, total",2017,656767614.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.POP.TOTL,"Population, total",2016,645837915.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SP.POP.TOTL,"Population, total",2015,635352686.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.POP.TOTL,"Population, total",2019,675805691.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.POP.TOTL,"Population, total",2018,663878345.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.POP.TOTL,"Population, total",2017,652312809.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.POP.TOTL,"Population, total",2016,641470827.0,population_total
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SP.POP.TOTL,"Population, total",2015,631082594.0,population_total
+Middle income,MIC,SP.POP.TOTL,"Population, total",2019,5698581856.0,population_total
+Middle income,MIC,SP.POP.TOTL,"Population, total",2018,5640136670.0,population_total
+Middle income,MIC,SP.POP.TOTL,"Population, total",2017,5579081195.0,population_total
+Middle income,MIC,SP.POP.TOTL,"Population, total",2016,5515962374.0,population_total
+Middle income,MIC,SP.POP.TOTL,"Population, total",2015,5452914477.0,population_total
+North America,NAC,SP.POP.TOTL,"Population, total",2019,367908829.0,population_total
+North America,NAC,SP.POP.TOTL,"Population, total",2018,365666028.0,population_total
+North America,NAC,SP.POP.TOTL,"Population, total",2017,363217262.0,population_total
+North America,NAC,SP.POP.TOTL,"Population, total",2016,360527592.0,population_total
+North America,NAC,SP.POP.TOTL,"Population, total",2015,357583083.0,population_total
+Not classified,,SP.POP.TOTL,"Population, total",2019,,population_total
+Not classified,,SP.POP.TOTL,"Population, total",2018,,population_total
+Not classified,,SP.POP.TOTL,"Population, total",2017,,population_total
+Not classified,,SP.POP.TOTL,"Population, total",2016,,population_total
+Not classified,,SP.POP.TOTL,"Population, total",2015,,population_total
+OECD members,OED,SP.POP.TOTL,"Population, total",2019,1364146219.0,population_total
+OECD members,OED,SP.POP.TOTL,"Population, total",2018,1356470975.0,population_total
+OECD members,OED,SP.POP.TOTL,"Population, total",2017,1348127258.0,population_total
+OECD members,OED,SP.POP.TOTL,"Population, total",2016,1340142055.0,population_total
+OECD members,OED,SP.POP.TOTL,"Population, total",2015,1331675197.0,population_total
+Other small states,OSS,SP.POP.TOTL,"Population, total",2019,12281907.0,population_total
+Other small states,OSS,SP.POP.TOTL,"Population, total",2018,12135267.0,population_total
+Other small states,OSS,SP.POP.TOTL,"Population, total",2017,11989367.0,population_total
+Other small states,OSS,SP.POP.TOTL,"Population, total",2016,11851918.0,population_total
+Other small states,OSS,SP.POP.TOTL,"Population, total",2015,11722398.0,population_total
+Pacific island small states,PSS,SP.POP.TOTL,"Population, total",2019,2568656.0,population_total
+Pacific island small states,PSS,SP.POP.TOTL,"Population, total",2018,2542009.0,population_total
+Pacific island small states,PSS,SP.POP.TOTL,"Population, total",2017,2509999.0,population_total
+Pacific island small states,PSS,SP.POP.TOTL,"Population, total",2016,2477794.0,population_total
+Pacific island small states,PSS,SP.POP.TOTL,"Population, total",2015,2445989.0,population_total
+Post-demographic dividend,PST,SP.POP.TOTL,"Population, total",2019,1114898817.0,population_total
+Post-demographic dividend,PST,SP.POP.TOTL,"Population, total",2018,1111377470.0,population_total
+Post-demographic dividend,PST,SP.POP.TOTL,"Population, total",2017,1107161559.0,population_total
+Post-demographic dividend,PST,SP.POP.TOTL,"Population, total",2016,1102966925.0,population_total
+Post-demographic dividend,PST,SP.POP.TOTL,"Population, total",2015,1097890139.0,population_total
+Pre-demographic dividend,PRE,SP.POP.TOTL,"Population, total",2019,972302503.0,population_total
+Pre-demographic dividend,PRE,SP.POP.TOTL,"Population, total",2018,946317177.0,population_total
+Pre-demographic dividend,PRE,SP.POP.TOTL,"Population, total",2017,920568701.0,population_total
+Pre-demographic dividend,PRE,SP.POP.TOTL,"Population, total",2016,895239872.0,population_total
+Pre-demographic dividend,PRE,SP.POP.TOTL,"Population, total",2015,870587800.0,population_total
+Small states,SST,SP.POP.TOTL,"Population, total",2019,19293697.0,population_total
+Small states,SST,SP.POP.TOTL,"Population, total",2018,19084934.0,population_total
+Small states,SST,SP.POP.TOTL,"Population, total",2017,18865506.0,population_total
+Small states,SST,SP.POP.TOTL,"Population, total",2016,18671045.0,population_total
+Small states,SST,SP.POP.TOTL,"Population, total",2015,18482578.0,population_total
+South Asia,SAS,SP.POP.TOTL,"Population, total",2019,1605412986.0,population_total
+South Asia,SAS,SP.POP.TOTL,"Population, total",2018,1589164714.0,population_total
+South Asia,SAS,SP.POP.TOTL,"Population, total",2017,1572520427.0,population_total
+South Asia,SAS,SP.POP.TOTL,"Population, total",2016,1555111864.0,population_total
+South Asia,SAS,SP.POP.TOTL,"Population, total",2015,1537370078.0,population_total
+South Asia (IDA & IBRD),TSA,SP.POP.TOTL,"Population, total",2019,1605412986.0,population_total
+South Asia (IDA & IBRD),TSA,SP.POP.TOTL,"Population, total",2018,1589164714.0,population_total
+South Asia (IDA & IBRD),TSA,SP.POP.TOTL,"Population, total",2017,1572520427.0,population_total
+South Asia (IDA & IBRD),TSA,SP.POP.TOTL,"Population, total",2016,1555111864.0,population_total
+South Asia (IDA & IBRD),TSA,SP.POP.TOTL,"Population, total",2015,1537370078.0,population_total
+Sub-Saharan Africa,SSF,SP.POP.TOTL,"Population, total",2019,1139315618.0,population_total
+Sub-Saharan Africa,SSF,SP.POP.TOTL,"Population, total",2018,1109997000.0,population_total
+Sub-Saharan Africa,SSF,SP.POP.TOTL,"Population, total",2017,1080941647.0,population_total
+Sub-Saharan Africa,SSF,SP.POP.TOTL,"Population, total",2016,1052824144.0,population_total
+Sub-Saharan Africa,SSF,SP.POP.TOTL,"Population, total",2015,1025251114.0,population_total
+Sub-Saharan Africa (excluding high income),SSA,SP.POP.TOTL,"Population, total",2019,1023480610.0,population_total
+Sub-Saharan Africa (excluding high income),SSA,SP.POP.TOTL,"Population, total",2018,997236086.0,population_total
+Sub-Saharan Africa (excluding high income),SSA,SP.POP.TOTL,"Population, total",2017,971179323.0,population_total
+Sub-Saharan Africa (excluding high income),SSA,SP.POP.TOTL,"Population, total",2016,946011305.0,population_total
+Sub-Saharan Africa (excluding high income),SSA,SP.POP.TOTL,"Population, total",2015,921290560.0,population_total
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.POP.TOTL,"Population, total",2019,1139315618.0,population_total
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.POP.TOTL,"Population, total",2018,1109997000.0,population_total
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.POP.TOTL,"Population, total",2017,1080941647.0,population_total
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.POP.TOTL,"Population, total",2016,1052824144.0,population_total
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SP.POP.TOTL,"Population, total",2015,1025251114.0,population_total
+Upper middle income,,SP.POP.TOTL,"Population, total",2019,2769964564.0,population_total
+Upper middle income,,SP.POP.TOTL,"Population, total",2018,2751574852.0,population_total
+Upper middle income,,SP.POP.TOTL,"Population, total",2017,2731150081.0,population_total
+Upper middle income,,SP.POP.TOTL,"Population, total",2016,2709372162.0,population_total
+Upper middle income,,SP.POP.TOTL,"Population, total",2015,2687902951.0,population_total
+World,WLD,SP.POP.TOTL,"Population, total",2019,7778008621.0,population_total
+World,WLD,SP.POP.TOTL,"Population, total",2018,7697233736.0,population_total
+World,WLD,SP.POP.TOTL,"Population, total",2017,7614523410.0,population_total
+World,WLD,SP.POP.TOTL,"Population, total",2016,7528879985.0,population_total
+World,WLD,SP.POP.TOTL,"Population, total",2015,7441677465.0,population_total
+Afghanistan,AFG,SP.POP.TOTL,"Population, total",2019,37856121.0,population_total
+Afghanistan,AFG,SP.POP.TOTL,"Population, total",2018,36743039.0,population_total
+Afghanistan,AFG,SP.POP.TOTL,"Population, total",2017,35688935.0,population_total
+Afghanistan,AFG,SP.POP.TOTL,"Population, total",2016,34700612.0,population_total
+Afghanistan,AFG,SP.POP.TOTL,"Population, total",2015,33831764.0,population_total
+Albania,ALB,SP.POP.TOTL,"Population, total",2019,2567801.0,population_total
+Albania,ALB,SP.POP.TOTL,"Population, total",2018,2607733.0,population_total
+Albania,ALB,SP.POP.TOTL,"Population, total",2017,2648285.0,population_total
+Albania,ALB,SP.POP.TOTL,"Population, total",2016,2689469.0,population_total
+Albania,ALB,SP.POP.TOTL,"Population, total",2015,2731293.0,population_total
+Algeria,DZA,SP.POP.TOTL,"Population, total",2019,43294546.0,population_total
+Algeria,DZA,SP.POP.TOTL,"Population, total",2018,42505035.0,population_total
+Algeria,DZA,SP.POP.TOTL,"Population, total",2017,41689299.0,population_total
+Algeria,DZA,SP.POP.TOTL,"Population, total",2016,40850721.0,population_total
+Algeria,DZA,SP.POP.TOTL,"Population, total",2015,40019529.0,population_total
+American Samoa,ASM,SP.POP.TOTL,"Population, total",2019,50209.0,population_total
+American Samoa,ASM,SP.POP.TOTL,"Population, total",2018,50908.0,population_total
+American Samoa,ASM,SP.POP.TOTL,"Population, total",2017,51586.0,population_total
+American Samoa,ASM,SP.POP.TOTL,"Population, total",2016,52245.0,population_total
+American Samoa,ASM,SP.POP.TOTL,"Population, total",2015,52878.0,population_total
+Andorra,AND,SP.POP.TOTL,"Population, total",2019,76474.0,population_total
+Andorra,AND,SP.POP.TOTL,"Population, total",2018,75162.0,population_total
+Andorra,AND,SP.POP.TOTL,"Population, total",2017,73763.0,population_total
+Andorra,AND,SP.POP.TOTL,"Population, total",2016,72181.0,population_total
+Andorra,AND,SP.POP.TOTL,"Population, total",2015,72174.0,population_total
+Angola,AGO,SP.POP.TOTL,"Population, total",2019,32375632.0,population_total
+Angola,AGO,SP.POP.TOTL,"Population, total",2018,31297155.0,population_total
+Angola,AGO,SP.POP.TOTL,"Population, total",2017,30234839.0,population_total
+Angola,AGO,SP.POP.TOTL,"Population, total",2016,29183070.0,population_total
+Angola,AGO,SP.POP.TOTL,"Population, total",2015,28157798.0,population_total
+Antigua and Barbuda,ATG,SP.POP.TOTL,"Population, total",2019,91364.0,population_total
+Antigua and Barbuda,ATG,SP.POP.TOTL,"Population, total",2018,90926.0,population_total
+Antigua and Barbuda,ATG,SP.POP.TOTL,"Population, total",2017,90468.0,population_total
+Antigua and Barbuda,ATG,SP.POP.TOTL,"Population, total",2016,89969.0,population_total
+Antigua and Barbuda,ATG,SP.POP.TOTL,"Population, total",2015,89409.0,population_total
+Argentina,ARG,SP.POP.TOTL,"Population, total",2019,44973465.0,population_total
+Argentina,ARG,SP.POP.TOTL,"Population, total",2018,44654882.0,population_total
+Argentina,ARG,SP.POP.TOTL,"Population, total",2017,44288894.0,population_total
+Argentina,ARG,SP.POP.TOTL,"Population, total",2016,43900313.0,population_total
+Argentina,ARG,SP.POP.TOTL,"Population, total",2015,43477012.0,population_total
+Armenia,ARM,SP.POP.TOTL,"Population, total",2019,2962500.0,population_total
+Armenia,ARM,SP.POP.TOTL,"Population, total",2018,2969000.0,population_total
+Armenia,ARM,SP.POP.TOTL,"Population, total",2017,2979400.0,population_total
+Armenia,ARM,SP.POP.TOTL,"Population, total",2016,2992300.0,population_total
+Armenia,ARM,SP.POP.TOTL,"Population, total",2015,3004600.0,population_total
+Aruba,ABW,SP.POP.TOTL,"Population, total",2019,109203.0,population_total
+Aruba,ABW,SP.POP.TOTL,"Population, total",2018,108908.0,population_total
+Aruba,ABW,SP.POP.TOTL,"Population, total",2017,108735.0,population_total
+Aruba,ABW,SP.POP.TOTL,"Population, total",2016,108727.0,population_total
+Aruba,ABW,SP.POP.TOTL,"Population, total",2015,107906.0,population_total
+Australia,AUS,SP.POP.TOTL,"Population, total",2019,25334826.0,population_total
+Australia,AUS,SP.POP.TOTL,"Population, total",2018,24963258.0,population_total
+Australia,AUS,SP.POP.TOTL,"Population, total",2017,24592588.0,population_total
+Australia,AUS,SP.POP.TOTL,"Population, total",2016,24190907.0,population_total
+Australia,AUS,SP.POP.TOTL,"Population, total",2015,23815995.0,population_total
+Austria,AUT,SP.POP.TOTL,"Population, total",2019,8879920.0,population_total
+Austria,AUT,SP.POP.TOTL,"Population, total",2018,8840521.0,population_total
+Austria,AUT,SP.POP.TOTL,"Population, total",2017,8797566.0,population_total
+Austria,AUT,SP.POP.TOTL,"Population, total",2016,8736668.0,population_total
+Austria,AUT,SP.POP.TOTL,"Population, total",2015,8642699.0,population_total
+Azerbaijan,AZE,SP.POP.TOTL,"Population, total",2019,10024283.0,population_total
+Azerbaijan,AZE,SP.POP.TOTL,"Population, total",2018,9939771.0,population_total
+Azerbaijan,AZE,SP.POP.TOTL,"Population, total",2017,9854033.0,population_total
+Azerbaijan,AZE,SP.POP.TOTL,"Population, total",2016,9757812.0,population_total
+Azerbaijan,AZE,SP.POP.TOTL,"Population, total",2015,9649341.0,population_total
+"Bahamas, The",BHS,SP.POP.TOTL,"Population, total",2019,394675.0,population_total
+"Bahamas, The",BHS,SP.POP.TOTL,"Population, total",2018,392717.0,population_total
+"Bahamas, The",BHS,SP.POP.TOTL,"Population, total",2017,390485.0,population_total
+"Bahamas, The",BHS,SP.POP.TOTL,"Population, total",2016,388055.0,population_total
+"Bahamas, The",BHS,SP.POP.TOTL,"Population, total",2015,385346.0,population_total
+Bahrain,BHR,SP.POP.TOTL,"Population, total",2019,1483756.0,population_total
+Bahrain,BHR,SP.POP.TOTL,"Population, total",2018,1503091.0,population_total
+Bahrain,BHR,SP.POP.TOTL,"Population, total",2017,1501116.0,population_total
+Bahrain,BHR,SP.POP.TOTL,"Population, total",2016,1423726.0,population_total
+Bahrain,BHR,SP.POP.TOTL,"Population, total",2015,1370322.0,population_total
+Bangladesh,BGD,SP.POP.TOTL,"Population, total",2019,164913055.0,population_total
+Bangladesh,BGD,SP.POP.TOTL,"Population, total",2018,163523103.0,population_total
+Bangladesh,BGD,SP.POP.TOTL,"Population, total",2017,162186147.0,population_total
+Bangladesh,BGD,SP.POP.TOTL,"Population, total",2016,160811932.0,population_total
+Bangladesh,BGD,SP.POP.TOTL,"Population, total",2015,159383179.0,population_total
+Barbados,BRB,SP.POP.TOTL,"Population, total",2019,281207.0,population_total
+Barbados,BRB,SP.POP.TOTL,"Population, total",2018,280711.0,population_total
+Barbados,BRB,SP.POP.TOTL,"Population, total",2017,280171.0,population_total
+Barbados,BRB,SP.POP.TOTL,"Population, total",2016,279598.0,population_total
+Barbados,BRB,SP.POP.TOTL,"Population, total",2015,278990.0,population_total
+Belarus,BLR,SP.POP.TOTL,"Population, total",2019,9419758.0,population_total
+Belarus,BLR,SP.POP.TOTL,"Population, total",2018,9438785.0,population_total
+Belarus,BLR,SP.POP.TOTL,"Population, total",2017,9458989.0,population_total
+Belarus,BLR,SP.POP.TOTL,"Population, total",2016,9469379.0,population_total
+Belarus,BLR,SP.POP.TOTL,"Population, total",2015,9461076.0,population_total
+Belgium,BEL,SP.POP.TOTL,"Population, total",2019,11488980.0,population_total
+Belgium,BEL,SP.POP.TOTL,"Population, total",2018,11427054.0,population_total
+Belgium,BEL,SP.POP.TOTL,"Population, total",2017,11375158.0,population_total
+Belgium,BEL,SP.POP.TOTL,"Population, total",2016,11331422.0,population_total
+Belgium,BEL,SP.POP.TOTL,"Population, total",2015,11274196.0,population_total
+Belize,BLZ,SP.POP.TOTL,"Population, total",2019,385829.0,population_total
+Belize,BLZ,SP.POP.TOTL,"Population, total",2018,380226.0,population_total
+Belize,BLZ,SP.POP.TOTL,"Population, total",2017,373202.0,population_total
+Belize,BLZ,SP.POP.TOTL,"Population, total",2016,364705.0,population_total
+Belize,BLZ,SP.POP.TOTL,"Population, total",2015,356333.0,population_total
+Benin,BEN,SP.POP.TOTL,"Population, total",2019,12726755.0,population_total
+Benin,BEN,SP.POP.TOTL,"Population, total",2018,12383347.0,population_total
+Benin,BEN,SP.POP.TOTL,"Population, total",2017,12039780.0,population_total
+Benin,BEN,SP.POP.TOTL,"Population, total",2016,11697842.0,population_total
+Benin,BEN,SP.POP.TOTL,"Population, total",2015,11360681.0,population_total
+Bermuda,BMU,SP.POP.TOTL,"Population, total",2019,64107.0,population_total
+Bermuda,BMU,SP.POP.TOTL,"Population, total",2018,63831.0,population_total
+Bermuda,BMU,SP.POP.TOTL,"Population, total",2017,63578.0,population_total
+Bermuda,BMU,SP.POP.TOTL,"Population, total",2016,63449.0,population_total
+Bermuda,BMU,SP.POP.TOTL,"Population, total",2015,63464.0,population_total
+Bhutan,BTN,SP.POP.TOTL,"Population, total",2019,764824.0,population_total
+Bhutan,BTN,SP.POP.TOTL,"Population, total",2018,759759.0,population_total
+Bhutan,BTN,SP.POP.TOTL,"Population, total",2017,754335.0,population_total
+Bhutan,BTN,SP.POP.TOTL,"Population, total",2016,747866.0,population_total
+Bhutan,BTN,SP.POP.TOTL,"Population, total",2015,740618.0,population_total
+Bolivia,BOL,SP.POP.TOTL,"Population, total",2019,11671386.0,population_total
+Bolivia,BOL,SP.POP.TOTL,"Population, total",2018,11508368.0,population_total
+Bolivia,BOL,SP.POP.TOTL,"Population, total",2017,11344587.0,population_total
+Bolivia,BOL,SP.POP.TOTL,"Population, total",2016,11180020.0,population_total
+Bolivia,BOL,SP.POP.TOTL,"Population, total",2015,11014705.0,population_total
+Bosnia and Herzegovina,BIH,SP.POP.TOTL,"Population, total",2019,3345533.0,population_total
+Bosnia and Herzegovina,BIH,SP.POP.TOTL,"Population, total",2018,3387000.0,population_total
+Bosnia and Herzegovina,BIH,SP.POP.TOTL,"Population, total",2017,3428682.0,population_total
+Bosnia and Herzegovina,BIH,SP.POP.TOTL,"Population, total",2016,3473003.0,population_total
+Bosnia and Herzegovina,BIH,SP.POP.TOTL,"Population, total",2015,3518541.0,population_total
+Botswana,BWA,SP.POP.TOTL,"Population, total",2019,2332083.0,population_total
+Botswana,BWA,SP.POP.TOTL,"Population, total",2018,2299141.0,population_total
+Botswana,BWA,SP.POP.TOTL,"Population, total",2017,2266747.0,population_total
+Botswana,BWA,SP.POP.TOTL,"Population, total",2016,2234776.0,population_total
+Botswana,BWA,SP.POP.TOTL,"Population, total",2015,2203273.0,population_total
+Brazil,BRA,SP.POP.TOTL,"Population, total",2019,207455459.0,population_total
+Brazil,BRA,SP.POP.TOTL,"Population, total",2018,206107261.0,population_total
+Brazil,BRA,SP.POP.TOTL,"Population, total",2017,204703445.0,population_total
+Brazil,BRA,SP.POP.TOTL,"Population, total",2016,203218114.0,population_total
+Brazil,BRA,SP.POP.TOTL,"Population, total",2015,201675532.0,population_total
+British Virgin Islands,VGB,SP.POP.TOTL,"Population, total",2019,36395.0,population_total
+British Virgin Islands,VGB,SP.POP.TOTL,"Population, total",2018,34657.0,population_total
+British Virgin Islands,VGB,SP.POP.TOTL,"Population, total",2017,32699.0,population_total
+British Virgin Islands,VGB,SP.POP.TOTL,"Population, total",2016,33878.0,population_total
+British Virgin Islands,VGB,SP.POP.TOTL,"Population, total",2015,34498.0,population_total
+Brunei Darussalam,BRN,SP.POP.TOTL,"Population, total",2019,442680.0,population_total
+Brunei Darussalam,BRN,SP.POP.TOTL,"Population, total",2018,437810.0,population_total
+Brunei Darussalam,BRN,SP.POP.TOTL,"Population, total",2017,432772.0,population_total
+Brunei Darussalam,BRN,SP.POP.TOTL,"Population, total",2016,427564.0,population_total
+Brunei Darussalam,BRN,SP.POP.TOTL,"Population, total",2015,422212.0,population_total
+Bulgaria,BGR,SP.POP.TOTL,"Population, total",2019,6616726.0,population_total
+Bulgaria,BGR,SP.POP.TOTL,"Population, total",2018,6710798.0,population_total
+Bulgaria,BGR,SP.POP.TOTL,"Population, total",2017,6803468.0,population_total
+Bulgaria,BGR,SP.POP.TOTL,"Population, total",2016,6894139.0,population_total
+Bulgaria,BGR,SP.POP.TOTL,"Population, total",2015,6984225.0,population_total
+Burkina Faso,BFA,SP.POP.TOTL,"Population, total",2019,20961952.0,population_total
+Burkina Faso,BFA,SP.POP.TOTL,"Population, total",2018,20438288.0,population_total
+Burkina Faso,BFA,SP.POP.TOTL,"Population, total",2017,19894407.0,population_total
+Burkina Faso,BFA,SP.POP.TOTL,"Population, total",2016,19334856.0,population_total
+Burkina Faso,BFA,SP.POP.TOTL,"Population, total",2015,18777487.0,population_total
+Burundi,BDI,SP.POP.TOTL,"Population, total",2019,12255336.0,population_total
+Burundi,BDI,SP.POP.TOTL,"Population, total",2018,11859446.0,population_total
+Burundi,BDI,SP.POP.TOTL,"Population, total",2017,11506762.0,population_total
+Burundi,BDI,SP.POP.TOTL,"Population, total",2016,11239451.0,population_total
+Burundi,BDI,SP.POP.TOTL,"Population, total",2015,11047580.0,population_total
+Cabo Verde,CPV,SP.POP.TOTL,"Population, total",2019,514104.0,population_total
+Cabo Verde,CPV,SP.POP.TOTL,"Population, total",2018,513415.0,population_total
+Cabo Verde,CPV,SP.POP.TOTL,"Population, total",2017,512893.0,population_total
+Cabo Verde,CPV,SP.POP.TOTL,"Population, total",2016,512554.0,population_total
+Cabo Verde,CPV,SP.POP.TOTL,"Population, total",2015,512394.0,population_total
+Cambodia,KHM,SP.POP.TOTL,"Population, total",2019,16481304.0,population_total
+Cambodia,KHM,SP.POP.TOTL,"Population, total",2018,16274522.0,population_total
+Cambodia,KHM,SP.POP.TOTL,"Population, total",2017,16073372.0,population_total
+Cambodia,KHM,SP.POP.TOTL,"Population, total",2016,15852803.0,population_total
+Cambodia,KHM,SP.POP.TOTL,"Population, total",2015,15623251.0,population_total
+Cameroon,CMR,SP.POP.TOTL,"Population, total",2019,25506095.0,population_total
+Cameroon,CMR,SP.POP.TOTL,"Population, total",2018,24806383.0,population_total
+Cameroon,CMR,SP.POP.TOTL,"Population, total",2017,24128601.0,population_total
+Cameroon,CMR,SP.POP.TOTL,"Population, total",2016,23454161.0,population_total
+Cameroon,CMR,SP.POP.TOTL,"Population, total",2015,22763414.0,population_total
+Canada,CAN,SP.POP.TOTL,"Population, total",2019,37618495.0,population_total
+Canada,CAN,SP.POP.TOTL,"Population, total",2018,37072620.0,population_total
+Canada,CAN,SP.POP.TOTL,"Population, total",2017,36545075.0,population_total
+Canada,CAN,SP.POP.TOTL,"Population, total",2016,36110803.0,population_total
+Canada,CAN,SP.POP.TOTL,"Population, total",2015,35704498.0,population_total
+Cayman Islands,CYM,SP.POP.TOTL,"Population, total",2019,67327.0,population_total
+Cayman Islands,CYM,SP.POP.TOTL,"Population, total",2018,65941.0,population_total
+Cayman Islands,CYM,SP.POP.TOTL,"Population, total",2017,64535.0,population_total
+Cayman Islands,CYM,SP.POP.TOTL,"Population, total",2016,63100.0,population_total
+Cayman Islands,CYM,SP.POP.TOTL,"Population, total",2015,61642.0,population_total
+Central African Republic,CAF,SP.POP.TOTL,"Population, total",2019,4944703.0,population_total
+Central African Republic,CAF,SP.POP.TOTL,"Population, total",2018,4878657.0,population_total
+Central African Republic,CAF,SP.POP.TOTL,"Population, total",2017,4793511.0,population_total
+Central African Republic,CAF,SP.POP.TOTL,"Population, total",2016,4713663.0,population_total
+Central African Republic,CAF,SP.POP.TOTL,"Population, total",2015,4629320.0,population_total
+Chad,TCD,SP.POP.TOTL,"Population, total",2019,16685223.0,population_total
+Chad,TCD,SP.POP.TOTL,"Population, total",2018,16156531.0,population_total
+Chad,TCD,SP.POP.TOTL,"Population, total",2017,15622759.0,population_total
+Chad,TCD,SP.POP.TOTL,"Population, total",2016,15114655.0,population_total
+Chad,TCD,SP.POP.TOTL,"Population, total",2015,14647621.0,population_total
+Channel Islands,CHI,SP.POP.TOTL,"Population, total",2019,165639.0,population_total
+Channel Islands,CHI,SP.POP.TOTL,"Population, total",2018,164949.0,population_total
+Channel Islands,CHI,SP.POP.TOTL,"Population, total",2017,164319.0,population_total
+Channel Islands,CHI,SP.POP.TOTL,"Population, total",2016,163883.0,population_total
+Channel Islands,CHI,SP.POP.TOTL,"Population, total",2015,163454.0,population_total
+Chile,CHL,SP.POP.TOTL,"Population, total",2019,19197744.0,population_total
+Chile,CHL,SP.POP.TOTL,"Population, total",2018,18893191.0,population_total
+Chile,CHL,SP.POP.TOTL,"Population, total",2017,18558868.0,population_total
+Chile,CHL,SP.POP.TOTL,"Population, total",2016,18267221.0,population_total
+Chile,CHL,SP.POP.TOTL,"Population, total",2015,18047625.0,population_total
+China,CHN,SP.POP.TOTL,"Population, total",2019,1407745000.0,population_total
+China,CHN,SP.POP.TOTL,"Population, total",2018,1402760000.0,population_total
+China,CHN,SP.POP.TOTL,"Population, total",2017,1396215000.0,population_total
+China,CHN,SP.POP.TOTL,"Population, total",2016,1387790000.0,population_total
+China,CHN,SP.POP.TOTL,"Population, total",2015,1379860000.0,population_total
+Colombia,COL,SP.POP.TOTL,"Population, total",2019,49907985.0,population_total
+Colombia,COL,SP.POP.TOTL,"Population, total",2018,49024465.0,population_total
+Colombia,COL,SP.POP.TOTL,"Population, total",2017,48131078.0,population_total
+Colombia,COL,SP.POP.TOTL,"Population, total",2016,47437512.0,population_total
+Colombia,COL,SP.POP.TOTL,"Population, total",2015,46969940.0,population_total
+Comoros,COM,SP.POP.TOTL,"Population, total",2019,786578.0,population_total
+Comoros,COM,SP.POP.TOTL,"Population, total",2018,771590.0,population_total
+Comoros,COM,SP.POP.TOTL,"Population, total",2017,756669.0,population_total
+Comoros,COM,SP.POP.TOTL,"Population, total",2016,741741.0,population_total
+Comoros,COM,SP.POP.TOTL,"Population, total",2015,726682.0,population_total
+"Congo, Dem. Rep.",COD,SP.POP.TOTL,"Population, total",2019,92947442.0,population_total
+"Congo, Dem. Rep.",COD,SP.POP.TOTL,"Population, total",2018,90047644.0,population_total
+"Congo, Dem. Rep.",COD,SP.POP.TOTL,"Population, total",2017,87083398.0,population_total
+"Congo, Dem. Rep.",COD,SP.POP.TOTL,"Population, total",2016,83956415.0,population_total
+"Congo, Dem. Rep.",COD,SP.POP.TOTL,"Population, total",2015,81035531.0,population_total
+"Congo, Rep.",COG,SP.POP.TOTL,"Population, total",2019,5616661.0,population_total
+"Congo, Rep.",COG,SP.POP.TOTL,"Population, total",2018,5483118.0,population_total
+"Congo, Rep.",COG,SP.POP.TOTL,"Population, total",2017,5351011.0,population_total
+"Congo, Rep.",COG,SP.POP.TOTL,"Population, total",2016,5222536.0,population_total
+"Congo, Rep.",COG,SP.POP.TOTL,"Population, total",2015,5097581.0,population_total
+Costa Rica,CRI,SP.POP.TOTL,"Population, total",2019,4999553.0,population_total
+Costa Rica,CRI,SP.POP.TOTL,"Population, total",2018,4957818.0,population_total
+Costa Rica,CRI,SP.POP.TOTL,"Population, total",2017,4913177.0,population_total
+Costa Rica,CRI,SP.POP.TOTL,"Population, total",2016,4866998.0,population_total
+Costa Rica,CRI,SP.POP.TOTL,"Population, total",2015,4818038.0,population_total
+Cote d'Ivoire,CIV,SP.POP.TOTL,"Population, total",2019,28193009.0,population_total
+Cote d'Ivoire,CIV,SP.POP.TOTL,"Population, total",2018,27464173.0,population_total
+Cote d'Ivoire,CIV,SP.POP.TOTL,"Population, total",2017,26733372.0,population_total
+Cote d'Ivoire,CIV,SP.POP.TOTL,"Population, total",2016,25989405.0,population_total
+Cote d'Ivoire,CIV,SP.POP.TOTL,"Population, total",2015,25246342.0,population_total
+Croatia,HRV,SP.POP.TOTL,"Population, total",2019,3949390.0,population_total
+Croatia,HRV,SP.POP.TOTL,"Population, total",2018,3988775.0,population_total
+Croatia,HRV,SP.POP.TOTL,"Population, total",2017,4041407.0,population_total
+Croatia,HRV,SP.POP.TOTL,"Population, total",2016,4106867.0,population_total
+Croatia,HRV,SP.POP.TOTL,"Population, total",2015,4151725.0,population_total
+Cuba,CUB,SP.POP.TOTL,"Population, total",2019,11202846.0,population_total
+Cuba,CUB,SP.POP.TOTL,"Population, total",2018,11227118.0,population_total
+Cuba,CUB,SP.POP.TOTL,"Population, total",2017,11247829.0,population_total
+Cuba,CUB,SP.POP.TOTL,"Population, total",2016,11265612.0,population_total
+Cuba,CUB,SP.POP.TOTL,"Population, total",2015,11275065.0,population_total
+Curacao,CUW,SP.POP.TOTL,"Population, total",2019,157441.0,population_total
+Curacao,CUW,SP.POP.TOTL,"Population, total",2018,159336.0,population_total
+Curacao,CUW,SP.POP.TOTL,"Population, total",2017,160175.0,population_total
+Curacao,CUW,SP.POP.TOTL,"Population, total",2016,159664.0,population_total
+Curacao,CUW,SP.POP.TOTL,"Population, total",2015,157980.0,population_total
+Cyprus,CYP,SP.POP.TOTL,"Population, total",2019,1286671.0,population_total
+Cyprus,CYP,SP.POP.TOTL,"Population, total",2018,1270737.0,population_total
+Cyprus,CYP,SP.POP.TOTL,"Population, total",2017,1254275.0,population_total
+Cyprus,CYP,SP.POP.TOTL,"Population, total",2016,1237112.0,population_total
+Cyprus,CYP,SP.POP.TOTL,"Population, total",2015,1219502.0,population_total
+Czechia,CZE,SP.POP.TOTL,"Population, total",2019,10671870.0,population_total
+Czechia,CZE,SP.POP.TOTL,"Population, total",2018,10629928.0,population_total
+Czechia,CZE,SP.POP.TOTL,"Population, total",2017,10594438.0,population_total
+Czechia,CZE,SP.POP.TOTL,"Population, total",2016,10566332.0,population_total
+Czechia,CZE,SP.POP.TOTL,"Population, total",2015,10546059.0,population_total
+Denmark,DNK,SP.POP.TOTL,"Population, total",2019,5814422.0,population_total
+Denmark,DNK,SP.POP.TOTL,"Population, total",2018,5793636.0,population_total
+Denmark,DNK,SP.POP.TOTL,"Population, total",2017,5764980.0,population_total
+Denmark,DNK,SP.POP.TOTL,"Population, total",2016,5728010.0,population_total
+Denmark,DNK,SP.POP.TOTL,"Population, total",2015,5683483.0,population_total
+Djibouti,DJI,SP.POP.TOTL,"Population, total",2019,1088709.0,population_total
+Djibouti,DJI,SP.POP.TOTL,"Population, total",2018,1071882.0,population_total
+Djibouti,DJI,SP.POP.TOTL,"Population, total",2017,1054841.0,population_total
+Djibouti,DJI,SP.POP.TOTL,"Population, total",2016,1037653.0,population_total
+Djibouti,DJI,SP.POP.TOTL,"Population, total",2015,1020313.0,population_total
+Dominica,DMA,SP.POP.TOTL,"Population, total",2019,67880.0,population_total
+Dominica,DMA,SP.POP.TOTL,"Population, total",2018,68174.0,population_total
+Dominica,DMA,SP.POP.TOTL,"Population, total",2017,68496.0,population_total
+Dominica,DMA,SP.POP.TOTL,"Population, total",2016,69606.0,population_total
+Dominica,DMA,SP.POP.TOTL,"Population, total",2015,70410.0,population_total
+Dominican Republic,DOM,SP.POP.TOTL,"Population, total",2019,10894043.0,population_total
+Dominican Republic,DOM,SP.POP.TOTL,"Population, total",2018,10782053.0,population_total
+Dominican Republic,DOM,SP.POP.TOTL,"Population, total",2017,10666843.0,population_total
+Dominican Republic,DOM,SP.POP.TOTL,"Population, total",2016,10551430.0,population_total
+Dominican Republic,DOM,SP.POP.TOTL,"Population, total",2015,10434829.0,population_total
+Ecuador,ECU,SP.POP.TOTL,"Population, total",2019,17340021.0,population_total
+Ecuador,ECU,SP.POP.TOTL,"Population, total",2018,17049547.0,population_total
+Ecuador,ECU,SP.POP.TOTL,"Population, total",2017,16759519.0,population_total
+Ecuador,ECU,SP.POP.TOTL,"Population, total",2016,16505139.0,population_total
+Ecuador,ECU,SP.POP.TOTL,"Population, total",2015,16266225.0,population_total
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,"Population, total",2019,107553158.0,population_total
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,"Population, total",2018,105682094.0,population_total
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,"Population, total",2017,103696057.0,population_total
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,"Population, total",2016,101644589.0,population_total
+"Egypt, Arab Rep.",EGY,SP.POP.TOTL,"Population, total",2015,99597342.0,population_total
+El Salvador,SLV,SP.POP.TOTL,"Population, total",2019,6222318.0,population_total
+El Salvador,SLV,SP.POP.TOTL,"Population, total",2018,6219807.0,population_total
+El Salvador,SLV,SP.POP.TOTL,"Population, total",2017,6213533.0,population_total
+El Salvador,SLV,SP.POP.TOTL,"Population, total",2016,6200800.0,population_total
+El Salvador,SLV,SP.POP.TOTL,"Population, total",2015,6183676.0,population_total
+Equatorial Guinea,GNQ,SP.POP.TOTL,"Population, total",2019,1670177.0,population_total
+Equatorial Guinea,GNQ,SP.POP.TOTL,"Population, total",2018,1616422.0,population_total
+Equatorial Guinea,GNQ,SP.POP.TOTL,"Population, total",2017,1562396.0,population_total
+Equatorial Guinea,GNQ,SP.POP.TOTL,"Population, total",2016,1508186.0,population_total
+Equatorial Guinea,GNQ,SP.POP.TOTL,"Population, total",2015,1453923.0,population_total
+Eritrea,ERI,SP.POP.TOTL,"Population, total",2019,3240194.0,population_total
+Eritrea,ERI,SP.POP.TOTL,"Population, total",2018,3192760.0,population_total
+Eritrea,ERI,SP.POP.TOTL,"Population, total",2017,3150347.0,population_total
+Eritrea,ERI,SP.POP.TOTL,"Population, total",2016,3124698.0,population_total
+Eritrea,ERI,SP.POP.TOTL,"Population, total",2015,3105546.0,population_total
+Estonia,EST,SP.POP.TOTL,"Population, total",2019,1326898.0,population_total
+Estonia,EST,SP.POP.TOTL,"Population, total",2018,1321977.0,population_total
+Estonia,EST,SP.POP.TOTL,"Population, total",2017,1317384.0,population_total
+Estonia,EST,SP.POP.TOTL,"Population, total",2016,1315790.0,population_total
+Estonia,EST,SP.POP.TOTL,"Population, total",2015,1315407.0,population_total
+Eswatini,SWZ,SP.POP.TOTL,"Population, total",2019,1179874.0,population_total
+Eswatini,SWZ,SP.POP.TOTL,"Population, total",2018,1168929.0,population_total
+Eswatini,SWZ,SP.POP.TOTL,"Population, total",2017,1158195.0,population_total
+Eswatini,SWZ,SP.POP.TOTL,"Population, total",2016,1149507.0,population_total
+Eswatini,SWZ,SP.POP.TOTL,"Population, total",2015,1142813.0,population_total
+Ethiopia,ETH,SP.POP.TOTL,"Population, total",2019,115737383.0,population_total
+Ethiopia,ETH,SP.POP.TOTL,"Population, total",2018,112664152.0,population_total
+Ethiopia,ETH,SP.POP.TOTL,"Population, total",2017,109666481.0,population_total
+Ethiopia,ETH,SP.POP.TOTL,"Population, total",2016,106718162.0,population_total
+Ethiopia,ETH,SP.POP.TOTL,"Population, total",2015,103867135.0,population_total
+Faroe Islands,FRO,SP.POP.TOTL,"Population, total",2019,51792.0,population_total
+Faroe Islands,FRO,SP.POP.TOTL,"Population, total",2018,50996.0,population_total
+Faroe Islands,FRO,SP.POP.TOTL,"Population, total",2017,50180.0,population_total
+Faroe Islands,FRO,SP.POP.TOTL,"Population, total",2016,49464.0,population_total
+Faroe Islands,FRO,SP.POP.TOTL,"Population, total",2015,48899.0,population_total
+Fiji,FJI,SP.POP.TOTL,"Population, total",2019,914899.0,population_total
+Fiji,FJI,SP.POP.TOTL,"Population, total",2018,917180.0,population_total
+Fiji,FJI,SP.POP.TOTL,"Population, total",2017,918759.0,population_total
+Fiji,FJI,SP.POP.TOTL,"Population, total",2016,919166.0,population_total
+Fiji,FJI,SP.POP.TOTL,"Population, total",2015,918578.0,population_total
+Finland,FIN,SP.POP.TOTL,"Population, total",2019,5521606.0,population_total
+Finland,FIN,SP.POP.TOTL,"Population, total",2018,5515525.0,population_total
+Finland,FIN,SP.POP.TOTL,"Population, total",2017,5508214.0,population_total
+Finland,FIN,SP.POP.TOTL,"Population, total",2016,5495303.0,population_total
+Finland,FIN,SP.POP.TOTL,"Population, total",2015,5479531.0,population_total
+France,FRA,SP.POP.TOTL,"Population, total",2019,67382061.0,population_total
+France,FRA,SP.POP.TOTL,"Population, total",2018,67158348.0,population_total
+France,FRA,SP.POP.TOTL,"Population, total",2017,66918020.0,population_total
+France,FRA,SP.POP.TOTL,"Population, total",2016,66724104.0,population_total
+France,FRA,SP.POP.TOTL,"Population, total",2015,66548272.0,population_total
+French Polynesia,PYF,SP.POP.TOTL,"Population, total",2019,279034.0,population_total
+French Polynesia,PYF,SP.POP.TOTL,"Population, total",2018,279815.0,population_total
+French Polynesia,PYF,SP.POP.TOTL,"Population, total",2017,280087.0,population_total
+French Polynesia,PYF,SP.POP.TOTL,"Population, total",2016,279178.0,population_total
+French Polynesia,PYF,SP.POP.TOTL,"Population, total",2015,277866.0,population_total
+Gabon,GAB,SP.POP.TOTL,"Population, total",2019,2267706.0,population_total
+Gabon,GAB,SP.POP.TOTL,"Population, total",2018,2212318.0,population_total
+Gabon,GAB,SP.POP.TOTL,"Population, total",2017,2156900.0,population_total
+Gabon,GAB,SP.POP.TOTL,"Population, total",2016,2100306.0,population_total
+Gabon,GAB,SP.POP.TOTL,"Population, total",2015,2040989.0,population_total
+"Gambia, The",GMB,SP.POP.TOTL,"Population, total",2019,2456844.0,population_total
+"Gambia, The",GMB,SP.POP.TOTL,"Population, total",2018,2399632.0,population_total
+"Gambia, The",GMB,SP.POP.TOTL,"Population, total",2017,2342189.0,population_total
+"Gambia, The",GMB,SP.POP.TOTL,"Population, total",2016,2283769.0,population_total
+"Gambia, The",GMB,SP.POP.TOTL,"Population, total",2015,2224529.0,population_total
+Georgia,GEO,SP.POP.TOTL,"Population, total",2019,3720161.0,population_total
+Georgia,GEO,SP.POP.TOTL,"Population, total",2018,3726549.0,population_total
+Georgia,GEO,SP.POP.TOTL,"Population, total",2017,3728004.0,population_total
+Georgia,GEO,SP.POP.TOTL,"Population, total",2016,3727505.0,population_total
+Georgia,GEO,SP.POP.TOTL,"Population, total",2015,3725276.0,population_total
+Germany,DEU,SP.POP.TOTL,"Population, total",2019,83092962.0,population_total
+Germany,DEU,SP.POP.TOTL,"Population, total",2018,82905782.0,population_total
+Germany,DEU,SP.POP.TOTL,"Population, total",2017,82657002.0,population_total
+Germany,DEU,SP.POP.TOTL,"Population, total",2016,82348669.0,population_total
+Germany,DEU,SP.POP.TOTL,"Population, total",2015,81686611.0,population_total
+Ghana,GHA,SP.POP.TOTL,"Population, total",2019,31258945.0,population_total
+Ghana,GHA,SP.POP.TOTL,"Population, total",2018,30637585.0,population_total
+Ghana,GHA,SP.POP.TOTL,"Population, total",2017,30008354.0,population_total
+Ghana,GHA,SP.POP.TOTL,"Population, total",2016,29356742.0,population_total
+Ghana,GHA,SP.POP.TOTL,"Population, total",2015,28696068.0,population_total
+Gibraltar,GIB,SP.POP.TOTL,"Population, total",2019,35494.0,population_total
+Gibraltar,GIB,SP.POP.TOTL,"Population, total",2018,34854.0,population_total
+Gibraltar,GIB,SP.POP.TOTL,"Population, total",2017,34245.0,population_total
+Gibraltar,GIB,SP.POP.TOTL,"Population, total",2016,33658.0,population_total
+Gibraltar,GIB,SP.POP.TOTL,"Population, total",2015,33193.0,population_total
+Greece,GRC,SP.POP.TOTL,"Population, total",2019,10721582.0,population_total
+Greece,GRC,SP.POP.TOTL,"Population, total",2018,10732882.0,population_total
+Greece,GRC,SP.POP.TOTL,"Population, total",2017,10754679.0,population_total
+Greece,GRC,SP.POP.TOTL,"Population, total",2016,10775971.0,population_total
+Greece,GRC,SP.POP.TOTL,"Population, total",2015,10820883.0,population_total
+Greenland,GRL,SP.POP.TOTL,"Population, total",2019,56225.0,population_total
+Greenland,GRL,SP.POP.TOTL,"Population, total",2018,56023.0,population_total
+Greenland,GRL,SP.POP.TOTL,"Population, total",2017,56172.0,population_total
+Greenland,GRL,SP.POP.TOTL,"Population, total",2016,56186.0,population_total
+Greenland,GRL,SP.POP.TOTL,"Population, total",2015,56114.0,population_total
+Grenada,GRD,SP.POP.TOTL,"Population, total",2019,115981.0,population_total
+Grenada,GRD,SP.POP.TOTL,"Population, total",2018,115691.0,population_total
+Grenada,GRD,SP.POP.TOTL,"Population, total",2017,115438.0,population_total
+Grenada,GRD,SP.POP.TOTL,"Population, total",2016,115130.0,population_total
+Grenada,GRD,SP.POP.TOTL,"Population, total",2015,114676.0,population_total
+Guam,GUM,SP.POP.TOTL,"Population, total",2019,161808.0,population_total
+Guam,GUM,SP.POP.TOTL,"Population, total",2018,162679.0,population_total
+Guam,GUM,SP.POP.TOTL,"Population, total",2017,163490.0,population_total
+Guam,GUM,SP.POP.TOTL,"Population, total",2016,164233.0,population_total
+Guam,GUM,SP.POP.TOTL,"Population, total",2015,164905.0,population_total
+Guatemala,GTM,SP.POP.TOTL,"Population, total",2019,17103803.0,population_total
+Guatemala,GTM,SP.POP.TOTL,"Population, total",2018,16845685.0,population_total
+Guatemala,GTM,SP.POP.TOTL,"Population, total",2017,16567357.0,population_total
+Guatemala,GTM,SP.POP.TOTL,"Population, total",2016,16268760.0,population_total
+Guatemala,GTM,SP.POP.TOTL,"Population, total",2015,15971743.0,population_total
+Guinea,GIN,SP.POP.TOTL,"Population, total",2019,13034346.0,population_total
+Guinea,GIN,SP.POP.TOTL,"Population, total",2018,12704774.0,population_total
+Guinea,GIN,SP.POP.TOTL,"Population, total",2017,12385659.0,population_total
+Guinea,GIN,SP.POP.TOTL,"Population, total",2016,12073030.0,population_total
+Guinea,GIN,SP.POP.TOTL,"Population, total",2015,11767070.0,population_total
+Guinea-Bissau,GNB,SP.POP.TOTL,"Population, total",2019,1967696.0,population_total
+Guinea-Bissau,GNB,SP.POP.TOTL,"Population, total",2018,1922168.0,population_total
+Guinea-Bissau,GNB,SP.POP.TOTL,"Population, total",2017,1877072.0,population_total
+Guinea-Bissau,GNB,SP.POP.TOTL,"Population, total",2016,1831893.0,population_total
+Guinea-Bissau,GNB,SP.POP.TOTL,"Population, total",2015,1786457.0,population_total
+Guyana,GUY,SP.POP.TOTL,"Population, total",2019,807665.0,population_total
+Guyana,GUY,SP.POP.TOTL,"Population, total",2018,791556.0,population_total
+Guyana,GUY,SP.POP.TOTL,"Population, total",2017,768479.0,population_total
+Guyana,GUY,SP.POP.TOTL,"Population, total",2016,763548.0,population_total
+Guyana,GUY,SP.POP.TOTL,"Population, total",2015,758781.0,population_total
+Haiti,HTI,SP.POP.TOTL,"Population, total",2019,11105163.0,population_total
+Haiti,HTI,SP.POP.TOTL,"Population, total",2018,10962362.0,population_total
+Haiti,HTI,SP.POP.TOTL,"Population, total",2017,10817754.0,population_total
+Haiti,HTI,SP.POP.TOTL,"Population, total",2016,10671457.0,population_total
+Haiti,HTI,SP.POP.TOTL,"Population, total",2015,10523242.0,population_total
+Honduras,HND,SP.POP.TOTL,"Population, total",2019,9943633.0,population_total
+Honduras,HND,SP.POP.TOTL,"Population, total",2018,9765210.0,population_total
+Honduras,HND,SP.POP.TOTL,"Population, total",2017,9588137.0,population_total
+Honduras,HND,SP.POP.TOTL,"Population, total",2016,9412380.0,population_total
+Honduras,HND,SP.POP.TOTL,"Population, total",2015,9237305.0,population_total
+"Hong Kong SAR, China",HKG,SP.POP.TOTL,"Population, total",2019,7507900.0,population_total
+"Hong Kong SAR, China",HKG,SP.POP.TOTL,"Population, total",2018,7452600.0,population_total
+"Hong Kong SAR, China",HKG,SP.POP.TOTL,"Population, total",2017,7393200.0,population_total
+"Hong Kong SAR, China",HKG,SP.POP.TOTL,"Population, total",2016,7336600.0,population_total
+"Hong Kong SAR, China",HKG,SP.POP.TOTL,"Population, total",2015,7291300.0,population_total
+Hungary,HUN,SP.POP.TOTL,"Population, total",2019,9694824.0,population_total
+Hungary,HUN,SP.POP.TOTL,"Population, total",2018,9706964.0,population_total
+Hungary,HUN,SP.POP.TOTL,"Population, total",2017,9726756.0,population_total
+Hungary,HUN,SP.POP.TOTL,"Population, total",2016,9759755.0,population_total
+Hungary,HUN,SP.POP.TOTL,"Population, total",2015,9797755.0,population_total
+Iceland,ISL,SP.POP.TOTL,"Population, total",2019,360563.0,population_total
+Iceland,ISL,SP.POP.TOTL,"Population, total",2018,352721.0,population_total
+Iceland,ISL,SP.POP.TOTL,"Population, total",2017,343400.0,population_total
+Iceland,ISL,SP.POP.TOTL,"Population, total",2016,335439.0,population_total
+Iceland,ISL,SP.POP.TOTL,"Population, total",2015,330815.0,population_total
+India,IND,SP.POP.TOTL,"Population, total",2019,1389030312.0,population_total
+India,IND,SP.POP.TOTL,"Population, total",2018,1374659064.0,population_total
+India,IND,SP.POP.TOTL,"Population, total",2017,1359657400.0,population_total
+India,IND,SP.POP.TOTL,"Population, total",2016,1343944296.0,population_total
+India,IND,SP.POP.TOTL,"Population, total",2015,1328024498.0,population_total
+Indonesia,IDN,SP.POP.TOTL,"Population, total",2019,272489381.0,population_total
+Indonesia,IDN,SP.POP.TOTL,"Population, total",2018,269951846.0,population_total
+Indonesia,IDN,SP.POP.TOTL,"Population, total",2017,267346658.0,population_total
+Indonesia,IDN,SP.POP.TOTL,"Population, total",2016,264627418.0,population_total
+Indonesia,IDN,SP.POP.TOTL,"Population, total",2015,261799249.0,population_total
+"Iran, Islamic Rep.",IRN,SP.POP.TOTL,"Population, total",2019,87051648.0,population_total
+"Iran, Islamic Rep.",IRN,SP.POP.TOTL,"Population, total",2018,86117998.0,population_total
+"Iran, Islamic Rep.",IRN,SP.POP.TOTL,"Population, total",2017,85026754.0,population_total
+"Iran, Islamic Rep.",IRN,SP.POP.TOTL,"Population, total",2016,83812228.0,population_total
+"Iran, Islamic Rep.",IRN,SP.POP.TOTL,"Population, total",2015,82619362.0,population_total
+Iraq,IRQ,SP.POP.TOTL,"Population, total",2019,41192171.0,population_total
+Iraq,IRQ,SP.POP.TOTL,"Population, total",2018,40265624.0,population_total
+Iraq,IRQ,SP.POP.TOTL,"Population, total",2017,39337353.0,population_total
+Iraq,IRQ,SP.POP.TOTL,"Population, total",2016,38469627.0,population_total
+Iraq,IRQ,SP.POP.TOTL,"Population, total",2015,37560535.0,population_total
+Ireland,IRL,SP.POP.TOTL,"Population, total",2019,4976456.0,population_total
+Ireland,IRL,SP.POP.TOTL,"Population, total",2018,4898022.0,population_total
+Ireland,IRL,SP.POP.TOTL,"Population, total",2017,4827445.0,population_total
+Ireland,IRL,SP.POP.TOTL,"Population, total",2016,4762722.0,population_total
+Ireland,IRL,SP.POP.TOTL,"Population, total",2015,4701957.0,population_total
+Isle of Man,IMN,SP.POP.TOTL,"Population, total",2019,83957.0,population_total
+Isle of Man,IMN,SP.POP.TOTL,"Population, total",2018,83805.0,population_total
+Isle of Man,IMN,SP.POP.TOTL,"Population, total",2017,83609.0,population_total
+Isle of Man,IMN,SP.POP.TOTL,"Population, total",2016,83466.0,population_total
+Isle of Man,IMN,SP.POP.TOTL,"Population, total",2015,83593.0,population_total
+Israel,ISR,SP.POP.TOTL,"Population, total",2019,9054000.0,population_total
+Israel,ISR,SP.POP.TOTL,"Population, total",2018,8882800.0,population_total
+Israel,ISR,SP.POP.TOTL,"Population, total",2017,8713300.0,population_total
+Israel,ISR,SP.POP.TOTL,"Population, total",2016,8546000.0,population_total
+Israel,ISR,SP.POP.TOTL,"Population, total",2015,8380100.0,population_total
+Italy,ITA,SP.POP.TOTL,"Population, total",2019,59729081.0,population_total
+Italy,ITA,SP.POP.TOTL,"Population, total",2018,60148658.0,population_total
+Italy,ITA,SP.POP.TOTL,"Population, total",2017,60002252.0,population_total
+Italy,ITA,SP.POP.TOTL,"Population, total",2016,60115223.0,population_total
+Italy,ITA,SP.POP.TOTL,"Population, total",2015,60229605.0,population_total
+Jamaica,JAM,SP.POP.TOTL,"Population, total",2019,2823271.0,population_total
+Jamaica,JAM,SP.POP.TOTL,"Population, total",2018,2820097.0,population_total
+Jamaica,JAM,SP.POP.TOTL,"Population, total",2017,2815764.0,population_total
+Jamaica,JAM,SP.POP.TOTL,"Population, total",2016,2809915.0,population_total
+Jamaica,JAM,SP.POP.TOTL,"Population, total",2015,2802534.0,population_total
+Japan,JPN,SP.POP.TOTL,"Population, total",2019,126633000.0,population_total
+Japan,JPN,SP.POP.TOTL,"Population, total",2018,126811000.0,population_total
+Japan,JPN,SP.POP.TOTL,"Population, total",2017,126972000.0,population_total
+Japan,JPN,SP.POP.TOTL,"Population, total",2016,127076000.0,population_total
+Japan,JPN,SP.POP.TOTL,"Population, total",2015,127141000.0,population_total
+Jordan,JOR,SP.POP.TOTL,"Population, total",2019,10671891.0,population_total
+Jordan,JOR,SP.POP.TOTL,"Population, total",2018,10462306.0,population_total
+Jordan,JOR,SP.POP.TOTL,"Population, total",2017,10234226.0,population_total
+Jordan,JOR,SP.POP.TOTL,"Population, total",2016,10006367.0,population_total
+Jordan,JOR,SP.POP.TOTL,"Population, total",2015,9544729.0,population_total
+Kazakhstan,KAZ,SP.POP.TOTL,"Population, total",2019,19209555.0,population_total
+Kazakhstan,KAZ,SP.POP.TOTL,"Population, total",2018,18932727.0,population_total
+Kazakhstan,KAZ,SP.POP.TOTL,"Population, total",2017,18651931.0,population_total
+Kazakhstan,KAZ,SP.POP.TOTL,"Population, total",2016,18363600.0,population_total
+Kazakhstan,KAZ,SP.POP.TOTL,"Population, total",2015,18084169.0,population_total
+Kenya,KEN,SP.POP.TOTL,"Population, total",2019,51202827.0,population_total
+Kenya,KEN,SP.POP.TOTL,"Population, total",2018,50207107.0,population_total
+Kenya,KEN,SP.POP.TOTL,"Population, total",2017,49197766.0,population_total
+Kenya,KEN,SP.POP.TOTL,"Population, total",2016,48139687.0,population_total
+Kenya,KEN,SP.POP.TOTL,"Population, total",2015,47088526.0,population_total
+Kiribati,KIR,SP.POP.TOTL,"Population, total",2019,123921.0,population_total
+Kiribati,KIR,SP.POP.TOTL,"Population, total",2018,122084.0,population_total
+Kiribati,KIR,SP.POP.TOTL,"Population, total",2017,120275.0,population_total
+Kiribati,KIR,SP.POP.TOTL,"Population, total",2016,118478.0,population_total
+Kiribati,KIR,SP.POP.TOTL,"Population, total",2015,116815.0,population_total
+"Korea, Dem. People's Rep.",PRK,SP.POP.TOTL,"Population, total",2019,26037632.0,population_total
+"Korea, Dem. People's Rep.",PRK,SP.POP.TOTL,"Population, total",2018,25931147.0,population_total
+"Korea, Dem. People's Rep.",PRK,SP.POP.TOTL,"Population, total",2017,25817709.0,population_total
+"Korea, Dem. People's Rep.",PRK,SP.POP.TOTL,"Population, total",2016,25698326.0,population_total
+"Korea, Dem. People's Rep.",PRK,SP.POP.TOTL,"Population, total",2015,25575350.0,population_total
+"Korea, Rep.",KOR,SP.POP.TOTL,"Population, total",2019,51764822.0,population_total
+"Korea, Rep.",KOR,SP.POP.TOTL,"Population, total",2018,51585058.0,population_total
+"Korea, Rep.",KOR,SP.POP.TOTL,"Population, total",2017,51361911.0,population_total
+"Korea, Rep.",KOR,SP.POP.TOTL,"Population, total",2016,51217803.0,population_total
+"Korea, Rep.",KOR,SP.POP.TOTL,"Population, total",2015,51014947.0,population_total
+Kosovo,XKX,SP.POP.TOTL,"Population, total",2019,1788891.0,population_total
+Kosovo,XKX,SP.POP.TOTL,"Population, total",2018,1797086.0,population_total
+Kosovo,XKX,SP.POP.TOTL,"Population, total",2017,1791019.0,population_total
+Kosovo,XKX,SP.POP.TOTL,"Population, total",2016,1777568.0,population_total
+Kosovo,XKX,SP.POP.TOTL,"Population, total",2015,1788274.0,population_total
+Kuwait,KWT,SP.POP.TOTL,"Population, total",2019,4442316.0,population_total
+Kuwait,KWT,SP.POP.TOTL,"Population, total",2018,4323515.0,population_total
+Kuwait,KWT,SP.POP.TOTL,"Population, total",2017,4154812.0,population_total
+Kuwait,KWT,SP.POP.TOTL,"Population, total",2016,4004096.0,population_total
+Kuwait,KWT,SP.POP.TOTL,"Population, total",2015,3834574.0,population_total
+Kyrgyz Republic,KGZ,SP.POP.TOTL,"Population, total",2019,6590211.0,population_total
+Kyrgyz Republic,KGZ,SP.POP.TOTL,"Population, total",2018,6444079.0,population_total
+Kyrgyz Republic,KGZ,SP.POP.TOTL,"Population, total",2017,6306696.0,population_total
+Kyrgyz Republic,KGZ,SP.POP.TOTL,"Population, total",2016,6175338.0,population_total
+Kyrgyz Republic,KGZ,SP.POP.TOTL,"Population, total",2015,6040036.0,population_total
+Lao PDR,LAO,SP.POP.TOTL,"Population, total",2019,7237636.0,population_total
+Lao PDR,LAO,SP.POP.TOTL,"Population, total",2018,7128045.0,population_total
+Lao PDR,LAO,SP.POP.TOTL,"Population, total",2017,7018147.0,population_total
+Lao PDR,LAO,SP.POP.TOTL,"Population, total",2016,6908802.0,population_total
+Lao PDR,LAO,SP.POP.TOTL,"Population, total",2015,6801645.0,population_total
+Latvia,LVA,SP.POP.TOTL,"Population, total",2019,1913822.0,population_total
+Latvia,LVA,SP.POP.TOTL,"Population, total",2018,1927174.0,population_total
+Latvia,LVA,SP.POP.TOTL,"Population, total",2017,1942248.0,population_total
+Latvia,LVA,SP.POP.TOTL,"Population, total",2016,1959537.0,population_total
+Latvia,LVA,SP.POP.TOTL,"Population, total",2015,1977527.0,population_total
+Lebanon,LBN,SP.POP.TOTL,"Population, total",2019,5794594.0,population_total
+Lebanon,LBN,SP.POP.TOTL,"Population, total",2018,5984119.0,population_total
+Lebanon,LBN,SP.POP.TOTL,"Population, total",2017,6160128.0,population_total
+Lebanon,LBN,SP.POP.TOTL,"Population, total",2016,6323060.0,population_total
+Lebanon,LBN,SP.POP.TOTL,"Population, total",2015,6472469.0,population_total
+Lesotho,LSO,SP.POP.TOTL,"Population, total",2019,2209405.0,population_total
+Lesotho,LSO,SP.POP.TOTL,"Population, total",2018,2183603.0,population_total
+Lesotho,LSO,SP.POP.TOTL,"Population, total",2017,2157110.0,population_total
+Lesotho,LSO,SP.POP.TOTL,"Population, total",2016,2130422.0,population_total
+Lesotho,LSO,SP.POP.TOTL,"Population, total",2015,2104611.0,population_total
+Liberia,LBR,SP.POP.TOTL,"Population, total",2019,5043721.0,population_total
+Liberia,LBR,SP.POP.TOTL,"Population, total",2018,4944726.0,population_total
+Liberia,LBR,SP.POP.TOTL,"Population, total",2017,4848925.0,population_total
+Liberia,LBR,SP.POP.TOTL,"Population, total",2016,4755608.0,population_total
+Liberia,LBR,SP.POP.TOTL,"Population, total",2015,4659431.0,population_total
+Libya,LBY,SP.POP.TOTL,"Population, total",2019,6951033.0,population_total
+Libya,LBY,SP.POP.TOTL,"Population, total",2018,6849055.0,population_total
+Libya,LBY,SP.POP.TOTL,"Population, total",2017,6738770.0,population_total
+Libya,LBY,SP.POP.TOTL,"Population, total",2016,6632126.0,population_total
+Libya,LBY,SP.POP.TOTL,"Population, total",2015,6531819.0,population_total
+Liechtenstein,LIE,SP.POP.TOTL,"Population, total",2019,38563.0,population_total
+Liechtenstein,LIE,SP.POP.TOTL,"Population, total",2018,38246.0,population_total
+Liechtenstein,LIE,SP.POP.TOTL,"Population, total",2017,37962.0,population_total
+Liechtenstein,LIE,SP.POP.TOTL,"Population, total",2016,37716.0,population_total
+Liechtenstein,LIE,SP.POP.TOTL,"Population, total",2015,37494.0,population_total
+Lithuania,LTU,SP.POP.TOTL,"Population, total",2019,2811089.0,population_total
+Lithuania,LTU,SP.POP.TOTL,"Population, total",2018,2819200.0,population_total
+Lithuania,LTU,SP.POP.TOTL,"Population, total",2017,2842639.0,population_total
+Lithuania,LTU,SP.POP.TOTL,"Population, total",2016,2877325.0,population_total
+Lithuania,LTU,SP.POP.TOTL,"Population, total",2015,2911109.0,population_total
+Luxembourg,LUX,SP.POP.TOTL,"Population, total",2019,620001.0,population_total
+Luxembourg,LUX,SP.POP.TOTL,"Population, total",2018,607950.0,population_total
+Luxembourg,LUX,SP.POP.TOTL,"Population, total",2017,596336.0,population_total
+Luxembourg,LUX,SP.POP.TOTL,"Population, total",2016,582014.0,population_total
+Luxembourg,LUX,SP.POP.TOTL,"Population, total",2015,569604.0,population_total
+"Macao SAR, China",MAC,SP.POP.TOTL,"Population, total",2019,672000.0,population_total
+"Macao SAR, China",MAC,SP.POP.TOTL,"Population, total",2018,658900.0,population_total
+"Macao SAR, China",MAC,SP.POP.TOTL,"Population, total",2017,648400.0,population_total
+"Macao SAR, China",MAC,SP.POP.TOTL,"Population, total",2016,652500.0,population_total
+"Macao SAR, China",MAC,SP.POP.TOTL,"Population, total",2015,642900.0,population_total
+Madagascar,MDG,SP.POP.TOTL,"Population, total",2019,28219554.0,population_total
+Madagascar,MDG,SP.POP.TOTL,"Population, total",2018,27494926.0,population_total
+Madagascar,MDG,SP.POP.TOTL,"Population, total",2017,26788375.0,population_total
+Madagascar,MDG,SP.POP.TOTL,"Population, total",2016,26099952.0,population_total
+Madagascar,MDG,SP.POP.TOTL,"Population, total",2015,25426702.0,population_total
+Malawi,MWI,SP.POP.TOTL,"Population, total",2019,19025752.0,population_total
+Malawi,MWI,SP.POP.TOTL,"Population, total",2018,18528081.0,population_total
+Malawi,MWI,SP.POP.TOTL,"Population, total",2017,18039715.0,population_total
+Malawi,MWI,SP.POP.TOTL,"Population, total",2016,17557739.0,population_total
+Malawi,MWI,SP.POP.TOTL,"Population, total",2015,17085587.0,population_total
+Malaysia,MYS,SP.POP.TOTL,"Population, total",2019,33440596.0,population_total
+Malaysia,MYS,SP.POP.TOTL,"Population, total",2018,32910967.0,population_total
+Malaysia,MYS,SP.POP.TOTL,"Population, total",2017,32355644.0,population_total
+Malaysia,MYS,SP.POP.TOTL,"Population, total",2016,31789685.0,population_total
+Malaysia,MYS,SP.POP.TOTL,"Population, total",2015,31232798.0,population_total
+Maldives,MDV,SP.POP.TOTL,"Population, total",2019,487731.0,population_total
+Maldives,MDV,SP.POP.TOTL,"Population, total",2018,473099.0,population_total
+Maldives,MDV,SP.POP.TOTL,"Population, total",2017,458287.0,population_total
+Maldives,MDV,SP.POP.TOTL,"Population, total",2016,443308.0,population_total
+Maldives,MDV,SP.POP.TOTL,"Population, total",2015,428154.0,population_total
+Mali,MLI,SP.POP.TOTL,"Population, total",2019,21068405.0,population_total
+Mali,MLI,SP.POP.TOTL,"Population, total",2018,20442030.0,population_total
+Mali,MLI,SP.POP.TOTL,"Population, total",2017,19813011.0,population_total
+Mali,MLI,SP.POP.TOTL,"Population, total",2016,19191289.0,population_total
+Mali,MLI,SP.POP.TOTL,"Population, total",2015,18593022.0,population_total
+Malta,MLT,SP.POP.TOTL,"Population, total",2019,503912.0,population_total
+Malta,MLT,SP.POP.TOTL,"Population, total",2018,483903.0,population_total
+Malta,MLT,SP.POP.TOTL,"Population, total",2017,467106.0,population_total
+Malta,MLT,SP.POP.TOTL,"Population, total",2016,454505.0,population_total
+Malta,MLT,SP.POP.TOTL,"Population, total",2015,444220.0,population_total
+Marshall Islands,MHL,SP.POP.TOTL,"Population, total",2019,44007.0,population_total
+Marshall Islands,MHL,SP.POP.TOTL,"Population, total",2018,45285.0,population_total
+Marshall Islands,MHL,SP.POP.TOTL,"Population, total",2017,46529.0,population_total
+Marshall Islands,MHL,SP.POP.TOTL,"Population, total",2016,47709.0,population_total
+Marshall Islands,MHL,SP.POP.TOTL,"Population, total",2015,48800.0,population_total
+Mauritania,MRT,SP.POP.TOTL,"Population, total",2019,4467708.0,population_total
+Mauritania,MRT,SP.POP.TOTL,"Population, total",2018,4337685.0,population_total
+Mauritania,MRT,SP.POP.TOTL,"Population, total",2017,4210600.0,population_total
+Mauritania,MRT,SP.POP.TOTL,"Population, total",2016,4086657.0,population_total
+Mauritania,MRT,SP.POP.TOTL,"Population, total",2015,3965959.0,population_total
+Mauritius,MUS,SP.POP.TOTL,"Population, total",2019,1265985.0,population_total
+Mauritius,MUS,SP.POP.TOTL,"Population, total",2018,1265577.0,population_total
+Mauritius,MUS,SP.POP.TOTL,"Population, total",2017,1264887.0,population_total
+Mauritius,MUS,SP.POP.TOTL,"Population, total",2016,1263747.0,population_total
+Mauritius,MUS,SP.POP.TOTL,"Population, total",2015,1262879.0,population_total
+Mexico,MEX,SP.POP.TOTL,"Population, total",2019,125762982.0,population_total
+Mexico,MEX,SP.POP.TOTL,"Population, total",2018,124573711.0,population_total
+Mexico,MEX,SP.POP.TOTL,"Population, total",2017,123400057.0,population_total
+Mexico,MEX,SP.POP.TOTL,"Population, total",2016,122251351.0,population_total
+Mexico,MEX,SP.POP.TOTL,"Population, total",2015,121072306.0,population_total
+"Micronesia, Fed. Sts.",FSM,SP.POP.TOTL,"Population, total",2019,110282.0,population_total
+"Micronesia, Fed. Sts.",FSM,SP.POP.TOTL,"Population, total",2018,109909.0,population_total
+"Micronesia, Fed. Sts.",FSM,SP.POP.TOTL,"Population, total",2017,109481.0,population_total
+"Micronesia, Fed. Sts.",FSM,SP.POP.TOTL,"Population, total",2016,109075.0,population_total
+"Micronesia, Fed. Sts.",FSM,SP.POP.TOTL,"Population, total",2015,108716.0,population_total
+Moldova,MDA,SP.POP.TOTL,"Population, total",2019,2664224.0,population_total
+Moldova,MDA,SP.POP.TOTL,"Population, total",2018,2707203.0,population_total
+Moldova,MDA,SP.POP.TOTL,"Population, total",2017,2755189.0,population_total
+Moldova,MDA,SP.POP.TOTL,"Population, total",2016,2803186.0,population_total
+Moldova,MDA,SP.POP.TOTL,"Population, total",2015,2835978.0,population_total
+Monaco,MCO,SP.POP.TOTL,"Population, total",2019,38109.0,population_total
+Monaco,MCO,SP.POP.TOTL,"Population, total",2018,38154.0,population_total
+Monaco,MCO,SP.POP.TOTL,"Population, total",2017,37678.0,population_total
+Monaco,MCO,SP.POP.TOTL,"Population, total",2016,37276.0,population_total
+Monaco,MCO,SP.POP.TOTL,"Population, total",2015,36757.0,population_total
+Mongolia,MNG,SP.POP.TOTL,"Population, total",2019,3267673.0,population_total
+Mongolia,MNG,SP.POP.TOTL,"Population, total",2018,3208189.0,population_total
+Mongolia,MNG,SP.POP.TOTL,"Population, total",2017,3148917.0,population_total
+Mongolia,MNG,SP.POP.TOTL,"Population, total",2016,3088856.0,population_total
+Mongolia,MNG,SP.POP.TOTL,"Population, total",2015,3026864.0,population_total
+Montenegro,MNE,SP.POP.TOTL,"Population, total",2019,626753.0,population_total
+Montenegro,MNE,SP.POP.TOTL,"Population, total",2018,626438.0,population_total
+Montenegro,MNE,SP.POP.TOTL,"Population, total",2017,625982.0,population_total
+Montenegro,MNE,SP.POP.TOTL,"Population, total",2016,625353.0,population_total
+Montenegro,MNE,SP.POP.TOTL,"Population, total",2015,624651.0,population_total
+Morocco,MAR,SP.POP.TOTL,"Population, total",2019,36210898.0,population_total
+Morocco,MAR,SP.POP.TOTL,"Population, total",2018,35839760.0,population_total
+Morocco,MAR,SP.POP.TOTL,"Population, total",2017,35446392.0,population_total
+Morocco,MAR,SP.POP.TOTL,"Population, total",2016,35023457.0,population_total
+Morocco,MAR,SP.POP.TOTL,"Population, total",2015,34607588.0,population_total
+Mozambique,MOZ,SP.POP.TOTL,"Population, total",2019,29884380.0,population_total
+Mozambique,MOZ,SP.POP.TOTL,"Population, total",2018,29018644.0,population_total
+Mozambique,MOZ,SP.POP.TOTL,"Population, total",2017,28166393.0,population_total
+Mozambique,MOZ,SP.POP.TOTL,"Population, total",2016,27337105.0,population_total
+Mozambique,MOZ,SP.POP.TOTL,"Population, total",2015,26547572.0,population_total
+Myanmar,MMR,SP.POP.TOTL,"Population, total",2019,52640713.0,population_total
+Myanmar,MMR,SP.POP.TOTL,"Population, total",2018,52272247.0,population_total
+Myanmar,MMR,SP.POP.TOTL,"Population, total",2017,51894938.0,population_total
+Myanmar,MMR,SP.POP.TOTL,"Population, total",2016,51495696.0,population_total
+Myanmar,MMR,SP.POP.TOTL,"Population, total",2015,51089056.0,population_total
+Namibia,NAM,SP.POP.TOTL,"Population, total",2019,2650494.0,population_total
+Namibia,NAM,SP.POP.TOTL,"Population, total",2018,2577327.0,population_total
+Namibia,NAM,SP.POP.TOTL,"Population, total",2017,2506853.0,population_total
+Namibia,NAM,SP.POP.TOTL,"Population, total",2016,2439213.0,population_total
+Namibia,NAM,SP.POP.TOTL,"Population, total",2015,2374300.0,population_total
+Nauru,NRU,SP.POP.TOTL,"Population, total",2019,11587.0,population_total
+Nauru,NRU,SP.POP.TOTL,"Population, total",2018,11477.0,population_total
+Nauru,NRU,SP.POP.TOTL,"Population, total",2017,11324.0,population_total
+Nauru,NRU,SP.POP.TOTL,"Population, total",2016,11150.0,population_total
+Nauru,NRU,SP.POP.TOTL,"Population, total",2015,10954.0,population_total
+Nepal,NPL,SP.POP.TOTL,"Population, total",2019,28414064.0,population_total
+Nepal,NPL,SP.POP.TOTL,"Population, total",2018,28079689.0,population_total
+Nepal,NPL,SP.POP.TOTL,"Population, total",2017,28011258.0,population_total
+Nepal,NPL,SP.POP.TOTL,"Population, total",2016,27955462.0,population_total
+Nepal,NPL,SP.POP.TOTL,"Population, total",2015,27823629.0,population_total
+Netherlands,NLD,SP.POP.TOTL,"Population, total",2019,17344874.0,population_total
+Netherlands,NLD,SP.POP.TOTL,"Population, total",2018,17231624.0,population_total
+Netherlands,NLD,SP.POP.TOTL,"Population, total",2017,17131296.0,population_total
+Netherlands,NLD,SP.POP.TOTL,"Population, total",2016,17030314.0,population_total
+Netherlands,NLD,SP.POP.TOTL,"Population, total",2015,16939923.0,population_total
+New Caledonia,NCL,SP.POP.TOTL,"Population, total",2019,283606.0,population_total
+New Caledonia,NCL,SP.POP.TOTL,"Population, total",2018,283541.0,population_total
+New Caledonia,NCL,SP.POP.TOTL,"Population, total",2017,283546.0,population_total
+New Caledonia,NCL,SP.POP.TOTL,"Population, total",2016,283423.0,population_total
+New Caledonia,NCL,SP.POP.TOTL,"Population, total",2015,283168.0,population_total
+New Zealand,NZL,SP.POP.TOTL,"Population, total",2019,4970300.0,population_total
+New Zealand,NZL,SP.POP.TOTL,"Population, total",2018,4900600.0,population_total
+New Zealand,NZL,SP.POP.TOTL,"Population, total",2017,4813600.0,population_total
+New Zealand,NZL,SP.POP.TOTL,"Population, total",2016,4714100.0,population_total
+New Zealand,NZL,SP.POP.TOTL,"Population, total",2015,4609400.0,population_total
+Nicaragua,NIC,SP.POP.TOTL,"Population, total",2019,6483657.0,population_total
+Nicaragua,NIC,SP.POP.TOTL,"Population, total",2018,6400080.0,population_total
+Nicaragua,NIC,SP.POP.TOTL,"Population, total",2017,6316231.0,population_total
+Nicaragua,NIC,SP.POP.TOTL,"Population, total",2016,6232666.0,population_total
+Nicaragua,NIC,SP.POP.TOTL,"Population, total",2015,6149417.0,population_total
+Niger,NER,SP.POP.TOTL,"Population, total",2019,22947757.0,population_total
+Niger,NER,SP.POP.TOTL,"Population, total",2018,22188069.0,population_total
+Niger,NER,SP.POP.TOTL,"Population, total",2017,21435446.0,population_total
+Niger,NER,SP.POP.TOTL,"Population, total",2016,20685753.0,population_total
+Niger,NER,SP.POP.TOTL,"Population, total",2015,19939498.0,population_total
+Nigeria,NGA,SP.POP.TOTL,"Population, total",2019,209485641.0,population_total
+Nigeria,NGA,SP.POP.TOTL,"Population, total",2018,204938755.0,population_total
+Nigeria,NGA,SP.POP.TOTL,"Population, total",2017,200254579.0,population_total
+Nigeria,NGA,SP.POP.TOTL,"Population, total",2016,195443700.0,population_total
+Nigeria,NGA,SP.POP.TOTL,"Population, total",2015,190671878.0,population_total
+North Macedonia,MKD,SP.POP.TOTL,"Population, total",2019,1876262.0,population_total
+North Macedonia,MKD,SP.POP.TOTL,"Population, total",2018,1889051.0,population_total
+North Macedonia,MKD,SP.POP.TOTL,"Population, total",2017,1898657.0,population_total
+North Macedonia,MKD,SP.POP.TOTL,"Population, total",2016,1906313.0,population_total
+North Macedonia,MKD,SP.POP.TOTL,"Population, total",2015,1912430.0,population_total
+Northern Mariana Islands,MNP,SP.POP.TOTL,"Population, total",2019,48129.0,population_total
+Northern Mariana Islands,MNP,SP.POP.TOTL,"Population, total",2018,49077.0,population_total
+Northern Mariana Islands,MNP,SP.POP.TOTL,"Population, total",2017,49959.0,population_total
+Northern Mariana Islands,MNP,SP.POP.TOTL,"Population, total",2016,50773.0,population_total
+Northern Mariana Islands,MNP,SP.POP.TOTL,"Population, total",2015,51514.0,population_total
+Norway,NOR,SP.POP.TOTL,"Population, total",2019,5347896.0,population_total
+Norway,NOR,SP.POP.TOTL,"Population, total",2018,5311916.0,population_total
+Norway,NOR,SP.POP.TOTL,"Population, total",2017,5276968.0,population_total
+Norway,NOR,SP.POP.TOTL,"Population, total",2016,5234519.0,population_total
+Norway,NOR,SP.POP.TOTL,"Population, total",2015,5188607.0,population_total
+Oman,OMN,SP.POP.TOTL,"Population, total",2019,4591241.0,population_total
+Oman,OMN,SP.POP.TOTL,"Population, total",2018,4597877.0,population_total
+Oman,OMN,SP.POP.TOTL,"Population, total",2017,4537396.0,population_total
+Oman,OMN,SP.POP.TOTL,"Population, total",2016,4390877.0,population_total
+Oman,OMN,SP.POP.TOTL,"Population, total",2015,4184895.0,population_total
+Pakistan,PAK,SP.POP.TOTL,"Population, total",2019,230800899.0,population_total
+Pakistan,PAK,SP.POP.TOTL,"Population, total",2018,226928892.0,population_total
+Pakistan,PAK,SP.POP.TOTL,"Population, total",2017,223273967.0,population_total
+Pakistan,PAK,SP.POP.TOTL,"Population, total",2016,220138869.0,population_total
+Pakistan,PAK,SP.POP.TOTL,"Population, total",2015,217290883.0,population_total
+Palau,PLW,SP.POP.TOTL,"Population, total",2019,17798.0,population_total
+Palau,PLW,SP.POP.TOTL,"Population, total",2018,17814.0,population_total
+Palau,PLW,SP.POP.TOTL,"Population, total",2017,17812.0,population_total
+Palau,PLW,SP.POP.TOTL,"Population, total",2016,17797.0,population_total
+Palau,PLW,SP.POP.TOTL,"Population, total",2015,17770.0,population_total
+Panama,PAN,SP.POP.TOTL,"Population, total",2019,4234700.0,population_total
+Panama,PAN,SP.POP.TOTL,"Population, total",2018,4167860.0,population_total
+Panama,PAN,SP.POP.TOTL,"Population, total",2017,4098707.0,population_total
+Panama,PAN,SP.POP.TOTL,"Population, total",2016,4029086.0,population_total
+Panama,PAN,SP.POP.TOTL,"Population, total",2015,3960035.0,population_total
+Papua New Guinea,PNG,SP.POP.TOTL,"Population, total",2019,9609010.0,population_total
+Papua New Guinea,PNG,SP.POP.TOTL,"Population, total",2018,9394513.0,population_total
+Papua New Guinea,PNG,SP.POP.TOTL,"Population, total",2017,9178714.0,population_total
+Papua New Guinea,PNG,SP.POP.TOTL,"Population, total",2016,8961718.0,population_total
+Papua New Guinea,PNG,SP.POP.TOTL,"Population, total",2015,8743246.0,population_total
+Paraguay,PRY,SP.POP.TOTL,"Population, total",2019,6515058.0,population_total
+Paraguay,PRY,SP.POP.TOTL,"Population, total",2018,6427382.0,population_total
+Paraguay,PRY,SP.POP.TOTL,"Population, total",2017,6338660.0,population_total
+Paraguay,PRY,SP.POP.TOTL,"Population, total",2016,6249126.0,population_total
+Paraguay,PRY,SP.POP.TOTL,"Population, total",2015,6159103.0,population_total
+Peru,PER,SP.POP.TOTL,"Population, total",2019,32449303.0,population_total
+Peru,PER,SP.POP.TOTL,"Population, total",2018,31897584.0,population_total
+Peru,PER,SP.POP.TOTL,"Population, total",2017,31324637.0,population_total
+Peru,PER,SP.POP.TOTL,"Population, total",2016,30866494.0,population_total
+Peru,PER,SP.POP.TOTL,"Population, total",2015,30457600.0,population_total
+Philippines,PHL,SP.POP.TOTL,"Population, total",2019,110804683.0,population_total
+Philippines,PHL,SP.POP.TOTL,"Population, total",2018,109465287.0,population_total
+Philippines,PHL,SP.POP.TOTL,"Population, total",2017,108119693.0,population_total
+Philippines,PHL,SP.POP.TOTL,"Population, total",2016,106735719.0,population_total
+Philippines,PHL,SP.POP.TOTL,"Population, total",2015,105312992.0,population_total
+Poland,POL,SP.POP.TOTL,"Population, total",2019,37965475.0,population_total
+Poland,POL,SP.POP.TOTL,"Population, total",2018,37974750.0,population_total
+Poland,POL,SP.POP.TOTL,"Population, total",2017,37974826.0,population_total
+Poland,POL,SP.POP.TOTL,"Population, total",2016,37970087.0,population_total
+Poland,POL,SP.POP.TOTL,"Population, total",2015,37986412.0,population_total
+Portugal,PRT,SP.POP.TOTL,"Population, total",2019,10286263.0,population_total
+Portugal,PRT,SP.POP.TOTL,"Population, total",2018,10283822.0,population_total
+Portugal,PRT,SP.POP.TOTL,"Population, total",2017,10300300.0,population_total
+Portugal,PRT,SP.POP.TOTL,"Population, total",2016,10325452.0,population_total
+Portugal,PRT,SP.POP.TOTL,"Population, total",2015,10358076.0,population_total
+Puerto Rico (US),PRI,SP.POP.TOTL,"Population, total",2019,3302691.0,population_total
+Puerto Rico (US),PRI,SP.POP.TOTL,"Population, total",2018,3290690.0,population_total
+Puerto Rico (US),PRI,SP.POP.TOTL,"Population, total",2017,3410837.0,population_total
+Puerto Rico (US),PRI,SP.POP.TOTL,"Population, total",2016,3480432.0,population_total
+Puerto Rico (US),PRI,SP.POP.TOTL,"Population, total",2015,3535167.0,population_total
+Qatar,QAT,SP.POP.TOTL,"Population, total",2019,2638657.0,population_total
+Qatar,QAT,SP.POP.TOTL,"Population, total",2018,2580734.0,population_total
+Qatar,QAT,SP.POP.TOTL,"Population, total",2017,2545820.0,population_total
+Qatar,QAT,SP.POP.TOTL,"Population, total",2016,2477113.0,population_total
+Qatar,QAT,SP.POP.TOTL,"Population, total",2015,2344557.0,population_total
+Romania,ROU,SP.POP.TOTL,"Population, total",2019,19371648.0,population_total
+Romania,ROU,SP.POP.TOTL,"Population, total",2018,19473970.0,population_total
+Romania,ROU,SP.POP.TOTL,"Population, total",2017,19588715.0,population_total
+Romania,ROU,SP.POP.TOTL,"Population, total",2016,19702267.0,population_total
+Romania,ROU,SP.POP.TOTL,"Population, total",2015,19815616.0,population_total
+Russian Federation,RUS,SP.POP.TOTL,"Population, total",2019,145453291.0,population_total
+Russian Federation,RUS,SP.POP.TOTL,"Population, total",2018,145398106.0,population_total
+Russian Federation,RUS,SP.POP.TOTL,"Population, total",2017,145293260.0,population_total
+Russian Federation,RUS,SP.POP.TOTL,"Population, total",2016,145015460.0,population_total
+Russian Federation,RUS,SP.POP.TOTL,"Population, total",2015,144640716.0,population_total
+Rwanda,RWA,SP.POP.TOTL,"Population, total",2019,12776103.0,population_total
+Rwanda,RWA,SP.POP.TOTL,"Population, total",2018,12487996.0,population_total
+Rwanda,RWA,SP.POP.TOTL,"Population, total",2017,12202060.0,population_total
+Rwanda,RWA,SP.POP.TOTL,"Population, total",2016,11919183.0,population_total
+Rwanda,RWA,SP.POP.TOTL,"Population, total",2015,11640022.0,population_total
+Samoa,WSM,SP.POP.TOTL,"Population, total",2019,209780.0,population_total
+Samoa,WSM,SP.POP.TOTL,"Population, total",2018,207582.0,population_total
+Samoa,WSM,SP.POP.TOTL,"Population, total",2017,205415.0,population_total
+Samoa,WSM,SP.POP.TOTL,"Population, total",2016,203499.0,population_total
+Samoa,WSM,SP.POP.TOTL,"Population, total",2015,201782.0,population_total
+San Marino,SMR,SP.POP.TOTL,"Population, total",2019,34663.0,population_total
+San Marino,SMR,SP.POP.TOTL,"Population, total",2018,34522.0,population_total
+San Marino,SMR,SP.POP.TOTL,"Population, total",2017,33825.0,population_total
+San Marino,SMR,SP.POP.TOTL,"Population, total",2016,33101.0,population_total
+San Marino,SMR,SP.POP.TOTL,"Population, total",2015,32897.0,population_total
+Sao Tome and Principe,STP,SP.POP.TOTL,"Population, total",2019,213392.0,population_total
+Sao Tome and Principe,STP,SP.POP.TOTL,"Population, total",2018,210187.0,population_total
+Sao Tome and Principe,STP,SP.POP.TOTL,"Population, total",2017,206970.0,population_total
+Sao Tome and Principe,STP,SP.POP.TOTL,"Population, total",2016,203689.0,population_total
+Sao Tome and Principe,STP,SP.POP.TOTL,"Population, total",2015,200291.0,population_total
+Saudi Arabia,SAU,SP.POP.TOTL,"Population, total",2019,30063799.0,population_total
+Saudi Arabia,SAU,SP.POP.TOTL,"Population, total",2018,30196281.0,population_total
+Saudi Arabia,SAU,SP.POP.TOTL,"Population, total",2017,30977355.0,population_total
+Saudi Arabia,SAU,SP.POP.TOTL,"Population, total",2016,30954198.0,population_total
+Saudi Arabia,SAU,SP.POP.TOTL,"Population, total",2015,29816382.0,population_total
+Senegal,SEN,SP.POP.TOTL,"Population, total",2019,16352922.0,population_total
+Senegal,SEN,SP.POP.TOTL,"Population, total",2018,15914498.0,population_total
+Senegal,SEN,SP.POP.TOTL,"Population, total",2017,15475002.0,population_total
+Senegal,SEN,SP.POP.TOTL,"Population, total",2016,15034521.0,population_total
+Senegal,SEN,SP.POP.TOTL,"Population, total",2015,14593331.0,population_total
+Serbia,SRB,SP.POP.TOTL,"Population, total",2019,6945235.0,population_total
+Serbia,SRB,SP.POP.TOTL,"Population, total",2018,6982604.0,population_total
+Serbia,SRB,SP.POP.TOTL,"Population, total",2017,7020858.0,population_total
+Serbia,SRB,SP.POP.TOTL,"Population, total",2016,7058322.0,population_total
+Serbia,SRB,SP.POP.TOTL,"Population, total",2015,7095383.0,population_total
+Seychelles,SYC,SP.POP.TOTL,"Population, total",2019,97625.0,population_total
+Seychelles,SYC,SP.POP.TOTL,"Population, total",2018,96762.0,population_total
+Seychelles,SYC,SP.POP.TOTL,"Population, total",2017,95843.0,population_total
+Seychelles,SYC,SP.POP.TOTL,"Population, total",2016,94677.0,population_total
+Seychelles,SYC,SP.POP.TOTL,"Population, total",2015,93419.0,population_total
+Sierra Leone,SLE,SP.POP.TOTL,"Population, total",2019,7731991.0,population_total
+Sierra Leone,SLE,SP.POP.TOTL,"Population, total",2018,7554563.0,population_total
+Sierra Leone,SLE,SP.POP.TOTL,"Population, total",2017,7379299.0,population_total
+Sierra Leone,SLE,SP.POP.TOTL,"Population, total",2016,7205328.0,population_total
+Sierra Leone,SLE,SP.POP.TOTL,"Population, total",2015,7037655.0,population_total
+Singapore,SGP,SP.POP.TOTL,"Population, total",2019,5703569.0,population_total
+Singapore,SGP,SP.POP.TOTL,"Population, total",2018,5638676.0,population_total
+Singapore,SGP,SP.POP.TOTL,"Population, total",2017,5612253.0,population_total
+Singapore,SGP,SP.POP.TOTL,"Population, total",2016,5607283.0,population_total
+Singapore,SGP,SP.POP.TOTL,"Population, total",2015,5535002.0,population_total
+Sint Maarten (Dutch part),SXM,SP.POP.TOTL,"Population, total",2019,40385.0,population_total
+Sint Maarten (Dutch part),SXM,SP.POP.TOTL,"Population, total",2018,39712.0,population_total
+Sint Maarten (Dutch part),SXM,SP.POP.TOTL,"Population, total",2017,38996.0,population_total
+Sint Maarten (Dutch part),SXM,SP.POP.TOTL,"Population, total",2016,38249.0,population_total
+Sint Maarten (Dutch part),SXM,SP.POP.TOTL,"Population, total",2015,37471.0,population_total
+Slovak Republic,SVK,SP.POP.TOTL,"Population, total",2019,5454147.0,population_total
+Slovak Republic,SVK,SP.POP.TOTL,"Population, total",2018,5446771.0,population_total
+Slovak Republic,SVK,SP.POP.TOTL,"Population, total",2017,5439232.0,population_total
+Slovak Republic,SVK,SP.POP.TOTL,"Population, total",2016,5430798.0,population_total
+Slovak Republic,SVK,SP.POP.TOTL,"Population, total",2015,5423801.0,population_total
+Slovenia,SVN,SP.POP.TOTL,"Population, total",2019,2088385.0,population_total
+Slovenia,SVN,SP.POP.TOTL,"Population, total",2018,2073894.0,population_total
+Slovenia,SVN,SP.POP.TOTL,"Population, total",2017,2066388.0,population_total
+Slovenia,SVN,SP.POP.TOTL,"Population, total",2016,2065042.0,population_total
+Slovenia,SVN,SP.POP.TOTL,"Population, total",2015,2063531.0,population_total
+Solomon Islands,SLB,SP.POP.TOTL,"Population, total",2019,728147.0,population_total
+Solomon Islands,SLB,SP.POP.TOTL,"Population, total",2018,709101.0,population_total
+Solomon Islands,SLB,SP.POP.TOTL,"Population, total",2017,685672.0,population_total
+Solomon Islands,SLB,SP.POP.TOTL,"Population, total",2016,662379.0,population_total
+Solomon Islands,SLB,SP.POP.TOTL,"Population, total",2015,639415.0,population_total
+"Somalia, Fed. Rep.",SOM,SP.POP.TOTL,"Population, total",2019,16030971.0,population_total
+"Somalia, Fed. Rep.",SOM,SP.POP.TOTL,"Population, total",2018,15452487.0,population_total
+"Somalia, Fed. Rep.",SOM,SP.POP.TOTL,"Population, total",2017,14916629.0,population_total
+"Somalia, Fed. Rep.",SOM,SP.POP.TOTL,"Population, total",2016,14348740.0,population_total
+"Somalia, Fed. Rep.",SOM,SP.POP.TOTL,"Population, total",2015,13806963.0,population_total
+South Africa,ZAF,SP.POP.TOTL,"Population, total",2019,59587885.0,population_total
+South Africa,ZAF,SP.POP.TOTL,"Population, total",2018,58613001.0,population_total
+South Africa,ZAF,SP.POP.TOTL,"Population, total",2017,57635162.0,population_total
+South Africa,ZAF,SP.POP.TOTL,"Population, total",2016,57259551.0,population_total
+South Africa,ZAF,SP.POP.TOTL,"Population, total",2015,56723537.0,population_total
+South Sudan,SSD,SP.POP.TOTL,"Population, total",2019,10423384.0,population_total
+South Sudan,SSD,SP.POP.TOTL,"Population, total",2018,10122977.0,population_total
+South Sudan,SSD,SP.POP.TOTL,"Population, total",2017,10259154.0,population_total
+South Sudan,SSD,SP.POP.TOTL,"Population, total",2016,10830102.0,population_total
+South Sudan,SSD,SP.POP.TOTL,"Population, total",2015,11107561.0,population_total
+Spain,ESP,SP.POP.TOTL,"Population, total",2019,47118501.0,population_total
+Spain,ESP,SP.POP.TOTL,"Population, total",2018,46782011.0,population_total
+Spain,ESP,SP.POP.TOTL,"Population, total",2017,46571232.0,population_total
+Spain,ESP,SP.POP.TOTL,"Population, total",2016,46458139.0,population_total
+Spain,ESP,SP.POP.TOTL,"Population, total",2015,46422303.0,population_total
+Sri Lanka,LKA,SP.POP.TOTL,"Population, total",2019,21803000.0,population_total
+Sri Lanka,LKA,SP.POP.TOTL,"Population, total",2018,21670000.0,population_total
+Sri Lanka,LKA,SP.POP.TOTL,"Population, total",2017,21453000.0,population_total
+Sri Lanka,LKA,SP.POP.TOTL,"Population, total",2016,21209000.0,population_total
+Sri Lanka,LKA,SP.POP.TOTL,"Population, total",2015,20970000.0,population_total
+St. Kitts and Nevis,KNA,SP.POP.TOTL,"Population, total",2019,46952.0,population_total
+St. Kitts and Nevis,KNA,SP.POP.TOTL,"Population, total",2018,47008.0,population_total
+St. Kitts and Nevis,KNA,SP.POP.TOTL,"Population, total",2017,47050.0,population_total
+St. Kitts and Nevis,KNA,SP.POP.TOTL,"Population, total",2016,47075.0,population_total
+St. Kitts and Nevis,KNA,SP.POP.TOTL,"Population, total",2015,47087.0,population_total
+St. Lucia,LCA,SP.POP.TOTL,"Population, total",2019,177661.0,population_total
+St. Lucia,LCA,SP.POP.TOTL,"Population, total",2018,177017.0,population_total
+St. Lucia,LCA,SP.POP.TOTL,"Population, total",2017,176342.0,population_total
+St. Lucia,LCA,SP.POP.TOTL,"Population, total",2016,175646.0,population_total
+St. Lucia,LCA,SP.POP.TOTL,"Population, total",2015,174905.0,population_total
+St. Martin (French part),MAF,SP.POP.TOTL,"Population, total",2019,34267.0,population_total
+St. Martin (French part),MAF,SP.POP.TOTL,"Population, total",2018,36012.0,population_total
+St. Martin (French part),MAF,SP.POP.TOTL,"Population, total",2017,36837.0,population_total
+St. Martin (French part),MAF,SP.POP.TOTL,"Population, total",2016,37175.0,population_total
+St. Martin (French part),MAF,SP.POP.TOTL,"Population, total",2015,37369.0,population_total
+St. Vincent and the Grenadines,VCT,SP.POP.TOTL,"Population, total",2019,104167.0,population_total
+St. Vincent and the Grenadines,VCT,SP.POP.TOTL,"Population, total",2018,104926.0,population_total
+St. Vincent and the Grenadines,VCT,SP.POP.TOTL,"Population, total",2017,105663.0,population_total
+St. Vincent and the Grenadines,VCT,SP.POP.TOTL,"Population, total",2016,106349.0,population_total
+St. Vincent and the Grenadines,VCT,SP.POP.TOTL,"Population, total",2015,106960.0,population_total
+Sudan,SDN,SP.POP.TOTL,"Population, total",2019,45548175.0,population_total
+Sudan,SDN,SP.POP.TOTL,"Population, total",2018,44230596.0,population_total
+Sudan,SDN,SP.POP.TOTL,"Population, total",2017,42714306.0,population_total
+Sudan,SDN,SP.POP.TOTL,"Population, total",2016,41259892.0,population_total
+Sudan,SDN,SP.POP.TOTL,"Population, total",2015,40024431.0,population_total
+Suriname,SUR,SP.POP.TOTL,"Population, total",2019,605768.0,population_total
+Suriname,SUR,SP.POP.TOTL,"Population, total",2018,599513.0,population_total
+Suriname,SUR,SP.POP.TOTL,"Population, total",2017,593713.0,population_total
+Suriname,SUR,SP.POP.TOTL,"Population, total",2016,587757.0,population_total
+Suriname,SUR,SP.POP.TOTL,"Population, total",2015,581627.0,population_total
+Sweden,SWE,SP.POP.TOTL,"Population, total",2019,10278887.0,population_total
+Sweden,SWE,SP.POP.TOTL,"Population, total",2018,10175214.0,population_total
+Sweden,SWE,SP.POP.TOTL,"Population, total",2017,10057698.0,population_total
+Sweden,SWE,SP.POP.TOTL,"Population, total",2016,9923085.0,population_total
+Sweden,SWE,SP.POP.TOTL,"Population, total",2015,9799186.0,population_total
+Switzerland,CHE,SP.POP.TOTL,"Population, total",2019,8575280.0,population_total
+Switzerland,CHE,SP.POP.TOTL,"Population, total",2018,8514329.0,population_total
+Switzerland,CHE,SP.POP.TOTL,"Population, total",2017,8451840.0,population_total
+Switzerland,CHE,SP.POP.TOTL,"Population, total",2016,8373338.0,population_total
+Switzerland,CHE,SP.POP.TOTL,"Population, total",2015,8282396.0,population_total
+Syrian Arab Republic,SYR,SP.POP.TOTL,"Population, total",2019,20353534.0,population_total
+Syrian Arab Republic,SYR,SP.POP.TOTL,"Population, total",2018,19577845.0,population_total
+Syrian Arab Republic,SYR,SP.POP.TOTL,"Population, total",2017,19224668.0,population_total
+Syrian Arab Republic,SYR,SP.POP.TOTL,"Population, total",2016,19193834.0,population_total
+Syrian Arab Republic,SYR,SP.POP.TOTL,"Population, total",2015,19424618.0,population_total
+Tajikistan,TJK,SP.POP.TOTL,"Population, total",2019,9529966.0,population_total
+Tajikistan,TJK,SP.POP.TOTL,"Population, total",2018,9307333.0,population_total
+Tajikistan,TJK,SP.POP.TOTL,"Population, total",2017,9085946.0,population_total
+Tajikistan,TJK,SP.POP.TOTL,"Population, total",2016,8865631.0,population_total
+Tajikistan,TJK,SP.POP.TOTL,"Population, total",2015,8643840.0,population_total
+Tanzania,TZA,SP.POP.TOTL,"Population, total",2019,59174891.0,population_total
+Tanzania,TZA,SP.POP.TOTL,"Population, total",2018,57437145.0,population_total
+Tanzania,TZA,SP.POP.TOTL,"Population, total",2017,55652890.0,population_total
+Tanzania,TZA,SP.POP.TOTL,"Population, total",2016,53824013.0,population_total
+Tanzania,TZA,SP.POP.TOTL,"Population, total",2015,52020962.0,population_total
+Thailand,THA,SP.POP.TOTL,"Population, total",2019,71522271.0,population_total
+Thailand,THA,SP.POP.TOTL,"Population, total",2018,71376079.0,population_total
+Thailand,THA,SP.POP.TOTL,"Population, total",2017,71160187.0,population_total
+Thailand,THA,SP.POP.TOTL,"Population, total",2016,70859841.0,population_total
+Thailand,THA,SP.POP.TOTL,"Population, total",2015,70540795.0,population_total
+Timor-Leste,TLS,SP.POP.TOTL,"Population, total",2019,1300945.0,population_total
+Timor-Leste,TLS,SP.POP.TOTL,"Population, total",2018,1275959.0,population_total
+Timor-Leste,TLS,SP.POP.TOTL,"Population, total",2017,1251703.0,population_total
+Timor-Leste,TLS,SP.POP.TOTL,"Population, total",2016,1228312.0,population_total
+Timor-Leste,TLS,SP.POP.TOTL,"Population, total",2015,1205131.0,population_total
+Togo,TGO,SP.POP.TOTL,"Population, total",2019,8463068.0,population_total
+Togo,TGO,SP.POP.TOTL,"Population, total",2018,8258778.0,population_total
+Togo,TGO,SP.POP.TOTL,"Population, total",2017,8057140.0,population_total
+Togo,TGO,SP.POP.TOTL,"Population, total",2016,7858289.0,population_total
+Togo,TGO,SP.POP.TOTL,"Population, total",2015,7663195.0,population_total
+Tonga,TON,SP.POP.TOTL,"Population, total",2019,105669.0,population_total
+Tonga,TON,SP.POP.TOTL,"Population, total",2018,105567.0,population_total
+Tonga,TON,SP.POP.TOTL,"Population, total",2017,105356.0,population_total
+Tonga,TON,SP.POP.TOTL,"Population, total",2016,105524.0,population_total
+Tonga,TON,SP.POP.TOTL,"Population, total",2015,106095.0,population_total
+Trinidad and Tobago,TTO,SP.POP.TOTL,"Population, total",2019,1363985.0,population_total
+Trinidad and Tobago,TTO,SP.POP.TOTL,"Population, total",2018,1359193.0,population_total
+Trinidad and Tobago,TTO,SP.POP.TOTL,"Population, total",2017,1356633.0,population_total
+Trinidad and Tobago,TTO,SP.POP.TOTL,"Population, total",2016,1353895.0,population_total
+Trinidad and Tobago,TTO,SP.POP.TOTL,"Population, total",2015,1349667.0,population_total
+Tunisia,TUN,SP.POP.TOTL,"Population, total",2019,11875081.0,population_total
+Tunisia,TUN,SP.POP.TOTL,"Population, total",2018,11765514.0,population_total
+Tunisia,TUN,SP.POP.TOTL,"Population, total",2017,11650498.0,population_total
+Tunisia,TUN,SP.POP.TOTL,"Population, total",2016,11528674.0,population_total
+Tunisia,TUN,SP.POP.TOTL,"Population, total",2015,11402264.0,population_total
+Turkiye,TUR,SP.POP.TOTL,"Population, total",2019,82579440.0,population_total
+Turkiye,TUR,SP.POP.TOTL,"Population, total",2018,81407204.0,population_total
+Turkiye,TUR,SP.POP.TOTL,"Population, total",2017,80312698.0,population_total
+Turkiye,TUR,SP.POP.TOTL,"Population, total",2016,79277962.0,population_total
+Turkiye,TUR,SP.POP.TOTL,"Population, total",2015,78218479.0,population_total
+Turkmenistan,TKM,SP.POP.TOTL,"Population, total",2019,6803944.0,population_total
+Turkmenistan,TKM,SP.POP.TOTL,"Population, total",2018,6655524.0,population_total
+Turkmenistan,TKM,SP.POP.TOTL,"Population, total",2017,6507061.0,population_total
+Turkmenistan,TKM,SP.POP.TOTL,"Population, total",2016,6360041.0,population_total
+Turkmenistan,TKM,SP.POP.TOTL,"Population, total",2015,6215770.0,population_total
+Turks and Caicos Islands,TCA,SP.POP.TOTL,"Population, total",2019,43166.0,population_total
+Turks and Caicos Islands,TCA,SP.POP.TOTL,"Population, total",2018,41559.0,population_total
+Turks and Caicos Islands,TCA,SP.POP.TOTL,"Population, total",2017,39913.0,population_total
+Turks and Caicos Islands,TCA,SP.POP.TOTL,"Population, total",2016,38315.0,population_total
+Turks and Caicos Islands,TCA,SP.POP.TOTL,"Population, total",2015,36605.0,population_total
+Tuvalu,TUV,SP.POP.TOTL,"Population, total",2019,10581.0,population_total
+Tuvalu,TUV,SP.POP.TOTL,"Population, total",2018,10751.0,population_total
+Tuvalu,TUV,SP.POP.TOTL,"Population, total",2017,10869.0,population_total
+Tuvalu,TUV,SP.POP.TOTL,"Population, total",2016,10930.0,population_total
+Tuvalu,TUV,SP.POP.TOTL,"Population, total",2015,10963.0,population_total
+Uganda,UGA,SP.POP.TOTL,"Population, total",2019,42999637.0,population_total
+Uganda,UGA,SP.POP.TOTL,"Population, total",2018,41565831.0,population_total
+Uganda,UGA,SP.POP.TOTL,"Population, total",2017,40177388.0,population_total
+Uganda,UGA,SP.POP.TOTL,"Population, total",2016,38799152.0,population_total
+Uganda,UGA,SP.POP.TOTL,"Population, total",2015,37531446.0,population_total
+Ukraine,UKR,SP.POP.TOTL,"Population, total",2019,44957458.0,population_total
+Ukraine,UKR,SP.POP.TOTL,"Population, total",2018,45208907.0,population_total
+Ukraine,UKR,SP.POP.TOTL,"Population, total",2017,45436041.0,population_total
+Ukraine,UKR,SP.POP.TOTL,"Population, total",2016,45616832.0,population_total
+Ukraine,UKR,SP.POP.TOTL,"Population, total",2015,45784896.0,population_total
+United Arab Emirates,ARE,SP.POP.TOTL,"Population, total",2019,9445785.0,population_total
+United Arab Emirates,ARE,SP.POP.TOTL,"Population, total",2018,9346701.0,population_total
+United Arab Emirates,ARE,SP.POP.TOTL,"Population, total",2017,9223225.0,population_total
+United Arab Emirates,ARE,SP.POP.TOTL,"Population, total",2016,8935095.0,population_total
+United Arab Emirates,ARE,SP.POP.TOTL,"Population, total",2015,8505237.0,population_total
+United Kingdom,GBR,SP.POP.TOTL,"Population, total",2019,66631000.0,population_total
+United Kingdom,GBR,SP.POP.TOTL,"Population, total",2018,66289000.0,population_total
+United Kingdom,GBR,SP.POP.TOTL,"Population, total",2017,65966000.0,population_total
+United Kingdom,GBR,SP.POP.TOTL,"Population, total",2016,65607000.0,population_total
+United Kingdom,GBR,SP.POP.TOTL,"Population, total",2015,65088000.0,population_total
+United States,USA,SP.POP.TOTL,"Population, total",2019,330226227.0,population_total
+United States,USA,SP.POP.TOTL,"Population, total",2018,328529577.0,population_total
+United States,USA,SP.POP.TOTL,"Population, total",2017,326608609.0,population_total
+United States,USA,SP.POP.TOTL,"Population, total",2016,324353340.0,population_total
+United States,USA,SP.POP.TOTL,"Population, total",2015,321815121.0,population_total
+Uruguay,URY,SP.POP.TOTL,"Population, total",2019,3397206.0,population_total
+Uruguay,URY,SP.POP.TOTL,"Population, total",2018,3394534.0,population_total
+Uruguay,URY,SP.POP.TOTL,"Population, total",2017,3388438.0,population_total
+Uruguay,URY,SP.POP.TOTL,"Population, total",2016,3379283.0,population_total
+Uruguay,URY,SP.POP.TOTL,"Population, total",2015,3368017.0,population_total
+Uzbekistan,UZB,SP.POP.TOTL,"Population, total",2019,32964701.0,population_total
+Uzbekistan,UZB,SP.POP.TOTL,"Population, total",2018,32373490.0,population_total
+Uzbekistan,UZB,SP.POP.TOTL,"Population, total",2017,31819178.0,population_total
+Uzbekistan,UZB,SP.POP.TOTL,"Population, total",2016,31284568.0,population_total
+Uzbekistan,UZB,SP.POP.TOTL,"Population, total",2015,30749346.0,population_total
+Vanuatu,VUT,SP.POP.TOTL,"Population, total",2019,291985.0,population_total
+Vanuatu,VUT,SP.POP.TOTL,"Population, total",2018,285259.0,population_total
+Vanuatu,VUT,SP.POP.TOTL,"Population, total",2017,278507.0,population_total
+Vanuatu,VUT,SP.POP.TOTL,"Population, total",2016,272087.0,population_total
+Vanuatu,VUT,SP.POP.TOTL,"Population, total",2015,266101.0,population_total
+"Venezuela, RB",VEN,SP.POP.TOTL,"Population, total",2019,28938098.0,population_total
+"Venezuela, RB",VEN,SP.POP.TOTL,"Population, total",2018,29807592.0,population_total
+"Venezuela, RB",VEN,SP.POP.TOTL,"Population, total",2017,30565323.0,population_total
+"Venezuela, RB",VEN,SP.POP.TOTL,"Population, total",2016,30765720.0,population_total
+"Venezuela, RB",VEN,SP.POP.TOTL,"Population, total",2015,30573972.0,population_total
+Viet Nam,VNM,SP.POP.TOTL,"Population, total",2019,97173776.0,population_total
+Viet Nam,VNM,SP.POP.TOTL,"Population, total",2018,96237319.0,population_total
+Viet Nam,VNM,SP.POP.TOTL,"Population, total",2017,95176977.0,population_total
+Viet Nam,VNM,SP.POP.TOTL,"Population, total",2016,94000117.0,population_total
+Viet Nam,VNM,SP.POP.TOTL,"Population, total",2015,92823254.0,population_total
+Virgin Islands (U.S.),VIR,SP.POP.TOTL,"Population, total",2019,106669.0,population_total
+Virgin Islands (U.S.),VIR,SP.POP.TOTL,"Population, total",2018,107001.0,population_total
+Virgin Islands (U.S.),VIR,SP.POP.TOTL,"Population, total",2017,107281.0,population_total
+Virgin Islands (U.S.),VIR,SP.POP.TOTL,"Population, total",2016,107516.0,population_total
+Virgin Islands (U.S.),VIR,SP.POP.TOTL,"Population, total",2015,107712.0,population_total
+West Bank and Gaza,PSE,SP.POP.TOTL,"Population, total",2019,4685306.0,population_total
+West Bank and Gaza,PSE,SP.POP.TOTL,"Population, total",2018,4569087.0,population_total
+West Bank and Gaza,PSE,SP.POP.TOTL,"Population, total",2017,4454805.0,population_total
+West Bank and Gaza,PSE,SP.POP.TOTL,"Population, total",2016,4367088.0,population_total
+West Bank and Gaza,PSE,SP.POP.TOTL,"Population, total",2015,4270092.0,population_total
+"Yemen, Rep.",YEM,SP.POP.TOTL,"Population, total",2019,35111408.0,population_total
+"Yemen, Rep.",YEM,SP.POP.TOTL,"Population, total",2018,34085182.0,population_total
+"Yemen, Rep.",YEM,SP.POP.TOTL,"Population, total",2017,33090921.0,population_total
+"Yemen, Rep.",YEM,SP.POP.TOTL,"Population, total",2016,32109010.0,population_total
+"Yemen, Rep.",YEM,SP.POP.TOTL,"Population, total",2015,31159379.0,population_total
+Zambia,ZMB,SP.POP.TOTL,"Population, total",2019,18513839.0,population_total
+Zambia,ZMB,SP.POP.TOTL,"Population, total",2018,17973569.0,population_total
+Zambia,ZMB,SP.POP.TOTL,"Population, total",2017,17441320.0,population_total
+Zambia,ZMB,SP.POP.TOTL,"Population, total",2016,16914423.0,population_total
+Zambia,ZMB,SP.POP.TOTL,"Population, total",2015,16399089.0,population_total
+Zimbabwe,ZWE,SP.POP.TOTL,"Population, total",2019,15271368.0,population_total
+Zimbabwe,ZWE,SP.POP.TOTL,"Population, total",2018,15034452.0,population_total
+Zimbabwe,ZWE,SP.POP.TOTL,"Population, total",2017,14812482.0,population_total
+Zimbabwe,ZWE,SP.POP.TOTL,"Population, total",2016,14600294.0,population_total
+Zimbabwe,ZWE,SP.POP.TOTL,"Population, total",2015,14399013.0,population_total

@@ -1,0 +1,294 @@
+scenario,iso3,country,n,coverage_count,missing_count_from_full_validation,missing_rate_from_full_validation,baseline_conversion_efficiency,conversion_efficiency_zscore,efficiency_delta_vs_baseline,baseline_profile,conversion_profile,profile_stable
+exclude_high_income,MDV,Maldives,50,50,56,0.5283018867924528,-0.67968481209664,-0.5793803085908983,0.10030450350574172,capacity under-realizers,capacity under-realizers,True
+exclude_high_income,BLR,Belarus,50,50,56,0.5283018867924528,-2.934826273506603,-2.593211604532179,0.3416146689744237,capacity under-realizers,capacity under-realizers,True
+exclude_high_income,ARG,Argentina,50,50,56,0.5283018867924528,-0.5607786651550956,0.42069522480929605,0.9814738899643916,capacity under-realizers,capacity under-realizers,True
+exclude_high_income,COL,Colombia,50,50,56,0.5283018867924528,-0.781604416073713,-0.16356495575438257,0.6180394603193304,capacity under-realizers,capacity under-realizers,True
+exclude_high_income,KAZ,Kazakhstan,50,50,56,0.5283018867924528,-0.0986913164584361,0.36591706821113656,0.46460838466957266,capacity under-realizers,capacity under-realizers,True
+exclude_high_income,TUR,Turkiye,50,50,56,0.5283018867924528,0.4570064888710212,1.2794924825763367,0.8224859937053155,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_high_income,BRA,Brazil,50,50,56,0.5283018867924528,-0.3839098364391619,0.031196643678299312,0.4151064801174612,structurally vulnerable systems,capacity under-realizers,False
+exclude_high_income,SRB,Serbia,50,50,56,0.5283018867924528,-1.633899587921958,-0.8634706841538438,0.7704289037681142,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_high_income,MKD,North Macedonia,50,50,56,0.5283018867924528,-1.9749679976206704,-1.4399863290977666,0.5349816685229039,structurally vulnerable systems,capacity under-realizers,False
+exclude_high_income,JOR,Jordan,50,50,56,0.5283018867924528,-0.1794080091690193,0.05951918948782832,0.23892719865684764,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_high_income,NIC,Nicaragua,50,50,56,0.5283018867924528,-0.7539005103194539,-0.4151479111368811,0.33875259918257283,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_high_income,TUN,Tunisia,50,50,56,0.5283018867924528,-0.4489517211649329,0.28494262655248953,0.7338943477174225,structurally vulnerable systems,effective converters,False
+exclude_high_income,IRN,"Iran, Islamic Rep.",50,50,56,0.5283018867924528,-0.1362060818612195,-0.06341462807537959,0.0727914537858399,structurally vulnerable systems,capacity under-realizers,False
+exclude_high_income,VCT,St. Vincent and the Grenadines,50,50,56,0.5283018867924528,1.4192387944136184,1.6692190027591631,0.24998020834554469,adaptive over-performers,effective converters,False
+exclude_high_income,ALB,Albania,50,50,56,0.5283018867924528,-1.0962818877303866,-0.20738725572556774,0.8888946320048189,structurally vulnerable systems,capacity under-realizers,False
+exclude_high_income,UZB,Uzbekistan,50,50,56,0.5283018867924528,0.9972041778784172,1.0307876798733768,0.03358350199495963,adaptive over-performers,effective converters,False
+exclude_high_income,ECU,Ecuador,50,50,56,0.5283018867924528,-1.1482947056593773,-0.8592280689689198,0.2890666366904575,structurally vulnerable systems,capacity under-realizers,False
+exclude_high_income,BIH,Bosnia and Herzegovina,50,50,56,0.5283018867924528,-0.9596367221199305,-0.12785741269403517,0.8317793094258953,structurally vulnerable systems,capacity under-realizers,False
+exclude_high_income,PSE,West Bank and Gaza,50,50,56,0.5283018867924528,0.4050347160567432,-0.07466046490830501,-0.4796951809650482,adaptive over-performers,capacity under-realizers,False
+exclude_high_income,THA,Thailand,50,50,56,0.5283018867924528,0.6306762709903058,1.2003227870678859,0.5696465160775801,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_high_income,MDA,Moldova,50,50,56,0.5283018867924528,-0.1113311654121229,-0.1190957788199513,-0.0077646134078284,uncertain / data-limited systems,capacity under-realizers,False
+exclude_high_income,GEO,Georgia,50,50,56,0.5283018867924528,-1.0003330580650351,-0.7686626641856517,0.23167039387938348,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_high_income,KGZ,Kyrgyz Republic,50,50,56,0.5283018867924528,0.6296783426338252,0.6412023430537648,0.011524000419939617,adaptive over-performers,effective converters,False
+exclude_high_income,DZA,Algeria,50,50,56,0.5283018867924528,-0.0257879676045457,0.051119262043618954,0.07690722964816465,structurally vulnerable systems,capacity under-realizers,False
+exclude_high_income,SLV,El Salvador,50,50,56,0.5283018867924528,1.620492975314234,1.4056238689787675,-0.21486910633546663,adaptive over-performers,effective converters,False
+exclude_high_income,MNE,Montenegro,50,50,56,0.5283018867924528,-0.1155108656131252,0.8101756380281138,0.925686503641239,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_high_income,BLZ,Belize,50,50,56,0.5283018867924528,0.6737376894803904,0.6589960728270787,-0.01474161665331164,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_high_income,MYS,Malaysia,50,50,56,0.5283018867924528,0.6108603240717282,1.022050425040051,0.41119010096832287,adaptive over-performers,adaptive over-performers,True
+exclude_high_income,TJK,Tajikistan,50,50,56,0.5283018867924528,0.8731159431863904,0.44206184827371886,-0.43105409491267155,adaptive over-performers,adaptive over-performers,True
+exclude_high_income,MUS,Mauritius,50,50,56,0.5283018867924528,0.5926717018181917,1.0572627943907211,0.4645910925725294,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_high_income,ARM,Armenia,50,50,56,0.5283018867924528,-1.948283078005972,-2.2124657912066312,-0.26418271320065934,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_high_income,MEX,Mexico,50,50,56,0.5283018867924528,-1.486708186644193,-1.4951535824961122,-0.00844539585191928,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_high_income,BTN,Bhutan,50,50,56,0.5283018867924528,0.9503579149734344,0.8348852741401166,-0.11547264083331776,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_high_income,JAM,Jamaica,50,50,56,0.5283018867924528,0.6781550515502107,0.436568705527966,-0.2415863460222447,adaptive over-performers,adaptive over-performers,True
+exclude_high_income,LBN,Lebanon,50,50,56,0.5283018867924528,-0.3017767585291441,0.14561372435411638,0.44739048288326044,structurally vulnerable systems,adaptive over-performers,False
+exclude_high_income,PRY,Paraguay,50,50,56,0.5283018867924528,-0.662493602753887,-0.6675638355265913,-0.005070232772704242,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_high_income,FJI,Fiji,50,50,56,0.5283018867924528,0.9963822847207642,0.0031525286841020397,-0.9932297560366622,adaptive over-performers,adaptive over-performers,True
+exclude_high_income,PER,Peru,50,50,56,0.5283018867924528,-1.4011048502138164,-1.5218833530380942,-0.12077850282427782,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_high_income,CPV,Cabo Verde,50,50,56,0.5283018867924528,0.7253228043293579,0.31089392339553973,-0.4144288809338182,adaptive over-performers,adaptive over-performers,True
+exclude_high_income,MNG,Mongolia,50,50,56,0.5283018867924528,2.432192655157404,1.65428638669163,-0.777906268465774,adaptive over-performers,adaptive over-performers,True
+exclude_high_income,SUR,Suriname,50,50,56,0.5283018867924528,0.4706846741780459,0.2430325698743833,-0.2276521043036626,adaptive over-performers,adaptive over-performers,True
+exclude_high_income,EGY,"Egypt, Arab Rep.",50,50,56,0.5283018867924528,-0.2483728210133884,-0.7556603326478138,-0.5072875116344254,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_high_income,AZE,Azerbaijan,50,50,56,0.5283018867924528,0.213239025009891,0.15490218704300915,-0.058336837966881855,adaptive over-performers,adaptive over-performers,True
+exclude_high_income,UKR,Ukraine,50,50,56,0.5283018867924528,1.0824306028338924,1.340681233960913,0.25825063112702074,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_high_income,DOM,Dominican Republic,50,50,56,0.5283018867924528,1.5073829326411707,1.4628486045564728,-0.04453432808469793,adaptive over-performers,adaptive over-performers,True
+exclude_high_income,BOL,Bolivia,50,50,56,0.5283018867924528,-1.325734067260284,-1.7382530102129883,-0.4125189429527043,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_high_income,GTM,Guatemala,50,50,56,0.5283018867924528,0.3271621021699673,-0.31140370489068264,-0.6385658070606499,adaptive over-performers,structurally vulnerable systems,False
+exclude_high_income,PHL,Philippines,50,50,56,0.5283018867924528,0.2661739212884271,-0.7656872739051928,-1.0318611951936199,adaptive over-performers,structurally vulnerable systems,False
+exclude_high_income,ZAF,South Africa,50,50,56,0.5283018867924528,-0.117049907565842,-1.7784786347765105,-1.6614287272106685,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_high_income,NAM,Namibia,50,50,56,0.5283018867924528,1.6115552910680526,0.504167489464482,-1.1073878016035708,adaptive over-performers,adaptive over-performers,True
+exclude_non_high_income,NOR,Norway,56,56,50,0.4716981132075472,0.8819371421389405,0.058558161920289654,-0.8233789802186509,effective converters,effective converters,True
+exclude_non_high_income,DEU,Germany,56,56,50,0.4716981132075472,0.615078253921651,0.06551116214139699,-0.5495670917802541,effective converters,capacity under-realizers,False
+exclude_non_high_income,SWE,Sweden,56,56,50,0.4716981132075472,1.0869609091047154,0.4846938102878528,-0.6022670988168626,effective converters,effective converters,True
+exclude_non_high_income,JPN,Japan,56,56,50,0.4716981132075472,1.4027544493100577,0.5004943486032258,-0.9022601007068318,effective converters,effective converters,True
+exclude_non_high_income,FRA,France,56,56,50,0.4716981132075472,0.7365146975756199,0.34652573542133974,-0.3899889621542802,effective converters,effective converters,True
+exclude_non_high_income,AUS,Australia,56,56,50,0.4716981132075472,0.5395775635134479,-0.10083599253079756,-0.6404135560442454,effective converters,capacity under-realizers,False
+exclude_non_high_income,DNK,Denmark,56,56,50,0.4716981132075472,1.4369633295580748,1.3525979684357976,-0.08436536112227722,effective converters,effective converters,True
+exclude_non_high_income,BEL,Belgium,56,56,50,0.4716981132075472,0.3690158846965657,0.23918950018284235,-0.12982638451372336,effective converters,capacity under-realizers,False
+exclude_non_high_income,AUT,Austria,56,56,50,0.4716981132075472,0.1233611947811609,-0.6625167827701551,-0.785877977551316,capacity under-realizers,capacity under-realizers,True
+exclude_non_high_income,ISL,Iceland,56,56,50,0.4716981132075472,1.0124193151295544,0.9303945532948071,-0.08202476183474727,effective converters,effective converters,True
+exclude_non_high_income,FIN,Finland,56,56,50,0.4716981132075472,1.095261278939026,0.5268723176168724,-0.5683889613221536,effective converters,effective converters,True
+exclude_non_high_income,LUX,Luxembourg,56,56,50,0.4716981132075472,1.2789940158889337,0.9675693530029577,-0.31142466288597603,effective converters,effective converters,True
+exclude_non_high_income,CZE,Czechia,56,56,50,0.4716981132075472,-0.6262960857776176,-1.0100699748610384,-0.3837738890834208,capacity under-realizers,capacity under-realizers,True
+exclude_non_high_income,USA,United States,56,56,50,0.4716981132075472,-1.2162711675864122,-1.230324756158265,-0.014053588571852904,capacity under-realizers,capacity under-realizers,True
+exclude_non_high_income,SVN,Slovenia,56,56,50,0.4716981132075472,0.1540796570156834,-0.2703136748577804,-0.42439333187346384,capacity under-realizers,capacity under-realizers,True
+exclude_non_high_income,NZL,New Zealand,56,56,50,0.4716981132075472,1.0928834844424085,1.0377702581578288,-0.05511322628457971,effective converters,effective converters,True
+exclude_non_high_income,CHE,Switzerland,56,56,50,0.4716981132075472,0.3917916539711268,-0.2709308975774386,-0.6627225515485654,effective converters,capacity under-realizers,False
+exclude_non_high_income,IRL,Ireland,56,56,50,0.4716981132075472,0.1787699417382001,-0.5545557342205113,-0.7333256759587115,effective converters,capacity under-realizers,False
+exclude_non_high_income,CAN,Canada,56,56,50,0.4716981132075472,0.5773724585910407,0.8972914295796075,0.3199189709885668,effective converters,effective converters,True
+exclude_non_high_income,NLD,Netherlands,56,56,50,0.4716981132075472,0.4866469717607894,0.591952048203175,0.10530507644238563,effective converters,capacity under-realizers,False
+exclude_non_high_income,GBR,United Kingdom,56,56,50,0.4716981132075472,0.2436217840916513,0.19676672189998126,-0.046855062191670044,capacity under-realizers,capacity under-realizers,True
+exclude_non_high_income,ESP,Spain,56,56,50,0.4716981132075472,0.2221367546696926,-0.1530360562105255,-0.3751728108802181,capacity under-realizers,capacity under-realizers,True
+exclude_non_high_income,SVK,Slovak Republic,56,56,50,0.4716981132075472,-1.403125347198939,-1.4798119656375048,-0.07668661843856572,capacity under-realizers,capacity under-realizers,True
+exclude_non_high_income,PRT,Portugal,56,56,50,0.4716981132075472,0.4586448090368129,0.07853430857006767,-0.3801105004667452,capacity under-realizers,capacity under-realizers,True
+exclude_non_high_income,HRV,Croatia,56,56,50,0.4716981132075472,-0.9834110417905212,-1.2954143685403618,-0.31200332674984066,capacity under-realizers,capacity under-realizers,True
+exclude_non_high_income,AND,Andorra,56,56,50,0.4716981132075472,0.4072528611044628,0.7112531195265857,0.30400025842212286,effective converters,effective converters,True
+exclude_non_high_income,ITA,Italy,56,56,50,0.4716981132075472,-0.184799946246096,-1.019044748456448,-0.834244802210352,capacity under-realizers,capacity under-realizers,True
+exclude_non_high_income,URY,Uruguay,56,56,50,0.4716981132075472,0.4452804875803113,0.10567506233917447,-0.33960542524113685,effective converters,capacity under-realizers,False
+exclude_non_high_income,QAT,Qatar,56,56,50,0.4716981132075472,-0.4525986143987932,-0.22308914514122674,0.22950946925756643,capacity under-realizers,structurally vulnerable systems,False
+exclude_non_high_income,ISR,Israel,56,56,50,0.4716981132075472,0.0452100913801599,-0.014933341324986396,-0.06014343270514629,effective converters,structurally vulnerable systems,False
+exclude_non_high_income,MLT,Malta,56,56,50,0.4716981132075472,0.6458199268653755,0.4049565814761834,-0.24086334538919207,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_non_high_income,HUN,Hungary,56,56,50,0.4716981132075472,0.0873593196737647,0.9140439427661008,0.8266846230923361,capacity under-realizers,adaptive over-performers,False
+exclude_non_high_income,ARE,United Arab Emirates,56,56,50,0.4716981132075472,-0.5549371955598688,-0.5777736808951608,-0.022836485335292034,capacity under-realizers,structurally vulnerable systems,False
+exclude_non_high_income,KWT,Kuwait,56,56,50,0.4716981132075472,-0.7687710647710952,-0.2881612850015854,0.48060977976950986,capacity under-realizers,structurally vulnerable systems,False
+exclude_non_high_income,POL,Poland,56,56,50,0.4716981132075472,-0.4849502246418017,0.007776609514152062,0.49272683415595375,capacity under-realizers,adaptive over-performers,False
+exclude_non_high_income,GRC,Greece,56,56,50,0.4716981132075472,0.366734629590852,0.3870043918705562,0.020269762279704173,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_non_high_income,OMN,Oman,56,56,50,0.4716981132075472,0.0141798561969248,0.9611166108719054,0.9469367546749805,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_non_high_income,CRI,Costa Rica,56,56,50,0.4716981132075472,-0.1219216033291474,-0.45612560462481394,-0.3342040012956665,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_non_high_income,BRN,Brunei Darussalam,56,56,50,0.4716981132075472,-0.5677898989411297,-0.14985945797445363,0.4179304409666761,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_non_high_income,EST,Estonia,56,56,50,0.4716981132075472,0.6283931730001282,1.0413887133004844,0.41299554030035623,capacity under-realizers,adaptive over-performers,False
+exclude_non_high_income,KOR,"Korea, Rep.",56,56,50,0.4716981132075472,0.2537716480645608,0.749196609471818,0.49542496140725717,effective converters,adaptive over-performers,False
+exclude_non_high_income,LTU,Lithuania,56,56,50,0.4716981132075472,-2.3127216878494723,-2.6219222950165744,-0.30920060716710207,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_non_high_income,ATG,Antigua and Barbuda,56,56,50,0.4716981132075472,1.1536533611423352,1.4009057965363745,0.2472524353940393,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_non_high_income,ROU,Romania,56,56,50,0.4716981132075472,-0.9351231409706718,-0.42882396786126054,0.5062991731094113,capacity under-realizers,structurally vulnerable systems,False
+exclude_non_high_income,SMR,San Marino,56,56,50,0.4716981132075472,0.0624401117610778,0.6101327209761277,0.5476926092150499,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_non_high_income,SYC,Seychelles,56,56,50,0.4716981132075472,0.7344894000496776,0.45528263768865684,-0.2792067623610207,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_non_high_income,RUS,Russian Federation,56,56,50,0.4716981132075472,-2.470496319302296,-1.758448315289214,0.7120480040130819,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_non_high_income,CHL,Chile,56,56,50,0.4716981132075472,-0.4843600852495627,-1.0436236661905398,-0.5592635809409772,capacity under-realizers,uncertain / data-limited systems,False
+exclude_non_high_income,CYP,Cyprus,56,56,50,0.4716981132075472,0.5805364866265778,1.0969763136125923,0.5164398269860145,adaptive over-performers,adaptive over-performers,True
+exclude_non_high_income,BGR,Bulgaria,56,56,50,0.4716981132075472,-2.9737986660169526,-3.0128476330307272,-0.03904896701377458,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_non_high_income,SGP,Singapore,56,56,50,0.4716981132075472,-0.4875587587834289,-0.5386046586973467,-0.051045899913917836,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_non_high_income,LVA,Latvia,56,56,50,0.4716981132075472,-0.0992728276026543,0.8192733081735185,0.9185461357761728,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_non_high_income,KNA,St. Kitts and Nevis,56,56,50,0.4716981132075472,-1.701148507271733,-1.9964804956659734,-0.29533198839424046,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_non_high_income,BRB,Barbados,56,56,50,0.4716981132075472,1.153939279448213,2.3086025924767384,1.1546633130285253,adaptive over-performers,adaptive over-performers,True
+exclude_non_high_income,PAN,Panama,56,56,50,0.4716981132075472,-0.1218147392945074,-0.283806101529398,-0.1619913622348906,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_non_high_income,BHS,"Bahamas, The",56,56,50,0.4716981132075472,0.3320929275655985,1.1930479121450759,0.8609549845794774,adaptive over-performers,adaptive over-performers,True
+exclude_population_below_1m,NOR,Norway,87,87,19,0.17924528301886788,0.8819371421389405,0.8980582790133659,0.0161211368744254,effective converters,effective converters,True
+exclude_population_below_1m,DEU,Germany,87,87,19,0.17924528301886788,0.615078253921651,0.7524360925117212,0.1373578385900701,effective converters,effective converters,True
+exclude_population_below_1m,SWE,Sweden,87,87,19,0.17924528301886788,1.0869609091047154,1.115526538120972,0.02856562901625659,effective converters,effective converters,True
+exclude_population_below_1m,JPN,Japan,87,87,19,0.17924528301886788,1.4027544493100577,1.0166565241686358,-0.3860979251414218,effective converters,effective converters,True
+exclude_population_below_1m,FRA,France,87,87,19,0.17924528301886788,0.7365146975756199,0.8056566771755571,0.06914197959993718,effective converters,effective converters,True
+exclude_population_below_1m,AUS,Australia,87,87,19,0.17924528301886788,0.5395775635134479,0.048021868098652595,-0.49155569541479527,effective converters,effective converters,True
+exclude_population_below_1m,DNK,Denmark,87,87,19,0.17924528301886788,1.4369633295580748,1.6057832952316153,0.16881996567354052,effective converters,effective converters,True
+exclude_population_below_1m,BEL,Belgium,87,87,19,0.17924528301886788,0.3690158846965657,0.5590716096232952,0.19005572492672945,effective converters,effective converters,True
+exclude_population_below_1m,AUT,Austria,87,87,19,0.17924528301886788,0.1233611947811609,0.1380488418127718,0.014687647031610906,capacity under-realizers,effective converters,False
+exclude_population_below_1m,FIN,Finland,87,87,19,0.17924528301886788,1.095261278939026,1.1071840774902855,0.01192279855125955,effective converters,effective converters,True
+exclude_population_below_1m,CZE,Czechia,87,87,19,0.17924528301886788,-0.6262960857776176,-0.538256606304897,0.08803947947272062,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,USA,United States,87,87,19,0.17924528301886788,-1.2162711675864122,-0.9558472257304498,0.2604239418559624,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,SVN,Slovenia,87,87,19,0.17924528301886788,0.1540796570156834,0.14145977995095643,-0.012619877064726975,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,NZL,New Zealand,87,87,19,0.17924528301886788,1.0928834844424085,0.6511124113534337,-0.4417710730889748,effective converters,effective converters,True
+exclude_population_below_1m,CHE,Switzerland,87,87,19,0.17924528301886788,0.3917916539711268,0.46549681415158933,0.07370516018046253,effective converters,effective converters,True
+exclude_population_below_1m,IRL,Ireland,87,87,19,0.17924528301886788,0.1787699417382001,0.16488741232364532,-0.013882529414554784,effective converters,effective converters,True
+exclude_population_below_1m,CAN,Canada,87,87,19,0.17924528301886788,0.5773724585910407,0.7885606976586702,0.2111882390676295,effective converters,effective converters,True
+exclude_population_below_1m,NLD,Netherlands,87,87,19,0.17924528301886788,0.4866469717607894,0.746864513502511,0.2602175417417216,effective converters,effective converters,True
+exclude_population_below_1m,GBR,United Kingdom,87,87,19,0.17924528301886788,0.2436217840916513,0.3773489478471538,0.13372716375550248,capacity under-realizers,effective converters,False
+exclude_population_below_1m,ESP,Spain,87,87,19,0.17924528301886788,0.2221367546696926,0.2242815462470252,0.0021447915773326054,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,SVK,Slovak Republic,87,87,19,0.17924528301886788,-1.403125347198939,-1.3561941019429238,0.04693124525601533,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,PRT,Portugal,87,87,19,0.17924528301886788,0.4586448090368129,0.44484794061096344,-0.013796868425849429,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,HRV,Croatia,87,87,19,0.17924528301886788,-0.9834110417905212,-0.956986116362129,0.026424925428392143,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,ITA,Italy,87,87,19,0.17924528301886788,-0.184799946246096,-0.1967222075044685,-0.011922261258372507,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,URY,Uruguay,87,87,19,0.17924528301886788,0.4452804875803113,0.6353176206456959,0.19003713306538456,effective converters,effective converters,True
+exclude_population_below_1m,BLR,Belarus,87,87,19,0.17924528301886788,-2.934826273506603,-2.6509982941066377,0.2838279793999652,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,QAT,Qatar,87,87,19,0.17924528301886788,-0.4525986143987932,-0.09290409440362017,0.359694519995173,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,ISR,Israel,87,87,19,0.17924528301886788,0.0452100913801599,0.2169264022417392,0.1717163108615793,effective converters,effective converters,True
+exclude_population_below_1m,HUN,Hungary,87,87,19,0.17924528301886788,0.0873593196737647,0.35966609252628506,0.27230677285252036,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,ARG,Argentina,87,87,19,0.17924528301886788,-0.5607786651550956,-0.28948171086233015,0.2712969542927654,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,ARE,United Arab Emirates,87,87,19,0.17924528301886788,-0.5549371955598688,-0.41223409863850347,0.1427030969213653,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,KWT,Kuwait,87,87,19,0.17924528301886788,-0.7687710647710952,-0.5094615694987912,0.25930949527230407,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,POL,Poland,87,87,19,0.17924528301886788,-0.4849502246418017,-0.3310450838022241,0.15390514083957763,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,GRC,Greece,87,87,19,0.17924528301886788,0.366734629590852,0.4074914210173626,0.040756791426510564,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,OMN,Oman,87,87,19,0.17924528301886788,0.0141798561969248,0.23698739855036632,0.22280754235344152,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,CRI,Costa Rica,87,87,19,0.17924528301886788,-0.1219216033291474,-0.11677624957527355,0.005145353753873844,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,EST,Estonia,87,87,19,0.17924528301886788,0.6283931730001282,0.7711485325064827,0.14275535950635454,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,KOR,"Korea, Rep.",87,87,19,0.17924528301886788,0.2537716480645608,-0.009292486544369724,-0.2630641346089305,effective converters,capacity under-realizers,False
+exclude_population_below_1m,LTU,Lithuania,87,87,19,0.17924528301886788,-2.3127216878494723,-2.188690813319341,0.12403087453013129,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,COL,Colombia,87,87,19,0.17924528301886788,-0.781604416073713,-0.6374418631993524,0.14416255287436064,capacity under-realizers,uncertain / data-limited systems,False
+exclude_population_below_1m,KAZ,Kazakhstan,87,87,19,0.17924528301886788,-0.0986913164584361,0.33052421280081934,0.42921552925925543,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,ROU,Romania,87,87,19,0.17924528301886788,-0.9351231409706718,-0.7555804141743859,0.1795427267962859,capacity under-realizers,capacity under-realizers,True
+exclude_population_below_1m,RUS,Russian Federation,87,87,19,0.17924528301886788,-2.470496319302296,-2.1874266380341547,0.28306968126814125,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,CHL,Chile,87,87,19,0.17924528301886788,-0.4843600852495627,-0.43174253071364926,0.052617554535913436,capacity under-realizers,uncertain / data-limited systems,False
+exclude_population_below_1m,TUR,Turkiye,87,87,19,0.17924528301886788,0.4570064888710212,0.8156642917640824,0.3586578028930612,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,BRA,Brazil,87,87,19,0.17924528301886788,-0.3839098364391619,-0.10360333218832762,0.28030650425083425,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_population_below_1m,SRB,Serbia,87,87,19,0.17924528301886788,-1.633899587921958,-1.3791398739932692,0.2547597139286888,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,MKD,North Macedonia,87,87,19,0.17924528301886788,-1.9749679976206704,-1.7768101983660416,0.19815779925462884,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_population_below_1m,CYP,Cyprus,87,87,19,0.17924528301886788,0.5805364866265778,0.5961625861905961,0.015626099564018392,adaptive over-performers,adaptive over-performers,True
+exclude_population_below_1m,BGR,Bulgaria,87,87,19,0.17924528301886788,-2.9737986660169526,-2.823944384068464,0.1498542819484885,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,SGP,Singapore,87,87,19,0.17924528301886788,-0.4875587587834289,-0.7057999617064025,-0.21824120292297355,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,LVA,Latvia,87,87,19,0.17924528301886788,-0.0992728276026543,0.17780630242927598,0.2770791300319303,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,JOR,Jordan,87,87,19,0.17924528301886788,-0.1794080091690193,-0.2838904051816593,-0.10448239601264,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,NIC,Nicaragua,87,87,19,0.17924528301886788,-0.7539005103194539,-0.9804884130802022,-0.22658790276074825,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,TUN,Tunisia,87,87,19,0.17924528301886788,-0.4489517211649329,-0.6038252021952626,-0.15487348103032966,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_population_below_1m,IRN,"Iran, Islamic Rep.",87,87,19,0.17924528301886788,-0.1362060818612195,0.1525217917290845,0.288727873590304,structurally vulnerable systems,adaptive over-performers,False
+exclude_population_below_1m,ALB,Albania,87,87,19,0.17924528301886788,-1.0962818877303866,-1.0492431066712613,0.04703878105912529,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_population_below_1m,UZB,Uzbekistan,87,87,19,0.17924528301886788,0.9972041778784172,1.134862297491538,0.1376581196131209,adaptive over-performers,adaptive over-performers,True
+exclude_population_below_1m,ECU,Ecuador,87,87,19,0.17924528301886788,-1.1482947056593773,-1.0338094286378698,0.11448527702150746,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_population_below_1m,BIH,Bosnia and Herzegovina,87,87,19,0.17924528301886788,-0.9596367221199305,-0.775269530393967,0.1843671917259635,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_population_below_1m,PSE,West Bank and Gaza,87,87,19,0.17924528301886788,0.4050347160567432,0.5363242999321548,0.13128958387541162,adaptive over-performers,adaptive over-performers,True
+exclude_population_below_1m,THA,Thailand,87,87,19,0.17924528301886788,0.6306762709903058,0.48887910563132325,-0.1417971653589825,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,MDA,Moldova,87,87,19,0.17924528301886788,-0.1113311654121229,0.33200982780287275,0.44334099321499565,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,PAN,Panama,87,87,19,0.17924528301886788,-0.1218147392945074,-0.06303518795207005,0.05877955134243734,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_population_below_1m,GEO,Georgia,87,87,19,0.17924528301886788,-1.0003330580650351,-0.6657525847689242,0.33458047329611096,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,KGZ,Kyrgyz Republic,87,87,19,0.17924528301886788,0.6296783426338252,0.6043028127949618,-0.025375529838863375,adaptive over-performers,adaptive over-performers,True
+exclude_population_below_1m,DZA,Algeria,87,87,19,0.17924528301886788,-0.0257879676045457,0.21658646911344615,0.24237443671799186,structurally vulnerable systems,adaptive over-performers,False
+exclude_population_below_1m,SLV,El Salvador,87,87,19,0.17924528301886788,1.620492975314234,2.1885408365233414,0.5680478612091073,adaptive over-performers,adaptive over-performers,True
+exclude_population_below_1m,MYS,Malaysia,87,87,19,0.17924528301886788,0.6108603240717282,0.5221619479390307,-0.08869837613269749,adaptive over-performers,adaptive over-performers,True
+exclude_population_below_1m,TJK,Tajikistan,87,87,19,0.17924528301886788,0.8731159431863904,0.8290411136598149,-0.04407482952657549,adaptive over-performers,uncertain / data-limited systems,False
+exclude_population_below_1m,MUS,Mauritius,87,87,19,0.17924528301886788,0.5926717018181917,-0.07813154047405262,-0.6708032422922443,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,ARM,Armenia,87,87,19,0.17924528301886788,-1.948283078005972,-1.652980081248422,0.2953029967575498,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,MEX,Mexico,87,87,19,0.17924528301886788,-1.486708186644193,-1.1948177894051069,0.29189039723908605,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_population_below_1m,JAM,Jamaica,87,87,19,0.17924528301886788,0.6781550515502107,1.1097582363503309,0.43160318480012017,adaptive over-performers,adaptive over-performers,True
+exclude_population_below_1m,LBN,Lebanon,87,87,19,0.17924528301886788,-0.3017767585291441,-0.27803194040188434,0.02374481812725976,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_population_below_1m,PRY,Paraguay,87,87,19,0.17924528301886788,-0.662493602753887,-0.43388753022644627,0.22860607252744075,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_population_below_1m,PER,Peru,87,87,19,0.17924528301886788,-1.4011048502138164,-1.1727750788068576,0.22832977140695876,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_population_below_1m,MNG,Mongolia,87,87,19,0.17924528301886788,2.432192655157404,2.6811389575326605,0.2489463023752565,adaptive over-performers,adaptive over-performers,True
+exclude_population_below_1m,EGY,"Egypt, Arab Rep.",87,87,19,0.17924528301886788,-0.2483728210133884,-0.019894979904624664,0.22847784110876374,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_population_below_1m,AZE,Azerbaijan,87,87,19,0.17924528301886788,0.213239025009891,0.6374533844218297,0.42421435941193875,adaptive over-performers,adaptive over-performers,True
+exclude_population_below_1m,UKR,Ukraine,87,87,19,0.17924528301886788,1.0824306028338924,1.6281251037465863,0.5456945009126939,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,DOM,Dominican Republic,87,87,19,0.17924528301886788,1.5073829326411707,2.102654922049348,0.595271989408177,adaptive over-performers,adaptive over-performers,True
+exclude_population_below_1m,BOL,Bolivia,87,87,19,0.17924528301886788,-1.325734067260284,-1.2818955679324586,0.04383849932782535,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_population_below_1m,GTM,Guatemala,87,87,19,0.17924528301886788,0.3271621021699673,0.7586522414199319,0.43149013924996465,adaptive over-performers,adaptive over-performers,True
+exclude_population_below_1m,PHL,Philippines,87,87,19,0.17924528301886788,0.2661739212884271,0.013513400851637146,-0.25266052043678994,adaptive over-performers,adaptive over-performers,True
+exclude_population_below_1m,ZAF,South Africa,87,87,19,0.17924528301886788,-0.117049907565842,-0.5013048061555453,-0.3842548985897033,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_population_below_1m,NAM,Namibia,87,87,19,0.17924528301886788,1.6115552910680526,0.9398875519211995,-0.6716677391468531,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,NOR,Norway,100,100,6,0.05660377358490565,0.8819371421389405,0.9500670800183441,0.06812993787940358,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,DEU,Germany,100,100,6,0.05660377358490565,0.615078253921651,0.49055753017979675,-0.1245207237418543,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,SWE,Sweden,100,100,6,0.05660377358490565,1.0869609091047154,1.0777474303863794,-0.009213478718335999,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,JPN,Japan,100,100,6,0.05660377358490565,1.4027544493100577,0.8655846010253541,-0.5371698482847036,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,FRA,France,100,100,6,0.05660377358490565,0.7365146975756199,0.7379067632016669,0.00139206562604699,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,AUS,Australia,100,100,6,0.05660377358490565,0.5395775635134479,-0.03520292977538172,-0.5747804932888296,effective converters,capacity under-realizers,False
+exclude_top_bottom_2_5pct_outcomes,DNK,Denmark,100,100,6,0.05660377358490565,1.4369633295580748,1.5778468363697777,0.14088350681170292,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,BEL,Belgium,100,100,6,0.05660377358490565,0.3690158846965657,0.28827042443660994,-0.08074546025995577,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,AUT,Austria,100,100,6,0.05660377358490565,0.1233611947811609,0.11043766590345028,-0.012923528877710616,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,ISL,Iceland,100,100,6,0.05660377358490565,1.0124193151295544,1.0674475185098309,0.055028203380276475,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,FIN,Finland,100,100,6,0.05660377358490565,1.095261278939026,1.0821251431592662,-0.013136135779759694,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,CZE,Czechia,100,100,6,0.05660377358490565,-0.6262960857776176,-0.9739168686080721,-0.3476207828304545,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,USA,United States,100,100,6,0.05660377358490565,-1.2162711675864122,-1.1335194130704778,0.08275175451593442,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,SVN,Slovenia,100,100,6,0.05660377358490565,0.1540796570156834,0.1368754171577806,-0.017204239857902814,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,NZL,New Zealand,100,100,6,0.05660377358490565,1.0928834844424085,0.7993071825333949,-0.2935763019090135,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,CHE,Switzerland,100,100,6,0.05660377358490565,0.3917916539711268,0.5528881555627865,0.16109650159165967,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,IRL,Ireland,100,100,6,0.05660377358490565,0.1787699417382001,0.4862711787688375,0.3075012370306374,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,CAN,Canada,100,100,6,0.05660377358490565,0.5773724585910407,0.9377110261517245,0.36033856756068383,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,NLD,Netherlands,100,100,6,0.05660377358490565,0.4866469717607894,0.460762824154151,-0.02588414760663843,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,MDV,Maldives,100,100,6,0.05660377358490565,-0.67968481209664,-0.5838318924103709,0.09585291968626908,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,GBR,United Kingdom,100,100,6,0.05660377358490565,0.2436217840916513,0.2516371886476767,0.008015404556025396,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,ESP,Spain,100,100,6,0.05660377358490565,0.2221367546696926,0.2598074488348241,0.037670694165131496,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,SVK,Slovak Republic,100,100,6,0.05660377358490565,-1.403125347198939,-1.7729956051360993,-0.3698702579371602,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,PRT,Portugal,100,100,6,0.05660377358490565,0.4586448090368129,0.4879485024879897,0.029303693451176838,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,HRV,Croatia,100,100,6,0.05660377358490565,-0.9834110417905212,-1.4400750825364979,-0.45666404074597666,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,AND,Andorra,100,100,6,0.05660377358490565,0.4072528611044628,0.6058438879772102,0.19859102687274743,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,ITA,Italy,100,100,6,0.05660377358490565,-0.184799946246096,-0.24643535508438763,-0.06163540883829163,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,URY,Uruguay,100,100,6,0.05660377358490565,0.4452804875803113,0.12831917895979236,-0.31696130862051897,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,QAT,Qatar,100,100,6,0.05660377358490565,-0.4525986143987932,-0.20471938542041251,0.24787922897838066,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,ISR,Israel,100,100,6,0.05660377358490565,0.0452100913801599,0.1905744996228431,0.1453644082426832,effective converters,effective converters,True
+exclude_top_bottom_2_5pct_outcomes,MLT,Malta,100,100,6,0.05660377358490565,0.6458199268653755,0.6920799130583368,0.046259986192961344,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,HUN,Hungary,100,100,6,0.05660377358490565,0.0873593196737647,-0.27409225619951777,-0.36145157587328247,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,ARG,Argentina,100,100,6,0.05660377358490565,-0.5607786651550956,-0.7746246428118194,-0.21384597765672386,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,ARE,United Arab Emirates,100,100,6,0.05660377358490565,-0.5549371955598688,-0.16488264561578908,0.3900545499440797,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,KWT,Kuwait,100,100,6,0.05660377358490565,-0.7687710647710952,-0.6632942096620085,0.10547685510908678,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,POL,Poland,100,100,6,0.05660377358490565,-0.4849502246418017,-0.7204722170980368,-0.23552199245623506,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,GRC,Greece,100,100,6,0.05660377358490565,0.366734629590852,0.2909719052344615,-0.07576272435639053,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,OMN,Oman,100,100,6,0.05660377358490565,0.0141798561969248,0.054617515067841134,0.04043765887091633,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,CRI,Costa Rica,100,100,6,0.05660377358490565,-0.1219216033291474,0.03191510417993625,0.15383670750908365,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,BRN,Brunei Darussalam,100,100,6,0.05660377358490565,-0.5677898989411297,-0.7598609815525726,-0.1920710826114429,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,EST,Estonia,100,100,6,0.05660377358490565,0.6283931730001282,0.5067912044482293,-0.12160196855189886,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,KOR,"Korea, Rep.",100,100,6,0.05660377358490565,0.2537716480645608,-0.0008037398359571862,-0.254575387900518,effective converters,capacity under-realizers,False
+exclude_top_bottom_2_5pct_outcomes,LTU,Lithuania,100,100,6,0.05660377358490565,-2.3127216878494723,-3.1764421953707704,-0.8637205075212981,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,COL,Colombia,100,100,6,0.05660377358490565,-0.781604416073713,-0.6814065874806762,0.10019782859303683,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,KAZ,Kazakhstan,100,100,6,0.05660377358490565,-0.0986913164584361,-0.1828630189029209,-0.0841717024444848,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,ROU,Romania,100,100,6,0.05660377358490565,-0.9351231409706718,-1.3769140912136866,-0.44179095024301474,capacity under-realizers,capacity under-realizers,True
+exclude_top_bottom_2_5pct_outcomes,SMR,San Marino,100,100,6,0.05660377358490565,0.0624401117610778,-0.05953159350167216,-0.12197170526274996,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,CHL,Chile,100,100,6,0.05660377358490565,-0.4843600852495627,-0.6179352123607963,-0.1335751271112336,capacity under-realizers,uncertain / data-limited systems,False
+exclude_top_bottom_2_5pct_outcomes,TUR,Turkiye,100,100,6,0.05660377358490565,0.4570064888710212,0.8747096773030902,0.41770318843206905,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,BRA,Brazil,100,100,6,0.05660377358490565,-0.3839098364391619,-0.4159777370948676,-0.032067900655705694,structurally vulnerable systems,capacity under-realizers,False
+exclude_top_bottom_2_5pct_outcomes,SRB,Serbia,100,100,6,0.05660377358490565,-1.633899587921958,-2.1703339460873936,-0.5364343581654356,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,MKD,North Macedonia,100,100,6,0.05660377358490565,-1.9749679976206704,-2.324881932459372,-0.3499139348387015,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_top_bottom_2_5pct_outcomes,CYP,Cyprus,100,100,6,0.05660377358490565,0.5805364866265778,1.1113647762249286,0.5308282895983508,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,SGP,Singapore,100,100,6,0.05660377358490565,-0.4875587587834289,-0.32495451134258274,0.16260424744084617,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,LVA,Latvia,100,100,6,0.05660377358490565,-0.0992728276026543,-0.5830227591048737,-0.48374993150221934,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,JOR,Jordan,100,100,6,0.05660377358490565,-0.1794080091690193,-0.11517832175483092,0.06422968741418839,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,NIC,Nicaragua,100,100,6,0.05660377358490565,-0.7539005103194539,-0.8635100475091207,-0.10960953718966682,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,TUN,Tunisia,100,100,6,0.05660377358490565,-0.4489517211649329,-0.500667311205075,-0.05171559004014209,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_top_bottom_2_5pct_outcomes,IRN,"Iran, Islamic Rep.",100,100,6,0.05660377358490565,-0.1362060818612195,0.05017155003272108,0.18637763189394058,structurally vulnerable systems,adaptive over-performers,False
+exclude_top_bottom_2_5pct_outcomes,VCT,St. Vincent and the Grenadines,100,100,6,0.05660377358490565,1.4192387944136184,1.6701232965636845,0.2508845021500661,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,ALB,Albania,100,100,6,0.05660377358490565,-1.0962818877303866,-0.9339751624436231,0.1623067252867635,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_top_bottom_2_5pct_outcomes,UZB,Uzbekistan,100,100,6,0.05660377358490565,0.9972041778784172,0.9893686701354635,-0.007835507742953718,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,KNA,St. Kitts and Nevis,100,100,6,0.05660377358490565,-1.701148507271733,-1.8991300954906416,-0.19798158821890866,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_top_bottom_2_5pct_outcomes,ECU,Ecuador,100,100,6,0.05660377358490565,-1.1482947056593773,-0.9936732777740382,0.15462142788533906,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_top_bottom_2_5pct_outcomes,BIH,Bosnia and Herzegovina,100,100,6,0.05660377358490565,-0.9596367221199305,-1.1657242659040974,-0.20608754378416694,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_top_bottom_2_5pct_outcomes,PSE,West Bank and Gaza,100,100,6,0.05660377358490565,0.4050347160567432,0.4406414717324182,0.035606755675675006,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,BRB,Barbados,100,100,6,0.05660377358490565,1.153939279448213,1.2422658170377041,0.08832653758949105,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,THA,Thailand,100,100,6,0.05660377358490565,0.6306762709903058,0.5781312845132714,-0.05254498647703432,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,MDA,Moldova,100,100,6,0.05660377358490565,-0.1113311654121229,-0.24263400490844142,-0.13130283949631852,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,PAN,Panama,100,100,6,0.05660377358490565,-0.1218147392945074,0.1775904493477392,0.29940518864224663,structurally vulnerable systems,adaptive over-performers,False
+exclude_top_bottom_2_5pct_outcomes,GEO,Georgia,100,100,6,0.05660377358490565,-1.0003330580650351,-1.2684803630015733,-0.26814730493653816,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,KGZ,Kyrgyz Republic,100,100,6,0.05660377358490565,0.6296783426338252,0.6390550859130172,0.009376743279192024,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,DZA,Algeria,100,100,6,0.05660377358490565,-0.0257879676045457,0.22620472614843537,0.25199269375298106,structurally vulnerable systems,adaptive over-performers,False
+exclude_top_bottom_2_5pct_outcomes,SLV,El Salvador,100,100,6,0.05660377358490565,1.620492975314234,1.9903088922086787,0.3698159168944446,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,MNE,Montenegro,100,100,6,0.05660377358490565,-0.1155108656131252,-0.05543024245027043,0.060080623162854764,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,BLZ,Belize,100,100,6,0.05660377358490565,0.6737376894803904,1.0015508468511296,0.32781315737073924,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,MYS,Malaysia,100,100,6,0.05660377358490565,0.6108603240717282,0.7296940450739322,0.11883372100220402,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,TJK,Tajikistan,100,100,6,0.05660377358490565,0.8731159431863904,1.0351038137123914,0.16198787052600094,adaptive over-performers,uncertain / data-limited systems,False
+exclude_top_bottom_2_5pct_outcomes,MUS,Mauritius,100,100,6,0.05660377358490565,0.5926717018181917,0.22404371712110666,-0.3686279846970851,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,ARM,Armenia,100,100,6,0.05660377358490565,-1.948283078005972,-2.2592652461280247,-0.3109821681220528,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,MEX,Mexico,100,100,6,0.05660377358490565,-1.486708186644193,-1.5363333965217654,-0.04962520987757246,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_top_bottom_2_5pct_outcomes,BHS,"Bahamas, The",100,100,6,0.05660377358490565,0.3320929275655985,0.16385785927091714,-0.16823506829468135,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,BTN,Bhutan,100,100,6,0.05660377358490565,0.9503579149734344,0.610875129282493,-0.33948278569094137,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,JAM,Jamaica,100,100,6,0.05660377358490565,0.6781550515502107,1.0477985964597938,0.36964354490958307,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,LBN,Lebanon,100,100,6,0.05660377358490565,-0.3017767585291441,-0.23171968302548768,0.07005707550365642,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_top_bottom_2_5pct_outcomes,PRY,Paraguay,100,100,6,0.05660377358490565,-0.662493602753887,-0.5438015013923589,0.11869210136152808,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_top_bottom_2_5pct_outcomes,FJI,Fiji,100,100,6,0.05660377358490565,0.9963822847207642,0.6420880026949903,-0.35429428202577384,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,PER,Peru,100,100,6,0.05660377358490565,-1.4011048502138164,-1.5134978983903835,-0.11239304817656715,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_top_bottom_2_5pct_outcomes,CPV,Cabo Verde,100,100,6,0.05660377358490565,0.7253228043293579,0.39284562839127735,-0.33247717593808057,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,MNG,Mongolia,100,100,6,0.05660377358490565,2.432192655157404,2.206419871004035,-0.225772784153369,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,SUR,Suriname,100,100,6,0.05660377358490565,0.4706846741780459,0.4411348188454998,-0.02954985533254606,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,EGY,"Egypt, Arab Rep.",100,100,6,0.05660377358490565,-0.2483728210133884,-0.4602017026496117,-0.2118288816362233,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_top_bottom_2_5pct_outcomes,AZE,Azerbaijan,100,100,6,0.05660377358490565,0.213239025009891,0.7062234863289565,0.4929844613190655,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,UKR,Ukraine,100,100,6,0.05660377358490565,1.0824306028338924,1.2030771619733975,0.12064655913950517,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,DOM,Dominican Republic,100,100,6,0.05660377358490565,1.5073829326411707,2.1033901344692874,0.5960072018281166,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,BOL,Bolivia,100,100,6,0.05660377358490565,-1.325734067260284,-1.8774521554969292,-0.5517180882366453,structurally vulnerable systems,structurally vulnerable systems,True
+exclude_top_bottom_2_5pct_outcomes,GTM,Guatemala,100,100,6,0.05660377358490565,0.3271621021699673,0.794539955544641,0.4673778533746737,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,PHL,Philippines,100,100,6,0.05660377358490565,0.2661739212884271,0.03336420791607007,-0.23280971337235704,adaptive over-performers,adaptive over-performers,True
+exclude_top_bottom_2_5pct_outcomes,ZAF,South Africa,100,100,6,0.05660377358490565,-0.117049907565842,-0.9936356929121272,-0.8765857853462852,uncertain / data-limited systems,uncertain / data-limited systems,True
+exclude_top_bottom_2_5pct_outcomes,NAM,Namibia,100,100,6,0.05660377358490565,1.6115552910680526,0.6690450805560509,-0.9425102105120017,adaptive over-performers,adaptive over-performers,True

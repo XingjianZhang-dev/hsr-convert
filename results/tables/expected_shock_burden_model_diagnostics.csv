@@ -1,0 +1,5 @@
+model_version,n,n_candidate_validation_countries,missing_count_due_to_model_covariates,missing_rate_due_to_model_covariates,features,cv_rmse,in_sample_rmse,r2,adjusted_r2,status
+linear,106,108,2,0.01851851851851849,"potential_capacity_score,log_gdp_per_capita_ppp,age65_share,population_density_log,vulnerability_score,region,income_group",1762.1407668753022,1503.892119343485,0.5593448763502333,0.4970783914866793,fit
+ridge,106,108,2,0.01851851851851849,"potential_capacity_score,log_gdp_per_capita_ppp,age65_share,population_density_log,vulnerability_score,region,income_group",1764.982016555163,1607.1803890332,0.4967373431803792,0.4256241416732589,fit
+huber,106,108,2,0.01851851851851849,"potential_capacity_score,log_gdp_per_capita_ppp,age65_share,population_density_log,vulnerability_score,region,income_group",1764.6053723918128,1544.774066406461,0.5350616212397346,0.46936380684969703,fit
+random_forest,106,108,2,0.01851851851851849,"potential_capacity_score,log_gdp_per_capita_ppp,age65_share,population_density_log,vulnerability_score,region,income_group",1543.231899901214,955.5534868568277,0.8221001998340705,0.7969621845932326,fit

@@ -1,0 +1,387 @@
+iso3,country,region,income_group,score,rank,ranking_method,weighting_method,normalization_method,imputation_method,feature_missing_count,feature_missing_rate,n_countries_in_sample,n_indicators
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.9999999999981642,1,marcos,critic,robust_minmax,knn,0,0.0,193,15
+NOR,Norway,Europe & Central Asia,High income,0.9783122659076584,2,marcos,critic,robust_minmax,knn,0,0.0,193,15
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.96081864902058,3,marcos,critic,robust_minmax,knn,0,0.0,193,15
+AUS,Australia,East Asia & Pacific,High income,0.9544531824990516,4,marcos,critic,robust_minmax,knn,0,0.0,193,15
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.9473207752470697,5,marcos,critic,robust_minmax,knn,0,0.0,193,15
+ISL,Iceland,Europe & Central Asia,High income,0.9470035573968856,6,marcos,critic,robust_minmax,knn,0,0.0,193,15
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.9376829775009948,7,marcos,critic,robust_minmax,knn,0,0.0,193,15
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.9189199610512977,8,marcos,critic,robust_minmax,knn,0,0.0,193,15
+IRL,Ireland,Europe & Central Asia,High income,0.907176776577857,9,marcos,critic,robust_minmax,knn,0,0.0,193,15
+LUX,Luxembourg,Europe & Central Asia,High income,0.9032112945684789,10,marcos,critic,robust_minmax,knn,0,0.0,193,15
+USA,United States,North America,High income,0.9027066847579331,11,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SWE,Sweden,Europe & Central Asia,High income,0.8927082444712089,12,marcos,critic,robust_minmax,knn,0,0.0,193,15
+AND,Andorra,Europe & Central Asia,High income,0.8876644030804652,13,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+AUT,Austria,Europe & Central Asia,High income,0.8865548572788626,14,marcos,critic,robust_minmax,knn,0,0.0,193,15
+CUB,Cuba,Latin America & Caribbean ,Upper middle income,0.8774798648961724,15,marcos,critic,robust_minmax,knn,0,0.0,193,15
+DEU,Germany,Europe & Central Asia,High income,0.8772013169863252,16,marcos,critic,robust_minmax,knn,0,0.0,193,15
+NZL,New Zealand,East Asia & Pacific,High income,0.8675084587700298,17,marcos,critic,robust_minmax,knn,0,0.0,193,15
+BRN,Brunei Darussalam,East Asia & Pacific,High income,0.8591369317680593,18,marcos,critic,robust_minmax,knn,0,0.0,193,15
+FRA,France,Europe & Central Asia,High income,0.845990128875348,19,marcos,critic,robust_minmax,knn,0,0.0,193,15
+DNK,Denmark,Europe & Central Asia,High income,0.8411868410895785,20,marcos,critic,robust_minmax,knn,0,0.0,193,15
+CAN,Canada,North America,High income,0.8409372101769754,21,marcos,critic,robust_minmax,knn,0,0.0,193,15
+FIN,Finland,Europe & Central Asia,High income,0.8301722879604139,22,marcos,critic,robust_minmax,knn,0,0.0,193,15
+CHE,Switzerland,Europe & Central Asia,High income,0.8243093574450447,23,marcos,critic,robust_minmax,knn,0,0.0,193,15
+ARG,Argentina,Latin America & Caribbean ,Upper middle income,0.8134635804907172,24,marcos,critic,robust_minmax,knn,0,0.0,193,15
+BEL,Belgium,Europe & Central Asia,High income,0.8120107225582869,25,marcos,critic,robust_minmax,knn,0,0.0,193,15
+JPN,Japan,East Asia & Pacific,High income,0.80694090848822,26,marcos,critic,robust_minmax,knn,0,0.0,193,15
+CZE,Czechia,Europe & Central Asia,High income,0.8058816683936084,27,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MNG,Mongolia,East Asia & Pacific,Upper middle income,0.8057842195306442,28,marcos,critic,robust_minmax,knn,0,0.0,193,15
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,0.8055908953787497,29,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MDV,Maldives,South Asia,Upper middle income,0.7989764613413031,30,marcos,critic,robust_minmax,knn,0,0.0,193,15
+BLR,Belarus,Europe & Central Asia,Upper middle income,0.7935231315187046,31,marcos,critic,robust_minmax,knn,0,0.0,193,15
+URY,Uruguay,Latin America & Caribbean ,High income,0.7835843436884676,32,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SVN,Slovenia,Europe & Central Asia,High income,0.7753640094615367,33,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SVK,Slovak Republic,Europe & Central Asia,High income,0.7712836350303874,34,marcos,critic,robust_minmax,knn,0,0.0,193,15
+ESP,Spain,Europe & Central Asia,High income,0.7564417775093589,35,marcos,critic,robust_minmax,knn,0,0.0,193,15
+COL,Colombia,Latin America & Caribbean ,Upper middle income,0.7535258450640229,36,marcos,critic,robust_minmax,knn,0,0.0,193,15
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.7515740794619173,37,marcos,critic,robust_minmax,knn,0,0.0,193,15
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.7514025671068253,38,marcos,critic,robust_minmax,knn,0,0.0,193,15
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,0.749541275626098,39,marcos,critic,robust_minmax,knn,0,0.0,193,15
+TUR,Turkiye,Europe & Central Asia,Upper middle income,0.7483134279048352,40,marcos,critic,robust_minmax,knn,0,0.0,193,15
+PLW,Palau,East Asia & Pacific,High income,0.7477700960732032,41,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+BRA,Brazil,Latin America & Caribbean ,Upper middle income,0.7457182120878909,42,marcos,critic,robust_minmax,knn,0,0.0,193,15
+LBY,Libya,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0.7449540812066098,43,marcos,critic,robust_minmax,knn,0,0.0,193,15
+CRI,Costa Rica,Latin America & Caribbean ,High income,0.7386553379097829,44,marcos,critic,robust_minmax,knn,0,0.0,193,15
+IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0.725539896246371,45,marcos,critic,robust_minmax,knn,0,0.0,193,15
+ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,0.7254285845132931,46,marcos,critic,robust_minmax,knn,0,0.0,193,15
+CHL,Chile,Latin America & Caribbean ,High income,0.7244784067211173,47,marcos,critic,robust_minmax,knn,0,0.0,193,15
+PRT,Portugal,Europe & Central Asia,High income,0.7242162644261798,48,marcos,critic,robust_minmax,knn,0,0.0,193,15
+GBR,United Kingdom,Europe & Central Asia,High income,0.7199277151884004,49,marcos,critic,robust_minmax,knn,0,0.0,193,15
+RUS,Russian Federation,Europe & Central Asia,High income,0.7186761927608686,50,marcos,critic,robust_minmax,knn,0,0.0,193,15
+PAN,Panama,Latin America & Caribbean ,High income,0.7159214017587298,51,marcos,critic,robust_minmax,knn,0,0.0,193,15
+PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,0.7140869494738162,52,marcos,critic,robust_minmax,knn,3,0.2,193,15
+NLD,Netherlands,Europe & Central Asia,High income,0.7105038144274516,53,marcos,critic,robust_minmax,knn,0,0.0,193,15
+POL,Poland,Europe & Central Asia,High income,0.7058821007853783,54,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MYS,Malaysia,East Asia & Pacific,Upper middle income,0.7032863032855422,55,marcos,critic,robust_minmax,knn,0,0.0,193,15
+KOR,"Korea, Rep.",East Asia & Pacific,High income,0.6988526596249673,56,marcos,critic,robust_minmax,knn,0,0.0,193,15
+TON,Tonga,East Asia & Pacific,Upper middle income,0.6955533336974874,57,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+HRV,Croatia,Europe & Central Asia,High income,0.6930667619006473,58,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SYC,Seychelles,Sub-Saharan Africa ,High income,0.6929424482229731,59,marcos,critic,robust_minmax,knn,0,0.0,193,15
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0.688782560099145,60,marcos,critic,robust_minmax,knn,0,0.0,193,15
+ITA,Italy,Europe & Central Asia,High income,0.6876346560132486,61,marcos,critic,robust_minmax,knn,0,0.0,193,15
+HUN,Hungary,Europe & Central Asia,High income,0.6872108997651041,62,marcos,critic,robust_minmax,knn,0,0.0,193,15
+CHN,China,East Asia & Pacific,Upper middle income,0.6808461556843904,63,marcos,critic,robust_minmax,knn,0,0.0,193,15
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,0.6760480143668648,64,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SMR,San Marino,Europe & Central Asia,High income,0.6747972273493759,65,marcos,critic,robust_minmax,knn,3,0.2,193,15
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,0.674131814730327,66,marcos,critic,robust_minmax,knn,0,0.0,193,15
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.6719937972090844,67,marcos,critic,robust_minmax,knn,0,0.0,193,15
+NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,0.6719049221587365,68,marcos,critic,robust_minmax,knn,0,0.0,193,15
+LTU,Lithuania,Europe & Central Asia,High income,0.6711472238653338,69,marcos,critic,robust_minmax,knn,0,0.0,193,15
+BLZ,Belize,Latin America & Caribbean ,Upper middle income,0.6704574601883828,70,marcos,critic,robust_minmax,knn,0,0.0,193,15
+CYP,Cyprus,Europe & Central Asia,High income,0.6691061328941411,71,marcos,critic,robust_minmax,knn,0,0.0,193,15
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.6666639672345542,72,marcos,critic,robust_minmax,knn,0,0.0,193,15
+ECU,Ecuador,Latin America & Caribbean ,Upper middle income,0.6661693942289455,73,marcos,critic,robust_minmax,knn,0,0.0,193,15
+GRC,Greece,Europe & Central Asia,High income,0.6658287362761515,74,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SGP,Singapore,East Asia & Pacific,High income,0.6651610256606894,75,marcos,critic,robust_minmax,knn,0,0.0,193,15
+EST,Estonia,Europe & Central Asia,High income,0.6608759844139284,76,marcos,critic,robust_minmax,knn,0,0.0,193,15
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,0.655527586522843,77,marcos,critic,robust_minmax,knn,0,0.0,193,15
+BTN,Bhutan,South Asia,Lower middle income,0.6450841320239705,78,marcos,critic,robust_minmax,knn,0,0.0,193,15
+KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,0.6446727694307757,79,marcos,critic,robust_minmax,knn,0,0.0,193,15
+CPV,Cabo Verde,Sub-Saharan Africa ,Upper middle income,0.6344784494899103,80,marcos,critic,robust_minmax,knn,0,0.0,193,15
+BWA,Botswana,Sub-Saharan Africa ,Upper middle income,0.6315090069161255,81,marcos,critic,robust_minmax,knn,0,0.0,193,15
+ROU,Romania,Europe & Central Asia,High income,0.6300081869701424,82,marcos,critic,robust_minmax,knn,0,0.0,193,15
+BHS,"Bahamas, The",Latin America & Caribbean ,High income,0.6264824157592357,83,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MCO,Monaco,Europe & Central Asia,High income,0.6227599906334851,84,marcos,critic,robust_minmax,knn,2,0.1333333333333333,193,15
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,0.6155196109862635,85,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MHL,Marshall Islands,East Asia & Pacific,Upper middle income,0.6074381213704757,86,marcos,critic,robust_minmax,knn,2,0.1333333333333333,193,15
+PER,Peru,Latin America & Caribbean ,Upper middle income,0.6069626370509957,87,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MEX,Mexico,Latin America & Caribbean ,Upper middle income,0.6065109539721123,88,marcos,critic,robust_minmax,knn,0,0.0,193,15
+THA,Thailand,East Asia & Pacific,Upper middle income,0.6036506841119612,89,marcos,critic,robust_minmax,knn,0,0.0,193,15
+GUY,Guyana,Latin America & Caribbean ,High income,0.6015762901208707,90,marcos,critic,robust_minmax,knn,0,0.0,193,15
+PRY,Paraguay,Latin America & Caribbean ,Upper middle income,0.599751110178213,91,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.5983132064408447,92,marcos,critic,robust_minmax,knn,0,0.0,193,15
+BGR,Bulgaria,Europe & Central Asia,High income,0.5911834126433382,93,marcos,critic,robust_minmax,knn,0,0.0,193,15
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,0.5897541749036985,94,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,0.5873842662202795,95,marcos,critic,robust_minmax,knn,0,0.0,193,15
+TUV,Tuvalu,East Asia & Pacific,Upper middle income,0.5860128209145069,96,marcos,critic,robust_minmax,knn,2,0.1333333333333333,193,15
+NRU,Nauru,East Asia & Pacific,High income,0.5835558814540706,97,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+FJI,Fiji,East Asia & Pacific,Upper middle income,0.5832428205910912,98,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SUR,Suriname,Latin America & Caribbean ,Upper middle income,0.5826807850995415,99,marcos,critic,robust_minmax,knn,0,0.0,193,15
+DMA,Dominica,Latin America & Caribbean ,Upper middle income,0.5816571359122058,100,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MDA,Moldova,Europe & Central Asia,Upper middle income,0.5810935201039774,101,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.5745853829840059,102,marcos,critic,robust_minmax,knn,0,0.0,193,15
+ALB,Albania,Europe & Central Asia,Upper middle income,0.5717044664250939,103,marcos,critic,robust_minmax,knn,0,0.0,193,15
+KIR,Kiribati,East Asia & Pacific,Lower middle income,0.5708694092674215,104,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+LVA,Latvia,Europe & Central Asia,High income,0.5702750520720492,105,marcos,critic,robust_minmax,knn,0,0.0,193,15
+ARM,Armenia,Europe & Central Asia,Upper middle income,0.5685964571595084,106,marcos,critic,robust_minmax,knn,0,0.0,193,15
+GEO,Georgia,Europe & Central Asia,Upper middle income,0.5681986732527066,107,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,0.567424152322254,108,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+PSE,West Bank and Gaza,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.5627284710538671,109,marcos,critic,robust_minmax,knn,0,0.0,193,15
+BOL,Bolivia,Latin America & Caribbean ,Lower middle income,0.5602155144826486,110,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SRB,Serbia,Europe & Central Asia,Upper middle income,0.5597613408873102,111,marcos,critic,robust_minmax,knn,0,0.0,193,15
+LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,0.5590711640499076,112,marcos,critic,robust_minmax,knn,0,0.0,193,15
+HND,Honduras,Latin America & Caribbean ,Lower middle income,0.545793681402691,113,marcos,critic,robust_minmax,knn,0,0.0,193,15
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,0.5452330495128452,114,marcos,critic,robust_minmax,knn,0,0.0,193,15
+JAM,Jamaica,Latin America & Caribbean ,Upper middle income,0.5422337912216436,115,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MNE,Montenegro,Europe & Central Asia,Upper middle income,0.5399040456748874,116,marcos,critic,robust_minmax,knn,0,0.0,193,15
+NAM,Namibia,Sub-Saharan Africa ,Lower middle income,0.5391916042136062,117,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,0.5389609944423879,118,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.538325637510219,119,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SLV,El Salvador,Latin America & Caribbean ,Upper middle income,0.5380369224247811,120,marcos,critic,robust_minmax,knn,0,0.0,193,15
+STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,0.5301556355270189,121,marcos,critic,robust_minmax,knn,0,0.0,193,15
+ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,0.530154318616142,122,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+WSM,Samoa,East Asia & Pacific,Upper middle income,0.5270636842487598,123,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,0.5164643500099618,124,marcos,critic,robust_minmax,knn,0,0.0,193,15
+LKA,Sri Lanka,South Asia,Lower middle income,0.5151027206137911,125,marcos,critic,robust_minmax,knn,0,0.0,193,15
+VNM,Viet Nam,East Asia & Pacific,Lower middle income,0.5070528203352005,126,marcos,critic,robust_minmax,knn,0,0.0,193,15
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.5048803820025701,127,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,0.502888485673651,128,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+VEN,"Venezuela, RB",Latin America & Caribbean ,Not classified,0.49830590572673406,129,marcos,critic,robust_minmax,knn,0,0.0,193,15
+ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,0.4845214001981671,130,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+GRD,Grenada,Latin America & Caribbean ,Upper middle income,0.4835948721674638,131,marcos,critic,robust_minmax,knn,0,0.0,193,15
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,0.4824101829857799,132,marcos,critic,robust_minmax,knn,0,0.0,193,15
+BRB,Barbados,Latin America & Caribbean ,High income,0.4762814058826396,133,marcos,critic,robust_minmax,knn,0,0.0,193,15
+IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0.4707557288423614,134,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,0.4499821416768995,135,marcos,critic,robust_minmax,knn,0,0.0,193,15
+IDN,Indonesia,East Asia & Pacific,Upper middle income,0.440588111794684,136,marcos,critic,robust_minmax,knn,0,0.0,193,15
+LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,0.4336967908289882,137,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+GTM,Guatemala,Latin America & Caribbean ,Upper middle income,0.4246948258181261,138,marcos,critic,robust_minmax,knn,0,0.0,193,15
+UKR,Ukraine,Europe & Central Asia,Upper middle income,0.42288756659838256,139,marcos,critic,robust_minmax,knn,2,0.1333333333333333,193,15
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,Lower middle income,0.42281957423883054,140,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+ERI,Eritrea,Sub-Saharan Africa ,Low income,0.4211800550896428,141,marcos,critic,robust_minmax,knn,0,0.0,193,15
+GHA,Ghana,Sub-Saharan Africa ,Lower middle income,0.4194069087178586,142,marcos,critic,robust_minmax,knn,0,0.0,193,15
+GAB,Gabon,Sub-Saharan Africa ,Upper middle income,0.41796559986346826,143,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+TLS,Timor-Leste,East Asia & Pacific,Lower middle income,0.41537744372715996,144,marcos,critic,robust_minmax,knn,0,0.0,193,15
+TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,0.4081035882664827,145,marcos,critic,robust_minmax,knn,0,0.0,193,15
+KHM,Cambodia,East Asia & Pacific,Lower middle income,0.4058468232375952,146,marcos,critic,robust_minmax,knn,0,0.0,193,15
+KEN,Kenya,Sub-Saharan Africa ,Lower middle income,0.39969907616993355,147,marcos,critic,robust_minmax,knn,0,0.0,193,15
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,0.39812403541572144,148,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SEN,Senegal,Sub-Saharan Africa ,Lower middle income,0.3981111124652985,149,marcos,critic,robust_minmax,knn,0,0.0,193,15
+ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,0.3881763426365737,150,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+PHL,Philippines,East Asia & Pacific,Lower middle income,0.38468228046704367,151,marcos,critic,robust_minmax,knn,0,0.0,193,15
+GMB,"Gambia, The",Sub-Saharan Africa ,Low income,0.38362612088341047,152,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MWI,Malawi,Sub-Saharan Africa ,Low income,0.37476867630185723,153,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+RWA,Rwanda,Sub-Saharan Africa ,Low income,0.37367822108642634,154,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SDN,Sudan,Sub-Saharan Africa ,Low income,0.3712988350856525,155,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SYR,Syrian Arab Republic,"Middle East, North Africa, Afghanistan & Pakistan",Low income,0.3649729169353833,156,marcos,critic,robust_minmax,knn,0,0.0,193,15
+NPL,Nepal,South Asia,Lower middle income,0.3587568468908986,157,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MOZ,Mozambique,Sub-Saharan Africa ,Low income,0.3557963765360201,158,marcos,critic,robust_minmax,knn,0,0.0,193,15
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.354643151025087,159,marcos,critic,robust_minmax,knn,2,0.1333333333333333,193,15
+MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,0.3384052826489499,160,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+BFA,Burkina Faso,Sub-Saharan Africa ,Low income,0.3368813676271198,161,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+UGA,Uganda,Sub-Saharan Africa ,Low income,0.32814931937231734,162,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+MMR,Myanmar,East Asia & Pacific,Lower middle income,0.32076984543406856,163,marcos,critic,robust_minmax,knn,0,0.0,193,15
+IND,India,South Asia,Lower middle income,0.3200717863955604,164,marcos,critic,robust_minmax,knn,0,0.0,193,15
+COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,0.30137795963102804,165,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,0.296036697918031,166,marcos,critic,robust_minmax,knn,0,0.0,193,15
+BDI,Burundi,Sub-Saharan Africa ,Low income,0.2911959180000953,167,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+NER,Niger,Sub-Saharan Africa ,Low income,0.27847499912338886,168,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MDG,Madagascar,Sub-Saharan Africa ,Low income,0.2654874432605318,169,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+SLE,Sierra Leone,Sub-Saharan Africa ,Low income,0.2576457127181376,170,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+BGD,Bangladesh,South Asia,Lower middle income,0.2572495311154542,171,marcos,critic,robust_minmax,knn,0,0.0,193,15
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.24575788367354165,172,marcos,critic,robust_minmax,knn,0,0.0,193,15
+MLI,Mali,Sub-Saharan Africa ,Low income,0.2422078366124987,173,marcos,critic,robust_minmax,knn,0,0.0,193,15
+AGO,Angola,Sub-Saharan Africa ,Lower middle income,0.23300385366640053,174,marcos,critic,robust_minmax,knn,0,0.0,193,15
+CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,0.23092388502090733,175,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,0.2256931154901535,176,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+LBR,Liberia,Sub-Saharan Africa ,Low income,0.22151201566641926,177,marcos,critic,robust_minmax,knn,0,0.0,193,15
+YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",Low income,0.2196076097366792,178,marcos,critic,robust_minmax,knn,2,0.1333333333333333,193,15
+ETH,Ethiopia,Sub-Saharan Africa ,Not classified,0.2147835640598488,179,marcos,critic,robust_minmax,knn,0,0.0,193,15
+COM,Comoros,Sub-Saharan Africa ,Lower middle income,0.19285728998435653,180,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,0.1917084226827182,181,marcos,critic,robust_minmax,knn,0,0.0,193,15
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,0.18328624945672825,182,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+TGO,Togo,Sub-Saharan Africa ,Low income,0.17781706900664365,183,marcos,critic,robust_minmax,knn,0,0.0,193,15
+HTI,Haiti,Latin America & Caribbean ,Lower middle income,0.17714502963464446,184,marcos,critic,robust_minmax,knn,0,0.0,193,15
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",Low income,0.1631133901849064,185,marcos,critic,robust_minmax,knn,0,0.0,193,15
+GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,0.15145588536799373,186,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+SSD,South Sudan,Sub-Saharan Africa ,Low income,0.14500993832738515,187,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+BEN,Benin,Sub-Saharan Africa ,Lower middle income,0.1382896288242741,188,marcos,critic,robust_minmax,knn,0,0.0,193,15
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa ,Low income,0.1180081049580785,189,marcos,critic,robust_minmax,knn,2,0.1333333333333333,193,15
+CAF,Central African Republic,Sub-Saharan Africa ,Low income,0.09272930916567926,190,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+GIN,Guinea,Sub-Saharan Africa ,Lower middle income,0.09000719950049034,191,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+TCD,Chad,Sub-Saharan Africa ,Low income,0.06382555715159428,192,marcos,critic,robust_minmax,knn,0,0.0,193,15
+NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,0.0,193,marcos,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.782890590689921,1,topsis,critic,robust_minmax,knn,0,0.0,193,15
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.7469607593583977,2,topsis,critic,robust_minmax,knn,0,0.0,193,15
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.73576774384076,3,topsis,critic,robust_minmax,knn,0,0.0,193,15
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.7348699569877318,4,topsis,critic,robust_minmax,knn,0,0.0,193,15
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.7315749042816007,5,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BRN,Brunei Darussalam,East Asia & Pacific,High income,0.7232942517936819,6,topsis,critic,robust_minmax,knn,0,0.0,193,15
+MNG,Mongolia,East Asia & Pacific,Upper middle income,0.7056027162666978,7,topsis,critic,robust_minmax,knn,0,0.0,193,15
+LBY,Libya,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0.7007421895631034,8,topsis,critic,robust_minmax,knn,0,0.0,193,15
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,0.6877345834744257,9,topsis,critic,robust_minmax,knn,0,0.0,193,15
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.6864592698185571,10,topsis,critic,robust_minmax,knn,0,0.0,193,15
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,0.6772446545318851,11,topsis,critic,robust_minmax,knn,0,0.0,193,15
+PLW,Palau,East Asia & Pacific,High income,0.6686257425468951,12,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,0.6620763092522828,13,topsis,critic,robust_minmax,knn,0,0.0,193,15
+COL,Colombia,Latin America & Caribbean ,Upper middle income,0.6598738143893305,14,topsis,critic,robust_minmax,knn,0,0.0,193,15
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0.6595872082468324,15,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BLZ,Belize,Latin America & Caribbean ,Upper middle income,0.6588673522001601,16,topsis,critic,robust_minmax,knn,0,0.0,193,15
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,0.6587443063149536,17,topsis,critic,robust_minmax,knn,0,0.0,193,15
+IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0.655211989774754,18,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BRA,Brazil,Latin America & Caribbean ,Upper middle income,0.6551542439056891,19,topsis,critic,robust_minmax,knn,0,0.0,193,15
+TON,Tonga,East Asia & Pacific,Upper middle income,0.6549365057467643,20,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+MYS,Malaysia,East Asia & Pacific,Upper middle income,0.6542444840857974,21,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BWA,Botswana,Sub-Saharan Africa ,Upper middle income,0.6538497968649428,22,topsis,critic,robust_minmax,knn,0,0.0,193,15
+TUR,Turkiye,Europe & Central Asia,Upper middle income,0.6532362449080973,23,topsis,critic,robust_minmax,knn,0,0.0,193,15
+PAN,Panama,Latin America & Caribbean ,High income,0.6511474990698489,24,topsis,critic,robust_minmax,knn,0,0.0,193,15
+MHL,Marshall Islands,East Asia & Pacific,Upper middle income,0.6502095007471558,25,topsis,critic,robust_minmax,knn,2,0.1333333333333333,193,15
+NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,0.6501961435334017,26,topsis,critic,robust_minmax,knn,0,0.0,193,15
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,0.6489869260622773,27,topsis,critic,robust_minmax,knn,0,0.0,193,15
+SYC,Seychelles,Sub-Saharan Africa ,High income,0.6434675056916428,28,topsis,critic,robust_minmax,knn,0,0.0,193,15
+MDV,Maldives,South Asia,Upper middle income,0.6411032422204602,29,topsis,critic,robust_minmax,knn,0,0.0,193,15
+ECU,Ecuador,Latin America & Caribbean ,Upper middle income,0.6409773496100934,30,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BTN,Bhutan,South Asia,Lower middle income,0.6396195965144391,31,topsis,critic,robust_minmax,knn,0,0.0,193,15
+ARG,Argentina,Latin America & Caribbean ,Upper middle income,0.6393703932963263,32,topsis,critic,robust_minmax,knn,0,0.0,193,15
+CPV,Cabo Verde,Sub-Saharan Africa ,Upper middle income,0.6370344144109585,33,topsis,critic,robust_minmax,knn,0,0.0,193,15
+ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,0.6350397059347409,34,topsis,critic,robust_minmax,knn,0,0.0,193,15
+KIR,Kiribati,East Asia & Pacific,Lower middle income,0.6333738467746698,35,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+GUY,Guyana,Latin America & Caribbean ,High income,0.631858030932178,36,topsis,critic,robust_minmax,knn,0,0.0,193,15
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,0.6313973650119424,37,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+NAM,Namibia,Sub-Saharan Africa ,Lower middle income,0.6301329653602874,38,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.6290370728655982,39,topsis,critic,robust_minmax,knn,0,0.0,193,15
+SUR,Suriname,Latin America & Caribbean ,Upper middle income,0.6278583106103353,40,topsis,critic,robust_minmax,knn,0,0.0,193,15
+FJI,Fiji,East Asia & Pacific,Upper middle income,0.6273953702754916,41,topsis,critic,robust_minmax,knn,0,0.0,193,15
+CRI,Costa Rica,Latin America & Caribbean ,High income,0.6270980606673946,42,topsis,critic,robust_minmax,knn,0,0.0,193,15
+PRY,Paraguay,Latin America & Caribbean ,Upper middle income,0.626991036675318,43,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BOL,Bolivia,Latin America & Caribbean ,Lower middle income,0.6236843911327241,44,topsis,critic,robust_minmax,knn,0,0.0,193,15
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,0.6217966288591241,45,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+ISL,Iceland,Europe & Central Asia,High income,0.6214773485812463,46,topsis,critic,robust_minmax,knn,0,0.0,193,15
+MEX,Mexico,Latin America & Caribbean ,Upper middle income,0.6195296133921055,47,topsis,critic,robust_minmax,knn,0,0.0,193,15
+STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,0.6174754703510491,48,topsis,critic,robust_minmax,knn,0,0.0,193,15
+SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,0.6173936040986241,49,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+HND,Honduras,Latin America & Caribbean ,Lower middle income,0.6171130437999984,50,topsis,critic,robust_minmax,knn,0,0.0,193,15
+WSM,Samoa,East Asia & Pacific,Upper middle income,0.6163652338729702,51,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+AND,Andorra,Europe & Central Asia,High income,0.615755407864056,52,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,0.6156206413322267,53,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+IRL,Ireland,Europe & Central Asia,High income,0.6154043208846551,54,topsis,critic,robust_minmax,knn,0,0.0,193,15
+KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,0.6153312933831856,55,topsis,critic,robust_minmax,knn,0,0.0,193,15
+ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,0.6144214988436237,56,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.6094877271255755,57,topsis,critic,robust_minmax,knn,0,0.0,193,15
+PER,Peru,Latin America & Caribbean ,Upper middle income,0.6079164874541102,58,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.6069789699561435,59,topsis,critic,robust_minmax,knn,0,0.0,193,15
+TUV,Tuvalu,East Asia & Pacific,Upper middle income,0.6059799174424816,60,topsis,critic,robust_minmax,knn,2,0.1333333333333333,193,15
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.6051339870043564,61,topsis,critic,robust_minmax,knn,0,0.0,193,15
+IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0.6043150698322575,62,topsis,critic,robust_minmax,knn,0,0.0,193,15
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,0.6024806724074527,63,topsis,critic,robust_minmax,knn,0,0.0,193,15
+AUS,Australia,East Asia & Pacific,High income,0.6020177979139226,64,topsis,critic,robust_minmax,knn,0,0.0,193,15
+PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,0.6012276295322192,65,topsis,critic,robust_minmax,knn,3,0.2,193,15
+NRU,Nauru,East Asia & Pacific,High income,0.5982082074746595,66,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+USA,United States,North America,High income,0.5957041735294344,67,topsis,critic,robust_minmax,knn,0,0.0,193,15
+CHL,Chile,Latin America & Caribbean ,High income,0.5955835673053615,68,topsis,critic,robust_minmax,knn,0,0.0,193,15
+GAB,Gabon,Sub-Saharan Africa ,Upper middle income,0.5950305268284076,69,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,0.5942617689872981,70,topsis,critic,robust_minmax,knn,0,0.0,193,15
+LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,0.5939775574102379,71,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+LUX,Luxembourg,Europe & Central Asia,High income,0.5929348926892752,72,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BHS,"Bahamas, The",Latin America & Caribbean ,High income,0.5922916774544944,73,topsis,critic,robust_minmax,knn,0,0.0,193,15
+CUB,Cuba,Latin America & Caribbean ,Upper middle income,0.592082213274024,74,topsis,critic,robust_minmax,knn,0,0.0,193,15
+TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,0.5912492734466925,75,topsis,critic,robust_minmax,knn,0,0.0,193,15
+KEN,Kenya,Sub-Saharan Africa ,Lower middle income,0.5911256011549303,76,topsis,critic,robust_minmax,knn,0,0.0,193,15
+JAM,Jamaica,Latin America & Caribbean ,Upper middle income,0.5902318956965336,77,topsis,critic,robust_minmax,knn,0,0.0,193,15
+GHA,Ghana,Sub-Saharan Africa ,Lower middle income,0.5895790155996208,78,topsis,critic,robust_minmax,knn,0,0.0,193,15
+NZL,New Zealand,East Asia & Pacific,High income,0.589463065714311,79,topsis,critic,robust_minmax,knn,0,0.0,193,15
+CHN,China,East Asia & Pacific,Upper middle income,0.5877352133698911,80,topsis,critic,robust_minmax,knn,0,0.0,193,15
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,Lower middle income,0.5867427780078645,81,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+ERI,Eritrea,Sub-Saharan Africa ,Low income,0.5865566029291549,82,topsis,critic,robust_minmax,knn,0,0.0,193,15
+ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,0.5858524640041919,83,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+VEN,"Venezuela, RB",Latin America & Caribbean ,Not classified,0.5846374584378592,84,topsis,critic,robust_minmax,knn,0,0.0,193,15
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,0.5842395524289112,85,topsis,critic,robust_minmax,knn,0,0.0,193,15
+NOR,Norway,Europe & Central Asia,High income,0.5838060130227963,86,topsis,critic,robust_minmax,knn,0,0.0,193,15
+SEN,Senegal,Sub-Saharan Africa ,Lower middle income,0.5826707376549464,87,topsis,critic,robust_minmax,knn,0,0.0,193,15
+MOZ,Mozambique,Sub-Saharan Africa ,Low income,0.5816338940640664,88,topsis,critic,robust_minmax,knn,0,0.0,193,15
+PSE,West Bank and Gaza,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.5809091623705732,89,topsis,critic,robust_minmax,knn,0,0.0,193,15
+TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,0.5808547569670748,90,topsis,critic,robust_minmax,knn,0,0.0,193,15
+TLS,Timor-Leste,East Asia & Pacific,Lower middle income,0.5802138828770057,91,topsis,critic,robust_minmax,knn,0,0.0,193,15
+GMB,"Gambia, The",Sub-Saharan Africa ,Low income,0.5800683045386188,92,topsis,critic,robust_minmax,knn,0,0.0,193,15
+GTM,Guatemala,Latin America & Caribbean ,Upper middle income,0.5791748923249151,93,topsis,critic,robust_minmax,knn,0,0.0,193,15
+MWI,Malawi,Sub-Saharan Africa ,Low income,0.5787996431836083,94,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+SDN,Sudan,Sub-Saharan Africa ,Low income,0.5777460444870882,95,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BFA,Burkina Faso,Sub-Saharan Africa ,Low income,0.5770986536439131,96,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.5759793371519877,97,topsis,critic,robust_minmax,knn,0,0.0,193,15
+SLV,El Salvador,Latin America & Caribbean ,Upper middle income,0.5756521780112986,98,topsis,critic,robust_minmax,knn,0,0.0,193,15
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.5745361713689106,99,topsis,critic,robust_minmax,knn,2,0.1333333333333333,193,15
+BLR,Belarus,Europe & Central Asia,Upper middle income,0.5735727720946442,100,topsis,critic,robust_minmax,knn,0,0.0,193,15
+IDN,Indonesia,East Asia & Pacific,Upper middle income,0.5723812284635075,101,topsis,critic,robust_minmax,knn,0,0.0,193,15
+MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,0.5719438113096291,102,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+VNM,Viet Nam,East Asia & Pacific,Lower middle income,0.5719119873571071,103,topsis,critic,robust_minmax,knn,0,0.0,193,15
+URY,Uruguay,Latin America & Caribbean ,High income,0.5712838260636992,104,topsis,critic,robust_minmax,knn,0,0.0,193,15
+KHM,Cambodia,East Asia & Pacific,Lower middle income,0.5711520442903822,105,topsis,critic,robust_minmax,knn,0,0.0,193,15
+LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,0.5710598007944979,106,topsis,critic,robust_minmax,knn,0,0.0,193,15
+COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,0.5699053355370756,107,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+SYR,Syrian Arab Republic,"Middle East, North Africa, Afghanistan & Pakistan",Low income,0.5686726971673192,108,topsis,critic,robust_minmax,knn,0,0.0,193,15
+UGA,Uganda,Sub-Saharan Africa ,Low income,0.5685196349146696,109,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,0.5673746554301747,110,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+DMA,Dominica,Latin America & Caribbean ,Upper middle income,0.5664092178421185,111,topsis,critic,robust_minmax,knn,0,0.0,193,15
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,0.565157121865637,112,topsis,critic,robust_minmax,knn,0,0.0,193,15
+NER,Niger,Sub-Saharan Africa ,Low income,0.563993231135798,113,topsis,critic,robust_minmax,knn,0,0.0,193,15
+RUS,Russian Federation,Europe & Central Asia,High income,0.5637386914585556,114,topsis,critic,robust_minmax,knn,0,0.0,193,15
+SVK,Slovak Republic,Europe & Central Asia,High income,0.5616399926153708,115,topsis,critic,robust_minmax,knn,0,0.0,193,15
+THA,Thailand,East Asia & Pacific,Upper middle income,0.5605663165078046,116,topsis,critic,robust_minmax,knn,0,0.0,193,15
+MDG,Madagascar,Sub-Saharan Africa ,Low income,0.5591534557555146,117,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+MLI,Mali,Sub-Saharan Africa ,Low income,0.5575108823726892,118,topsis,critic,robust_minmax,knn,0,0.0,193,15
+CAN,Canada,North America,High income,0.5565404175892286,119,topsis,critic,robust_minmax,knn,0,0.0,193,15
+PHL,Philippines,East Asia & Pacific,Lower middle income,0.5565148800717337,120,topsis,critic,robust_minmax,knn,0,0.0,193,15
+CYP,Cyprus,Europe & Central Asia,High income,0.5539071881257841,121,topsis,critic,robust_minmax,knn,0,0.0,193,15
+CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,0.5531028799062588,122,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+AGO,Angola,Sub-Saharan Africa ,Lower middle income,0.5530363118176724,123,topsis,critic,robust_minmax,knn,0,0.0,193,15
+SLE,Sierra Leone,Sub-Saharan Africa ,Low income,0.5524338933046791,124,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+RWA,Rwanda,Sub-Saharan Africa ,Low income,0.5516272679507683,125,topsis,critic,robust_minmax,knn,0,0.0,193,15
+LBR,Liberia,Sub-Saharan Africa ,Low income,0.5478095427921379,126,topsis,critic,robust_minmax,knn,0,0.0,193,15
+GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,0.5464158721688478,127,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+NPL,Nepal,South Asia,Lower middle income,0.5461144493611818,128,topsis,critic,robust_minmax,knn,0,0.0,193,15
+ARM,Armenia,Europe & Central Asia,Upper middle income,0.5458060547467473,129,topsis,critic,robust_minmax,knn,0,0.0,193,15
+SGP,Singapore,East Asia & Pacific,High income,0.5451816309076526,130,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BDI,Burundi,Sub-Saharan Africa ,Low income,0.544314506919153,131,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+ETH,Ethiopia,Sub-Saharan Africa ,Not classified,0.5430955507756935,132,topsis,critic,robust_minmax,knn,0,0.0,193,15
+MDA,Moldova,Europe & Central Asia,Upper middle income,0.5428807535046103,133,topsis,critic,robust_minmax,knn,0,0.0,193,15
+YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",Low income,0.5428702100740465,134,topsis,critic,robust_minmax,knn,2,0.1333333333333333,193,15
+AUT,Austria,Europe & Central Asia,High income,0.5406904974351987,135,topsis,critic,robust_minmax,knn,0,0.0,193,15
+MMR,Myanmar,East Asia & Pacific,Lower middle income,0.5405273603809144,136,topsis,critic,robust_minmax,knn,0,0.0,193,15
+CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,0.5402732711955106,137,topsis,critic,robust_minmax,knn,0,0.0,193,15
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,0.5395804002332789,138,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+SSD,South Sudan,Sub-Saharan Africa ,Low income,0.5368657567033444,139,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",Low income,0.5339181582932998,140,topsis,critic,robust_minmax,knn,0,0.0,193,15
+LKA,Sri Lanka,South Asia,Lower middle income,0.5337333777236083,141,topsis,critic,robust_minmax,knn,0,0.0,193,15
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.532005137351268,142,topsis,critic,robust_minmax,knn,0,0.0,193,15
+TGO,Togo,Sub-Saharan Africa ,Low income,0.5304708496545024,143,topsis,critic,robust_minmax,knn,0,0.0,193,15
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa ,Low income,0.5303971787858602,144,topsis,critic,robust_minmax,knn,2,0.1333333333333333,193,15
+SWE,Sweden,Europe & Central Asia,High income,0.5293998706118301,145,topsis,critic,robust_minmax,knn,0,0.0,193,15
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,0.5289131186358805,146,topsis,critic,robust_minmax,knn,0,0.0,193,15
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.5285019153408534,147,topsis,critic,robust_minmax,knn,0,0.0,193,15
+GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,0.5267642295944122,148,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+POL,Poland,Europe & Central Asia,High income,0.526352758402648,149,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BEN,Benin,Sub-Saharan Africa ,Lower middle income,0.5255468052200292,150,topsis,critic,robust_minmax,knn,0,0.0,193,15
+CAF,Central African Republic,Sub-Saharan Africa ,Low income,0.5254385839164835,151,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+ALB,Albania,Europe & Central Asia,Upper middle income,0.522791895580844,152,topsis,critic,robust_minmax,knn,0,0.0,193,15
+CHE,Switzerland,Europe & Central Asia,High income,0.5226525445263528,153,topsis,critic,robust_minmax,knn,0,0.0,193,15
+FRA,France,Europe & Central Asia,High income,0.5208207514053464,154,topsis,critic,robust_minmax,knn,0,0.0,193,15
+DNK,Denmark,Europe & Central Asia,High income,0.5197582497901008,155,topsis,critic,robust_minmax,knn,0,0.0,193,15
+CZE,Czechia,Europe & Central Asia,High income,0.5189433199332172,156,topsis,critic,robust_minmax,knn,0,0.0,193,15
+TCD,Chad,Sub-Saharan Africa ,Low income,0.5182715564601655,157,topsis,critic,robust_minmax,knn,0,0.0,193,15
+FIN,Finland,Europe & Central Asia,High income,0.5181751415904207,158,topsis,critic,robust_minmax,knn,0,0.0,193,15
+DEU,Germany,Europe & Central Asia,High income,0.5166824543562348,159,topsis,critic,robust_minmax,knn,0,0.0,193,15
+KOR,"Korea, Rep.",East Asia & Pacific,High income,0.5161724342762615,160,topsis,critic,robust_minmax,knn,0,0.0,193,15
+GRD,Grenada,Latin America & Caribbean ,Upper middle income,0.51562955054046,161,topsis,critic,robust_minmax,knn,0,0.0,193,15
+GIN,Guinea,Sub-Saharan Africa ,Lower middle income,0.5141349030818788,162,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+SVN,Slovenia,Europe & Central Asia,High income,0.5135747117444304,163,topsis,critic,robust_minmax,knn,0,0.0,193,15
+GEO,Georgia,Europe & Central Asia,Upper middle income,0.5135323202917826,164,topsis,critic,robust_minmax,knn,0,0.0,193,15
+IND,India,South Asia,Lower middle income,0.5132122382480598,165,topsis,critic,robust_minmax,knn,0,0.0,193,15
+ESP,Spain,Europe & Central Asia,High income,0.5074640061763653,166,topsis,critic,robust_minmax,knn,0,0.0,193,15
+HTI,Haiti,Latin America & Caribbean ,Lower middle income,0.5074025754410431,167,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BEL,Belgium,Europe & Central Asia,High income,0.5052565190749957,168,topsis,critic,robust_minmax,knn,0,0.0,193,15
+COM,Comoros,Sub-Saharan Africa ,Lower middle income,0.5012121773702752,169,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+MNE,Montenegro,Europe & Central Asia,Upper middle income,0.4984449888320774,170,topsis,critic,robust_minmax,knn,0,0.0,193,15
+HUN,Hungary,Europe & Central Asia,High income,0.49688844792823705,171,topsis,critic,robust_minmax,knn,0,0.0,193,15
+JPN,Japan,East Asia & Pacific,High income,0.4950141426402571,172,topsis,critic,robust_minmax,knn,0,0.0,193,15
+GBR,United Kingdom,Europe & Central Asia,High income,0.4949380211370323,173,topsis,critic,robust_minmax,knn,0,0.0,193,15
+ROU,Romania,Europe & Central Asia,High income,0.4949036575340351,174,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BGD,Bangladesh,South Asia,Lower middle income,0.49220117955490633,175,topsis,critic,robust_minmax,knn,0,0.0,193,15
+LTU,Lithuania,Europe & Central Asia,High income,0.49106649231365435,176,topsis,critic,robust_minmax,knn,0,0.0,193,15
+MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,0.4908198117092145,177,topsis,critic,robust_minmax,knn,0,0.0,193,15
+HRV,Croatia,Europe & Central Asia,High income,0.4905117812512821,178,topsis,critic,robust_minmax,knn,0,0.0,193,15
+PRT,Portugal,Europe & Central Asia,High income,0.4898143440374124,179,topsis,critic,robust_minmax,knn,0,0.0,193,15
+EST,Estonia,Europe & Central Asia,High income,0.48854194906257226,180,topsis,critic,robust_minmax,knn,0,0.0,193,15
+NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,0.4878913649224985,181,topsis,critic,robust_minmax,knn,1,0.0666666666666666,193,15
+GRC,Greece,Europe & Central Asia,High income,0.48022687623290616,182,topsis,critic,robust_minmax,knn,0,0.0,193,15
+ITA,Italy,Europe & Central Asia,High income,0.4752751208294873,183,topsis,critic,robust_minmax,knn,0,0.0,193,15
+NLD,Netherlands,Europe & Central Asia,High income,0.4747859854017632,184,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BGR,Bulgaria,Europe & Central Asia,High income,0.4673835166370898,185,topsis,critic,robust_minmax,knn,0,0.0,193,15
+LVA,Latvia,Europe & Central Asia,High income,0.4636075751937629,186,topsis,critic,robust_minmax,knn,0,0.0,193,15
+SMR,San Marino,Europe & Central Asia,High income,0.46179382646075756,187,topsis,critic,robust_minmax,knn,3,0.2,193,15
+UKR,Ukraine,Europe & Central Asia,Upper middle income,0.45848862457227435,188,topsis,critic,robust_minmax,knn,2,0.1333333333333333,193,15
+BRB,Barbados,Latin America & Caribbean ,High income,0.45602532306742066,189,topsis,critic,robust_minmax,knn,0,0.0,193,15
+SRB,Serbia,Europe & Central Asia,Upper middle income,0.45600786095074686,190,topsis,critic,robust_minmax,knn,0,0.0,193,15
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,0.4487082250640867,191,topsis,critic,robust_minmax,knn,0,0.0,193,15
+MCO,Monaco,Europe & Central Asia,High income,0.4439964469120014,192,topsis,critic,robust_minmax,knn,2,0.1333333333333333,193,15
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.4410114705043253,193,topsis,critic,robust_minmax,knn,0,0.0,193,15

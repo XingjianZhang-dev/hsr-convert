@@ -1,0 +1,181 @@
+feature_window:
+  start_year: 2015
+  end_year: 2019
+  min_years_for_mean: 3
+
+indicators:
+  - variable: physicians_per_1000
+    label: Physicians per 1,000 people
+    source: World Bank
+    source_code: SH.MED.PHYS.ZS
+    conceptual_dimension: service_capacity
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: nurses_midwives_per_1000
+    label: Nurses and midwives per 1,000 people
+    source: World Bank
+    source_code: SH.MED.NUMW.P3
+    conceptual_dimension: service_capacity
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: hospital_beds_per_1000
+    label: Hospital beds per 1,000 people
+    source: World Bank
+    source_code: SH.MED.BEDS.ZS
+    conceptual_dimension: service_capacity
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: current_health_expenditure_per_capita_ppp
+    label: Current health expenditure per capita, PPP
+    source: World Bank
+    source_code: SH.XPD.CHEX.PP.CD
+    conceptual_dimension: health_financing
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: domestic_gov_health_expenditure_gdp
+    label: Domestic general government health expenditure as percent of GDP
+    source: World Bank
+    source_code: SH.XPD.GHED.GD.ZS
+    conceptual_dimension: health_financing
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: out_of_pocket_expenditure_share
+    label: Out-of-pocket expenditure as percent of current health expenditure
+    source: World Bank
+    source_code: SH.XPD.OOPC.CH.ZS
+    conceptual_dimension: equity_financial_protection
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: uhc_service_coverage_index
+    label: UHC service coverage index
+    source: World Bank
+    source_code: SH_UHC_SCI
+    conceptual_dimension: service_coverage
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: measles_immunization_coverage
+    label: Immunization, measles percent of children ages 12-23 months
+    source: World Bank
+    source_code: SH.IMM.MEAS
+    conceptual_dimension: service_coverage
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: dpt_immunization_coverage
+    label: Immunization, DPT percent of children ages 12-23 months
+    source: World Bank
+    source_code: SH.IMM.IDPT
+    conceptual_dimension: service_coverage
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: true
+    counterfactual_allowed: true
+    use_as_feature: true
+
+  - variable: age65_share
+    label: Population ages 65 and above, percent of total
+    source: World Bank
+    source_code: SP.POP.65UP.TO.ZS
+    conceptual_dimension: population_vulnerability
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: population_density
+    label: Population density, people per sq. km of land area
+    source: World Bank
+    source_code: EN.POP.DNST
+    conceptual_dimension: population_vulnerability
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: life_expectancy
+    label: Life expectancy at birth, total
+    source: World Bank
+    source_code: SP.DYN.LE00.IN
+    conceptual_dimension: baseline_health_status
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: under5_mortality
+    label: Mortality rate, under-5, per 1,000 live births
+    source: World Bank
+    source_code: SH.DYN.MORT
+    conceptual_dimension: baseline_health_status
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: adult_mortality_female
+    label: Adult mortality rate, female, per 1,000 female adults
+    source: World Bank
+    source_code: SP.DYN.AMRT.FE
+    conceptual_dimension: baseline_health_status
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: adult_mortality_male
+    label: Adult mortality rate, male, per 1,000 male adults
+    source: World Bank
+    source_code: SP.DYN.AMRT.MA
+    conceptual_dimension: baseline_health_status
+    direction: cost
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: true
+
+  - variable: gdp_per_capita_ppp
+    label: GDP per capita, PPP, constant international dollars
+    source: World Bank
+    source_code: NY.GDP.PCAP.PP.KD
+    conceptual_dimension: context_control
+    direction: beneficial
+    years_used: [2015, 2016, 2017, 2018, 2019]
+    actionable: false
+    counterfactual_allowed: false
+    use_as_feature: false

@@ -1,0 +1,5 @@
+feature,importance_mean,importance_std,n,coverage_count,missing_count,missing_rate,leakage_screen_passed
+capacity_score,0.7038409434007471,0.1306627282144701,108,108,0,0.0,True
+vulnerability_score,0.5950302646665873,0.10210895534150172,108,108,0,0.0,True
+preparedness_score,0.13070403133519637,0.022588649019910444,108,108,0,0.0,True
+equity_access_score,0.11225927694301269,0.019019146279817614,108,108,0,0.0,True

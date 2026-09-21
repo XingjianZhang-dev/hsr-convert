@@ -1,0 +1,1331 @@
+country,iso3,indicator_code,indicator_name,year,value,variable
+Africa Eastern and Southern,AFE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.7558901923726,current_health_expenditure_gdp
+Africa Eastern and Southern,AFE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.73062852507169,current_health_expenditure_gdp
+Africa Eastern and Southern,AFE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.86588226298921,current_health_expenditure_gdp
+Africa Eastern and Southern,AFE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.01403640033509,current_health_expenditure_gdp
+Africa Eastern and Southern,AFE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.89167008074868,current_health_expenditure_gdp
+Africa Western and Central,AFW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.25093608157437,current_health_expenditure_gdp
+Africa Western and Central,AFW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.28862221030402,current_health_expenditure_gdp
+Africa Western and Central,AFW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.73266812536803,current_health_expenditure_gdp
+Africa Western and Central,AFW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.8027557657234,current_health_expenditure_gdp
+Africa Western and Central,AFW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.81020499573204,current_health_expenditure_gdp
+Arab World,ARB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.94278733717573,current_health_expenditure_gdp
+Arab World,ARB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.86776695125365,current_health_expenditure_gdp
+Arab World,ARB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.15987282843783,current_health_expenditure_gdp
+Arab World,ARB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.28502773733537,current_health_expenditure_gdp
+Arab World,ARB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.00908575316047,current_health_expenditure_gdp
+Caribbean small states,CSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.08982716034103,current_health_expenditure_gdp
+Caribbean small states,CSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.94749460312322,current_health_expenditure_gdp
+Caribbean small states,CSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.97078497970675,current_health_expenditure_gdp
+Caribbean small states,CSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.79138891237426,current_health_expenditure_gdp
+Caribbean small states,CSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.38565779189487,current_health_expenditure_gdp
+Central Europe and the Baltics,CEB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.61921750835365,current_health_expenditure_gdp
+Central Europe and the Baltics,CEB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.51336173608474,current_health_expenditure_gdp
+Central Europe and the Baltics,CEB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.56979793772616,current_health_expenditure_gdp
+Central Europe and the Baltics,CEB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.64432931269871,current_health_expenditure_gdp
+Central Europe and the Baltics,CEB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.49835712782675,current_health_expenditure_gdp
+Early-demographic dividend,EAR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.60445519152089,current_health_expenditure_gdp
+Early-demographic dividend,EAR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.63534520343627,current_health_expenditure_gdp
+Early-demographic dividend,EAR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.86578793719636,current_health_expenditure_gdp
+Early-demographic dividend,EAR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.041163682298,current_health_expenditure_gdp
+Early-demographic dividend,EAR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.14300120098285,current_health_expenditure_gdp
+East Asia & Pacific,EAS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.63218318246243,current_health_expenditure_gdp
+East Asia & Pacific,EAS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.46332885332331,current_health_expenditure_gdp
+East Asia & Pacific,EAS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.45209555660183,current_health_expenditure_gdp
+East Asia & Pacific,EAS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.4924665198735,current_health_expenditure_gdp
+East Asia & Pacific,EAS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.42297737087305,current_health_expenditure_gdp
+East Asia & Pacific (excluding high income),EAP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.99305007183394,current_health_expenditure_gdp
+East Asia & Pacific (excluding high income),EAP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.83519763650792,current_health_expenditure_gdp
+East Asia & Pacific (excluding high income),EAP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.73855932101377,current_health_expenditure_gdp
+East Asia & Pacific (excluding high income),EAP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.67398607736289,current_health_expenditure_gdp
+East Asia & Pacific (excluding high income),EAP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.64726137088585,current_health_expenditure_gdp
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.99321295377829,current_health_expenditure_gdp
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.83535460653651,current_health_expenditure_gdp
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.73872752864821,current_health_expenditure_gdp
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.67414820826657,current_health_expenditure_gdp
+East Asia & Pacific (IDA & IBRD countries),TEA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.64742800465152,current_health_expenditure_gdp
+Euro area,EMU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,10.1571679207472,current_health_expenditure_gdp
+Euro area,EMU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,10.0951265232871,current_health_expenditure_gdp
+Euro area,EMU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,10.1010873950656,current_health_expenditure_gdp
+Euro area,EMU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,10.1207106035258,current_health_expenditure_gdp
+Euro area,EMU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.1518988683379,current_health_expenditure_gdp
+Europe & Central Asia,ECS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,9.31021585100489,current_health_expenditure_gdp
+Europe & Central Asia,ECS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,9.23068191093197,current_health_expenditure_gdp
+Europe & Central Asia,ECS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,9.21010108802763,current_health_expenditure_gdp
+Europe & Central Asia,ECS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.29822075173262,current_health_expenditure_gdp
+Europe & Central Asia,ECS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,9.25908025142841,current_health_expenditure_gdp
+Europe & Central Asia (excluding high income),ECA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.96677430314955,current_health_expenditure_gdp
+Europe & Central Asia (excluding high income),ECA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.78663718590348,current_health_expenditure_gdp
+Europe & Central Asia (excluding high income),ECA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.76376986171493,current_health_expenditure_gdp
+Europe & Central Asia (excluding high income),ECA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.88272801337856,current_health_expenditure_gdp
+Europe & Central Asia (excluding high income),ECA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.70488729667207,current_health_expenditure_gdp
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.55429623640193,current_health_expenditure_gdp
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.34312927891352,current_health_expenditure_gdp
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.33246499354921,current_health_expenditure_gdp
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.33549310641421,current_health_expenditure_gdp
+Europe & Central Asia (IDA & IBRD countries),TEC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.223514455981,current_health_expenditure_gdp
+European Union,EUU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,9.87237183304095,current_health_expenditure_gdp
+European Union,EUU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,9.82989094571535,current_health_expenditure_gdp
+European Union,EUU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,9.8503644385119,current_health_expenditure_gdp
+European Union,EUU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.88833766679792,current_health_expenditure_gdp
+European Union,EUU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,9.90435258464786,current_health_expenditure_gdp
+Fragile and conflict affected situations,FCS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.15726885338508,current_health_expenditure_gdp
+Fragile and conflict affected situations,FCS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.39435570818218,current_health_expenditure_gdp
+Fragile and conflict affected situations,FCS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.86298772286833,current_health_expenditure_gdp
+Fragile and conflict affected situations,FCS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.91804846438798,current_health_expenditure_gdp
+Fragile and conflict affected situations,FCS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.59288070767475,current_health_expenditure_gdp
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.61341676982188,current_health_expenditure_gdp
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.48978908027621,current_health_expenditure_gdp
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.69402683116841,current_health_expenditure_gdp
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.89077142105485,current_health_expenditure_gdp
+Heavily indebted poor countries (HIPC),HPC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.94931601732948,current_health_expenditure_gdp
+High income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,12.1545295546981,current_health_expenditure_gdp
+High income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,11.9666327912927,current_health_expenditure_gdp
+High income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,12.0491502529549,current_health_expenditure_gdp
+High income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,12.1402860755101,current_health_expenditure_gdp
+High income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,11.9784564900425,current_health_expenditure_gdp
+IBRD only,IBD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.40788171325868,current_health_expenditure_gdp
+IBRD only,IBD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.31062087998651,current_health_expenditure_gdp
+IBRD only,IBD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.37429834790267,current_health_expenditure_gdp
+IBRD only,IBD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.36120230404737,current_health_expenditure_gdp
+IBRD only,IBD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.34879396011705,current_health_expenditure_gdp
+IDA & IBRD total,IBT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.26254670515947,current_health_expenditure_gdp
+IDA & IBRD total,IBT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.19049036256868,current_health_expenditure_gdp
+IDA & IBRD total,IBT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.26451407307711,current_health_expenditure_gdp
+IDA & IBRD total,IBT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.25386543676089,current_health_expenditure_gdp
+IDA & IBRD total,IBT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.24457636867987,current_health_expenditure_gdp
+IDA blend,IDB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.21772869153518,current_health_expenditure_gdp
+IDA blend,IDB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.25157535517368,current_health_expenditure_gdp
+IDA blend,IDB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.56925634629536,current_health_expenditure_gdp
+IDA blend,IDB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.55096790379339,current_health_expenditure_gdp
+IDA blend,IDB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.5100786839182,current_health_expenditure_gdp
+IDA only,IDX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.89532699874333,current_health_expenditure_gdp
+IDA only,IDX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.00262643773837,current_health_expenditure_gdp
+IDA only,IDX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.13130505370949,current_health_expenditure_gdp
+IDA only,IDX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.32205646429699,current_health_expenditure_gdp
+IDA only,IDX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.50037854924843,current_health_expenditure_gdp
+IDA total,IDA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.55083243059774,current_health_expenditure_gdp
+IDA total,IDA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.65004025811771,current_health_expenditure_gdp
+IDA total,IDA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.86599631009632,current_health_expenditure_gdp
+IDA total,IDA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.94888324584427,current_health_expenditure_gdp
+IDA total,IDA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.99014977675333,current_health_expenditure_gdp
+Late-demographic dividend,LTE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.71657356222011,current_health_expenditure_gdp
+Late-demographic dividend,LTE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.56036280341606,current_health_expenditure_gdp
+Late-demographic dividend,LTE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.57494835034526,current_health_expenditure_gdp
+Late-demographic dividend,LTE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.47638513916175,current_health_expenditure_gdp
+Late-demographic dividend,LTE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.3979633691084,current_health_expenditure_gdp
+Latin America & Caribbean,LCN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.8656829114729,current_health_expenditure_gdp
+Latin America & Caribbean,LCN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.81493688121767,current_health_expenditure_gdp
+Latin America & Caribbean,LCN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.05351034098995,current_health_expenditure_gdp
+Latin America & Caribbean,LCN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.87340946386778,current_health_expenditure_gdp
+Latin America & Caribbean,LCN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.8028797780802,current_health_expenditure_gdp
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.87393671222829,current_health_expenditure_gdp
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.860488917097,current_health_expenditure_gdp
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.02926206464287,current_health_expenditure_gdp
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.8638934350985,current_health_expenditure_gdp
+Latin America & Caribbean (excluding high income),LAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.80761049976575,current_health_expenditure_gdp
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.80750973958778,current_health_expenditure_gdp
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.75973306272192,current_health_expenditure_gdp
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.99518260121538,current_health_expenditure_gdp
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.79635168049479,current_health_expenditure_gdp
+Latin America & the Caribbean (IDA & IBRD countries),TLA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.72067466503498,current_health_expenditure_gdp
+Least developed countries: UN classification,LDC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.64897753566729,current_health_expenditure_gdp
+Least developed countries: UN classification,LDC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.82023182338908,current_health_expenditure_gdp
+Least developed countries: UN classification,LDC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.97551026692723,current_health_expenditure_gdp
+Least developed countries: UN classification,LDC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.13599579520282,current_health_expenditure_gdp
+Least developed countries: UN classification,LDC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.17498685029764,current_health_expenditure_gdp
+Low & middle income,LMY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.18718393271332,current_health_expenditure_gdp
+Low & middle income,LMY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.12809632415452,current_health_expenditure_gdp
+Low & middle income,LMY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.20208329970141,current_health_expenditure_gdp
+Low & middle income,LMY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.20357233819213,current_health_expenditure_gdp
+Low & middle income,LMY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.20147682703176,current_health_expenditure_gdp
+Low income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.17144309388878,current_health_expenditure_gdp
+Low income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.43174188606476,current_health_expenditure_gdp
+Low income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.79061253561363,current_health_expenditure_gdp
+Low income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.91637020393631,current_health_expenditure_gdp
+Low income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.67181541495217,current_health_expenditure_gdp
+Lower middle income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.51144228209501,current_health_expenditure_gdp
+Lower middle income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.47152735706215,current_health_expenditure_gdp
+Lower middle income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.58477536232222,current_health_expenditure_gdp
+Lower middle income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.89022093256574,current_health_expenditure_gdp
+Lower middle income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.92633371026158,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.18839795113514,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.15426881264019,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.53060666956274,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.5924050426126,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.39013592525597,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.05395226217455,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.20423747246253,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.67308036429661,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.71205575912562,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.62471638952105,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.01452087139383,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.16531263326728,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.64320608766798,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.68439967689311,current_health_expenditure_gdp
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.59576999729212,current_health_expenditure_gdp
+Middle income,MIC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.18734145793423,current_health_expenditure_gdp
+Middle income,MIC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.12482458096504,current_health_expenditure_gdp
+Middle income,MIC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.19564167413207,current_health_expenditure_gdp
+Middle income,MIC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.19528369298374,current_health_expenditure_gdp
+Middle income,MIC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.19532358029949,current_health_expenditure_gdp
+North America,NAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,16.1303860806677,current_health_expenditure_gdp
+North America,NAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,16.0797857721977,current_health_expenditure_gdp
+North America,NAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,16.1922020531164,current_health_expenditure_gdp
+North America,NAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,16.2662183100437,current_health_expenditure_gdp
+North America,NAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,15.9575352713358,current_health_expenditure_gdp
+Not classified,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Not classified,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Not classified,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Not classified,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Not classified,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+OECD members,OED,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,12.4132360179931,current_health_expenditure_gdp
+OECD members,OED,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,12.2344313583362,current_health_expenditure_gdp
+OECD members,OED,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,12.2702747075418,current_health_expenditure_gdp
+OECD members,OED,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,12.3213123585606,current_health_expenditure_gdp
+OECD members,OED,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,12.1700871927787,current_health_expenditure_gdp
+Other small states,OSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.71478450487196,current_health_expenditure_gdp
+Other small states,OSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.55761154081991,current_health_expenditure_gdp
+Other small states,OSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.54415940537853,current_health_expenditure_gdp
+Other small states,OSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.60775656955416,current_health_expenditure_gdp
+Other small states,OSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.48633078680301,current_health_expenditure_gdp
+Pacific island small states,PSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.4466335838218,current_health_expenditure_gdp
+Pacific island small states,PSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.1398246046457,current_health_expenditure_gdp
+Pacific island small states,PSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.62651268238975,current_health_expenditure_gdp
+Pacific island small states,PSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.79480678149596,current_health_expenditure_gdp
+Pacific island small states,PSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.84192417092105,current_health_expenditure_gdp
+Post-demographic dividend,PST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,12.8480081595041,current_health_expenditure_gdp
+Post-demographic dividend,PST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,12.6632774069889,current_health_expenditure_gdp
+Post-demographic dividend,PST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,12.71663479268,current_health_expenditure_gdp
+Post-demographic dividend,PST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,12.76397392713,current_health_expenditure_gdp
+Post-demographic dividend,PST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,12.6319773086366,current_health_expenditure_gdp
+Pre-demographic dividend,PRE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.74037691727793,current_health_expenditure_gdp
+Pre-demographic dividend,PRE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.81195764713298,current_health_expenditure_gdp
+Pre-demographic dividend,PRE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.12428507883182,current_health_expenditure_gdp
+Pre-demographic dividend,PRE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.26322501939097,current_health_expenditure_gdp
+Pre-demographic dividend,PRE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.91772576095157,current_health_expenditure_gdp
+Small states,SST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.48855042141472,current_health_expenditure_gdp
+Small states,SST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.3287002516318,current_health_expenditure_gdp
+Small states,SST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.29114913767488,current_health_expenditure_gdp
+Small states,SST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.27712293907752,current_health_expenditure_gdp
+Small states,SST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.05224375446595,current_health_expenditure_gdp
+South Asia,SAS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.9092236338965,current_health_expenditure_gdp
+South Asia,SAS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.85201740632584,current_health_expenditure_gdp
+South Asia,SAS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.92047698852862,current_health_expenditure_gdp
+South Asia,SAS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.42611411151728,current_health_expenditure_gdp
+South Asia,SAS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.51918654797091,current_health_expenditure_gdp
+South Asia (IDA & IBRD),TSA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.9092236338965,current_health_expenditure_gdp
+South Asia (IDA & IBRD),TSA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.85201740632584,current_health_expenditure_gdp
+South Asia (IDA & IBRD),TSA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.92047698852862,current_health_expenditure_gdp
+South Asia (IDA & IBRD),TSA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.42611411151728,current_health_expenditure_gdp
+South Asia (IDA & IBRD),TSA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.51918654797091,current_health_expenditure_gdp
+Sub-Saharan Africa,SSF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.493857439856,current_health_expenditure_gdp
+Sub-Saharan Africa,SSF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.67113624517035,current_health_expenditure_gdp
+Sub-Saharan Africa,SSF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.9771165926508,current_health_expenditure_gdp
+Sub-Saharan Africa,SSF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.9993387548547,current_health_expenditure_gdp
+Sub-Saharan Africa,SSF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.92348638335971,current_health_expenditure_gdp
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.55316332987647,current_health_expenditure_gdp
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.7381331050621,current_health_expenditure_gdp
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.05092923103056,current_health_expenditure_gdp
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.06546494398196,current_health_expenditure_gdp
+Sub-Saharan Africa (excluding high income),SSA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.9665577222449,current_health_expenditure_gdp
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.493857439856,current_health_expenditure_gdp
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.67113624517035,current_health_expenditure_gdp
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.9771165926508,current_health_expenditure_gdp
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.9993387548547,current_health_expenditure_gdp
+Sub-Saharan Africa (IDA & IBRD countries),TSS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.92348638335971,current_health_expenditure_gdp
+Upper middle income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.64364694319073,current_health_expenditure_gdp
+Upper middle income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.54726917452903,current_health_expenditure_gdp
+Upper middle income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.61782808159457,current_health_expenditure_gdp
+Upper middle income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.54101949543898,current_health_expenditure_gdp
+Upper middle income,,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.51990266156455,current_health_expenditure_gdp
+World,WLD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,9.67575984085573,current_health_expenditure_gdp
+World,WLD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,9.56314080345822,current_health_expenditure_gdp
+World,WLD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,9.65259026022703,current_health_expenditure_gdp
+World,WLD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.77528230186839,current_health_expenditure_gdp
+World,WLD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,9.65618515870843,current_health_expenditure_gdp
+Afghanistan,AFG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,14.83131981,current_health_expenditure_gdp
+Afghanistan,AFG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,14.20841885,current_health_expenditure_gdp
+Afghanistan,AFG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,12.62081718,current_health_expenditure_gdp
+Afghanistan,AFG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,11.81859016,current_health_expenditure_gdp
+Afghanistan,AFG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.10534763,current_health_expenditure_gdp
+Albania,ALB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.78144073,current_health_expenditure_gdp
+Albania,ALB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.59002447,current_health_expenditure_gdp
+Albania,ALB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.50111914,current_health_expenditure_gdp
+Albania,ALB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.65018797,current_health_expenditure_gdp
+Albania,ALB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.38810158,current_health_expenditure_gdp
+Algeria,DZA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.41732121,current_health_expenditure_gdp
+Algeria,DZA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.9323926,current_health_expenditure_gdp
+Algeria,DZA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.9484539,current_health_expenditure_gdp
+Algeria,DZA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.00080872,current_health_expenditure_gdp
+Algeria,DZA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.33435678,current_health_expenditure_gdp
+American Samoa,ASM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+American Samoa,ASM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+American Samoa,ASM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+American Samoa,ASM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+American Samoa,ASM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Andorra,AND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.32238626,current_health_expenditure_gdp
+Andorra,AND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.37781096,current_health_expenditure_gdp
+Andorra,AND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.07158232,current_health_expenditure_gdp
+Andorra,AND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.94162941,current_health_expenditure_gdp
+Andorra,AND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.91368532,current_health_expenditure_gdp
+Angola,AGO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.20394278,current_health_expenditure_gdp
+Angola,AGO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.29887486,current_health_expenditure_gdp
+Angola,AGO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.4379425,current_health_expenditure_gdp
+Angola,AGO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,2.39068723,current_health_expenditure_gdp
+Angola,AGO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,2.29966879,current_health_expenditure_gdp
+Antigua and Barbuda,ATG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.27709961,current_health_expenditure_gdp
+Antigua and Barbuda,ATG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.6865654,current_health_expenditure_gdp
+Antigua and Barbuda,ATG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.66318989,current_health_expenditure_gdp
+Antigua and Barbuda,ATG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.93979549,current_health_expenditure_gdp
+Antigua and Barbuda,ATG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.90963078,current_health_expenditure_gdp
+Argentina,ARG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,10.11911297,current_health_expenditure_gdp
+Argentina,ARG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,10.17289257,current_health_expenditure_gdp
+Argentina,ARG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,10.26057911,current_health_expenditure_gdp
+Argentina,ARG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,10.05355549,current_health_expenditure_gdp
+Argentina,ARG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.27364159,current_health_expenditure_gdp
+Armenia,ARM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,11.3798008,current_health_expenditure_gdp
+Armenia,ARM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,10.00543404,current_health_expenditure_gdp
+Armenia,ARM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,10.36270332,current_health_expenditure_gdp
+Armenia,ARM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.95194912,current_health_expenditure_gdp
+Armenia,ARM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.11762714,current_health_expenditure_gdp
+Aruba,ABW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Aruba,ABW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Aruba,ABW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Aruba,ABW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Aruba,ABW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Australia,AUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,10.25421429,current_health_expenditure_gdp
+Australia,AUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,10.08907509,current_health_expenditure_gdp
+Australia,AUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,10.10880566,current_health_expenditure_gdp
+Australia,AUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,10.08958244,current_health_expenditure_gdp
+Australia,AUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.13642025,current_health_expenditure_gdp
+Austria,AUT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,10.62530422,current_health_expenditure_gdp
+Austria,AUT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,10.5157156,current_health_expenditure_gdp
+Austria,AUT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,10.57132816,current_health_expenditure_gdp
+Austria,AUT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,10.51713753,current_health_expenditure_gdp
+Austria,AUT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.51688385,current_health_expenditure_gdp
+Azerbaijan,AZE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.18188763,current_health_expenditure_gdp
+Azerbaijan,AZE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.83661342,current_health_expenditure_gdp
+Azerbaijan,AZE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.07396507,current_health_expenditure_gdp
+Azerbaijan,AZE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.42241955,current_health_expenditure_gdp
+Azerbaijan,AZE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.34131384,current_health_expenditure_gdp
+"Bahamas, The",BHS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.70484161,current_health_expenditure_gdp
+"Bahamas, The",BHS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.83890343,current_health_expenditure_gdp
+"Bahamas, The",BHS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.6036396,current_health_expenditure_gdp
+"Bahamas, The",BHS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.65515327,current_health_expenditure_gdp
+"Bahamas, The",BHS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.244627,current_health_expenditure_gdp
+Bahrain,BHR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.78430986,current_health_expenditure_gdp
+Bahrain,BHR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.94324946,current_health_expenditure_gdp
+Bahrain,BHR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.30236721,current_health_expenditure_gdp
+Bahrain,BHR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.62360859,current_health_expenditure_gdp
+Bahrain,BHR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.75126362,current_health_expenditure_gdp
+Bangladesh,BGD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.12712646,current_health_expenditure_gdp
+Bangladesh,BGD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.31622243,current_health_expenditure_gdp
+Bangladesh,BGD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.36720181,current_health_expenditure_gdp
+Bangladesh,BGD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,2.38938212,current_health_expenditure_gdp
+Bangladesh,BGD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,2.27217698,current_health_expenditure_gdp
+Barbados,BRB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.67476797,current_health_expenditure_gdp
+Barbados,BRB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.83037996,current_health_expenditure_gdp
+Barbados,BRB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.0020504,current_health_expenditure_gdp
+Barbados,BRB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.19479513,current_health_expenditure_gdp
+Barbados,BRB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.09170628,current_health_expenditure_gdp
+Belarus,BLR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.86133814,current_health_expenditure_gdp
+Belarus,BLR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.52699471,current_health_expenditure_gdp
+Belarus,BLR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.75974846,current_health_expenditure_gdp
+Belarus,BLR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.91054153,current_health_expenditure_gdp
+Belarus,BLR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.06528044,current_health_expenditure_gdp
+Belgium,BEL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,10.85831451,current_health_expenditure_gdp
+Belgium,BEL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,10.9937973,current_health_expenditure_gdp
+Belgium,BEL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,10.94042683,current_health_expenditure_gdp
+Belgium,BEL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,10.89833736,current_health_expenditure_gdp
+Belgium,BEL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.88387299,current_health_expenditure_gdp
+Belize,BLZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.81608105,current_health_expenditure_gdp
+Belize,BLZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.75529861,current_health_expenditure_gdp
+Belize,BLZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.62228823,current_health_expenditure_gdp
+Belize,BLZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.77207184,current_health_expenditure_gdp
+Belize,BLZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.65988731,current_health_expenditure_gdp
+Benin,BEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.00206876,current_health_expenditure_gdp
+Benin,BEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.4364984,current_health_expenditure_gdp
+Benin,BEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.67389345,current_health_expenditure_gdp
+Benin,BEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.62042856,current_health_expenditure_gdp
+Benin,BEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,2.72813416,current_health_expenditure_gdp
+Bermuda,BMU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Bermuda,BMU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Bermuda,BMU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Bermuda,BMU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Bermuda,BMU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Bhutan,BTN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.37511158,current_health_expenditure_gdp
+Bhutan,BTN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.06896734,current_health_expenditure_gdp
+Bhutan,BTN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.11215067,current_health_expenditure_gdp
+Bhutan,BTN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.27756715,current_health_expenditure_gdp
+Bhutan,BTN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.43653083,current_health_expenditure_gdp
+Bolivia,BOL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.88792992,current_health_expenditure_gdp
+Bolivia,BOL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.60399437,current_health_expenditure_gdp
+Bolivia,BOL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.4901948,current_health_expenditure_gdp
+Bolivia,BOL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.83333063,current_health_expenditure_gdp
+Bolivia,BOL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.55064964,current_health_expenditure_gdp
+Bosnia and Herzegovina,BIH,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.92544365,current_health_expenditure_gdp
+Bosnia and Herzegovina,BIH,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.76100445,current_health_expenditure_gdp
+Bosnia and Herzegovina,BIH,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.81797314,current_health_expenditure_gdp
+Bosnia and Herzegovina,BIH,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.13943481,current_health_expenditure_gdp
+Bosnia and Herzegovina,BIH,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,9.24086571,current_health_expenditure_gdp
+Botswana,BWA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.12193203,current_health_expenditure_gdp
+Botswana,BWA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.04010344,current_health_expenditure_gdp
+Botswana,BWA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.62986994,current_health_expenditure_gdp
+Botswana,BWA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.76837635,current_health_expenditure_gdp
+Botswana,BWA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.10287762,current_health_expenditure_gdp
+Brazil,BRA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,9.61449146,current_health_expenditure_gdp
+Brazil,BRA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,9.46475029,current_health_expenditure_gdp
+Brazil,BRA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,9.47125053,current_health_expenditure_gdp
+Brazil,BRA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.16901684,current_health_expenditure_gdp
+Brazil,BRA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.90929985,current_health_expenditure_gdp
+British Virgin Islands,VGB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+British Virgin Islands,VGB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+British Virgin Islands,VGB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+British Virgin Islands,VGB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+British Virgin Islands,VGB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Brunei Darussalam,BRN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.23100758,current_health_expenditure_gdp
+Brunei Darussalam,BRN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.41600895,current_health_expenditure_gdp
+Brunei Darussalam,BRN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.27022862,current_health_expenditure_gdp
+Brunei Darussalam,BRN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,2.54828691,current_health_expenditure_gdp
+Brunei Darussalam,BRN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,2.38708901,current_health_expenditure_gdp
+Bulgaria,BGR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.11813641,current_health_expenditure_gdp
+Bulgaria,BGR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.34086275,current_health_expenditure_gdp
+Bulgaria,BGR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.49624491,current_health_expenditure_gdp
+Bulgaria,BGR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.45975018,current_health_expenditure_gdp
+Bulgaria,BGR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.39363575,current_health_expenditure_gdp
+Burkina Faso,BFA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.35001135,current_health_expenditure_gdp
+Burkina Faso,BFA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.94427681,current_health_expenditure_gdp
+Burkina Faso,BFA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.12075186,current_health_expenditure_gdp
+Burkina Faso,BFA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.95284653,current_health_expenditure_gdp
+Burkina Faso,BFA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.13192415,current_health_expenditure_gdp
+Burundi,BDI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,9.05940628,current_health_expenditure_gdp
+Burundi,BDI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.29396152,current_health_expenditure_gdp
+Burundi,BDI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.95230389,current_health_expenditure_gdp
+Burundi,BDI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.06148243,current_health_expenditure_gdp
+Burundi,BDI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.29044485,current_health_expenditure_gdp
+Cabo Verde,CPV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.82431316,current_health_expenditure_gdp
+Cabo Verde,CPV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.78548193,current_health_expenditure_gdp
+Cabo Verde,CPV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.48070955,current_health_expenditure_gdp
+Cabo Verde,CPV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.36134005,current_health_expenditure_gdp
+Cabo Verde,CPV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.40073681,current_health_expenditure_gdp
+Cambodia,KHM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.05801058,current_health_expenditure_gdp
+Cambodia,KHM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.49707794,current_health_expenditure_gdp
+Cambodia,KHM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.26933241,current_health_expenditure_gdp
+Cambodia,KHM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.49053288,current_health_expenditure_gdp
+Cambodia,KHM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.53898621,current_health_expenditure_gdp
+Cameroon,CMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.65157914,current_health_expenditure_gdp
+Cameroon,CMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.61970162,current_health_expenditure_gdp
+Cameroon,CMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.79293942,current_health_expenditure_gdp
+Cameroon,CMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.02253723,current_health_expenditure_gdp
+Cameroon,CMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.12600517,current_health_expenditure_gdp
+Canada,CAN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,11.04823494,current_health_expenditure_gdp
+Canada,CAN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,10.92262077,current_health_expenditure_gdp
+Canada,CAN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,10.9242115,current_health_expenditure_gdp
+Canada,CAN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,11.05626965,current_health_expenditure_gdp
+Canada,CAN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.76397896,current_health_expenditure_gdp
+Cayman Islands,CYM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Cayman Islands,CYM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Cayman Islands,CYM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Cayman Islands,CYM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Cayman Islands,CYM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Central African Republic,CAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.76081514,current_health_expenditure_gdp
+Central African Republic,CAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,10.99484062,current_health_expenditure_gdp
+Central African Republic,CAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.66541576,current_health_expenditure_gdp
+Central African Republic,CAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.44402313,current_health_expenditure_gdp
+Central African Republic,CAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.03434181,current_health_expenditure_gdp
+Chad,TCD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.38471627,current_health_expenditure_gdp
+Chad,TCD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.2893219,current_health_expenditure_gdp
+Chad,TCD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.51023412,current_health_expenditure_gdp
+Chad,TCD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.70842481,current_health_expenditure_gdp
+Chad,TCD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.40253925,current_health_expenditure_gdp
+Channel Islands,CHI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Channel Islands,CHI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Channel Islands,CHI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Channel Islands,CHI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Channel Islands,CHI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Chile,CHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,9.30968475,current_health_expenditure_gdp
+Chile,CHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,9.15040398,current_health_expenditure_gdp
+Chile,CHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,9.090518,current_health_expenditure_gdp
+Chile,CHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.55767059,current_health_expenditure_gdp
+Chile,CHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.3513937,current_health_expenditure_gdp
+China,CHN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.26516867,current_health_expenditure_gdp
+China,CHN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.06933308,current_health_expenditure_gdp
+China,CHN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.9695034,current_health_expenditure_gdp
+China,CHN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.88338089,current_health_expenditure_gdp
+China,CHN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.85367584,current_health_expenditure_gdp
+Colombia,COL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.83404827,current_health_expenditure_gdp
+Colombia,COL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.71777487,current_health_expenditure_gdp
+Colombia,COL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.67864323,current_health_expenditure_gdp
+Colombia,COL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.53117037,current_health_expenditure_gdp
+Colombia,COL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.52338505,current_health_expenditure_gdp
+Comoros,COM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.18044472,current_health_expenditure_gdp
+Comoros,COM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.90318584,current_health_expenditure_gdp
+Comoros,COM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.26807451,current_health_expenditure_gdp
+Comoros,COM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.65263557,current_health_expenditure_gdp
+Comoros,COM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.60089922,current_health_expenditure_gdp
+"Congo, Dem. Rep.",COD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.508039,current_health_expenditure_gdp
+"Congo, Dem. Rep.",COD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.24127173,current_health_expenditure_gdp
+"Congo, Dem. Rep.",COD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.00057793,current_health_expenditure_gdp
+"Congo, Dem. Rep.",COD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.20027828,current_health_expenditure_gdp
+"Congo, Dem. Rep.",COD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.74785447,current_health_expenditure_gdp
+"Congo, Rep.",COG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.34771276,current_health_expenditure_gdp
+"Congo, Rep.",COG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,1.75584984,current_health_expenditure_gdp
+"Congo, Rep.",COG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.36476016,current_health_expenditure_gdp
+"Congo, Rep.",COG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,2.59422994,current_health_expenditure_gdp
+"Congo, Rep.",COG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,2.45668483,current_health_expenditure_gdp
+Costa Rica,CRI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.2212491,current_health_expenditure_gdp
+Costa Rica,CRI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.28587723,current_health_expenditure_gdp
+Costa Rica,CRI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.04522991,current_health_expenditure_gdp
+Costa Rica,CRI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.31724358,current_health_expenditure_gdp
+Costa Rica,CRI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.59196186,current_health_expenditure_gdp
+Cote d'Ivoire,CIV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.18916845,current_health_expenditure_gdp
+Cote d'Ivoire,CIV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.0916779,current_health_expenditure_gdp
+Cote d'Ivoire,CIV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.24693036,current_health_expenditure_gdp
+Cote d'Ivoire,CIV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.32101274,current_health_expenditure_gdp
+Cote d'Ivoire,CIV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.2198832,current_health_expenditure_gdp
+Croatia,HRV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.78699923,current_health_expenditure_gdp
+Croatia,HRV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.7136178,current_health_expenditure_gdp
+Croatia,HRV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.62803125,current_health_expenditure_gdp
+Croatia,HRV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.69167471,current_health_expenditure_gdp
+Croatia,HRV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.65548038,current_health_expenditure_gdp
+Cuba,CUB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,11.08501148,current_health_expenditure_gdp
+Cuba,CUB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,11.01842499,current_health_expenditure_gdp
+Cuba,CUB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,11.47201538,current_health_expenditure_gdp
+Cuba,CUB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,12.21769619,current_health_expenditure_gdp
+Cuba,CUB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,12.81404305,current_health_expenditure_gdp
+Curacao,CUW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Curacao,CUW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Curacao,CUW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Curacao,CUW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Curacao,CUW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Cyprus,CYP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.99843168,current_health_expenditure_gdp
+Cyprus,CYP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.78446245,current_health_expenditure_gdp
+Cyprus,CYP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.62192535,current_health_expenditure_gdp
+Cyprus,CYP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.65254688,current_health_expenditure_gdp
+Cyprus,CYP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.79382181,current_health_expenditure_gdp
+Czechia,CZE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.48754358,current_health_expenditure_gdp
+Czechia,CZE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.37173605,current_health_expenditure_gdp
+Czechia,CZE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.24190664,current_health_expenditure_gdp
+Czechia,CZE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.32258606,current_health_expenditure_gdp
+Czechia,CZE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.29346752,current_health_expenditure_gdp
+Denmark,DNK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,10.18468761,current_health_expenditure_gdp
+Denmark,DNK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,10.14163208,current_health_expenditure_gdp
+Denmark,DNK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,10.1137991,current_health_expenditure_gdp
+Denmark,DNK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,10.28229332,current_health_expenditure_gdp
+Denmark,DNK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.3754549,current_health_expenditure_gdp
+Djibouti,DJI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.41347837,current_health_expenditure_gdp
+Djibouti,DJI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.530864,current_health_expenditure_gdp
+Djibouti,DJI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.47976375,current_health_expenditure_gdp
+Djibouti,DJI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,2.74166131,current_health_expenditure_gdp
+Djibouti,DJI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.3475771,current_health_expenditure_gdp
+Dominica,DMA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.16903925,current_health_expenditure_gdp
+Dominica,DMA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.18495989,current_health_expenditure_gdp
+Dominica,DMA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.46245432,current_health_expenditure_gdp
+Dominica,DMA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.12308073,current_health_expenditure_gdp
+Dominica,DMA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.15941811,current_health_expenditure_gdp
+Dominican Republic,DOM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.36808872,current_health_expenditure_gdp
+Dominican Republic,DOM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.21765518,current_health_expenditure_gdp
+Dominican Republic,DOM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.44562674,current_health_expenditure_gdp
+Dominican Republic,DOM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.58582401,current_health_expenditure_gdp
+Dominican Republic,DOM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.73534584,current_health_expenditure_gdp
+Ecuador,ECU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.80878448,current_health_expenditure_gdp
+Ecuador,ECU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.83364677,current_health_expenditure_gdp
+Ecuador,ECU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.52484131,current_health_expenditure_gdp
+Ecuador,ECU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.58817482,current_health_expenditure_gdp
+Ecuador,ECU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.76786041,current_health_expenditure_gdp
+"Egypt, Arab Rep.",EGY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.5994668,current_health_expenditure_gdp
+"Egypt, Arab Rep.",EGY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.74892998,current_health_expenditure_gdp
+"Egypt, Arab Rep.",EGY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.34661913,current_health_expenditure_gdp
+"Egypt, Arab Rep.",EGY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.07462406,current_health_expenditure_gdp
+"Egypt, Arab Rep.",EGY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.06153202,current_health_expenditure_gdp
+El Salvador,SLV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.80846119,current_health_expenditure_gdp
+El Salvador,SLV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.322752,current_health_expenditure_gdp
+El Salvador,SLV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.42286873,current_health_expenditure_gdp
+El Salvador,SLV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.71456337,current_health_expenditure_gdp
+El Salvador,SLV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.75833225,current_health_expenditure_gdp
+Equatorial Guinea,GNQ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.27948833,current_health_expenditure_gdp
+Equatorial Guinea,GNQ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.92214823,current_health_expenditure_gdp
+Equatorial Guinea,GNQ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.86121631,current_health_expenditure_gdp
+Equatorial Guinea,GNQ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,2.97177482,current_health_expenditure_gdp
+Equatorial Guinea,GNQ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,2.45693421,current_health_expenditure_gdp
+Eritrea,ERI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.64806461,current_health_expenditure_gdp
+Eritrea,ERI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.24748898,current_health_expenditure_gdp
+Eritrea,ERI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.15359449,current_health_expenditure_gdp
+Eritrea,ERI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.73838949,current_health_expenditure_gdp
+Eritrea,ERI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.50776815,current_health_expenditure_gdp
+Estonia,EST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.64763546,current_health_expenditure_gdp
+Estonia,EST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.56314421,current_health_expenditure_gdp
+Estonia,EST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.46636105,current_health_expenditure_gdp
+Estonia,EST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.56918621,current_health_expenditure_gdp
+Estonia,EST,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.52138662,current_health_expenditure_gdp
+Eswatini,SWZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.40033817,current_health_expenditure_gdp
+Eswatini,SWZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.31937742,current_health_expenditure_gdp
+Eswatini,SWZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.98103714,current_health_expenditure_gdp
+Eswatini,SWZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.82044792,current_health_expenditure_gdp
+Eswatini,SWZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.05855274,current_health_expenditure_gdp
+Ethiopia,ETH,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.24287128,current_health_expenditure_gdp
+Ethiopia,ETH,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.30371761,current_health_expenditure_gdp
+Ethiopia,ETH,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.45336914,current_health_expenditure_gdp
+Ethiopia,ETH,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.60033751,current_health_expenditure_gdp
+Ethiopia,ETH,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.82316828,current_health_expenditure_gdp
+Faroe Islands,FRO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Faroe Islands,FRO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Faroe Islands,FRO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Faroe Islands,FRO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Faroe Islands,FRO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Fiji,FJI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.28229284,current_health_expenditure_gdp
+Fiji,FJI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.10572624,current_health_expenditure_gdp
+Fiji,FJI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.18689561,current_health_expenditure_gdp
+Fiji,FJI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.27979708,current_health_expenditure_gdp
+Fiji,FJI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.32468939,current_health_expenditure_gdp
+Finland,FIN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,9.22295189,current_health_expenditure_gdp
+Finland,FIN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,9.10587025,current_health_expenditure_gdp
+Finland,FIN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,9.19148445,current_health_expenditure_gdp
+Finland,FIN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.45625591,current_health_expenditure_gdp
+Finland,FIN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,9.69998264,current_health_expenditure_gdp
+France,FRA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,11.17058277,current_health_expenditure_gdp
+France,FRA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,11.30847645,current_health_expenditure_gdp
+France,FRA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,11.44944572,current_health_expenditure_gdp
+France,FRA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,11.57036018,current_health_expenditure_gdp
+France,FRA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,11.50032997,current_health_expenditure_gdp
+French Polynesia,PYF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+French Polynesia,PYF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+French Polynesia,PYF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+French Polynesia,PYF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+French Polynesia,PYF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Gabon,GAB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.76837039,current_health_expenditure_gdp
+Gabon,GAB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.75235105,current_health_expenditure_gdp
+Gabon,GAB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.78068876,current_health_expenditure_gdp
+Gabon,GAB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.1076982,current_health_expenditure_gdp
+Gabon,GAB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,2.65743947,current_health_expenditure_gdp
+"Gambia, The",GMB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.14534926,current_health_expenditure_gdp
+"Gambia, The",GMB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.18501234,current_health_expenditure_gdp
+"Gambia, The",GMB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.35449266,current_health_expenditure_gdp
+"Gambia, The",GMB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.19523716,current_health_expenditure_gdp
+"Gambia, The",GMB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.1761291,current_health_expenditure_gdp
+Georgia,GEO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.31291389,current_health_expenditure_gdp
+Georgia,GEO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.75524616,current_health_expenditure_gdp
+Georgia,GEO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.70140266,current_health_expenditure_gdp
+Georgia,GEO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.07258892,current_health_expenditure_gdp
+Georgia,GEO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.6599493,current_health_expenditure_gdp
+Germany,DEU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,11.42805386,current_health_expenditure_gdp
+Germany,DEU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,11.18380833,current_health_expenditure_gdp
+Germany,DEU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,11.05091095,current_health_expenditure_gdp
+Germany,DEU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,10.97133732,current_health_expenditure_gdp
+Germany,DEU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.92317677,current_health_expenditure_gdp
+Ghana,GHA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.25450468,current_health_expenditure_gdp
+Ghana,GHA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.43001175,current_health_expenditure_gdp
+Ghana,GHA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.68786979,current_health_expenditure_gdp
+Ghana,GHA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.39035821,current_health_expenditure_gdp
+Ghana,GHA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.54299259,current_health_expenditure_gdp
+Gibraltar,GIB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Gibraltar,GIB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Gibraltar,GIB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Gibraltar,GIB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Gibraltar,GIB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Greece,GRC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.11709499,current_health_expenditure_gdp
+Greece,GRC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.07267761,current_health_expenditure_gdp
+Greece,GRC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.11336899,current_health_expenditure_gdp
+Greece,GRC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.45097542,current_health_expenditure_gdp
+Greece,GRC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.26719952,current_health_expenditure_gdp
+Greenland,GRL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Greenland,GRL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Greenland,GRL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Greenland,GRL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Greenland,GRL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Grenada,GRD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.93189621,current_health_expenditure_gdp
+Grenada,GRD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.58373737,current_health_expenditure_gdp
+Grenada,GRD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.65701056,current_health_expenditure_gdp
+Grenada,GRD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.43910027,current_health_expenditure_gdp
+Grenada,GRD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.64675617,current_health_expenditure_gdp
+Guam,GUM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Guam,GUM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Guam,GUM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Guam,GUM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Guam,GUM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Guatemala,GTM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.17443275,current_health_expenditure_gdp
+Guatemala,GTM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.10662699,current_health_expenditure_gdp
+Guatemala,GTM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.13563824,current_health_expenditure_gdp
+Guatemala,GTM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.07008219,current_health_expenditure_gdp
+Guatemala,GTM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.00602007,current_health_expenditure_gdp
+Guinea,GIN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.08876228,current_health_expenditure_gdp
+Guinea,GIN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.73843002,current_health_expenditure_gdp
+Guinea,GIN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.91512728,current_health_expenditure_gdp
+Guinea,GIN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.39694929,current_health_expenditure_gdp
+Guinea,GIN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.80919266,current_health_expenditure_gdp
+Guinea-Bissau,GNB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.14602089,current_health_expenditure_gdp
+Guinea-Bissau,GNB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.28164959,current_health_expenditure_gdp
+Guinea-Bissau,GNB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.00049543,current_health_expenditure_gdp
+Guinea-Bissau,GNB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.32881451,current_health_expenditure_gdp
+Guinea-Bissau,GNB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.13228226,current_health_expenditure_gdp
+Guyana,GUY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.90331507,current_health_expenditure_gdp
+Guyana,GUY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.90492535,current_health_expenditure_gdp
+Guyana,GUY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.3191123,current_health_expenditure_gdp
+Guyana,GUY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.01842117,current_health_expenditure_gdp
+Guyana,GUY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.02264786,current_health_expenditure_gdp
+Haiti,HTI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.91107917,current_health_expenditure_gdp
+Haiti,HTI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.31650305,current_health_expenditure_gdp
+Haiti,HTI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.8199389,current_health_expenditure_gdp
+Haiti,HTI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.80760574,current_health_expenditure_gdp
+Haiti,HTI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.07518148,current_health_expenditure_gdp
+Honduras,HND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.34316635,current_health_expenditure_gdp
+Honduras,HND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.22820663,current_health_expenditure_gdp
+Honduras,HND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.00668859,current_health_expenditure_gdp
+Honduras,HND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.709445,current_health_expenditure_gdp
+Honduras,HND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.4837904,current_health_expenditure_gdp
+"Hong Kong SAR, China",HKG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+"Hong Kong SAR, China",HKG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+"Hong Kong SAR, China",HKG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+"Hong Kong SAR, China",HKG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+"Hong Kong SAR, China",HKG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Hungary,HUN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.24677849,current_health_expenditure_gdp
+Hungary,HUN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.55460501,current_health_expenditure_gdp
+Hungary,HUN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.73338366,current_health_expenditure_gdp
+Hungary,HUN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.96752644,current_health_expenditure_gdp
+Hungary,HUN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.8501935,current_health_expenditure_gdp
+Iceland,ISL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.63996315,current_health_expenditure_gdp
+Iceland,ISL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.43817616,current_health_expenditure_gdp
+Iceland,ISL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.3243084,current_health_expenditure_gdp
+Iceland,ISL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.15569115,current_health_expenditure_gdp
+Iceland,ISL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.13121986,current_health_expenditure_gdp
+India,IND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.95299792,current_health_expenditure_gdp
+India,IND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.8584938,current_health_expenditure_gdp
+India,IND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.93597651,current_health_expenditure_gdp
+India,IND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.50430417,current_health_expenditure_gdp
+India,IND,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.59565973,current_health_expenditure_gdp
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.87862897,current_health_expenditure_gdp
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.86757827,current_health_expenditure_gdp
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.90417194,current_health_expenditure_gdp
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.02147198,current_health_expenditure_gdp
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,2.92428517,current_health_expenditure_gdp
+"Iran, Islamic Rep.",IRN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.23426771,current_health_expenditure_gdp
+"Iran, Islamic Rep.",IRN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.63571692,current_health_expenditure_gdp
+"Iran, Islamic Rep.",IRN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.71801233,current_health_expenditure_gdp
+"Iran, Islamic Rep.",IRN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.80285025,current_health_expenditure_gdp
+"Iran, Islamic Rep.",IRN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.38232708,current_health_expenditure_gdp
+Iraq,IRQ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.207232,current_health_expenditure_gdp
+Iraq,IRQ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.07600641,current_health_expenditure_gdp
+Iraq,IRQ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.08944416,current_health_expenditure_gdp
+Iraq,IRQ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.57253027,current_health_expenditure_gdp
+Iraq,IRQ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.15587044,current_health_expenditure_gdp
+Ireland,IRL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.61860561,current_health_expenditure_gdp
+Ireland,IRL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.74710846,current_health_expenditure_gdp
+Ireland,IRL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.91718578,current_health_expenditure_gdp
+Ireland,IRL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.3382206,current_health_expenditure_gdp
+Ireland,IRL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.07827806,current_health_expenditure_gdp
+Isle of Man,IMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Isle of Man,IMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Isle of Man,IMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Isle of Man,IMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Isle of Man,IMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Israel,ISR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.20701885,current_health_expenditure_gdp
+Israel,ISR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.23550367,current_health_expenditure_gdp
+Israel,ISR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.17189407,current_health_expenditure_gdp
+Israel,ISR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.09919167,current_health_expenditure_gdp
+Israel,ISR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.02090645,current_health_expenditure_gdp
+Italy,ITA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.61536789,current_health_expenditure_gdp
+Italy,ITA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.65467453,current_health_expenditure_gdp
+Italy,ITA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.69060516,current_health_expenditure_gdp
+Italy,ITA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.72043991,current_health_expenditure_gdp
+Italy,ITA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.84596729,current_health_expenditure_gdp
+Jamaica,JAM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.96945572,current_health_expenditure_gdp
+Jamaica,JAM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.83884478,current_health_expenditure_gdp
+Jamaica,JAM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.98476934,current_health_expenditure_gdp
+Jamaica,JAM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.5901823,current_health_expenditure_gdp
+Jamaica,JAM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.61477137,current_health_expenditure_gdp
+Japan,JPN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,10.96998405,current_health_expenditure_gdp
+Japan,JPN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,10.73988247,current_health_expenditure_gdp
+Japan,JPN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,10.65627098,current_health_expenditure_gdp
+Japan,JPN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,10.65891552,current_health_expenditure_gdp
+Japan,JPN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.74969959,current_health_expenditure_gdp
+Jordan,JOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.07244635,current_health_expenditure_gdp
+Jordan,JOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.98295021,current_health_expenditure_gdp
+Jordan,JOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.10953665,current_health_expenditure_gdp
+Jordan,JOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.97644138,current_health_expenditure_gdp
+Jordan,JOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.4609561,current_health_expenditure_gdp
+Kazakhstan,KAZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.87143755,current_health_expenditure_gdp
+Kazakhstan,KAZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.90062451,current_health_expenditure_gdp
+Kazakhstan,KAZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.0524447,current_health_expenditure_gdp
+Kazakhstan,KAZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.42235589,current_health_expenditure_gdp
+Kazakhstan,KAZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.04051113,current_health_expenditure_gdp
+Kenya,KEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.36874676,current_health_expenditure_gdp
+Kenya,KEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.09903383,current_health_expenditure_gdp
+Kenya,KEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.98597503,current_health_expenditure_gdp
+Kenya,KEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.75429106,current_health_expenditure_gdp
+Kenya,KEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.76439571,current_health_expenditure_gdp
+Kiribati,KIR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,10.16600227,current_health_expenditure_gdp
+Kiribati,KIR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,10.89694214,current_health_expenditure_gdp
+Kiribati,KIR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,9.68424225,current_health_expenditure_gdp
+Kiribati,KIR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.04265118,current_health_expenditure_gdp
+Kiribati,KIR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.21568632,current_health_expenditure_gdp
+"Korea, Dem. People's Rep.",PRK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+"Korea, Dem. People's Rep.",PRK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+"Korea, Dem. People's Rep.",PRK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+"Korea, Dem. People's Rep.",PRK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+"Korea, Dem. People's Rep.",PRK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+"Korea, Rep.",KOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.69397116,current_health_expenditure_gdp
+"Korea, Rep.",KOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.14222002,current_health_expenditure_gdp
+"Korea, Rep.",KOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.79827499,current_health_expenditure_gdp
+"Korea, Rep.",KOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.6356945,current_health_expenditure_gdp
+"Korea, Rep.",KOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.46202612,current_health_expenditure_gdp
+Kosovo,XKX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Kosovo,XKX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Kosovo,XKX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Kosovo,XKX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Kosovo,XKX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Kuwait,KWT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.18200397,current_health_expenditure_gdp
+Kuwait,KWT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.17201853,current_health_expenditure_gdp
+Kuwait,KWT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.65326786,current_health_expenditure_gdp
+Kuwait,KWT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.73096323,current_health_expenditure_gdp
+Kuwait,KWT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.21497965,current_health_expenditure_gdp
+Kyrgyz Republic,KGZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.25461817,current_health_expenditure_gdp
+Kyrgyz Republic,KGZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.01030922,current_health_expenditure_gdp
+Kyrgyz Republic,KGZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.18586349,current_health_expenditure_gdp
+Kyrgyz Republic,KGZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.41248226,current_health_expenditure_gdp
+Kyrgyz Republic,KGZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.14930916,current_health_expenditure_gdp
+Lao PDR,LAO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.60312223,current_health_expenditure_gdp
+Lao PDR,LAO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.24630046,current_health_expenditure_gdp
+Lao PDR,LAO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.52606821,current_health_expenditure_gdp
+Lao PDR,LAO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,2.36087489,current_health_expenditure_gdp
+Lao PDR,LAO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,2.45366454,current_health_expenditure_gdp
+Latvia,LVA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.86276913,current_health_expenditure_gdp
+Latvia,LVA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.40854263,current_health_expenditure_gdp
+Latvia,LVA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.18721867,current_health_expenditure_gdp
+Latvia,LVA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.35184479,current_health_expenditure_gdp
+Latvia,LVA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.84916782,current_health_expenditure_gdp
+Lebanon,LBN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.68533897,current_health_expenditure_gdp
+Lebanon,LBN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.07031727,current_health_expenditure_gdp
+Lebanon,LBN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.80357552,current_health_expenditure_gdp
+Lebanon,LBN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.92344952,current_health_expenditure_gdp
+Lebanon,LBN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.41596651,current_health_expenditure_gdp
+Lesotho,LSO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,21.92373085,current_health_expenditure_gdp
+Lesotho,LSO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,11.12637329,current_health_expenditure_gdp
+Lesotho,LSO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,10.52956581,current_health_expenditure_gdp
+Lesotho,LSO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.19744301,current_health_expenditure_gdp
+Lesotho,LSO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,9.25280476,current_health_expenditure_gdp
+Liberia,LBR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.38325977,current_health_expenditure_gdp
+Liberia,LBR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,10.43527889,current_health_expenditure_gdp
+Liberia,LBR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,9.91087437,current_health_expenditure_gdp
+Liberia,LBR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.88514519,current_health_expenditure_gdp
+Liberia,LBR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.38244438,current_health_expenditure_gdp
+Libya,LBY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.54773426,current_health_expenditure_gdp
+Libya,LBY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.86648417,current_health_expenditure_gdp
+Libya,LBY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.67685318,current_health_expenditure_gdp
+Libya,LBY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.17178679,current_health_expenditure_gdp
+Libya,LBY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.80638647,current_health_expenditure_gdp
+Liechtenstein,LIE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.78483772,current_health_expenditure_gdp
+Liechtenstein,LIE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.54688025,current_health_expenditure_gdp
+Liechtenstein,LIE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.67968512,current_health_expenditure_gdp
+Liechtenstein,LIE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.85200214,current_health_expenditure_gdp
+Liechtenstein,LIE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.75139189,current_health_expenditure_gdp
+Lithuania,LTU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.94472647,current_health_expenditure_gdp
+Lithuania,LTU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.46896172,current_health_expenditure_gdp
+Lithuania,LTU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.44472837,current_health_expenditure_gdp
+Lithuania,LTU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.64928818,current_health_expenditure_gdp
+Lithuania,LTU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.47396851,current_health_expenditure_gdp
+Luxembourg,LUX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.46640301,current_health_expenditure_gdp
+Luxembourg,LUX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.27355194,current_health_expenditure_gdp
+Luxembourg,LUX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.13535357,current_health_expenditure_gdp
+Luxembourg,LUX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.07103872,current_health_expenditure_gdp
+Luxembourg,LUX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.08113575,current_health_expenditure_gdp
+"Macao SAR, China",MAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+"Macao SAR, China",MAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+"Macao SAR, China",MAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+"Macao SAR, China",MAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+"Macao SAR, China",MAC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Madagascar,MDG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.10129309,current_health_expenditure_gdp
+Madagascar,MDG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.22160387,current_health_expenditure_gdp
+Madagascar,MDG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.80225945,current_health_expenditure_gdp
+Madagascar,MDG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.33248854,current_health_expenditure_gdp
+Madagascar,MDG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.0062542,current_health_expenditure_gdp
+Malawi,MWI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.37021732,current_health_expenditure_gdp
+Malawi,MWI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.88249922,current_health_expenditure_gdp
+Malawi,MWI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.58438921,current_health_expenditure_gdp
+Malawi,MWI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.72703791,current_health_expenditure_gdp
+Malawi,MWI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.62879086,current_health_expenditure_gdp
+Malaysia,MYS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.83991051,current_health_expenditure_gdp
+Malaysia,MYS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.75944281,current_health_expenditure_gdp
+Malaysia,MYS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.71472311,current_health_expenditure_gdp
+Malaysia,MYS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.70085335,current_health_expenditure_gdp
+Malaysia,MYS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.82201481,current_health_expenditure_gdp
+Maldives,MDV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.50238085,current_health_expenditure_gdp
+Maldives,MDV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.2940383,current_health_expenditure_gdp
+Maldives,MDV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,9.14948273,current_health_expenditure_gdp
+Maldives,MDV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,10.23337078,current_health_expenditure_gdp
+Maldives,MDV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.68310642,current_health_expenditure_gdp
+Mali,MLI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.82943797,current_health_expenditure_gdp
+Mali,MLI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.73251104,current_health_expenditure_gdp
+Mali,MLI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.67425752,current_health_expenditure_gdp
+Mali,MLI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.77377558,current_health_expenditure_gdp
+Mali,MLI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.11143351,current_health_expenditure_gdp
+Malta,MLT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.89282227,current_health_expenditure_gdp
+Malta,MLT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.11269569,current_health_expenditure_gdp
+Malta,MLT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.31366253,current_health_expenditure_gdp
+Malta,MLT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.69928074,current_health_expenditure_gdp
+Malta,MLT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.70199776,current_health_expenditure_gdp
+Marshall Islands,MHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,14.98994541,current_health_expenditure_gdp
+Marshall Islands,MHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,14.46723938,current_health_expenditure_gdp
+Marshall Islands,MHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,12.02498436,current_health_expenditure_gdp
+Marshall Islands,MHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,14.62816238,current_health_expenditure_gdp
+Marshall Islands,MHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,14.78209972,current_health_expenditure_gdp
+Mauritania,MRT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.09176588,current_health_expenditure_gdp
+Mauritania,MRT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.88362551,current_health_expenditure_gdp
+Mauritania,MRT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.41947556,current_health_expenditure_gdp
+Mauritania,MRT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.18699503,current_health_expenditure_gdp
+Mauritania,MRT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.67363763,current_health_expenditure_gdp
+Mauritius,MUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.69508171,current_health_expenditure_gdp
+Mauritius,MUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.60310221,current_health_expenditure_gdp
+Mauritius,MUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.59857273,current_health_expenditure_gdp
+Mauritius,MUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.54289532,current_health_expenditure_gdp
+Mauritius,MUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.55042362,current_health_expenditure_gdp
+Mexico,MEX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.3013463,current_health_expenditure_gdp
+Mexico,MEX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.23821402,current_health_expenditure_gdp
+Mexico,MEX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.3117938,current_health_expenditure_gdp
+Mexico,MEX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.38499022,current_health_expenditure_gdp
+Mexico,MEX,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.52738619,current_health_expenditure_gdp
+"Micronesia, Fed. Sts.",FSM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,11.87363148,current_health_expenditure_gdp
+"Micronesia, Fed. Sts.",FSM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,11.93961334,current_health_expenditure_gdp
+"Micronesia, Fed. Sts.",FSM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,12.40742493,current_health_expenditure_gdp
+"Micronesia, Fed. Sts.",FSM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,13.33481121,current_health_expenditure_gdp
+"Micronesia, Fed. Sts.",FSM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,12.62341213,current_health_expenditure_gdp
+Moldova,MDA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.49662447,current_health_expenditure_gdp
+Moldova,MDA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.70760345,current_health_expenditure_gdp
+Moldova,MDA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.1278038,current_health_expenditure_gdp
+Moldova,MDA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.62106228,current_health_expenditure_gdp
+Moldova,MDA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.50013351,current_health_expenditure_gdp
+Monaco,MCO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.87993813,current_health_expenditure_gdp
+Monaco,MCO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.04786777,current_health_expenditure_gdp
+Monaco,MCO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.16119528,current_health_expenditure_gdp
+Monaco,MCO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.1231184,current_health_expenditure_gdp
+Monaco,MCO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.31486797,current_health_expenditure_gdp
+Mongolia,MNG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.49497986,current_health_expenditure_gdp
+Mongolia,MNG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.53449297,current_health_expenditure_gdp
+Mongolia,MNG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.33954191,current_health_expenditure_gdp
+Mongolia,MNG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.58008575,current_health_expenditure_gdp
+Mongolia,MNG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.23154545,current_health_expenditure_gdp
+Montenegro,MNE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.32983208,current_health_expenditure_gdp
+Montenegro,MNE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.34355545,current_health_expenditure_gdp
+Montenegro,MNE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.98255396,current_health_expenditure_gdp
+Montenegro,MNE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.63302994,current_health_expenditure_gdp
+Montenegro,MNE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,9.02188778,current_health_expenditure_gdp
+Morocco,MAR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.020401,current_health_expenditure_gdp
+Morocco,MAR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.94516659,current_health_expenditure_gdp
+Morocco,MAR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.98920393,current_health_expenditure_gdp
+Morocco,MAR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.09203386,current_health_expenditure_gdp
+Morocco,MAR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.10435581,current_health_expenditure_gdp
+Mozambique,MOZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.90207434,current_health_expenditure_gdp
+Mozambique,MOZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.97903347,current_health_expenditure_gdp
+Mozambique,MOZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.80532169,current_health_expenditure_gdp
+Mozambique,MOZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.21501875,current_health_expenditure_gdp
+Mozambique,MOZ,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.60972881,current_health_expenditure_gdp
+Myanmar,MMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.814466,current_health_expenditure_gdp
+Myanmar,MMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.53514671,current_health_expenditure_gdp
+Myanmar,MMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.6921258,current_health_expenditure_gdp
+Myanmar,MMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.76220942,current_health_expenditure_gdp
+Myanmar,MMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.19711542,current_health_expenditure_gdp
+Namibia,NAM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.85805798,current_health_expenditure_gdp
+Namibia,NAM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.62148285,current_health_expenditure_gdp
+Namibia,NAM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.71348476,current_health_expenditure_gdp
+Namibia,NAM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.32231045,current_health_expenditure_gdp
+Namibia,NAM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,9.98106289,current_health_expenditure_gdp
+Nauru,NRU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,11.56155682,current_health_expenditure_gdp
+Nauru,NRU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,11.09015656,current_health_expenditure_gdp
+Nauru,NRU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,11.4886446,current_health_expenditure_gdp
+Nauru,NRU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,10.95251656,current_health_expenditure_gdp
+Nauru,NRU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,13.91331863,current_health_expenditure_gdp
+Nepal,NPL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.44524717,current_health_expenditure_gdp
+Nepal,NPL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.52845383,current_health_expenditure_gdp
+Nepal,NPL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.72174025,current_health_expenditure_gdp
+Nepal,NPL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.42378998,current_health_expenditure_gdp
+Nepal,NPL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.46615553,current_health_expenditure_gdp
+Netherlands,NLD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,9.93616295,current_health_expenditure_gdp
+Netherlands,NLD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,9.85083961,current_health_expenditure_gdp
+Netherlands,NLD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,9.93712521,current_health_expenditure_gdp
+Netherlands,NLD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.89148426,current_health_expenditure_gdp
+Netherlands,NLD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.18857956,current_health_expenditure_gdp
+New Caledonia,NCL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+New Caledonia,NCL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+New Caledonia,NCL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+New Caledonia,NCL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+New Caledonia,NCL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+New Zealand,NZL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.61898708,current_health_expenditure_gdp
+New Zealand,NZL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.56966972,current_health_expenditure_gdp
+New Zealand,NZL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.61795807,current_health_expenditure_gdp
+New Zealand,NZL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.76869011,current_health_expenditure_gdp
+New Zealand,NZL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.88920593,current_health_expenditure_gdp
+Nicaragua,NIC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.50037098,current_health_expenditure_gdp
+Nicaragua,NIC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.4993515,current_health_expenditure_gdp
+Nicaragua,NIC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.32754421,current_health_expenditure_gdp
+Nicaragua,NIC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.04877567,current_health_expenditure_gdp
+Nicaragua,NIC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.96303272,current_health_expenditure_gdp
+Niger,NER,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.66642094,current_health_expenditure_gdp
+Niger,NER,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.30310822,current_health_expenditure_gdp
+Niger,NER,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.57609606,current_health_expenditure_gdp
+Niger,NER,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.53239059,current_health_expenditure_gdp
+Niger,NER,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.34745932,current_health_expenditure_gdp
+Nigeria,NGA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.98547053,current_health_expenditure_gdp
+Nigeria,NGA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.09069347,current_health_expenditure_gdp
+Nigeria,NGA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.74762511,current_health_expenditure_gdp
+Nigeria,NGA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.64773679,current_health_expenditure_gdp
+Nigeria,NGA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.58194995,current_health_expenditure_gdp
+North Macedonia,MKD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.06654119,current_health_expenditure_gdp
+North Macedonia,MKD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.45699358,current_health_expenditure_gdp
+North Macedonia,MKD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.43909454,current_health_expenditure_gdp
+North Macedonia,MKD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.37943363,current_health_expenditure_gdp
+North Macedonia,MKD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.34227896,current_health_expenditure_gdp
+Northern Mariana Islands,MNP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Northern Mariana Islands,MNP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Northern Mariana Islands,MNP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Northern Mariana Islands,MNP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Northern Mariana Islands,MNP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Norway,NOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,10.43807507,current_health_expenditure_gdp
+Norway,NOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,9.96037865,current_health_expenditure_gdp
+Norway,NOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,10.22983646,current_health_expenditure_gdp
+Norway,NOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,10.53049755,current_health_expenditure_gdp
+Norway,NOR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.06992245,current_health_expenditure_gdp
+Oman,OMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.80648994,current_health_expenditure_gdp
+Oman,OMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.21469474,current_health_expenditure_gdp
+Oman,OMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.95418668,current_health_expenditure_gdp
+Oman,OMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.17580843,current_health_expenditure_gdp
+Oman,OMN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.07826233,current_health_expenditure_gdp
+Pakistan,PAK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.84736943,current_health_expenditure_gdp
+Pakistan,PAK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.82844949,current_health_expenditure_gdp
+Pakistan,PAK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.7863009,current_health_expenditure_gdp
+Pakistan,PAK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,2.57026362,current_health_expenditure_gdp
+Pakistan,PAK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,2.49493265,current_health_expenditure_gdp
+Palau,PLW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,12.17405796,current_health_expenditure_gdp
+Palau,PLW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,11.19109821,current_health_expenditure_gdp
+Palau,PLW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,10.90419006,current_health_expenditure_gdp
+Palau,PLW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,10.01226997,current_health_expenditure_gdp
+Palau,PLW,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,9.76325321,current_health_expenditure_gdp
+Panama,PAN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.13541794,current_health_expenditure_gdp
+Panama,PAN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.60132933,current_health_expenditure_gdp
+Panama,PAN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.16492653,current_health_expenditure_gdp
+Panama,PAN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.09378099,current_health_expenditure_gdp
+Panama,PAN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.93698502,current_health_expenditure_gdp
+Papua New Guinea,PNG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.3253386,current_health_expenditure_gdp
+Papua New Guinea,PNG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.30051899,current_health_expenditure_gdp
+Papua New Guinea,PNG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.22970986,current_health_expenditure_gdp
+Papua New Guinea,PNG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,2.33063054,current_health_expenditure_gdp
+Papua New Guinea,PNG,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,1.81881714,current_health_expenditure_gdp
+Paraguay,PRY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.16081905,current_health_expenditure_gdp
+Paraguay,PRY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.74497652,current_health_expenditure_gdp
+Paraguay,PRY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.60902548,current_health_expenditure_gdp
+Paraguay,PRY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.67556572,current_health_expenditure_gdp
+Paraguay,PRY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.69165802,current_health_expenditure_gdp
+Peru,PER,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.12525272,current_health_expenditure_gdp
+Peru,PER,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.0835557,current_health_expenditure_gdp
+Peru,PER,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.80915499,current_health_expenditure_gdp
+Peru,PER,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.89353323,current_health_expenditure_gdp
+Peru,PER,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.90453625,current_health_expenditure_gdp
+Philippines,PHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.16646004,current_health_expenditure_gdp
+Philippines,PHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.9538188,current_health_expenditure_gdp
+Philippines,PHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.96042776,current_health_expenditure_gdp
+Philippines,PHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.95484328,current_health_expenditure_gdp
+Philippines,PHL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.8982749,current_health_expenditure_gdp
+Poland,POL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.38906956,current_health_expenditure_gdp
+Poland,POL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.25094128,current_health_expenditure_gdp
+Poland,POL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.53713226,current_health_expenditure_gdp
+Poland,POL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.5470438,current_health_expenditure_gdp
+Poland,POL,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.36490345,current_health_expenditure_gdp
+Portugal,PRT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,9.50868607,current_health_expenditure_gdp
+Portugal,PRT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,9.42121029,current_health_expenditure_gdp
+Portugal,PRT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,9.32668972,current_health_expenditure_gdp
+Portugal,PRT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.39989281,current_health_expenditure_gdp
+Portugal,PRT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,9.33309937,current_health_expenditure_gdp
+Puerto Rico (US),PRI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Puerto Rico (US),PRI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Puerto Rico (US),PRI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Puerto Rico (US),PRI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Puerto Rico (US),PRI,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Qatar,QAT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.18468714,current_health_expenditure_gdp
+Qatar,QAT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.96176219,current_health_expenditure_gdp
+Qatar,QAT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.21237087,current_health_expenditure_gdp
+Qatar,QAT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.54971433,current_health_expenditure_gdp
+Qatar,QAT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.63581347,current_health_expenditure_gdp
+Romania,ROU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.69924641,current_health_expenditure_gdp
+Romania,ROU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.51454878,current_health_expenditure_gdp
+Romania,ROU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.18878555,current_health_expenditure_gdp
+Romania,ROU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.08012772,current_health_expenditure_gdp
+Romania,ROU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.94292021,current_health_expenditure_gdp
+Russian Federation,RUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.64849091,current_health_expenditure_gdp
+Russian Federation,RUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.35520792,current_health_expenditure_gdp
+Russian Federation,RUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.35890055,current_health_expenditure_gdp
+Russian Federation,RUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.28970337,current_health_expenditure_gdp
+Russian Federation,RUS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.29604626,current_health_expenditure_gdp
+Rwanda,RWA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.91471481,current_health_expenditure_gdp
+Rwanda,RWA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.45722818,current_health_expenditure_gdp
+Rwanda,RWA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.37623835,current_health_expenditure_gdp
+Rwanda,RWA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.968925,current_health_expenditure_gdp
+Rwanda,RWA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.65061283,current_health_expenditure_gdp
+Samoa,WSM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.64761591,current_health_expenditure_gdp
+Samoa,WSM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.77525806,current_health_expenditure_gdp
+Samoa,WSM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.16343021,current_health_expenditure_gdp
+Samoa,WSM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.63959885,current_health_expenditure_gdp
+Samoa,WSM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.01321936,current_health_expenditure_gdp
+San Marino,SMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.14801598,current_health_expenditure_gdp
+San Marino,SMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.2778492,current_health_expenditure_gdp
+San Marino,SMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.25972271,current_health_expenditure_gdp
+San Marino,SMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.4219532,current_health_expenditure_gdp
+San Marino,SMR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.43315315,current_health_expenditure_gdp
+Sao Tome and Principe,STP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.48078823,current_health_expenditure_gdp
+Sao Tome and Principe,STP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.91960287,current_health_expenditure_gdp
+Sao Tome and Principe,STP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.46631384,current_health_expenditure_gdp
+Sao Tome and Principe,STP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.60211611,current_health_expenditure_gdp
+Sao Tome and Principe,STP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.53226852,current_health_expenditure_gdp
+Saudi Arabia,SAU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.46743011,current_health_expenditure_gdp
+Saudi Arabia,SAU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.34063101,current_health_expenditure_gdp
+Saudi Arabia,SAU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.03126049,current_health_expenditure_gdp
+Saudi Arabia,SAU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.24142838,current_health_expenditure_gdp
+Saudi Arabia,SAU,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.8620224,current_health_expenditure_gdp
+Senegal,SEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.49531031,current_health_expenditure_gdp
+Senegal,SEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.43182087,current_health_expenditure_gdp
+Senegal,SEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.16359377,current_health_expenditure_gdp
+Senegal,SEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.25606871,current_health_expenditure_gdp
+Senegal,SEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.37789631,current_health_expenditure_gdp
+Serbia,SRB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.28762531,current_health_expenditure_gdp
+Serbia,SRB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.18469906,current_health_expenditure_gdp
+Serbia,SRB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.89965153,current_health_expenditure_gdp
+Serbia,SRB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.15184307,current_health_expenditure_gdp
+Serbia,SRB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.46289921,current_health_expenditure_gdp
+Seychelles,SYC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.25269794,current_health_expenditure_gdp
+Seychelles,SYC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.41706038,current_health_expenditure_gdp
+Seychelles,SYC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.47661018,current_health_expenditure_gdp
+Seychelles,SYC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.71349716,current_health_expenditure_gdp
+Seychelles,SYC,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.24428654,current_health_expenditure_gdp
+Sierra Leone,SLE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.7052846,current_health_expenditure_gdp
+Sierra Leone,SLE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.29927444,current_health_expenditure_gdp
+Sierra Leone,SLE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.00532055,current_health_expenditure_gdp
+Sierra Leone,SLE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,10.05438519,current_health_expenditure_gdp
+Sierra Leone,SLE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,12.3831234,current_health_expenditure_gdp
+Singapore,SGP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.40746737,current_health_expenditure_gdp
+Singapore,SGP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.07275724,current_health_expenditure_gdp
+Singapore,SGP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.35978413,current_health_expenditure_gdp
+Singapore,SGP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.37989521,current_health_expenditure_gdp
+Singapore,SGP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.18061399,current_health_expenditure_gdp
+Sint Maarten (Dutch part),SXM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Sint Maarten (Dutch part),SXM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Sint Maarten (Dutch part),SXM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Sint Maarten (Dutch part),SXM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Sint Maarten (Dutch part),SXM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Slovak Republic,SVK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.91102982,current_health_expenditure_gdp
+Slovak Republic,SVK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.63677502,current_health_expenditure_gdp
+Slovak Republic,SVK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.73388767,current_health_expenditure_gdp
+Slovak Republic,SVK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.06081343,current_health_expenditure_gdp
+Slovak Republic,SVK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.74109745,current_health_expenditure_gdp
+Slovenia,SVN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.56564522,current_health_expenditure_gdp
+Slovenia,SVN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.35228634,current_health_expenditure_gdp
+Slovenia,SVN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.2588892,current_health_expenditure_gdp
+Slovenia,SVN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.5691185,current_health_expenditure_gdp
+Slovenia,SVN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.57742882,current_health_expenditure_gdp
+Solomon Islands,SLB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.43728065,current_health_expenditure_gdp
+Solomon Islands,SLB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.86440825,current_health_expenditure_gdp
+Solomon Islands,SLB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.16556406,current_health_expenditure_gdp
+Solomon Islands,SLB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.52952909,current_health_expenditure_gdp
+Solomon Islands,SLB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.45310211,current_health_expenditure_gdp
+"Somalia, Fed. Rep.",SOM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.40617251,current_health_expenditure_gdp
+"Somalia, Fed. Rep.",SOM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.50873256,current_health_expenditure_gdp
+"Somalia, Fed. Rep.",SOM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.44348097,current_health_expenditure_gdp
+"Somalia, Fed. Rep.",SOM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,2.2842648,current_health_expenditure_gdp
+"Somalia, Fed. Rep.",SOM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,2.94074512,current_health_expenditure_gdp
+South Africa,ZAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.24652863,current_health_expenditure_gdp
+South Africa,ZAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.0819664,current_health_expenditure_gdp
+South Africa,ZAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.97711372,current_health_expenditure_gdp
+South Africa,ZAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.07959366,current_health_expenditure_gdp
+South Africa,ZAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.05304241,current_health_expenditure_gdp
+South Sudan,SSD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,9.06570053,current_health_expenditure_gdp
+South Sudan,SSD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,11.69539356,current_health_expenditure_gdp
+South Sudan,SSD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,22.11322403,current_health_expenditure_gdp
+South Sudan,SSD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+South Sudan,SSD,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Spain,ESP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,9.21539497,current_health_expenditure_gdp
+Spain,ESP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,9.07122517,current_health_expenditure_gdp
+Spain,ESP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,9.0217495,current_health_expenditure_gdp
+Spain,ESP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.88084984,current_health_expenditure_gdp
+Spain,ESP,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,9.17553329,current_health_expenditure_gdp
+Sri Lanka,LKA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.70119572,current_health_expenditure_gdp
+Sri Lanka,LKA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.6418879,current_health_expenditure_gdp
+Sri Lanka,LKA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.33093429,current_health_expenditure_gdp
+Sri Lanka,LKA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.61788416,current_health_expenditure_gdp
+Sri Lanka,LKA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.6826396,current_health_expenditure_gdp
+St. Kitts and Nevis,KNA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.19201469,current_health_expenditure_gdp
+St. Kitts and Nevis,KNA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.89670897,current_health_expenditure_gdp
+St. Kitts and Nevis,KNA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.2735939,current_health_expenditure_gdp
+St. Kitts and Nevis,KNA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.42923307,current_health_expenditure_gdp
+St. Kitts and Nevis,KNA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.12752008,current_health_expenditure_gdp
+St. Lucia,LCA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.290905,current_health_expenditure_gdp
+St. Lucia,LCA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.27262402,current_health_expenditure_gdp
+St. Lucia,LCA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.45561934,current_health_expenditure_gdp
+St. Lucia,LCA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.51095486,current_health_expenditure_gdp
+St. Lucia,LCA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.57866001,current_health_expenditure_gdp
+St. Martin (French part),MAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+St. Martin (French part),MAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+St. Martin (French part),MAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+St. Martin (French part),MAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+St. Martin (French part),MAF,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+St. Vincent and the Grenadines,VCT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.26063251,current_health_expenditure_gdp
+St. Vincent and the Grenadines,VCT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.25346231,current_health_expenditure_gdp
+St. Vincent and the Grenadines,VCT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.23171329,current_health_expenditure_gdp
+St. Vincent and the Grenadines,VCT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.09760141,current_health_expenditure_gdp
+St. Vincent and the Grenadines,VCT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.11605787,current_health_expenditure_gdp
+Sudan,SDN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.59967566,current_health_expenditure_gdp
+Sudan,SDN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.46172857,current_health_expenditure_gdp
+Sudan,SDN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.91767406,current_health_expenditure_gdp
+Sudan,SDN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.68438482,current_health_expenditure_gdp
+Sudan,SDN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.81112576,current_health_expenditure_gdp
+Suriname,SUR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,8.38353634,current_health_expenditure_gdp
+Suriname,SUR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.60567093,current_health_expenditure_gdp
+Suriname,SUR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.32285929,current_health_expenditure_gdp
+Suriname,SUR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.99283743,current_health_expenditure_gdp
+Suriname,SUR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.80808163,current_health_expenditure_gdp
+Sweden,SWE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,10.93444347,current_health_expenditure_gdp
+Sweden,SWE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,11.09132671,current_health_expenditure_gdp
+Sweden,SWE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,10.94730949,current_health_expenditure_gdp
+Sweden,SWE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,10.95692444,current_health_expenditure_gdp
+Sweden,SWE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.93069172,current_health_expenditure_gdp
+Switzerland,CHE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,11.42588997,current_health_expenditure_gdp
+Switzerland,CHE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,11.19891071,current_health_expenditure_gdp
+Switzerland,CHE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,11.37471581,current_health_expenditure_gdp
+Switzerland,CHE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,11.20248795,current_health_expenditure_gdp
+Switzerland,CHE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,10.97983074,current_health_expenditure_gdp
+Syrian Arab Republic,SYR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.96978569,current_health_expenditure_gdp
+Syrian Arab Republic,SYR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.93852568,current_health_expenditure_gdp
+Syrian Arab Republic,SYR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.91299295,current_health_expenditure_gdp
+Syrian Arab Republic,SYR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.89073515,current_health_expenditure_gdp
+Syrian Arab Republic,SYR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.67464328,current_health_expenditure_gdp
+Tajikistan,TJK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.9476676,current_health_expenditure_gdp
+Tajikistan,TJK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.01381588,current_health_expenditure_gdp
+Tajikistan,TJK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.85399008,current_health_expenditure_gdp
+Tajikistan,TJK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.96349716,current_health_expenditure_gdp
+Tajikistan,TJK,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.90735912,current_health_expenditure_gdp
+Tanzania,TZA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.02347755,current_health_expenditure_gdp
+Tanzania,TZA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.32775831,current_health_expenditure_gdp
+Tanzania,TZA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.02325726,current_health_expenditure_gdp
+Tanzania,TZA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.96350336,current_health_expenditure_gdp
+Tanzania,TZA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.64969945,current_health_expenditure_gdp
+Thailand,THA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.78911877,current_health_expenditure_gdp
+Thailand,THA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.87040329,current_health_expenditure_gdp
+Thailand,THA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.85276842,current_health_expenditure_gdp
+Thailand,THA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.93900609,current_health_expenditure_gdp
+Thailand,THA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.8522861,current_health_expenditure_gdp
+Timor-Leste,TLS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.99218798,current_health_expenditure_gdp
+Timor-Leste,TLS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.40227413,current_health_expenditure_gdp
+Timor-Leste,TLS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.80442286,current_health_expenditure_gdp
+Timor-Leste,TLS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.94250727,current_health_expenditure_gdp
+Timor-Leste,TLS,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.69146681,current_health_expenditure_gdp
+Togo,TGO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.91268635,current_health_expenditure_gdp
+Togo,TGO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.16073656,current_health_expenditure_gdp
+Togo,TGO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.50210476,current_health_expenditure_gdp
+Togo,TGO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.58550072,current_health_expenditure_gdp
+Togo,TGO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.24738503,current_health_expenditure_gdp
+Tonga,TON,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.74527884,current_health_expenditure_gdp
+Tonga,TON,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.12240648,current_health_expenditure_gdp
+Tonga,TON,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.62952805,current_health_expenditure_gdp
+Tonga,TON,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.22591066,current_health_expenditure_gdp
+Tonga,TON,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.78137636,current_health_expenditure_gdp
+Trinidad and Tobago,TTO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.90704823,current_health_expenditure_gdp
+Trinidad and Tobago,TTO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,6.65089417,current_health_expenditure_gdp
+Trinidad and Tobago,TTO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.56562996,current_health_expenditure_gdp
+Trinidad and Tobago,TTO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.47465849,current_health_expenditure_gdp
+Trinidad and Tobago,TTO,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.6525383,current_health_expenditure_gdp
+Tunisia,TUN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.02461243,current_health_expenditure_gdp
+Tunisia,TUN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.9375186,current_health_expenditure_gdp
+Tunisia,TUN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.18557453,current_health_expenditure_gdp
+Tunisia,TUN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,6.24778175,current_health_expenditure_gdp
+Tunisia,TUN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.21339941,current_health_expenditure_gdp
+Turkiye,TUR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.35954332,current_health_expenditure_gdp
+Turkiye,TUR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.12101603,current_health_expenditure_gdp
+Turkiye,TUR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.17974997,current_health_expenditure_gdp
+Turkiye,TUR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.28469229,current_health_expenditure_gdp
+Turkiye,TUR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.11690426,current_health_expenditure_gdp
+Turkmenistan,TKM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,5.5522337,current_health_expenditure_gdp
+Turkmenistan,TKM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.55298042,current_health_expenditure_gdp
+Turkmenistan,TKM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,5.82361221,current_health_expenditure_gdp
+Turkmenistan,TKM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.58718491,current_health_expenditure_gdp
+Turkmenistan,TKM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,5.01652908,current_health_expenditure_gdp
+Turks and Caicos Islands,TCA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Turks and Caicos Islands,TCA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Turks and Caicos Islands,TCA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Turks and Caicos Islands,TCA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Turks and Caicos Islands,TCA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Tuvalu,TUV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,22.22294044,current_health_expenditure_gdp
+Tuvalu,TUV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,18.42199898,current_health_expenditure_gdp
+Tuvalu,TUV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,24.45763206,current_health_expenditure_gdp
+Tuvalu,TUV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,18.32539177,current_health_expenditure_gdp
+Tuvalu,TUV,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,13.44188595,current_health_expenditure_gdp
+Uganda,UGA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.79341364,current_health_expenditure_gdp
+Uganda,UGA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.02153397,current_health_expenditure_gdp
+Uganda,UGA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,3.99852037,current_health_expenditure_gdp
+Uganda,UGA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,5.01553297,current_health_expenditure_gdp
+Uganda,UGA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.99643135,current_health_expenditure_gdp
+Ukraine,UKR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,7.09389353,current_health_expenditure_gdp
+Ukraine,UKR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,7.52051353,current_health_expenditure_gdp
+Ukraine,UKR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,7.44610357,current_health_expenditure_gdp
+Ukraine,UKR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.55205393,current_health_expenditure_gdp
+Ukraine,UKR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.78352833,current_health_expenditure_gdp
+United Arab Emirates,ARE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.40291262,current_health_expenditure_gdp
+United Arab Emirates,ARE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.09854221,current_health_expenditure_gdp
+United Arab Emirates,ARE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.00854969,current_health_expenditure_gdp
+United Arab Emirates,ARE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,3.89580107,current_health_expenditure_gdp
+United Arab Emirates,ARE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,3.46609354,current_health_expenditure_gdp
+United Kingdom,GBR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,9.97954082,current_health_expenditure_gdp
+United Kingdom,GBR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,9.79496574,current_health_expenditure_gdp
+United Kingdom,GBR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,9.70468903,current_health_expenditure_gdp
+United Kingdom,GBR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.87085724,current_health_expenditure_gdp
+United Kingdom,GBR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,9.94044876,current_health_expenditure_gdp
+United States,USA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,16.54486084,current_health_expenditure_gdp
+United States,USA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,16.51312637,current_health_expenditure_gdp
+United States,USA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,16.63827515,current_health_expenditure_gdp
+United States,USA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,16.69203949,current_health_expenditure_gdp
+United States,USA,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,16.40155411,current_health_expenditure_gdp
+Uruguay,URY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,9.240695,current_health_expenditure_gdp
+Uruguay,URY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,8.9001112,current_health_expenditure_gdp
+Uruguay,URY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.71702194,current_health_expenditure_gdp
+Uruguay,URY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,8.63852501,current_health_expenditure_gdp
+Uruguay,URY,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,8.25703716,current_health_expenditure_gdp
+Uzbekistan,UZB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.83520985,current_health_expenditure_gdp
+Uzbekistan,UZB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.55261564,current_health_expenditure_gdp
+Uzbekistan,UZB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.30888557,current_health_expenditure_gdp
+Uzbekistan,UZB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.71504498,current_health_expenditure_gdp
+Uzbekistan,UZB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.73596573,current_health_expenditure_gdp
+Vanuatu,VUT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.49615431,current_health_expenditure_gdp
+Vanuatu,VUT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,3.44049001,current_health_expenditure_gdp
+Vanuatu,VUT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.88118052,current_health_expenditure_gdp
+Vanuatu,VUT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,2.98904061,current_health_expenditure_gdp
+Vanuatu,VUT,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.1583128,current_health_expenditure_gdp
+"Venezuela, RB",VEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.18563724,current_health_expenditure_gdp
+"Venezuela, RB",VEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.41691327,current_health_expenditure_gdp
+"Venezuela, RB",VEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+"Venezuela, RB",VEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+"Venezuela, RB",VEN,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+Viet Nam,VNM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,4.97407484,current_health_expenditure_gdp
+Viet Nam,VNM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,5.02678823,current_health_expenditure_gdp
+Viet Nam,VNM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.99014759,current_health_expenditure_gdp
+Viet Nam,VNM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.86994743,current_health_expenditure_gdp
+Viet Nam,VNM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.71140909,current_health_expenditure_gdp
+Virgin Islands (U.S.),VIR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,,current_health_expenditure_gdp
+Virgin Islands (U.S.),VIR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,,current_health_expenditure_gdp
+Virgin Islands (U.S.),VIR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,,current_health_expenditure_gdp
+Virgin Islands (U.S.),VIR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,,current_health_expenditure_gdp
+Virgin Islands (U.S.),VIR,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,,current_health_expenditure_gdp
+West Bank and Gaza,PSE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,9.18576908,current_health_expenditure_gdp
+West Bank and Gaza,PSE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,9.65617657,current_health_expenditure_gdp
+West Bank and Gaza,PSE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,9.1223526,current_health_expenditure_gdp
+West Bank and Gaza,PSE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,9.0039854,current_health_expenditure_gdp
+West Bank and Gaza,PSE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,9.28473282,current_health_expenditure_gdp
+"Yemen, Rep.",YEM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,10.97374439,current_health_expenditure_gdp
+"Yemen, Rep.",YEM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,9.08948231,current_health_expenditure_gdp
+"Yemen, Rep.",YEM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,8.14723873,current_health_expenditure_gdp
+"Yemen, Rep.",YEM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.71249437,current_health_expenditure_gdp
+"Yemen, Rep.",YEM,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,6.49017286,current_health_expenditure_gdp
+Zambia,ZMB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,6.75330257,current_health_expenditure_gdp
+Zambia,ZMB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.76996708,current_health_expenditure_gdp
+Zambia,ZMB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,4.78156233,current_health_expenditure_gdp
+Zambia,ZMB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,4.46923161,current_health_expenditure_gdp
+Zambia,ZMB,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,4.42974281,current_health_expenditure_gdp
+Zimbabwe,ZWE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,3.23268151,current_health_expenditure_gdp
+Zimbabwe,ZWE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,4.67327976,current_health_expenditure_gdp
+Zimbabwe,ZWE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,6.17448902,current_health_expenditure_gdp
+Zimbabwe,ZWE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,7.25845575,current_health_expenditure_gdp
+Zimbabwe,ZWE,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,7.45204067,current_health_expenditure_gdp

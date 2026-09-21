@@ -1,0 +1,531 @@
+iso3,country,profile,profile_probability,n_bootstrap,coverage_count,missing_count,missing_rate
+NOR,Norway,effective converters,1.0,1000,106,0,0.0
+NOR,Norway,capacity under-realizers,0.0,1000,106,0,0.0
+NOR,Norway,adaptive over-performers,0.0,1000,106,0,0.0
+NOR,Norway,structurally vulnerable systems,0.0,1000,106,0,0.0
+NOR,Norway,uncertain / data-limited systems,0.0,1000,106,0,0.0
+DEU,Germany,effective converters,0.998,1000,106,0,0.0
+DEU,Germany,capacity under-realizers,0.002,1000,106,0,0.0
+DEU,Germany,adaptive over-performers,0.0,1000,106,0,0.0
+DEU,Germany,structurally vulnerable systems,0.0,1000,106,0,0.0
+DEU,Germany,uncertain / data-limited systems,0.0,1000,106,0,0.0
+SWE,Sweden,effective converters,1.0,1000,106,0,0.0
+SWE,Sweden,capacity under-realizers,0.0,1000,106,0,0.0
+SWE,Sweden,adaptive over-performers,0.0,1000,106,0,0.0
+SWE,Sweden,structurally vulnerable systems,0.0,1000,106,0,0.0
+SWE,Sweden,uncertain / data-limited systems,0.0,1000,106,0,0.0
+JPN,Japan,effective converters,1.0,1000,106,0,0.0
+JPN,Japan,capacity under-realizers,0.0,1000,106,0,0.0
+JPN,Japan,adaptive over-performers,0.0,1000,106,0,0.0
+JPN,Japan,structurally vulnerable systems,0.0,1000,106,0,0.0
+JPN,Japan,uncertain / data-limited systems,0.0,1000,106,0,0.0
+FRA,France,effective converters,1.0,1000,106,0,0.0
+FRA,France,capacity under-realizers,0.0,1000,106,0,0.0
+FRA,France,adaptive over-performers,0.0,1000,106,0,0.0
+FRA,France,structurally vulnerable systems,0.0,1000,106,0,0.0
+FRA,France,uncertain / data-limited systems,0.0,1000,106,0,0.0
+AUS,Australia,effective converters,0.982,1000,106,0,0.0
+AUS,Australia,capacity under-realizers,0.018,1000,106,0,0.0
+AUS,Australia,adaptive over-performers,0.0,1000,106,0,0.0
+AUS,Australia,structurally vulnerable systems,0.0,1000,106,0,0.0
+AUS,Australia,uncertain / data-limited systems,0.0,1000,106,0,0.0
+DNK,Denmark,effective converters,1.0,1000,106,0,0.0
+DNK,Denmark,capacity under-realizers,0.0,1000,106,0,0.0
+DNK,Denmark,adaptive over-performers,0.0,1000,106,0,0.0
+DNK,Denmark,structurally vulnerable systems,0.0,1000,106,0,0.0
+DNK,Denmark,uncertain / data-limited systems,0.0,1000,106,0,0.0
+BEL,Belgium,effective converters,0.963,1000,106,0,0.0
+BEL,Belgium,capacity under-realizers,0.037,1000,106,0,0.0
+BEL,Belgium,adaptive over-performers,0.0,1000,106,0,0.0
+BEL,Belgium,structurally vulnerable systems,0.0,1000,106,0,0.0
+BEL,Belgium,uncertain / data-limited systems,0.0,1000,106,0,0.0
+AUT,Austria,effective converters,0.0,1000,106,0,0.0
+AUT,Austria,capacity under-realizers,1.0,1000,106,0,0.0
+AUT,Austria,adaptive over-performers,0.0,1000,106,0,0.0
+AUT,Austria,structurally vulnerable systems,0.0,1000,106,0,0.0
+AUT,Austria,uncertain / data-limited systems,0.0,1000,106,0,0.0
+ISL,Iceland,effective converters,1.0,1000,106,0,0.0
+ISL,Iceland,capacity under-realizers,0.0,1000,106,0,0.0
+ISL,Iceland,adaptive over-performers,0.0,1000,106,0,0.0
+ISL,Iceland,structurally vulnerable systems,0.0,1000,106,0,0.0
+ISL,Iceland,uncertain / data-limited systems,0.0,1000,106,0,0.0
+FIN,Finland,effective converters,1.0,1000,106,0,0.0
+FIN,Finland,capacity under-realizers,0.0,1000,106,0,0.0
+FIN,Finland,adaptive over-performers,0.0,1000,106,0,0.0
+FIN,Finland,structurally vulnerable systems,0.0,1000,106,0,0.0
+FIN,Finland,uncertain / data-limited systems,0.0,1000,106,0,0.0
+LUX,Luxembourg,effective converters,1.0,1000,106,0,0.0
+LUX,Luxembourg,capacity under-realizers,0.0,1000,106,0,0.0
+LUX,Luxembourg,adaptive over-performers,0.0,1000,106,0,0.0
+LUX,Luxembourg,structurally vulnerable systems,0.0,1000,106,0,0.0
+LUX,Luxembourg,uncertain / data-limited systems,0.0,1000,106,0,0.0
+CZE,Czechia,effective converters,0.0,1000,106,0,0.0
+CZE,Czechia,capacity under-realizers,1.0,1000,106,0,0.0
+CZE,Czechia,adaptive over-performers,0.0,1000,106,0,0.0
+CZE,Czechia,structurally vulnerable systems,0.0,1000,106,0,0.0
+CZE,Czechia,uncertain / data-limited systems,0.0,1000,106,0,0.0
+USA,United States,effective converters,0.0,1000,106,0,0.0
+USA,United States,capacity under-realizers,1.0,1000,106,0,0.0
+USA,United States,adaptive over-performers,0.0,1000,106,0,0.0
+USA,United States,structurally vulnerable systems,0.0,1000,106,0,0.0
+USA,United States,uncertain / data-limited systems,0.0,1000,106,0,0.0
+SVN,Slovenia,effective converters,0.0,1000,106,0,0.0
+SVN,Slovenia,capacity under-realizers,1.0,1000,106,0,0.0
+SVN,Slovenia,adaptive over-performers,0.0,1000,106,0,0.0
+SVN,Slovenia,structurally vulnerable systems,0.0,1000,106,0,0.0
+SVN,Slovenia,uncertain / data-limited systems,0.0,1000,106,0,0.0
+NZL,New Zealand,effective converters,1.0,1000,106,0,0.0
+NZL,New Zealand,capacity under-realizers,0.0,1000,106,0,0.0
+NZL,New Zealand,adaptive over-performers,0.0,1000,106,0,0.0
+NZL,New Zealand,structurally vulnerable systems,0.0,1000,106,0,0.0
+NZL,New Zealand,uncertain / data-limited systems,0.0,1000,106,0,0.0
+CHE,Switzerland,effective converters,0.977,1000,106,0,0.0
+CHE,Switzerland,capacity under-realizers,0.023,1000,106,0,0.0
+CHE,Switzerland,adaptive over-performers,0.0,1000,106,0,0.0
+CHE,Switzerland,structurally vulnerable systems,0.0,1000,106,0,0.0
+CHE,Switzerland,uncertain / data-limited systems,0.0,1000,106,0,0.0
+IRL,Ireland,effective converters,0.745,1000,106,0,0.0
+IRL,Ireland,capacity under-realizers,0.255,1000,106,0,0.0
+IRL,Ireland,adaptive over-performers,0.0,1000,106,0,0.0
+IRL,Ireland,structurally vulnerable systems,0.0,1000,106,0,0.0
+IRL,Ireland,uncertain / data-limited systems,0.0,1000,106,0,0.0
+CAN,Canada,effective converters,0.99,1000,106,0,0.0
+CAN,Canada,capacity under-realizers,0.01,1000,106,0,0.0
+CAN,Canada,adaptive over-performers,0.0,1000,106,0,0.0
+CAN,Canada,structurally vulnerable systems,0.0,1000,106,0,0.0
+CAN,Canada,uncertain / data-limited systems,0.0,1000,106,0,0.0
+NLD,Netherlands,effective converters,0.997,1000,106,0,0.0
+NLD,Netherlands,capacity under-realizers,0.003,1000,106,0,0.0
+NLD,Netherlands,adaptive over-performers,0.0,1000,106,0,0.0
+NLD,Netherlands,structurally vulnerable systems,0.0,1000,106,0,0.0
+NLD,Netherlands,uncertain / data-limited systems,0.0,1000,106,0,0.0
+MDV,Maldives,effective converters,0.025,1000,106,0,0.0
+MDV,Maldives,capacity under-realizers,0.975,1000,106,0,0.0
+MDV,Maldives,adaptive over-performers,0.0,1000,106,0,0.0
+MDV,Maldives,structurally vulnerable systems,0.0,1000,106,0,0.0
+MDV,Maldives,uncertain / data-limited systems,0.0,1000,106,0,0.0
+GBR,United Kingdom,effective converters,0.0,1000,106,0,0.0
+GBR,United Kingdom,capacity under-realizers,1.0,1000,106,0,0.0
+GBR,United Kingdom,adaptive over-performers,0.0,1000,106,0,0.0
+GBR,United Kingdom,structurally vulnerable systems,0.0,1000,106,0,0.0
+GBR,United Kingdom,uncertain / data-limited systems,0.0,1000,106,0,0.0
+ESP,Spain,effective converters,0.0,1000,106,0,0.0
+ESP,Spain,capacity under-realizers,1.0,1000,106,0,0.0
+ESP,Spain,adaptive over-performers,0.0,1000,106,0,0.0
+ESP,Spain,structurally vulnerable systems,0.0,1000,106,0,0.0
+ESP,Spain,uncertain / data-limited systems,0.0,1000,106,0,0.0
+SVK,Slovak Republic,effective converters,0.0,1000,106,0,0.0
+SVK,Slovak Republic,capacity under-realizers,1.0,1000,106,0,0.0
+SVK,Slovak Republic,adaptive over-performers,0.0,1000,106,0,0.0
+SVK,Slovak Republic,structurally vulnerable systems,0.0,1000,106,0,0.0
+SVK,Slovak Republic,uncertain / data-limited systems,0.0,1000,106,0,0.0
+PRT,Portugal,effective converters,0.0,1000,106,0,0.0
+PRT,Portugal,capacity under-realizers,1.0,1000,106,0,0.0
+PRT,Portugal,adaptive over-performers,0.0,1000,106,0,0.0
+PRT,Portugal,structurally vulnerable systems,0.0,1000,106,0,0.0
+PRT,Portugal,uncertain / data-limited systems,0.0,1000,106,0,0.0
+HRV,Croatia,effective converters,0.0,1000,106,0,0.0
+HRV,Croatia,capacity under-realizers,1.0,1000,106,0,0.0
+HRV,Croatia,adaptive over-performers,0.0,1000,106,0,0.0
+HRV,Croatia,structurally vulnerable systems,0.0,1000,106,0,0.0
+HRV,Croatia,uncertain / data-limited systems,0.0,1000,106,0,0.0
+AND,Andorra,effective converters,1.0,1000,106,0,0.0
+AND,Andorra,capacity under-realizers,0.0,1000,106,0,0.0
+AND,Andorra,adaptive over-performers,0.0,1000,106,0,0.0
+AND,Andorra,structurally vulnerable systems,0.0,1000,106,0,0.0
+AND,Andorra,uncertain / data-limited systems,0.0,1000,106,0,0.0
+ITA,Italy,effective converters,0.0,1000,106,0,0.0
+ITA,Italy,capacity under-realizers,1.0,1000,106,0,0.0
+ITA,Italy,adaptive over-performers,0.0,1000,106,0,0.0
+ITA,Italy,structurally vulnerable systems,0.0,1000,106,0,0.0
+ITA,Italy,uncertain / data-limited systems,0.0,1000,106,0,0.0
+URY,Uruguay,effective converters,0.993,1000,106,0,0.0
+URY,Uruguay,capacity under-realizers,0.007,1000,106,0,0.0
+URY,Uruguay,adaptive over-performers,0.0,1000,106,0,0.0
+URY,Uruguay,structurally vulnerable systems,0.0,1000,106,0,0.0
+URY,Uruguay,uncertain / data-limited systems,0.0,1000,106,0,0.0
+BLR,Belarus,effective converters,0.0,1000,106,0,0.0
+BLR,Belarus,capacity under-realizers,1.0,1000,106,0,0.0
+BLR,Belarus,adaptive over-performers,0.0,1000,106,0,0.0
+BLR,Belarus,structurally vulnerable systems,0.0,1000,106,0,0.0
+BLR,Belarus,uncertain / data-limited systems,0.0,1000,106,0,0.0
+QAT,Qatar,effective converters,0.043,1000,106,0,0.0
+QAT,Qatar,capacity under-realizers,0.957,1000,106,0,0.0
+QAT,Qatar,adaptive over-performers,0.0,1000,106,0,0.0
+QAT,Qatar,structurally vulnerable systems,0.0,1000,106,0,0.0
+QAT,Qatar,uncertain / data-limited systems,0.0,1000,106,0,0.0
+ISR,Israel,effective converters,0.563,1000,106,0,0.0
+ISR,Israel,capacity under-realizers,0.437,1000,106,0,0.0
+ISR,Israel,adaptive over-performers,0.0,1000,106,0,0.0
+ISR,Israel,structurally vulnerable systems,0.0,1000,106,0,0.0
+ISR,Israel,uncertain / data-limited systems,0.0,1000,106,0,0.0
+MLT,Malta,effective converters,0.0,1000,106,0,0.0
+MLT,Malta,capacity under-realizers,0.0,1000,106,0,0.0
+MLT,Malta,adaptive over-performers,0.0,1000,106,0,0.0
+MLT,Malta,structurally vulnerable systems,0.0,1000,106,0,0.0
+MLT,Malta,uncertain / data-limited systems,1.0,1000,106,0,0.0
+HUN,Hungary,effective converters,0.0,1000,106,0,0.0
+HUN,Hungary,capacity under-realizers,1.0,1000,106,0,0.0
+HUN,Hungary,adaptive over-performers,0.0,1000,106,0,0.0
+HUN,Hungary,structurally vulnerable systems,0.0,1000,106,0,0.0
+HUN,Hungary,uncertain / data-limited systems,0.0,1000,106,0,0.0
+ARG,Argentina,effective converters,0.0,1000,106,0,0.0
+ARG,Argentina,capacity under-realizers,1.0,1000,106,0,0.0
+ARG,Argentina,adaptive over-performers,0.0,1000,106,0,0.0
+ARG,Argentina,structurally vulnerable systems,0.0,1000,106,0,0.0
+ARG,Argentina,uncertain / data-limited systems,0.0,1000,106,0,0.0
+ARE,United Arab Emirates,effective converters,0.02,1000,106,0,0.0
+ARE,United Arab Emirates,capacity under-realizers,0.98,1000,106,0,0.0
+ARE,United Arab Emirates,adaptive over-performers,0.0,1000,106,0,0.0
+ARE,United Arab Emirates,structurally vulnerable systems,0.0,1000,106,0,0.0
+ARE,United Arab Emirates,uncertain / data-limited systems,0.0,1000,106,0,0.0
+KWT,Kuwait,effective converters,0.0,1000,106,0,0.0
+KWT,Kuwait,capacity under-realizers,1.0,1000,106,0,0.0
+KWT,Kuwait,adaptive over-performers,0.0,1000,106,0,0.0
+KWT,Kuwait,structurally vulnerable systems,0.0,1000,106,0,0.0
+KWT,Kuwait,uncertain / data-limited systems,0.0,1000,106,0,0.0
+POL,Poland,effective converters,0.0,1000,106,0,0.0
+POL,Poland,capacity under-realizers,1.0,1000,106,0,0.0
+POL,Poland,adaptive over-performers,0.0,1000,106,0,0.0
+POL,Poland,structurally vulnerable systems,0.0,1000,106,0,0.0
+POL,Poland,uncertain / data-limited systems,0.0,1000,106,0,0.0
+GRC,Greece,effective converters,0.0,1000,106,0,0.0
+GRC,Greece,capacity under-realizers,0.0,1000,106,0,0.0
+GRC,Greece,adaptive over-performers,0.0,1000,106,0,0.0
+GRC,Greece,structurally vulnerable systems,0.0,1000,106,0,0.0
+GRC,Greece,uncertain / data-limited systems,1.0,1000,106,0,0.0
+OMN,Oman,effective converters,0.0,1000,106,0,0.0
+OMN,Oman,capacity under-realizers,0.0,1000,106,0,0.0
+OMN,Oman,adaptive over-performers,0.0,1000,106,0,0.0
+OMN,Oman,structurally vulnerable systems,0.0,1000,106,0,0.0
+OMN,Oman,uncertain / data-limited systems,1.0,1000,106,0,0.0
+CRI,Costa Rica,effective converters,0.0,1000,106,0,0.0
+CRI,Costa Rica,capacity under-realizers,0.0,1000,106,0,0.0
+CRI,Costa Rica,adaptive over-performers,0.0,1000,106,0,0.0
+CRI,Costa Rica,structurally vulnerable systems,0.0,1000,106,0,0.0
+CRI,Costa Rica,uncertain / data-limited systems,1.0,1000,106,0,0.0
+BRN,Brunei Darussalam,effective converters,0.0,1000,106,0,0.0
+BRN,Brunei Darussalam,capacity under-realizers,0.0,1000,106,0,0.0
+BRN,Brunei Darussalam,adaptive over-performers,0.0,1000,106,0,0.0
+BRN,Brunei Darussalam,structurally vulnerable systems,0.0,1000,106,0,0.0
+BRN,Brunei Darussalam,uncertain / data-limited systems,1.0,1000,106,0,0.0
+EST,Estonia,effective converters,0.0,1000,106,0,0.0
+EST,Estonia,capacity under-realizers,1.0,1000,106,0,0.0
+EST,Estonia,adaptive over-performers,0.0,1000,106,0,0.0
+EST,Estonia,structurally vulnerable systems,0.0,1000,106,0,0.0
+EST,Estonia,uncertain / data-limited systems,0.0,1000,106,0,0.0
+KOR,"Korea, Rep.",effective converters,0.941,1000,106,0,0.0
+KOR,"Korea, Rep.",capacity under-realizers,0.059,1000,106,0,0.0
+KOR,"Korea, Rep.",adaptive over-performers,0.0,1000,106,0,0.0
+KOR,"Korea, Rep.",structurally vulnerable systems,0.0,1000,106,0,0.0
+KOR,"Korea, Rep.",uncertain / data-limited systems,0.0,1000,106,0,0.0
+LTU,Lithuania,effective converters,0.0,1000,106,0,0.0
+LTU,Lithuania,capacity under-realizers,0.0,1000,106,0,0.0
+LTU,Lithuania,adaptive over-performers,0.0,1000,106,0,0.0
+LTU,Lithuania,structurally vulnerable systems,0.0,1000,106,0,0.0
+LTU,Lithuania,uncertain / data-limited systems,1.0,1000,106,0,0.0
+ATG,Antigua and Barbuda,effective converters,0.0,1000,106,0,0.0
+ATG,Antigua and Barbuda,capacity under-realizers,0.0,1000,106,0,0.0
+ATG,Antigua and Barbuda,adaptive over-performers,0.0,1000,106,0,0.0
+ATG,Antigua and Barbuda,structurally vulnerable systems,0.0,1000,106,0,0.0
+ATG,Antigua and Barbuda,uncertain / data-limited systems,1.0,1000,106,0,0.0
+COL,Colombia,effective converters,0.0,1000,106,0,0.0
+COL,Colombia,capacity under-realizers,1.0,1000,106,0,0.0
+COL,Colombia,adaptive over-performers,0.0,1000,106,0,0.0
+COL,Colombia,structurally vulnerable systems,0.0,1000,106,0,0.0
+COL,Colombia,uncertain / data-limited systems,0.0,1000,106,0,0.0
+KAZ,Kazakhstan,effective converters,0.0,1000,106,0,0.0
+KAZ,Kazakhstan,capacity under-realizers,1.0,1000,106,0,0.0
+KAZ,Kazakhstan,adaptive over-performers,0.0,1000,106,0,0.0
+KAZ,Kazakhstan,structurally vulnerable systems,0.0,1000,106,0,0.0
+KAZ,Kazakhstan,uncertain / data-limited systems,0.0,1000,106,0,0.0
+ROU,Romania,effective converters,0.0,1000,106,0,0.0
+ROU,Romania,capacity under-realizers,1.0,1000,106,0,0.0
+ROU,Romania,adaptive over-performers,0.0,1000,106,0,0.0
+ROU,Romania,structurally vulnerable systems,0.0,1000,106,0,0.0
+ROU,Romania,uncertain / data-limited systems,0.0,1000,106,0,0.0
+SMR,San Marino,effective converters,0.0,1000,106,0,0.0
+SMR,San Marino,capacity under-realizers,0.0,1000,106,0,0.0
+SMR,San Marino,adaptive over-performers,0.0,1000,106,0,0.0
+SMR,San Marino,structurally vulnerable systems,0.0,1000,106,0,0.0
+SMR,San Marino,uncertain / data-limited systems,1.0,1000,106,0,0.0
+SYC,Seychelles,effective converters,0.0,1000,106,0,0.0
+SYC,Seychelles,capacity under-realizers,0.0,1000,106,0,0.0
+SYC,Seychelles,adaptive over-performers,0.0,1000,106,0,0.0
+SYC,Seychelles,structurally vulnerable systems,0.0,1000,106,0,0.0
+SYC,Seychelles,uncertain / data-limited systems,1.0,1000,106,0,0.0
+RUS,Russian Federation,effective converters,0.0,1000,106,0,0.0
+RUS,Russian Federation,capacity under-realizers,0.0,1000,106,0,0.0
+RUS,Russian Federation,adaptive over-performers,0.0,1000,106,0,0.0
+RUS,Russian Federation,structurally vulnerable systems,0.0,1000,106,0,0.0
+RUS,Russian Federation,uncertain / data-limited systems,1.0,1000,106,0,0.0
+CHL,Chile,effective converters,0.0,1000,106,0,0.0
+CHL,Chile,capacity under-realizers,1.0,1000,106,0,0.0
+CHL,Chile,adaptive over-performers,0.0,1000,106,0,0.0
+CHL,Chile,structurally vulnerable systems,0.0,1000,106,0,0.0
+CHL,Chile,uncertain / data-limited systems,0.0,1000,106,0,0.0
+TUR,Turkiye,effective converters,0.0,1000,106,0,0.0
+TUR,Turkiye,capacity under-realizers,0.0,1000,106,0,0.0
+TUR,Turkiye,adaptive over-performers,0.0,1000,106,0,0.0
+TUR,Turkiye,structurally vulnerable systems,0.0,1000,106,0,0.0
+TUR,Turkiye,uncertain / data-limited systems,1.0,1000,106,0,0.0
+BRA,Brazil,effective converters,0.0,1000,106,0,0.0
+BRA,Brazil,capacity under-realizers,0.0,1000,106,0,0.0
+BRA,Brazil,adaptive over-performers,0.011,1000,106,0,0.0
+BRA,Brazil,structurally vulnerable systems,0.989,1000,106,0,0.0
+BRA,Brazil,uncertain / data-limited systems,0.0,1000,106,0,0.0
+SRB,Serbia,effective converters,0.0,1000,106,0,0.0
+SRB,Serbia,capacity under-realizers,0.0,1000,106,0,0.0
+SRB,Serbia,adaptive over-performers,0.0,1000,106,0,0.0
+SRB,Serbia,structurally vulnerable systems,0.0,1000,106,0,0.0
+SRB,Serbia,uncertain / data-limited systems,1.0,1000,106,0,0.0
+MKD,North Macedonia,effective converters,0.0,1000,106,0,0.0
+MKD,North Macedonia,capacity under-realizers,0.0,1000,106,0,0.0
+MKD,North Macedonia,adaptive over-performers,0.0,1000,106,0,0.0
+MKD,North Macedonia,structurally vulnerable systems,1.0,1000,106,0,0.0
+MKD,North Macedonia,uncertain / data-limited systems,0.0,1000,106,0,0.0
+CYP,Cyprus,effective converters,0.0,1000,106,0,0.0
+CYP,Cyprus,capacity under-realizers,0.0,1000,106,0,0.0
+CYP,Cyprus,adaptive over-performers,0.971,1000,106,0,0.0
+CYP,Cyprus,structurally vulnerable systems,0.029,1000,106,0,0.0
+CYP,Cyprus,uncertain / data-limited systems,0.0,1000,106,0,0.0
+BGR,Bulgaria,effective converters,0.0,1000,106,0,0.0
+BGR,Bulgaria,capacity under-realizers,0.0,1000,106,0,0.0
+BGR,Bulgaria,adaptive over-performers,0.0,1000,106,0,0.0
+BGR,Bulgaria,structurally vulnerable systems,0.0,1000,106,0,0.0
+BGR,Bulgaria,uncertain / data-limited systems,1.0,1000,106,0,0.0
+SGP,Singapore,effective converters,0.0,1000,106,0,0.0
+SGP,Singapore,capacity under-realizers,0.0,1000,106,0,0.0
+SGP,Singapore,adaptive over-performers,0.0,1000,106,0,0.0
+SGP,Singapore,structurally vulnerable systems,0.0,1000,106,0,0.0
+SGP,Singapore,uncertain / data-limited systems,1.0,1000,106,0,0.0
+LVA,Latvia,effective converters,0.0,1000,106,0,0.0
+LVA,Latvia,capacity under-realizers,0.0,1000,106,0,0.0
+LVA,Latvia,adaptive over-performers,0.0,1000,106,0,0.0
+LVA,Latvia,structurally vulnerable systems,0.0,1000,106,0,0.0
+LVA,Latvia,uncertain / data-limited systems,1.0,1000,106,0,0.0
+JOR,Jordan,effective converters,0.0,1000,106,0,0.0
+JOR,Jordan,capacity under-realizers,0.0,1000,106,0,0.0
+JOR,Jordan,adaptive over-performers,0.0,1000,106,0,0.0
+JOR,Jordan,structurally vulnerable systems,0.0,1000,106,0,0.0
+JOR,Jordan,uncertain / data-limited systems,1.0,1000,106,0,0.0
+NIC,Nicaragua,effective converters,0.0,1000,106,0,0.0
+NIC,Nicaragua,capacity under-realizers,0.0,1000,106,0,0.0
+NIC,Nicaragua,adaptive over-performers,0.0,1000,106,0,0.0
+NIC,Nicaragua,structurally vulnerable systems,0.0,1000,106,0,0.0
+NIC,Nicaragua,uncertain / data-limited systems,1.0,1000,106,0,0.0
+TUN,Tunisia,effective converters,0.0,1000,106,0,0.0
+TUN,Tunisia,capacity under-realizers,0.0,1000,106,0,0.0
+TUN,Tunisia,adaptive over-performers,0.006,1000,106,0,0.0
+TUN,Tunisia,structurally vulnerable systems,0.994,1000,106,0,0.0
+TUN,Tunisia,uncertain / data-limited systems,0.0,1000,106,0,0.0
+IRN,"Iran, Islamic Rep.",effective converters,0.0,1000,106,0,0.0
+IRN,"Iran, Islamic Rep.",capacity under-realizers,0.0,1000,106,0,0.0
+IRN,"Iran, Islamic Rep.",adaptive over-performers,0.155,1000,106,0,0.0
+IRN,"Iran, Islamic Rep.",structurally vulnerable systems,0.845,1000,106,0,0.0
+IRN,"Iran, Islamic Rep.",uncertain / data-limited systems,0.0,1000,106,0,0.0
+VCT,St. Vincent and the Grenadines,effective converters,0.0,1000,106,0,0.0
+VCT,St. Vincent and the Grenadines,capacity under-realizers,0.0,1000,106,0,0.0
+VCT,St. Vincent and the Grenadines,adaptive over-performers,1.0,1000,106,0,0.0
+VCT,St. Vincent and the Grenadines,structurally vulnerable systems,0.0,1000,106,0,0.0
+VCT,St. Vincent and the Grenadines,uncertain / data-limited systems,0.0,1000,106,0,0.0
+ALB,Albania,effective converters,0.0,1000,106,0,0.0
+ALB,Albania,capacity under-realizers,0.0,1000,106,0,0.0
+ALB,Albania,adaptive over-performers,0.0,1000,106,0,0.0
+ALB,Albania,structurally vulnerable systems,1.0,1000,106,0,0.0
+ALB,Albania,uncertain / data-limited systems,0.0,1000,106,0,0.0
+UZB,Uzbekistan,effective converters,0.0,1000,106,0,0.0
+UZB,Uzbekistan,capacity under-realizers,0.0,1000,106,0,0.0
+UZB,Uzbekistan,adaptive over-performers,1.0,1000,106,0,0.0
+UZB,Uzbekistan,structurally vulnerable systems,0.0,1000,106,0,0.0
+UZB,Uzbekistan,uncertain / data-limited systems,0.0,1000,106,0,0.0
+KNA,St. Kitts and Nevis,effective converters,0.0,1000,106,0,0.0
+KNA,St. Kitts and Nevis,capacity under-realizers,0.0,1000,106,0,0.0
+KNA,St. Kitts and Nevis,adaptive over-performers,0.0,1000,106,0,0.0
+KNA,St. Kitts and Nevis,structurally vulnerable systems,1.0,1000,106,0,0.0
+KNA,St. Kitts and Nevis,uncertain / data-limited systems,0.0,1000,106,0,0.0
+ECU,Ecuador,effective converters,0.0,1000,106,0,0.0
+ECU,Ecuador,capacity under-realizers,0.0,1000,106,0,0.0
+ECU,Ecuador,adaptive over-performers,0.0,1000,106,0,0.0
+ECU,Ecuador,structurally vulnerable systems,1.0,1000,106,0,0.0
+ECU,Ecuador,uncertain / data-limited systems,0.0,1000,106,0,0.0
+BIH,Bosnia and Herzegovina,effective converters,0.0,1000,106,0,0.0
+BIH,Bosnia and Herzegovina,capacity under-realizers,0.0,1000,106,0,0.0
+BIH,Bosnia and Herzegovina,adaptive over-performers,0.0,1000,106,0,0.0
+BIH,Bosnia and Herzegovina,structurally vulnerable systems,1.0,1000,106,0,0.0
+BIH,Bosnia and Herzegovina,uncertain / data-limited systems,0.0,1000,106,0,0.0
+PSE,West Bank and Gaza,effective converters,0.0,1000,106,0,0.0
+PSE,West Bank and Gaza,capacity under-realizers,0.0,1000,106,0,0.0
+PSE,West Bank and Gaza,adaptive over-performers,0.96,1000,106,0,0.0
+PSE,West Bank and Gaza,structurally vulnerable systems,0.04,1000,106,0,0.0
+PSE,West Bank and Gaza,uncertain / data-limited systems,0.0,1000,106,0,0.0
+BRB,Barbados,effective converters,0.0,1000,106,0,0.0
+BRB,Barbados,capacity under-realizers,0.0,1000,106,0,0.0
+BRB,Barbados,adaptive over-performers,1.0,1000,106,0,0.0
+BRB,Barbados,structurally vulnerable systems,0.0,1000,106,0,0.0
+BRB,Barbados,uncertain / data-limited systems,0.0,1000,106,0,0.0
+THA,Thailand,effective converters,0.0,1000,106,0,0.0
+THA,Thailand,capacity under-realizers,0.0,1000,106,0,0.0
+THA,Thailand,adaptive over-performers,0.0,1000,106,0,0.0
+THA,Thailand,structurally vulnerable systems,0.0,1000,106,0,0.0
+THA,Thailand,uncertain / data-limited systems,1.0,1000,106,0,0.0
+MDA,Moldova,effective converters,0.0,1000,106,0,0.0
+MDA,Moldova,capacity under-realizers,0.0,1000,106,0,0.0
+MDA,Moldova,adaptive over-performers,0.0,1000,106,0,0.0
+MDA,Moldova,structurally vulnerable systems,0.0,1000,106,0,0.0
+MDA,Moldova,uncertain / data-limited systems,1.0,1000,106,0,0.0
+PAN,Panama,effective converters,0.0,1000,106,0,0.0
+PAN,Panama,capacity under-realizers,0.0,1000,106,0,0.0
+PAN,Panama,adaptive over-performers,0.318,1000,106,0,0.0
+PAN,Panama,structurally vulnerable systems,0.682,1000,106,0,0.0
+PAN,Panama,uncertain / data-limited systems,0.0,1000,106,0,0.0
+GEO,Georgia,effective converters,0.0,1000,106,0,0.0
+GEO,Georgia,capacity under-realizers,0.0,1000,106,0,0.0
+GEO,Georgia,adaptive over-performers,0.0,1000,106,0,0.0
+GEO,Georgia,structurally vulnerable systems,0.0,1000,106,0,0.0
+GEO,Georgia,uncertain / data-limited systems,1.0,1000,106,0,0.0
+KGZ,Kyrgyz Republic,effective converters,0.0,1000,106,0,0.0
+KGZ,Kyrgyz Republic,capacity under-realizers,0.0,1000,106,0,0.0
+KGZ,Kyrgyz Republic,adaptive over-performers,1.0,1000,106,0,0.0
+KGZ,Kyrgyz Republic,structurally vulnerable systems,0.0,1000,106,0,0.0
+KGZ,Kyrgyz Republic,uncertain / data-limited systems,0.0,1000,106,0,0.0
+DZA,Algeria,effective converters,0.0,1000,106,0,0.0
+DZA,Algeria,capacity under-realizers,0.0,1000,106,0,0.0
+DZA,Algeria,adaptive over-performers,0.443,1000,106,0,0.0
+DZA,Algeria,structurally vulnerable systems,0.557,1000,106,0,0.0
+DZA,Algeria,uncertain / data-limited systems,0.0,1000,106,0,0.0
+SLV,El Salvador,effective converters,0.0,1000,106,0,0.0
+SLV,El Salvador,capacity under-realizers,0.0,1000,106,0,0.0
+SLV,El Salvador,adaptive over-performers,1.0,1000,106,0,0.0
+SLV,El Salvador,structurally vulnerable systems,0.0,1000,106,0,0.0
+SLV,El Salvador,uncertain / data-limited systems,0.0,1000,106,0,0.0
+MNE,Montenegro,effective converters,0.0,1000,106,0,0.0
+MNE,Montenegro,capacity under-realizers,0.0,1000,106,0,0.0
+MNE,Montenegro,adaptive over-performers,0.0,1000,106,0,0.0
+MNE,Montenegro,structurally vulnerable systems,0.0,1000,106,0,0.0
+MNE,Montenegro,uncertain / data-limited systems,1.0,1000,106,0,0.0
+BLZ,Belize,effective converters,0.0,1000,106,0,0.0
+BLZ,Belize,capacity under-realizers,0.0,1000,106,0,0.0
+BLZ,Belize,adaptive over-performers,0.0,1000,106,0,0.0
+BLZ,Belize,structurally vulnerable systems,0.0,1000,106,0,0.0
+BLZ,Belize,uncertain / data-limited systems,1.0,1000,106,0,0.0
+MYS,Malaysia,effective converters,0.0,1000,106,0,0.0
+MYS,Malaysia,capacity under-realizers,0.0,1000,106,0,0.0
+MYS,Malaysia,adaptive over-performers,1.0,1000,106,0,0.0
+MYS,Malaysia,structurally vulnerable systems,0.0,1000,106,0,0.0
+MYS,Malaysia,uncertain / data-limited systems,0.0,1000,106,0,0.0
+TJK,Tajikistan,effective converters,0.0,1000,106,0,0.0
+TJK,Tajikistan,capacity under-realizers,0.0,1000,106,0,0.0
+TJK,Tajikistan,adaptive over-performers,1.0,1000,106,0,0.0
+TJK,Tajikistan,structurally vulnerable systems,0.0,1000,106,0,0.0
+TJK,Tajikistan,uncertain / data-limited systems,0.0,1000,106,0,0.0
+MUS,Mauritius,effective converters,0.0,1000,106,0,0.0
+MUS,Mauritius,capacity under-realizers,0.0,1000,106,0,0.0
+MUS,Mauritius,adaptive over-performers,0.0,1000,106,0,0.0
+MUS,Mauritius,structurally vulnerable systems,0.0,1000,106,0,0.0
+MUS,Mauritius,uncertain / data-limited systems,1.0,1000,106,0,0.0
+ARM,Armenia,effective converters,0.0,1000,106,0,0.0
+ARM,Armenia,capacity under-realizers,0.0,1000,106,0,0.0
+ARM,Armenia,adaptive over-performers,0.0,1000,106,0,0.0
+ARM,Armenia,structurally vulnerable systems,0.0,1000,106,0,0.0
+ARM,Armenia,uncertain / data-limited systems,1.0,1000,106,0,0.0
+MEX,Mexico,effective converters,0.0,1000,106,0,0.0
+MEX,Mexico,capacity under-realizers,0.0,1000,106,0,0.0
+MEX,Mexico,adaptive over-performers,0.0,1000,106,0,0.0
+MEX,Mexico,structurally vulnerable systems,1.0,1000,106,0,0.0
+MEX,Mexico,uncertain / data-limited systems,0.0,1000,106,0,0.0
+BHS,"Bahamas, The",effective converters,0.0,1000,106,0,0.0
+BHS,"Bahamas, The",capacity under-realizers,0.0,1000,106,0,0.0
+BHS,"Bahamas, The",adaptive over-performers,0.943,1000,106,0,0.0
+BHS,"Bahamas, The",structurally vulnerable systems,0.057,1000,106,0,0.0
+BHS,"Bahamas, The",uncertain / data-limited systems,0.0,1000,106,0,0.0
+BTN,Bhutan,effective converters,0.0,1000,106,0,0.0
+BTN,Bhutan,capacity under-realizers,0.0,1000,106,0,0.0
+BTN,Bhutan,adaptive over-performers,0.0,1000,106,0,0.0
+BTN,Bhutan,structurally vulnerable systems,0.0,1000,106,0,0.0
+BTN,Bhutan,uncertain / data-limited systems,1.0,1000,106,0,0.0
+JAM,Jamaica,effective converters,0.0,1000,106,0,0.0
+JAM,Jamaica,capacity under-realizers,0.0,1000,106,0,0.0
+JAM,Jamaica,adaptive over-performers,0.997,1000,106,0,0.0
+JAM,Jamaica,structurally vulnerable systems,0.003,1000,106,0,0.0
+JAM,Jamaica,uncertain / data-limited systems,0.0,1000,106,0,0.0
+LBN,Lebanon,effective converters,0.0,1000,106,0,0.0
+LBN,Lebanon,capacity under-realizers,0.0,1000,106,0,0.0
+LBN,Lebanon,adaptive over-performers,0.071,1000,106,0,0.0
+LBN,Lebanon,structurally vulnerable systems,0.929,1000,106,0,0.0
+LBN,Lebanon,uncertain / data-limited systems,0.0,1000,106,0,0.0
+PRY,Paraguay,effective converters,0.0,1000,106,0,0.0
+PRY,Paraguay,capacity under-realizers,0.0,1000,106,0,0.0
+PRY,Paraguay,adaptive over-performers,0.0,1000,106,0,0.0
+PRY,Paraguay,structurally vulnerable systems,1.0,1000,106,0,0.0
+PRY,Paraguay,uncertain / data-limited systems,0.0,1000,106,0,0.0
+FJI,Fiji,effective converters,0.0,1000,106,0,0.0
+FJI,Fiji,capacity under-realizers,0.0,1000,106,0,0.0
+FJI,Fiji,adaptive over-performers,1.0,1000,106,0,0.0
+FJI,Fiji,structurally vulnerable systems,0.0,1000,106,0,0.0
+FJI,Fiji,uncertain / data-limited systems,0.0,1000,106,0,0.0
+PER,Peru,effective converters,0.0,1000,106,0,0.0
+PER,Peru,capacity under-realizers,0.0,1000,106,0,0.0
+PER,Peru,adaptive over-performers,0.0,1000,106,0,0.0
+PER,Peru,structurally vulnerable systems,1.0,1000,106,0,0.0
+PER,Peru,uncertain / data-limited systems,0.0,1000,106,0,0.0
+CPV,Cabo Verde,effective converters,0.0,1000,106,0,0.0
+CPV,Cabo Verde,capacity under-realizers,0.0,1000,106,0,0.0
+CPV,Cabo Verde,adaptive over-performers,1.0,1000,106,0,0.0
+CPV,Cabo Verde,structurally vulnerable systems,0.0,1000,106,0,0.0
+CPV,Cabo Verde,uncertain / data-limited systems,0.0,1000,106,0,0.0
+MNG,Mongolia,effective converters,0.0,1000,106,0,0.0
+MNG,Mongolia,capacity under-realizers,0.0,1000,106,0,0.0
+MNG,Mongolia,adaptive over-performers,1.0,1000,106,0,0.0
+MNG,Mongolia,structurally vulnerable systems,0.0,1000,106,0,0.0
+MNG,Mongolia,uncertain / data-limited systems,0.0,1000,106,0,0.0
+SUR,Suriname,effective converters,0.0,1000,106,0,0.0
+SUR,Suriname,capacity under-realizers,0.0,1000,106,0,0.0
+SUR,Suriname,adaptive over-performers,0.961,1000,106,0,0.0
+SUR,Suriname,structurally vulnerable systems,0.039,1000,106,0,0.0
+SUR,Suriname,uncertain / data-limited systems,0.0,1000,106,0,0.0
+EGY,"Egypt, Arab Rep.",effective converters,0.0,1000,106,0,0.0
+EGY,"Egypt, Arab Rep.",capacity under-realizers,0.0,1000,106,0,0.0
+EGY,"Egypt, Arab Rep.",adaptive over-performers,0.158,1000,106,0,0.0
+EGY,"Egypt, Arab Rep.",structurally vulnerable systems,0.842,1000,106,0,0.0
+EGY,"Egypt, Arab Rep.",uncertain / data-limited systems,0.0,1000,106,0,0.0
+AZE,Azerbaijan,effective converters,0.0,1000,106,0,0.0
+AZE,Azerbaijan,capacity under-realizers,0.0,1000,106,0,0.0
+AZE,Azerbaijan,adaptive over-performers,0.848,1000,106,0,0.0
+AZE,Azerbaijan,structurally vulnerable systems,0.152,1000,106,0,0.0
+AZE,Azerbaijan,uncertain / data-limited systems,0.0,1000,106,0,0.0
+UKR,Ukraine,effective converters,0.0,1000,106,0,0.0
+UKR,Ukraine,capacity under-realizers,0.0,1000,106,0,0.0
+UKR,Ukraine,adaptive over-performers,0.0,1000,106,0,0.0
+UKR,Ukraine,structurally vulnerable systems,0.0,1000,106,0,0.0
+UKR,Ukraine,uncertain / data-limited systems,1.0,1000,106,0,0.0
+DOM,Dominican Republic,effective converters,0.0,1000,106,0,0.0
+DOM,Dominican Republic,capacity under-realizers,0.0,1000,106,0,0.0
+DOM,Dominican Republic,adaptive over-performers,1.0,1000,106,0,0.0
+DOM,Dominican Republic,structurally vulnerable systems,0.0,1000,106,0,0.0
+DOM,Dominican Republic,uncertain / data-limited systems,0.0,1000,106,0,0.0
+BOL,Bolivia,effective converters,0.0,1000,106,0,0.0
+BOL,Bolivia,capacity under-realizers,0.0,1000,106,0,0.0
+BOL,Bolivia,adaptive over-performers,0.0,1000,106,0,0.0
+BOL,Bolivia,structurally vulnerable systems,1.0,1000,106,0,0.0
+BOL,Bolivia,uncertain / data-limited systems,0.0,1000,106,0,0.0
+GTM,Guatemala,effective converters,0.0,1000,106,0,0.0
+GTM,Guatemala,capacity under-realizers,0.0,1000,106,0,0.0
+GTM,Guatemala,adaptive over-performers,0.931,1000,106,0,0.0
+GTM,Guatemala,structurally vulnerable systems,0.069,1000,106,0,0.0
+GTM,Guatemala,uncertain / data-limited systems,0.0,1000,106,0,0.0
+PHL,Philippines,effective converters,0.0,1000,106,0,0.0
+PHL,Philippines,capacity under-realizers,0.0,1000,106,0,0.0
+PHL,Philippines,adaptive over-performers,0.887,1000,106,0,0.0
+PHL,Philippines,structurally vulnerable systems,0.113,1000,106,0,0.0
+PHL,Philippines,uncertain / data-limited systems,0.0,1000,106,0,0.0
+ZAF,South Africa,effective converters,0.0,1000,106,0,0.0
+ZAF,South Africa,capacity under-realizers,0.0,1000,106,0,0.0
+ZAF,South Africa,adaptive over-performers,0.0,1000,106,0,0.0
+ZAF,South Africa,structurally vulnerable systems,0.0,1000,106,0,0.0
+ZAF,South Africa,uncertain / data-limited systems,1.0,1000,106,0,0.0
+NAM,Namibia,effective converters,0.0,1000,106,0,0.0
+NAM,Namibia,capacity under-realizers,0.0,1000,106,0,0.0
+NAM,Namibia,adaptive over-performers,1.0,1000,106,0,0.0
+NAM,Namibia,structurally vulnerable systems,0.0,1000,106,0,0.0
+NAM,Namibia,uncertain / data-limited systems,0.0,1000,106,0,0.0
