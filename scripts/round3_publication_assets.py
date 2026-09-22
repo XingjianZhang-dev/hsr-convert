@@ -244,14 +244,15 @@ def fig2_capacity_vs_burden() -> None:
             label=f"{group} (n={len(sub)})",
         )
 
+    # Annotated examples must be stable labels in the current run; non-stable candidates are skipped.
     for iso, dx, dy in [
         ("BLR", 0.008, -380),
         ("USA", 0.006, 220),
         ("DOM", 0.006, -420),
         ("DNK", 0.006, -350),
-        ("JAM", 0.006, 180),
+        ("SUR", 0.006, 180),
     ]:
-        row = df[df["iso3"] == iso]
+        row = df[(df["iso3"] == iso) & df["country_label_category"].fillna("").str.startswith("stable")]
         if not row.empty:
             r = row.iloc[0]
             ax.annotate(
